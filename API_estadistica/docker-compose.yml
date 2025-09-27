@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+  api-estadistica:
+    build:
+      context: .
+    container_name: api-estadistica
+    ports:
+      - "8000:8000"
+
+

@@ -1,0 +1,12 @@
+version: "3.9"
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: llamacloud_ocr
+    ports:
+      - "1378:1378"
+    volumes:
+      - .:/app
