@@ -1,0 +1,9 @@
+month,provincia,operator,power_kW,band,usagecost_original,parsed,reason
+2025-05,Melilla,,11.0,AC,,,no_kwh
+2025-05,Melilla,,22.0,AC,,,no_kwh
+2025-05,Melilla,,22.0,AC,,,empty
+2025-05,Melilla,,2.3,AC,,,empty
+2025-05,Melilla,,7.4,AC,,,no_kwh
+2025-05,Melilla,,22.0,AC,,,no_kwh
+2025-05,Melilla,,3.7,AC,,,empty
+2025-05,Melilla,,22.0,AC,,,no_kwh

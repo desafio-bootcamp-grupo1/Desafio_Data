@@ -1,0 +1,325 @@
+month,provincia,operator,power_kW,band,usagecost_original,parsed,reason
+2025-01,La Rioja,,7.4,AC,,,no_kwh
+2025-01,La Rioja,,7.0,AC,"0,25€/kWh",0.25,ok
+2025-01,La Rioja,,7.4,AC,"0,25€/kWh",0.25,ok
+2025-01,La Rioja,,3.7,AC,"0,25€/kWh",0.25,ok
+2025-01,La Rioja,,22.0,AC,,,no_kwh
+2025-01,La Rioja,,11.0,AC,,,no_kwh
+2025-01,La Rioja,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,La Rioja,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,La Rioja,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-01,La Rioja,,7.4,AC,"0,39€/kWh",0.39,ok
+2025-01,La Rioja,,3.7,AC,,,no_kwh
+2025-01,La Rioja,,22.0,AC,,,empty
+2025-01,La Rioja,,22.0,AC,"0,20€/kWh",0.2,ok
+2025-01,La Rioja,,22.0,AC,"0,31€/kWh",0.31,ok
+2025-01,La Rioja,,3.7,AC,,,no_kwh
+2025-01,La Rioja,,150.0,DC,"0,50€/kWh 100kW - 0,39€/kWh 50 kW - 0,32€/kWh AC",0.5,ok
+2025-01,La Rioja,,50.0,DC,"0,50€/kWh 100kW - 0,39€/kWh 50 kW - 0,32€/kWh AC",0.5,ok
+2025-01,La Rioja,,50.0,DC,"0,50€/kWh 100kW - 0,39€/kWh 50 kW - 0,32€/kWh AC",0.5,ok
+2025-01,La Rioja,,43.0,DC,"0,50€/kWh 100kW - 0,39€/kWh 50 kW - 0,32€/kWh AC",0.5,ok
+2025-01,La Rioja,,22.0,AC,"0,50€/kWh 100kW - 0,39€/kWh 50 kW - 0,32€/kWh AC",0.5,ok
+2025-01,La Rioja,,22.0,AC,free for customers,,free
+2025-01,La Rioja,,11.0,AC,,,no_kwh
+2025-01,La Rioja,,50.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-01,La Rioja,,50.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-01,La Rioja,,43.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-01,La Rioja,,22.0,AC,"0,55€/kWh",0.55,ok
+2025-01,La Rioja,,22.0,AC,"0,58€/kWh D C>60kW - 0,38€/kWh AC - (0,40€/min DC / 0,03€/min AC parked without charging)",0.58,ok
+2025-01,La Rioja,,60.0,DC,"0,58€/kWh D C>60kW - 0,38€/kWh AC - (0,40€/min DC / 0,03€/min AC parked without charging)",0.58,ok
+2025-01,La Rioja,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,La Rioja,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,La Rioja,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,La Rioja,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,La Rioja,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,La Rioja,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,La Rioja,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,La Rioja,,11.0,AC,"0,54-0,39€/kWh",0.39,ok
+2025-01,La Rioja,,150.0,DC,"0,54-0,39€/kWh",0.39,ok
+2025-01,La Rioja,,50.0,DC,"0,54-0,39€/kWh",0.39,ok
+2025-01,La Rioja,,50.0,DC,"0,54-0,39€/kWh",0.39,ok
+2025-01,La Rioja,,3.7,AC,,,no_kwh
+2025-01,La Rioja,,22.0,AC,,,no_kwh
+2025-01,La Rioja,,3.7,AC,,,no_kwh
+2025-01,La Rioja,,50.0,DC,Free,,free
+2025-01,La Rioja,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,La Rioja,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,La Rioja,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,La Rioja,,22.0,AC,,,no_kwh
+2025-01,La Rioja,,2.3,AC,,,no_kwh
+2025-01,La Rioja,,43.0,DC,"0,42€/kWh",0.42,ok
+2025-01,La Rioja,,50.0,DC,"0,42€/kWh",0.42,ok
+2025-01,La Rioja,,11.0,AC,,,no_kwh
+2025-01,La Rioja,,7.4,AC,,,empty
+2025-01,La Rioja,,22.0,AC,€0.24/kWh; Otras tarifas posibles para los coches antiguos,,no_kwh
+2025-01,La Rioja,,22.0,AC," 0,20€/kWh",0.2,ok
+2025-01,La Rioja,,22.0,AC,,,no_kwh
+2025-01,La Rioja,,22.0,AC," 0,15€/kWh",0.15,ok
+2025-01,La Rioja,,50.0,DC,"0,55€/kWh",0.55,ok
+2025-01,La Rioja,,22.0,AC,"0,20€/kWh",0.2,ok
+2025-01,La Rioja,,360.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-01,La Rioja,,360.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-01,La Rioja,,3.7,AC,"0,19€/kWh",0.19,ok
+2025-01,La Rioja,,180.0,DC,"0,54€/kWh ",0.54,ok
+2025-01,La Rioja,,180.0,DC,"0,54€/kWh ",0.54,ok
+2025-01,La Rioja,,3.7,AC,free,,free
+2025-01,La Rioja,,100.0,DC,"0,54€/kWh ",0.54,ok
+2025-01,La Rioja,,50.0,DC,"0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,La Rioja,,50.0,DC,"0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,La Rioja,,22.0,AC,"0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,La Rioja,,22.0,AC,"0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,La Rioja,,17.0,AC,,,empty
+2025-01,La Rioja,,11.0,AC,,,empty
+2025-01,La Rioja,,3.7,AC,,,empty
+2025-01,La Rioja,,22.0,AC,,,empty
+2025-01,La Rioja,,3.7,AC,,,no_kwh
+2025-01,La Rioja,,11.0,AC,,,no_kwh
+2025-01,La Rioja,,3.7,AC,,,empty
+2025-01,La Rioja,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,La Rioja,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,La Rioja,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-01,La Rioja,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-01,La Rioja,,22.0,AC,"0,47€/kWh",0.47,ok
+2025-01,La Rioja,,30.0,DC,"0,48€/kWh ",0.48,ok
+2025-01,La Rioja,,11.0,AC,,,no_kwh
+2025-01,La Rioja,,100.0,DC,"0,54€/kWh ",0.54,ok
+2025-01,La Rioja,,22.0,AC,"0,39/kWh",,no_kwh
+2025-01,La Rioja,,22.0,AC,€0/kWh,,no_kwh
+2025-01,La Rioja,,2.3,AC,€0/kWh,,no_kwh
+2025-01,La Rioja,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,La Rioja,,11.0,AC,,,empty
+2025-01,La Rioja,,11.0,AC,,,empty
+2025-01,La Rioja,,22.0,AC,free,,free
+2025-01,La Rioja,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,La Rioja,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,La Rioja,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,La Rioja,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,La Rioja,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,La Rioja,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,La Rioja,,7.4,AC,free,,free
+2025-01,La Rioja,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,La Rioja,,22.0,AC,,,empty
+2025-01,La Rioja,,22.0,AC,,,no_kwh
+2025-01,La Rioja,,22.0,AC,,,empty
+2025-01,La Rioja,,11.0,AC,,,empty
+2025-01,La Rioja,,11.0,AC,0.35€/kWh ,0.35,ok
+2025-01,La Rioja,,11.0,AC,,,no_kwh
+2025-01,La Rioja,,11.0,AC,,,no_kwh
+2025-01,La Rioja,,22.0,AC,free,,free
+2025-01,La Rioja,,22.0,AC,,,no_kwh
+2025-01,La Rioja,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,La Rioja,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,La Rioja,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,La Rioja,,22.0,AC,"0,15 - 0,40 €/kWh",0.4,ok
+2025-01,La Rioja,,22.0,AC,,,no_kwh
+2025-01,La Rioja,,22.0,AC,Free,,free
+2025-01,La Rioja,,11.0,AC,Free,,free
+2025-01,La Rioja,,22.0,AC," 0,39€/kWh",0.39,ok
+2025-01,La Rioja,,11.0,AC,,,no_kwh
+2025-01,La Rioja,,22.0,AC,,,empty
+2025-01,La Rioja,,11.0,AC,,,empty
+2025-01,La Rioja,,50.0,DC," 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,La Rioja,,50.0,DC," 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,La Rioja,,22.0,AC," 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,La Rioja,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,La Rioja,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,La Rioja,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,La Rioja,,11.0,AC,,,no_kwh
+2025-01,La Rioja,,11.0,AC,,,no_kwh
+2025-01,La Rioja,,22.0,AC,,,empty
+2025-01,La Rioja,,11.0,AC,,,empty
+2025-01,La Rioja,,360.0,DC,"0,55€/kWh",0.55,ok
+2025-01,La Rioja,,360.0,DC,"0,55€/kWh",0.55,ok
+2025-01,La Rioja,,22.0,AC,,,no_kwh
+2025-01,La Rioja,,2.3,AC,,,no_kwh
+2025-01,La Rioja,,7.4,AC,"0,35€/kWh",0.35,ok
+2025-01,La Rioja,,22.0,AC,,,empty
+2025-01,La Rioja,,22.0,AC,,,empty
+2025-01,La Rioja,,11.0,AC,,,empty
+2025-01,La Rioja,,3.7,AC,,,empty
+2025-01,La Rioja,,50.0,DC,,,no_kwh
+2025-01,La Rioja,,43.0,DC,,,no_kwh
+2025-01,La Rioja,,100.0,DC,"0,55€/kWh",0.55,ok
+2025-01,La Rioja,,80.0,DC,"0,55€/kWh",0.55,ok
+2025-01,La Rioja,,2.3,AC,"0,50€/hora",,no_kwh
+2025-01,La Rioja,,7.4,AC,"0,50€/hora",,no_kwh
+2025-01,La Rioja,,11.0,AC,,,no_kwh
+2025-01,La Rioja,,180.0,DC,"0,60€/kWh",0.6,ok
+2025-01,La Rioja,,120.0,DC,"0,54€/kWh",0.54,ok
+2025-01,La Rioja,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,La Rioja,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,La Rioja,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,La Rioja,,180.0,DC,"0,55€/kWh DC  - 0,39€/kWh AC  ",0.55,ok
+2025-01,La Rioja,,180.0,DC,"0,55€/kWh DC  - 0,39€/kWh AC  ",0.55,ok
+2025-01,La Rioja,,180.0,DC,"0,55€/kWh DC  - 0,39€/kWh AC  ",0.55,ok
+2025-01,La Rioja,,180.0,DC,"0,55€/kWh DC  - 0,39€/kWh AC  ",0.55,ok
+2025-01,La Rioja,,180.0,DC,"0,55€/kWh DC  - 0,39€/kWh AC  ",0.55,ok
+2025-01,La Rioja,,180.0,DC,"0,55€/kWh DC  - 0,39€/kWh AC  ",0.55,ok
+2025-01,La Rioja,,22.0,AC,"0,55€/kWh DC  - 0,39€/kWh AC  ",0.55,ok
+2025-01,La Rioja,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,La Rioja,,7.4,AC,,,no_kwh
+2025-01,La Rioja,,11.0,AC,,,no_kwh
+2025-01,La Rioja,,150.0,DC,"0,55€/kWh >60kW - 0,45€/kWh DC - 0,39€/kWh AC ",0.55,ok
+2025-01,La Rioja,,50.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-01,La Rioja,,43.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-01,La Rioja,,50.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-01,La Rioja,,22.0,AC,"0,26€/kWh",0.26,ok
+2025-01,La Rioja,,50.0,DC,,,no_kwh
+2025-01,La Rioja,,22.0,AC,,,no_kwh
+2025-01,La Rioja,,7.4,AC,0.40€/kWh,0.4,ok
+2025-01,La Rioja,,22.0,AC,0.40€/kWh,0.4,ok
+2025-01,La Rioja,,50.0,DC,,,no_kwh
+2025-01,La Rioja,,50.0,DC,,,no_kwh
+2025-01,La Rioja,,43.0,DC,,,no_kwh
+2025-01,La Rioja,,50.0,DC,"0,42€/kWh 50 kW - 0,38€/kWh AC",0.42,ok
+2025-01,La Rioja,,50.0,DC,"0,42€/kWh 50 kW - 0,38€/kWh AC",0.42,ok
+2025-01,La Rioja,,22.0,AC,"0,42€/kWh 50 kW - 0,38€/kWh AC",0.42,ok
+2025-01,La Rioja,,100.0,DC,"0,55€/kWh",0.55,ok
+2025-01,La Rioja,,80.0,DC,"0,55€/kWh",0.55,ok
+2025-01,La Rioja,,4.0,AC,,,no_kwh
+2025-01,La Rioja,,2.3,AC,,,no_kwh
+2025-01,La Rioja,,22.0,AC,,,no_kwh
+2025-01,La Rioja,,11.0,AC,,,no_kwh
+2025-01,La Rioja,,2.3,AC,,,no_kwh
+2025-01,La Rioja,,11.0,AC,,,no_kwh
+2025-01,La Rioja,,50.0,DC,,,no_kwh
+2025-01,La Rioja,,43.0,DC,,,no_kwh
+2025-01,La Rioja,,22.0,AC,,,no_kwh
+2025-01,La Rioja,,22.0,AC,"0,60€/kWh",0.6,ok
+2025-01,La Rioja,,100.0,DC,"0,60€/kWh",0.6,ok
+2025-01,La Rioja,,120.0,DC,"0,54€/kWh ",0.54,ok
+2025-01,La Rioja,,120.0,DC,"0,54€/kWh ",0.54,ok
+2025-01,La Rioja,,50.0,DC," 0,47€/kWh",0.47,ok
+2025-01,La Rioja,,43.0,DC," 0,47€/kWh",0.47,ok
+2025-01,La Rioja,,50.0,DC," 0,47€/kWh",0.47,ok
+2025-01,La Rioja,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,La Rioja,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,La Rioja,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,La Rioja,,7.4,AC,,,empty
+2025-01,La Rioja,,50.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-01,La Rioja,,50.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-01,La Rioja,,43.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-01,La Rioja,,22.0,AC,,,no_kwh
+2025-01,La Rioja,,11.0,AC,,,empty
+2025-01,La Rioja,,11.0,AC,free,,free
+2025-01,La Rioja,,11.0,AC,"0,40€/kWh",0.4,ok
+2025-01,La Rioja,,50.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-01,La Rioja,,50.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-01,La Rioja,,43.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-01,La Rioja,,360.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-01,La Rioja,,360.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-01,La Rioja,,360.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-01,La Rioja,,360.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-01,La Rioja,,22.0,AC,"0,55€/kWh DC ",0.55,ok
+2025-01,La Rioja,,50.0,DC,"0,55€/kWh",0.55,ok
+2025-01,La Rioja,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,La Rioja,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,La Rioja,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,La Rioja,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,La Rioja,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,La Rioja,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,La Rioja,,3.7,AC,,,no_kwh
+2025-01,La Rioja,,3.7,AC,,,no_kwh
+2025-01,La Rioja,,22.0,AC,,,empty
+2025-01,La Rioja,,11.0,AC,,,empty
+2025-01,La Rioja,,22.0,AC,,,no_kwh
+2025-01,La Rioja,,7.4,AC,,,no_kwh
+2025-01,La Rioja,,22.0,AC,3€/charge,,no_kwh
+2025-01,La Rioja,,22.0,AC,free,,free
+2025-01,La Rioja,,22.0,AC,,,empty
+2025-01,La Rioja,,2.3,AC,,,empty
+2025-01,La Rioja,,22.0,AC,,,empty
+2025-01,La Rioja,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,La Rioja,,120.0,DC,"0,50€/kWh 100kW - 0,39€/kWh 50 kW - 0,32€/kWh AC",0.5,ok
+2025-01,La Rioja,,50.0,DC,"0,50€/kWh 100kW - 0,39€/kWh 50 kW - 0,32€/kWh AC",0.5,ok
+2025-01,La Rioja,,22.0,AC,"0,50€/kWh 100kW - 0,39€/kWh 50 kW - 0,32€/kWh AC",0.5,ok
+2025-01,La Rioja,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,La Rioja,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,La Rioja,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,La Rioja,,350.0,DC,"0,65€/kWh (or subscription rates) ",0.65,ok
+2025-01,La Rioja,,180.0,DC,"0,54€/kWh ",0.54,ok
+2025-01,La Rioja,,350.0,DC,"0,65€/kWh (or subscription rates) ",0.65,ok
+2025-01,La Rioja,,180.0,DC,"0,54€/kWh ",0.54,ok
+2025-01,La Rioja,,22.0,AC,€0/kWh,,no_kwh
+2025-01,La Rioja,,2.3,AC,€0/kWh,,no_kwh
+2025-01,La Rioja,,22.0,AC,,,no_kwh
+2025-01,La Rioja,,22.0,AC,,,no_kwh
+2025-01,La Rioja,,150.0,DC,"0,54€/kWh",0.54,ok
+2025-01,La Rioja,,22.0,AC," 0,39€/kWh ",0.39,ok
+2025-01,La Rioja,,2.3,AC,,,no_kwh
+2025-01,La Rioja,,7.0,AC,,,no_kwh
+2025-01,La Rioja,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,La Rioja,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,La Rioja,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,La Rioja,,150.0,DC,"0,54€/kWh ",0.54,ok
+2025-01,La Rioja,,120.0,DC,,,no_kwh
+2025-01,La Rioja,,80.0,DC,,,no_kwh
+2025-01,La Rioja,,22.0,AC,,,no_kwh
+2025-01,La Rioja,,11.0,AC,free charging - parking 15€/day ,,free
+2025-01,La Rioja,,11.0,AC,free charging - parking 15€/day ,,free
+2025-01,La Rioja,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-01,La Rioja,,7.4,AC,"0,32€/kWh + parking fee",0.32,ok
+2025-01,La Rioja,,22.0,AC,,,no_kwh
+2025-01,La Rioja,,7.4,AC,"parking fee + 0,20€/kWh (0,01€/min parked without charging)",0.2,ok
+2025-01,La Rioja,,2.3,AC,"parking fee + 0,20€/kWh (0,01€/min parked without charging)",0.2,ok
+2025-01,La Rioja,,2.3,AC,parking fee / free charging,,free
+2025-01,La Rioja,,7.4,AC,parking fee / free charging,,free
+2025-01,La Rioja,,22.0,AC,"0,45€/kWh+parking fee",0.45,ok
+2025-01,La Rioja,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-01,La Rioja,,7.0,AC,"0,39€/kWh+ parking fee",0.39,ok
+2025-01,La Rioja,,22.0,AC,,,no_kwh
+2025-01,La Rioja,,180.0,DC," 0,54€/kWh ",0.54,ok
+2025-01,La Rioja,,22.0,AC,"0,42€/kWh",0.42,ok
+2025-01,La Rioja,,3.7,AC,"0,42€/kWh",0.42,ok
+2025-01,La Rioja,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,La Rioja,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,La Rioja,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,La Rioja,,60.0,DC,,,no_kwh
+2025-01,La Rioja,,11.0,AC,"0,39€/kwh",0.39,ok
+2025-01,La Rioja,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,La Rioja,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,La Rioja,,60.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,La Rioja,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,La Rioja,,22.0,AC,,,no_kwh
+2025-01,La Rioja,,300.0,DC," 0,55€/kWh ",0.55,ok
+2025-01,La Rioja,,22.0,AC," 0,55€/kWh ",0.55,ok
+2025-01,La Rioja,,22.0,AC,"0,32€/kWh",0.32,ok
+2025-01,La Rioja,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-01,La Rioja,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,La Rioja,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,La Rioja,,100.0,DC,"0,50€/kWh 100kW - 0,39€/kWh 50 kW - 0,32€/kWh AC",0.5,ok
+2025-01,La Rioja,,50.0,DC,"0,50€/kWh 100kW - 0,39€/kWh 50 kW - 0,32€/kWh AC",0.5,ok
+2025-01,La Rioja,,22.0,AC,"0,50€/kWh 100kW - 0,39€/kWh 50 kW - 0,32€/kWh AC",0.5,ok
+2025-01,La Rioja,,100.0,DC,"0,54€/kWh >60kW - 0,44€/kWh DC/AC43kW - 0,32€/kWh AC 22kW",0.54,ok
+2025-01,La Rioja,,22.0,AC,"0,54€/kWh >60kW - 0,44€/kWh DC/AC43kW - 0,32€/kWh AC 22kW",0.54,ok
+2025-01,La Rioja,,22.0,AC,,,no_kwh
+2025-01,La Rioja,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,La Rioja,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,La Rioja,,22.0,AC,,,no_kwh
+2025-01,La Rioja,,22.0,AC,,,no_kwh
+2025-01,La Rioja,,22.0,AC,"0,22€/kWh",0.22,ok
+2025-01,La Rioja,,22.0,AC,,,no_kwh
+2025-01,La Rioja,,7.4,AC,,,no_kwh
+2025-01,La Rioja,,150.0,DC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-01,La Rioja,,50.0,DC,"0,54 €/kWh ",0.54,ok
+2025-01,La Rioja,,50.0,DC,"0,54 €/kWh ",0.54,ok
+2025-01,La Rioja,,22.0,AC,"0,54 €/kWh ",0.54,ok
+2025-01,La Rioja,,100.0,DC,"0,54 €/kWh ",0.54,ok
+2025-01,La Rioja,,50.0,DC,"0,54 €/kWh ",0.54,ok
+2025-01,La Rioja,,50.0,DC,"0,54 €/kWh ",0.54,ok
+2025-01,La Rioja,,22.0,AC,"0,54 €/kWh ",0.54,ok
+2025-01,La Rioja,,100.0,DC,"0,54 €/kWh ",0.54,ok
+2025-01,La Rioja,,22.0,AC,,,empty
+2025-01,La Rioja,,22.0,AC,,,no_kwh
+2025-01,La Rioja,,50.0,DC,"0,54 €/kWh ",0.54,ok
+2025-01,La Rioja,,50.0,DC,"0,54 €/kWh ",0.54,ok
+2025-01,La Rioja,,22.0,AC,"0,54 €/kWh ",0.54,ok
+2025-01,La Rioja,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,La Rioja,,22.0,AC,,,no_kwh
+2025-01,La Rioja,,22.0,AC,,,no_kwh
+2025-01,La Rioja,,22.0,AC,free,,free
+2025-01,La Rioja,,3.7,AC,free,,free
+2025-01,La Rioja,,7.4,AC,"0,35€/kWh",0.35,ok
+2025-01,La Rioja,,11.0,AC,free,,free
+2025-01,La Rioja,,11.0,AC,free,,free
+2025-01,La Rioja,,22.0,AC,"0,42€/kWh AC ",0.42,ok

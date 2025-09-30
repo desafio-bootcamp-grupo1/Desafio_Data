@@ -1,0 +1,505 @@
+month,provincia,operator,power_kW,band,usagecost_original,parsed,reason
+2025-07,Badajoz,,22.0,AC," 0,25€/kWh AC",0.25,ok
+2025-07,Badajoz,,22.0,AC,"0,28€/kWh",0.28,ok
+2025-07,Badajoz,,50.0,DC,"0,30€/kWh DC - 0,25€/kWh AC",0.3,ok
+2025-07,Badajoz,,50.0,DC,"0,30€/kWh DC - 0,25€/kWh AC",0.3,ok
+2025-07,Badajoz,,22.0,AC,"0,30€/kWh DC - 0,25€/kWh AC",0.3,ok
+2025-07,Badajoz,,22.0,AC,"0,25€/kWh AC",0.25,ok
+2025-07,Badajoz,,22.0,AC,"0,28€/kWh",0.28,ok
+2025-07,Badajoz,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-07,Badajoz,,22.0,AC,"0,25€/kWh AC",0.25,ok
+2025-07,Badajoz,,150.0,DC,"0,50€/kWh >60kW - 0,39€/kWh 50kW - 0,32€/kWh AC",0.5,ok
+2025-07,Badajoz,,50.0,DC,"0,50€/kWh >60kW - 0,39€/kWh 50kW - 0,32€/kWh AC",0.5,ok
+2025-07,Badajoz,,22.0,AC,"0,50€/kWh >60kW - 0,39€/kWh 50kW - 0,32€/kWh AC",0.5,ok
+2025-07,Badajoz,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,50.0,DC,"0,30€/kWh DC - 0,25€/kWh AC",0.3,ok
+2025-07,Badajoz,,20.0,AC,"0,30€/kWh DC - 0,25€/kWh AC",0.3,ok
+2025-07,Badajoz,,22.0,AC,"0,30€/kWh DC - 0,25€/kWh AC",0.3,ok
+2025-07,Badajoz,,22.0,AC,"0,39€/kWh AC ",0.39,ok
+2025-07,Badajoz,,22.0,AC,"0,28€/kWh",0.28,ok
+2025-07,Badajoz,,22.0,AC,,,no_kwh
+2025-07,Badajoz,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-07,Badajoz,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,11.0,AC,,,empty
+2025-07,Badajoz,,22.0,AC,free,,free
+2025-07,Badajoz,,22.0,AC,,,no_kwh
+2025-07,Badajoz,,22.0,AC,,,no_kwh
+2025-07,Badajoz,,7.4,AC,"0,39€/kWh ",0.39,ok
+2025-07,Badajoz,,22.0,AC,,,no_kwh
+2025-07,Badajoz,,22.0,AC,free,,free
+2025-07,Badajoz,,60.0,DC,"0,50€/kWh DC - 0,39€/kWh AC",0.5,ok
+2025-07,Badajoz,,22.0,AC,"0,50€/kWh DC - 0,39€/kWh AC",0.5,ok
+2025-07,Badajoz,,22.0,AC,,,no_kwh
+2025-07,Badajoz,,22.0,AC," 0,25€/kWh AC",0.25,ok
+2025-07,Badajoz,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-07,Badajoz,,50.0,DC," 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-07,Badajoz,,50.0,DC," 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-07,Badajoz,,22.0,AC,"0,25€/kWh AC",0.25,ok
+2025-07,Badajoz,,22.0,AC,,,empty
+2025-07,Badajoz,,3.7,AC,,,empty
+2025-07,Badajoz,,50.0,DC,"0,30€/kWh DC - 0,25€/kWh AC",0.3,ok
+2025-07,Badajoz,,50.0,DC,"0,30€/kWh DC - 0,25€/kWh AC",0.3,ok
+2025-07,Badajoz,,22.0,AC,"0,30€/kWh DC - 0,25€/kWh AC",0.3,ok
+2025-07,Badajoz,,120.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-07,Badajoz,,80.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-07,Badajoz,,120.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-07,Badajoz,,22.0,AC,"0,54€/kWh 80-200kW - 0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-07,Badajoz,,3.7,AC,,,no_kwh
+2025-07,Badajoz,,3.7,AC,,,empty
+2025-07,Badajoz,,7.4,AC,,,no_kwh
+2025-07,Badajoz,,50.0,DC,"0,30€/kWh DC - 0,25€/kWh AC",0.3,ok
+2025-07,Badajoz,,50.0,DC,"0,30€/kWh DC - 0,25€/kWh AC",0.3,ok
+2025-07,Badajoz,,22.0,AC,"0,30€/kWh DC - 0,25€/kWh AC",0.3,ok
+2025-07,Badajoz,,300.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-07,Badajoz,,300.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-07,Badajoz,,300.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-07,Badajoz,,300.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-07,Badajoz,,300.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-07,Badajoz,,300.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-07,Badajoz,,22.0,AC,"0,15€/kWh",0.15,ok
+2025-07,Badajoz,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,22.0,AC,"0,25€/kWh AC",0.25,ok
+2025-07,Badajoz,,180.0,DC,"0,60€/kWh",0.6,ok
+2025-07,Badajoz,,50.0,DC,"0,50€/kWh >60kW - 0,39€/kWh 50kW - 0,32€/kWh AC",0.5,ok
+2025-07,Badajoz,,50.0,DC,"0,50€/kWh >60kW - 0,39€/kWh 50kW - 0,32€/kWh AC",0.5,ok
+2025-07,Badajoz,,43.0,DC,"0,50€/kWh >60kW - 0,39€/kWh 50kW - 0,32€/kWh AC",0.5,ok
+2025-07,Badajoz,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-07,Badajoz,,22.0,AC,free,,free
+2025-07,Badajoz,,50.0,DC,"0,30€/kWh DC - 0,25€/kWh AC",0.3,ok
+2025-07,Badajoz,,50.0,DC,"0,30€/kWh DC - 0,25€/kWh AC",0.3,ok
+2025-07,Badajoz,,22.0,AC,"0,30€/kWh DC - 0,25€/kWh AC",0.3,ok
+2025-07,Badajoz,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-07,Badajoz,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-07,Badajoz,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-07,Badajoz,,400.0,DC,"0,55€/kWh",0.55,ok
+2025-07,Badajoz,,100.0,DC,"0,56€/kWh 100kW - 0,42€/kWh 50 kW - 0,38€/kWh AC",0.56,ok
+2025-07,Badajoz,,50.0,DC,"0,56€/kWh 100kW - 0,42€/kWh 50 kW - 0,38€/kWh AC",0.56,ok
+2025-07,Badajoz,,22.0,AC,"0,56€/kWh 100kW - 0,42€/kWh 50 kW - 0,38€/kWh AC",0.56,ok
+2025-07,Badajoz,,50.0,DC,"0,56€/kWh 100kW - 0,42€/kWh 50 kW - 0,38€/kWh AC",0.56,ok
+2025-07,Badajoz,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-07,Badajoz,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-07,Badajoz,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-07,Badajoz,,22.0,AC,"0,25€/kWh AC",0.25,ok
+2025-07,Badajoz,,50.0,DC,,,no_kwh
+2025-07,Badajoz,,50.0,DC,,,no_kwh
+2025-07,Badajoz,,22.0,AC,,,no_kwh
+2025-07,Badajoz,,50.0,DC,"0,41€/kWh",0.41,ok
+2025-07,Badajoz,,50.0,DC,"0,41€/kWh",0.41,ok
+2025-07,Badajoz,,43.0,DC,"0,41€/kWh",0.41,ok
+2025-07,Badajoz,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,22.0,AC,,,no_kwh
+2025-07,Badajoz,,3.7,AC,,,empty
+2025-07,Badajoz,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-07,Badajoz,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-07,Badajoz,,43.0,DC,"0,45€/kWh",0.45,ok
+2025-07,Badajoz,,22.0,AC,"0,45€/kWh",0.45,ok
+2025-07,Badajoz,,22.0,AC,"0,25€/kWh AC",0.25,ok
+2025-07,Badajoz,,360.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-07,Badajoz,,360.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-07,Badajoz,,360.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-07,Badajoz,,360.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-07,Badajoz,,360.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-07,Badajoz,,360.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-07,Badajoz,,360.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-07,Badajoz,,360.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-07,Badajoz,,,,,,empty
+2025-07,Badajoz,,250.0,DC,,,empty
+2025-07,Badajoz,,50.0,DC,"0,42€/kWh ",0.42,ok
+2025-07,Badajoz,,50.0,DC,"0,42€/kWh ",0.42,ok
+2025-07,Badajoz,,43.0,DC,"0,42€/kWh ",0.42,ok
+2025-07,Badajoz,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,350.0,DC,"0,65€/kWh (or subscription rates) ",0.65,ok
+2025-07,Badajoz,,3.7,AC,,,empty
+2025-07,Badajoz,,3.7,AC,,,empty
+2025-07,Badajoz,,22.0,AC,,,empty
+2025-07,Badajoz,,3.8,AC,,,empty
+2025-07,Badajoz,,7.4,AC,,,empty
+2025-07,Badajoz,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-07,Badajoz,,11.0,AC,"0,58€/kWh",0.58,ok
+2025-07,Badajoz,,100.0,DC,"0,50€/kWh >60kW - 0,39€/kWh 50kW - 0,32€/kWh AC",0.5,ok
+2025-07,Badajoz,,50.0,DC,"0,50€/kWh >60kW - 0,39€/kWh 50kW - 0,32€/kWh AC",0.5,ok
+2025-07,Badajoz,,22.0,AC,"0,50€/kWh >60kW - 0,39€/kWh 50kW - 0,32€/kWh AC",0.5,ok
+2025-07,Badajoz,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-07,Badajoz,,43.0,DC," 0,47€/kWh ",0.47,ok
+2025-07,Badajoz,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-07,Badajoz,,3.7,AC,,,empty
+2025-07,Badajoz,,7.4,AC,,,empty
+2025-07,Badajoz,,22.0,AC,free,,free
+2025-07,Badajoz,,22.0,AC,free,,free
+2025-07,Badajoz,,3.7,AC,,,no_kwh
+2025-07,Badajoz,,22.0,AC,free,,free
+2025-07,Badajoz,,11.0,AC,,,empty
+2025-07,Badajoz,,3.7,AC,,,empty
+2025-07,Badajoz,,3.7,AC,,,empty
+2025-07,Badajoz,,3.7,AC,,,empty
+2025-07,Badajoz,,360.0,DC,"0,54€-0,48/kWh  DC - 0,41€/kWh AC",0.41,ok
+2025-07,Badajoz,,50.0,DC,"0,54€-0,48/kWh  DC - 0,41€/kWh AC",0.41,ok
+2025-07,Badajoz,,50.0,DC,"0,54€-0,48/kWh  DC - 0,41€/kWh AC",0.41,ok
+2025-07,Badajoz,,22.0,AC,"0,54€-0,48/kWh  DC - 0,41€/kWh AC",0.41,ok
+2025-07,Badajoz,,22.0,AC,"0,54€-0,48/kWh  DC - 0,41€/kWh AC",0.41,ok
+2025-07,Badajoz,,50.0,DC,,,empty
+2025-07,Badajoz,,150.0,DC,"0,58€/kWh",0.58,ok
+2025-07,Badajoz,,80.0,DC,"0,58€/kWh",0.58,ok
+2025-07,Badajoz,,50.0,DC,"0,46€/kWh",0.46,ok
+2025-07,Badajoz,,22.0,AC,"0,46€/kWh",0.46,ok
+2025-07,Badajoz,,50.0,DC,"0,46€/kWh",0.46,ok
+2025-07,Badajoz,,22.0,AC,free,,free
+2025-07,Badajoz,,22.0,AC,"0,22€/kWh",0.22,ok
+2025-07,Badajoz,,3.7,AC,,,no_kwh
+2025-07,Badajoz,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,50.0,DC,"0,54€/kWh DC>50kW - 0,47€/kWh",0.54,ok
+2025-07,Badajoz,,50.0,DC,"0,54€/kWh DC>50kW - 0,47€/kWh",0.54,ok
+2025-07,Badajoz,,43.0,DC,"0,54€/kWh DC>50kW - 0,47€/kWh",0.54,ok
+2025-07,Badajoz,,150.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-07,Badajoz,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-07,Badajoz,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-07,Badajoz,,22.0,AC,"0,54€/kWh 80-200kW - 0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-07,Badajoz,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,300.0,DC," 0,55€/kWh DC ",0.55,ok
+2025-07,Badajoz,,300.0,DC," 0,55€/kWh DC ",0.55,ok
+2025-07,Badajoz,,300.0,DC," 0,55€/kWh DC ",0.55,ok
+2025-07,Badajoz,,300.0,DC," 0,55€/kWh DC ",0.55,ok
+2025-07,Badajoz,,22.0,AC,"0,38€/kWh AC - (0,03€/min parked without charging)",0.38,ok
+2025-07,Badajoz,,22.0,AC,,,empty
+2025-07,Badajoz,,250.0,DC,,,no_kwh
+2025-07,Badajoz,,22.0,AC,free,,free
+2025-07,Badajoz,,43.0,DC,"0,47€/kWh DC - 0,35€/kWh AC",0.47,ok
+2025-07,Badajoz,,50.0,DC,"0,47€/kWh DC - 0,35€/kWh AC",0.47,ok
+2025-07,Badajoz,,50.0,DC,"0,47€/kWh DC - 0,35€/kWh AC",0.47,ok
+2025-07,Badajoz,,360.0,DC,"0,55€/kWh ",0.55,ok
+2025-07,Badajoz,,360.0,DC,"0,55€/kWh ",0.55,ok
+2025-07,Badajoz,,360.0,DC,"0,55€/kWh ",0.55,ok
+2025-07,Badajoz,,360.0,DC,"0,55€/kWh ",0.55,ok
+2025-07,Badajoz,,50.0,DC,"0,30€/kWh DC - 0,25€/kWh AC",0.3,ok
+2025-07,Badajoz,,50.0,DC,"0,30€/kWh DC - 0,25€/kWh AC",0.3,ok
+2025-07,Badajoz,,22.0,AC,"0,30€/kWh DC - 0,25€/kWh AC",0.3,ok
+2025-07,Badajoz,,50.0,DC,"0,48€/kWh DC 50 kW -  0,38€/kWh AC",0.48,ok
+2025-07,Badajoz,,50.0,DC,"0,48€/kWh DC 50 kW -  0,38€/kWh AC",0.48,ok
+2025-07,Badajoz,,22.0,AC,"0,48€/kWh DC 50 kW -  0,38€/kWh AC",0.48,ok
+2025-07,Badajoz,,22.0,AC,free,,free
+2025-07,Badajoz,,22.0,AC,"0,25€/kWh AC",0.25,ok
+2025-07,Badajoz,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-07,Badajoz,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-07,Badajoz,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-07,Badajoz,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-07,Badajoz,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-07,Badajoz,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-07,Badajoz,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,100.0,DC,"0,50€/kWh >60kW - 0,39€/kWh 50kW - 0,32€/kWh AC",0.5,ok
+2025-07,Badajoz,,50.0,DC,"0,50€/kWh >60kW - 0,39€/kWh 50kW - 0,32€/kWh AC",0.5,ok
+2025-07,Badajoz,,22.0,AC,"0,50€/kWh >60kW - 0,39€/kWh 50kW - 0,32€/kWh AC",0.5,ok
+2025-07,Badajoz,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-07,Badajoz,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-07,Badajoz,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-07,Badajoz,,7.4,AC,"0,38€/kWh",0.38,ok
+2025-07,Badajoz,,25.0,DC,"0,45€/KWh + 0,05€/min after 3 hours charging",0.45,ok
+2025-07,Badajoz,,25.0,DC,"0,45€/KWh + 0,05€/min after 3 hours charging",0.45,ok
+2025-07,Badajoz,,22.0,AC,"0,45€/kWh",0.45,ok
+2025-07,Badajoz,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-07,Badajoz,,22.0,AC,"0,55€/kWh DC - 0,39€/kWh AC",0.55,ok
+2025-07,Badajoz,,150.0,DC,"0,55€/kWh DC - 0,39€/kWh AC",0.55,ok
+2025-07,Badajoz,,150.0,DC,"0,55€/kWh DC - 0,39€/kWh AC",0.55,ok
+2025-07,Badajoz,,50.0,DC,"0,30€/kWh DC - 0,25€/kWh AC",0.3,ok
+2025-07,Badajoz,,50.0,DC,"0,30€/kWh DC - 0,25€/kWh AC",0.3,ok
+2025-07,Badajoz,,22.0,AC,"0,30€/kWh DC - 0,25€/kWh AC",0.3,ok
+2025-07,Badajoz,,360.0,DC,"0,68€/kWh DC 360kW - 0,48€/kWh DC - 0,41€/kWh AC",0.68,ok
+2025-07,Badajoz,,50.0,DC,"0,68€/kWh DC 360kW - 0,48€/kWh DC - 0,41€/kWh AC",0.68,ok
+2025-07,Badajoz,,50.0,DC,"0,68€/kWh DC 360kW - 0,48€/kWh DC - 0,41€/kWh AC",0.68,ok
+2025-07,Badajoz,,22.0,AC,"0,68€/kWh DC 360kW - 0,48€/kWh DC - 0,41€/kWh AC",0.68,ok
+2025-07,Badajoz,,22.0,AC,"0,68€/kWh DC 360kW - 0,48€/kWh DC - 0,41€/kWh AC",0.68,ok
+2025-07,Badajoz,,22.0,AC,"0,40€/kWh",0.4,ok
+2025-07,Badajoz,,3.7,AC,,,empty
+2025-07,Badajoz,,3.7,AC,,,no_kwh
+2025-07,Badajoz,,22.0,AC,,,no_kwh
+2025-07,Badajoz,,60.0,DC,"0,30 €/kWh",0.3,ok
+2025-07,Badajoz,,22.0,AC,"0,25€/kWh AC",0.25,ok
+2025-07,Badajoz,,22.0,AC," 0,39€/kWh ",0.39,ok
+2025-07,Badajoz,,22.0,AC,free,,free
+2025-07,Badajoz,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-07,Badajoz,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-07,Badajoz,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-07,Badajoz,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-07,Badajoz,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-07,Badajoz,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-07,Badajoz,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-07,Badajoz,,50.0,DC,"0,50€/kWh DC - 0,39€/kWh AC",0.5,ok
+2025-07,Badajoz,,11.0,AC,"0,58€/kWh",0.58,ok
+2025-07,Badajoz,,25.0,DC,"0,58€/kWh",0.58,ok
+2025-07,Badajoz,,11.0,AC,,,no_kwh
+2025-07,Badajoz,,22.0,AC," 0,25€/kWh AC",0.25,ok
+2025-07,Badajoz,,22.0,AC,"0,45€/kWh",0.45,ok
+2025-07,Badajoz,,22.0,AC,"0,25€/kWh AC",0.25,ok
+2025-07,Badajoz,,22.0,AC,,,empty
+2025-07,Badajoz,,22.0,AC,"0,25€/kWh AC",0.25,ok
+2025-07,Badajoz,,22.0,AC,,,empty
+2025-07,Badajoz,,7.4,AC,,,empty
+2025-07,Badajoz,,50.0,DC,"0,30€/kWh DC - 0,25€/kWh AC",0.3,ok
+2025-07,Badajoz,,50.0,DC,"0,30€/kWh DC - 0,25€/kWh AC",0.3,ok
+2025-07,Badajoz,,22.0,AC,"0,30€/kWh DC - 0,25€/kWh AC",0.3,ok
+2025-07,Badajoz,,50.0,DC,,,empty
+2025-07,Badajoz,,50.0,DC,,,empty
+2025-07,Badajoz,,22.0,AC,,,empty
+2025-07,Badajoz,,22.0,AC,,,empty
+2025-07,Badajoz,,11.0,AC,,,empty
+2025-07,Badajoz,,22.0,AC,"0,25€/kWh AC",0.25,ok
+2025-07,Badajoz,,100.0,DC,"0,50€/kWh >60kW - 0,39€/kWh 50kW - 0,32€/kWh AC",0.5,ok
+2025-07,Badajoz,,50.0,DC,"0,50€/kWh >60kW - 0,39€/kWh 50kW - 0,32€/kWh AC",0.5,ok
+2025-07,Badajoz,,22.0,AC,"0,50€/kWh >60kW - 0,39€/kWh 50kW - 0,32€/kWh AC",0.5,ok
+2025-07,Badajoz,,50.0,DC,"0,45€/kWh + 0,05€/min after 3 hours",0.45,ok
+2025-07,Badajoz,,43.0,DC,"0,45€/kWh + 0,05€/min after 3 hours",0.45,ok
+2025-07,Badajoz,,50.0,DC,"0,45€/kWh + 0,05€/min after 3 hours",0.45,ok
+2025-07,Badajoz,,7.4,AC,,,no_kwh
+2025-07,Badajoz,,22.0,AC,0,,no_kwh
+2025-07,Badajoz,,3.3,AC,0,,no_kwh
+2025-07,Badajoz,,3.7,AC,,,no_kwh
+2025-07,Badajoz,,50.0,DC,"0,45€/kWh + 0,05€/min after 3 hours",0.45,ok
+2025-07,Badajoz,,50.0,DC,"0,45€/kWh + 0,05€/min after 3 hours",0.45,ok
+2025-07,Badajoz,,43.0,DC,"0,45€/kWh + 0,05€/min after 3 hours",0.45,ok
+2025-07,Badajoz,,7.4,AC,,,no_kwh
+2025-07,Badajoz,,22.0,AC,"0,45€/kWh + 0,05€/min after 3 hours",0.45,ok
+2025-07,Badajoz,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-07,Badajoz,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-07,Badajoz,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-07,Badajoz,,22.0,AC,,,empty
+2025-07,Badajoz,,11.0,AC,,,empty
+2025-07,Badajoz,,22.0,AC,,,no_kwh
+2025-07,Badajoz,,30.0,DC,,,no_kwh
+2025-07,Badajoz,,43.0,DC,"0,47€/kWh DC - 0,35€/kWh AC",0.47,ok
+2025-07,Badajoz,,50.0,DC,"0,47€/kWh DC - 0,35€/kWh AC",0.47,ok
+2025-07,Badajoz,,50.0,DC,"0,47€/kWh DC - 0,35€/kWh AC",0.47,ok
+2025-07,Badajoz,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-07,Badajoz,,22.0,AC,,,empty
+2025-07,Badajoz,,150.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-07,Badajoz,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-07,Badajoz,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-07,Badajoz,,22.0,AC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-07,Badajoz,,50.0,DC,"0,45€/kWh + 0,05€/min after 3 hours",0.45,ok
+2025-07,Badajoz,,50.0,DC,"0,45€/kWh + 0,05€/min after 3 hours",0.45,ok
+2025-07,Badajoz,,43.0,DC,"0,45€/kWh + 0,05€/min after 3 hours",0.45,ok
+2025-07,Badajoz,,22.0,AC,"0,29€/kWh AC",0.29,ok
+2025-07,Badajoz,,7.4,AC,,,empty
+2025-07,Badajoz,,3.6,AC,,,empty
+2025-07,Badajoz,,3.7,AC,,,empty
+2025-07,Badajoz,,22.0,AC,"0,29€/kWh AC",0.29,ok
+2025-07,Badajoz,,22.0,AC,"0,29€/kWh AC",0.29,ok
+2025-07,Badajoz,,7.4,AC,,,no_kwh
+2025-07,Badajoz,,22.0,AC,"0,29€/kWh AC",0.29,ok
+2025-07,Badajoz,,22.0,AC,Diputación de Cáceres,,no_kwh
+2025-07,Badajoz,,7.0,AC,free,,free
+2025-07,Badajoz,,7.0,AC,free,,free
+2025-07,Badajoz,,22.0,AC,"0,29€/kWh AC",0.29,ok
+2025-07,Badajoz,,150.0,DC,"0,50€/kWh >60kW - 0,39€/kWh 50kW - 0,32€/kWh AC",0.5,ok
+2025-07,Badajoz,,50.0,DC,"0,50€/kWh >60kW - 0,39€/kWh 50kW - 0,32€/kWh AC",0.5,ok
+2025-07,Badajoz,,22.0,AC,"0,50€/kWh >60kW - 0,39€/kWh 50kW - 0,32€/kWh AC",0.5,ok
+2025-07,Badajoz,,240.0,DC,"0,50€/kWh >60kW - 0,39€/kWh 50kW - 0,32€/kWh AC",0.5,ok
+2025-07,Badajoz,,50.0,DC,,,no_kwh
+2025-07,Badajoz,,50.0,DC,,,no_kwh
+2025-07,Badajoz,,43.0,DC,,,no_kwh
+2025-07,Badajoz,,150.0,DC,"0,50€/kWh >60kW - 0,39€/kWh 50kW - 0,32€/kWh AC",0.5,ok
+2025-07,Badajoz,,150.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-07,Badajoz,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-07,Badajoz,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-07,Badajoz,,22.0,AC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-07,Badajoz,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,22.0,AC,"0,29€/kWh AC",0.29,ok
+2025-07,Badajoz,,60.0,DC,"0,45€/kWh DC - 0,29€/kWh AC",0.45,ok
+2025-07,Badajoz,,22.0,AC,"0,45€/kWh DC - 0,29€/kWh AC",0.45,ok
+2025-07,Badajoz,,11.0,AC,"0,45€/kWh DC - 0,29€/kWh AC",0.45,ok
+2025-07,Badajoz,,,,Free,,free
+2025-07,Badajoz,,,,Free,,free
+2025-07,Badajoz,,3.7,AC,,,empty
+2025-07,Badajoz,,3.7,AC,,,empty
+2025-07,Badajoz,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-07,Badajoz,,190.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-07,Badajoz,,50.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-07,Badajoz,,22.0,AC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-07,Badajoz,,120.0,DC,"0,45€/kWh ",0.45,ok
+2025-07,Badajoz,,11.0,AC,"0,45€/kWh ",0.45,ok
+2025-07,Badajoz,,100.0,DC,"0,55€/kWh",0.55,ok
+2025-07,Badajoz,,22.0,AC,"0,25€/kWh AC",0.25,ok
+2025-07,Badajoz,,100.0,DC,"0,50€/kWh >60kW - 0,39€/kWh 50kW - 0,32€/kWh AC",0.5,ok
+2025-07,Badajoz,,50.0,DC,"0,50€/kWh >60kW - 0,39€/kWh 50kW - 0,32€/kWh AC",0.5,ok
+2025-07,Badajoz,,22.0,AC,"0,50€/kWh >60kW - 0,39€/kWh 50kW - 0,32€/kWh AC",0.5,ok
+2025-07,Badajoz,,22.0,AC,"0,25€/kWh AC",0.25,ok
+2025-07,Badajoz,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-07,Badajoz,,50.0,DC,"0,45€/KWh + 0,05€/min after 3 hours charging",0.45,ok
+2025-07,Badajoz,,50.0,DC,"0,45€/KWh + 0,05€/min after 3 hours charging",0.45,ok
+2025-07,Badajoz,,43.0,DC,"0,45€/KWh + 0,05€/min after 3 hours charging",0.45,ok
+2025-07,Badajoz,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-07,Badajoz,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,150.0,DC,"0,50€/kWh >60kW - 0,39€/kWh 50kW - 0,32€/kWh AC",0.5,ok
+2025-07,Badajoz,,50.0,DC,"0,50€/kWh >60kW - 0,39€/kWh 50kW - 0,32€/kWh AC",0.5,ok
+2025-07,Badajoz,,22.0,AC,"0,50€/kWh >60kW - 0,39€/kWh 50kW - 0,32€/kWh AC",0.5,ok
+2025-07,Badajoz,,22.0,AC,"0,25€/kWh AC",0.25,ok
+2025-07,Badajoz,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-07,Badajoz,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-07,Badajoz,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-07,Badajoz,,100.0,DC,"0,58€/kWh DC ",0.58,ok
+2025-07,Badajoz,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,11.0,AC,,,no_kwh
+2025-07,Badajoz,,22.0,AC," 0,25€/kWh AC",0.25,ok
+2025-07,Badajoz,,7.4,AC,"0,38€/kWh ",0.38,ok
+2025-07,Badajoz,,7.4,AC,,,no_kwh
+2025-07,Badajoz,,22.0,AC,"0,25€/kWh AC",0.25,ok
+2025-07,Badajoz,,50.0,DC,"0,67€/kwh",0.67,ok
+2025-07,Badajoz,,50.0,DC,"0,67€/kwh",0.67,ok
+2025-07,Badajoz,,22.0,AC,"0,67€/kwh",0.67,ok
+2025-07,Badajoz,,11.0,AC,,,no_kwh
+2025-07,Badajoz,,11.0,AC,,,no_kwh
+2025-07,Badajoz,,3.6,AC,,,empty
+2025-07,Badajoz,,50.0,DC,free,,free
+2025-07,Badajoz,,50.0,DC,free,,free
+2025-07,Badajoz,,22.0,AC,free,,free
+2025-07,Badajoz,,11.0,AC,,,empty
+2025-07,Badajoz,,3.7,AC,,,empty
+2025-07,Badajoz,,22.0,AC,"0,38€/kWh AC - (0,03€/min parked without charging)",0.38,ok
+2025-07,Badajoz,,3.7,AC,,,empty
+2025-07,Badajoz,,3.7,AC,,,empty
+2025-07,Badajoz,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-07,Badajoz,,50.0,DC,"0,46€/kWh",0.46,ok
+2025-07,Badajoz,,50.0,DC,"0,46€/kWh",0.46,ok
+2025-07,Badajoz,,11.0,AC,,,empty
+2025-07,Badajoz,,3.6,AC,,,empty
+2025-07,Badajoz,,3.7,AC,free,,free
+2025-07,Badajoz,,3.7,AC,,,empty
+2025-07,Badajoz,,3.7,AC,,,empty
+2025-07,Badajoz,,22.0,AC,,,empty
+2025-07,Badajoz,,120.0,DC,"0,45€/kWh ",0.45,ok
+2025-07,Badajoz,,11.0,AC,"0,45€/kWh ",0.45,ok
+2025-07,Badajoz,,22.0,AC,"0,39€/kWh + parking fee",0.39,ok
+2025-07,Badajoz,,50.0,DC,"0,30€/kWh DC - 0,25€/kWh AC",0.3,ok
+2025-07,Badajoz,,50.0,DC,"0,30€/kWh DC - 0,25€/kWh AC",0.3,ok
+2025-07,Badajoz,,22.0,AC,"0,30€/kWh DC - 0,25€/kWh AC",0.3,ok
+2025-07,Badajoz,,3.7,AC,,,empty
+2025-07,Badajoz,,3.6,AC,,,empty
+2025-07,Badajoz,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-07,Badajoz,,3.7,AC,,,empty
+2025-07,Badajoz,,7.4,AC,,,empty
+2025-07,Badajoz,,22.0,AC,,,empty
+2025-07,Badajoz,,11.0,AC,,,empty
+2025-07,Badajoz,,11.0,AC,,,empty
+2025-07,Badajoz,,22.0,AC,,,no_kwh
+2025-07,Badajoz,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-07,Badajoz,,22.0,AC,free,,free
+2025-07,Badajoz,,100.0,DC,"0,55€/kWh",0.55,ok
+2025-07,Badajoz,,80.0,DC,"0,55€/kWh",0.55,ok
+2025-07,Badajoz,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-07,Badajoz,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-07,Badajoz,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-07,Badajoz,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-07,Badajoz,,3.7,AC,,,no_kwh
+2025-07,Badajoz,,60.0,DC,"0,38€/kWh ",0.38,ok
+2025-07,Badajoz,,3.7,AC,free,,free
+2025-07,Badajoz,,3.7,AC,free,,free
+2025-07,Badajoz,,22.0,AC," 0,40€/kWh AC ",0.4,ok
+2025-07,Badajoz,,3.7,AC,free,,free
+2025-07,Badajoz,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-07,Badajoz,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-07,Badajoz,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-07,Badajoz,,43.0,DC,"0,45€/kWh",0.45,ok
+2025-07,Badajoz,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-07,Badajoz,,7.4,AC,,,empty
+2025-07,Badajoz,,3.7,AC,,,empty
+2025-07,Badajoz,,50.0,DC,"0,43€/kWh DC - 0,38€/kWh AC",0.43,ok
+2025-07,Badajoz,,3.7,AC,,,no_kwh
+2025-07,Badajoz,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-07,Badajoz,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-07,Badajoz,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-07,Badajoz,,3.7,AC,,,empty
+2025-07,Badajoz,,7.4,AC,,,empty
+2025-07,Badajoz,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-07,Badajoz,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-07,Badajoz,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh 22kW AC",0.45,ok
+2025-07,Badajoz,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh 22kW AC",0.45,ok
+2025-07,Badajoz,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh 22kW AC",0.45,ok
+2025-07,Badajoz,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-07,Badajoz,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-07,Badajoz,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-07,Badajoz,,150.0,DC,"0,54€/kWh",0.54,ok
+2025-07,Badajoz,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-07,Badajoz,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-07,Badajoz,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-07,Badajoz,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-07,Badajoz,,22.0,AC,,,no_kwh
+2025-07,Badajoz,,60.0,DC,"0,41€/kWh",0.41,ok
+2025-07,Badajoz,,60.0,DC,"0,41€/kWh",0.41,ok
+2025-07,Badajoz,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-07,Badajoz,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-07,Badajoz,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-07,Badajoz,,50.0,DC,"0,46€/kWh",0.46,ok
+2025-07,Badajoz,,22.0,AC,"0,46€/kWh",0.46,ok
+2025-07,Badajoz,,50.0,DC,"0,46€/kWh",0.46,ok
+2025-07,Badajoz,,200.0,DC,"0,60 €/kWh",0.6,ok
+2025-07,Badajoz,,80.0,DC,"0,60 €/kWh",0.6,ok
+2025-07,Badajoz,,22.0,AC,"0,25€/kWh AC",0.25,ok
+2025-07,Badajoz,,11.0,AC,,,no_kwh
+2025-07,Badajoz,,22.0,AC,"0,25€/kWh AC",0.25,ok
+2025-07,Badajoz,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-07,Badajoz,,100.0,DC,"0,54 €/kWh DC",0.54,ok
+2025-07,Badajoz,,80.0,DC,"0,54 €/kWh DC",0.54,ok
+2025-07,Badajoz,,22.0,AC,"0,25€/kWh AC",0.25,ok
+2025-07,Badajoz,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-07,Badajoz,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-07,Badajoz,,22.0,AC,"0,47€/kWh ",0.47,ok
+2025-07,Badajoz,,22.0,AC,"0,45€/kWh + 0,05€/min after 3 hours",0.45,ok
+2025-07,Badajoz,,3.7,AC,,,no_kwh
+2025-07,Badajoz,,22.0,AC," 0,25€/kWh AC",0.25,ok
+2025-07,Badajoz,,100.0,DC,"0,60 €/kWh DC - 0,39€/kWh AC",0.6,ok
+2025-07,Badajoz,,80.0,DC,"0,60 €/kWh DC - 0,39€/kWh AC",0.6,ok
+2025-07,Badajoz,,3.7,AC,,,no_kwh
+2025-07,Badajoz,,100.0,DC,"0,50€/kWh >60kW - 0,39€/kWh 50kW - 0,32€/kWh AC",0.5,ok
+2025-07,Badajoz,,50.0,DC,"0,50€/kWh >60kW - 0,39€/kWh 50kW - 0,32€/kWh AC",0.5,ok
+2025-07,Badajoz,,22.0,AC,"0,50€/kWh >60kW - 0,39€/kWh 50kW - 0,32€/kWh AC",0.5,ok
+2025-07,Badajoz,,22.0,AC,"0,45€/kWh",0.45,ok
+2025-07,Badajoz,,22.0,AC,"0,45€/kWh",0.45,ok
+2025-07,Badajoz,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-07,Badajoz,,11.0,AC,,,no_kwh
+2025-07,Badajoz,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-07,Badajoz,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-07,Badajoz,,11.0,AC,,,no_kwh
+2025-07,Badajoz,,22.0,AC,,,no_kwh
+2025-07,Badajoz,,22.0,AC,"0,31€/kWh",0.31,ok
+2025-07,Badajoz,,11.0,AC,"0,27€/kWh",0.27,ok
+2025-07,Badajoz,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-07,Badajoz,,43.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-07,Badajoz,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-07,Badajoz,,22.0,AC,free,,free
+2025-07,Badajoz,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-07,Badajoz,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-07,Badajoz,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-07,Badajoz,,3.7,AC,,,empty
+2025-07,Badajoz,,22.0,AC,"0,45€/kWh",0.45,ok
+2025-07,Badajoz,,22.0,AC,,,no_kwh
+2025-07,Badajoz,,22.0,AC,"0,45€/kWh",0.45,ok
+2025-07,Badajoz,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-07,Badajoz,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-07,Badajoz,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok

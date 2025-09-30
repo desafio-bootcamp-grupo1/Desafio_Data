@@ -8,7 +8,7 @@ import os, re, json, ast, traceback
 from datetime import datetime, timedelta
 from dotenv import load_dotenv
 from pathlib import Path
-from typing import Optional, List
+from typing import Optional, List, Dict, Any
 
 # ==============================
 # Cargar .env (del mismo dir que main.py) y configurar Mongo
@@ -46,7 +46,6 @@ dias_map = {
 }
 
 def _to_num_eur(x):
-    """Convierte strings tipo '5,50 €' -> 5.50"""
     if x is None or (isinstance(x, float) and pd.isna(x)):
         return np.nan
     s = str(x).strip().replace("€","").replace("\xa0"," ").strip()
@@ -89,11 +88,6 @@ def _ser(d: dict):
     return out
 
 def _filter_payload(payload: dict, section: Optional[str], fields: Optional[List[str]]) -> dict:
-    """
-    Filtra el JSON devuelto por los endpoints:
-    - section: "empresa" | "usuario" | None
-    - fields: lista de claves a incluir dentro de cada sección
-    """
     if not payload:
         return {}
     if section in ("empresa", "usuario"):
@@ -356,7 +350,6 @@ def kpis_empresa_fuel(df_tickets: pd.DataFrame, df_lines: pd.DataFrame):
         .rename(columns={"empresaNombre":"empresa","total":"gasto_usuario"})
     )
 
-    # Litros y precio por proveedor (desde líneas)
     litros_mes_emp = (
         df_lines.groupby(["empresaTransporte","mes"])["litros"]
         .sum().reset_index().rename(columns={"empresaTransporte":"empresa"})
@@ -532,131 +525,6 @@ def kpis_empresa_ev(df_tickets: pd.DataFrame, df_lines: pd.DataFrame):
         "consumo_emp_user_mes": kwh_emp_user_mes,
     }
 
-# ---------- KPIs Peaje ----------
-def kpis_usuario_toll(df: pd.DataFrame):
-    if df.empty:
-        return {}
-
-    dfu = df.copy()
-    if "idTicket" not in dfu.columns:
-        if "referencia" in dfu.columns:
-            dfu["idTicket"] = dfu["referencia"].astype(str)
-        else:
-            dfu = dfu.reset_index().rename(columns={"index":"idTicket"})
-            dfu["idTicket"] = dfu["idTicket"].astype(str)
-
-    gasto_usuario_mes = dfu.groupby(["idUsuario","mes"])["importe"].sum().reset_index().rename(columns={"importe":"gasto_mes"})
-    tickets_usuario_mes = dfu.groupby(["idUsuario","mes"])["idTicket"].nunique().reset_index().rename(columns={"idTicket":"tickets"})
-
-    usuario_autopista_mes = (
-        dfu.groupby(["idUsuario","mes","autopista"])["importe"]
-        .agg(gasto_autopista_mes="sum", tickets_autopista_mes="count").reset_index()
-    )
-    usuario_autopista_mes["coste_medio_ticket"] = usuario_autopista_mes["gasto_autopista_mes"] / usuario_autopista_mes["tickets_autopista_mes"].replace(0, pd.NA)
-    usuario_autopista_mes["pct_gasto_usuario_mes"] = (
-        100 * usuario_autopista_mes["gasto_autopista_mes"] /
-        usuario_autopista_mes.groupby(["idUsuario","mes"])["gasto_autopista_mes"].transform("sum")
-    )
-
-    metodos_usuario_mes = dfu.groupby(["idUsuario","mes","formaPago"])["idTicket"].nunique().reset_index(name="tickets")
-    metodos_usuario_mes["pct"] = 100 * metodos_usuario_mes["tickets"] / metodos_usuario_mes.groupby(["idUsuario","mes"])["tickets"].transform("sum")
-
-    dias_mediana = dfu.groupby("idUsuario")["fechaHora"].apply(_dias_mediana).reset_index(name="dias_mediana")
-    pct_finde_usuario = dfu.groupby("idUsuario")["is_weekend"].mean().mul(100).reset_index(name="pct_finde")
-
-    return {
-        "gasto_usuario_mes": gasto_usuario_mes,
-        "tickets_usuario_mes": tickets_usuario_mes,
-        "usuario_autopista_mes": usuario_autopista_mes,
-        "metodos_usuario_mes": metodos_usuario_mes,
-        "dias_mediana": dias_mediana,
-        "pct_finde_usuario": pct_finde_usuario,
-    }
-
-# ---------- KPIs Peaje (EMPRESA con desglose por usuario/mes) ----------
-def kpis_empresa_toll(df: pd.DataFrame):
-    if df.empty:
-        return {}
-
-    dfe = df.copy()
-    dfe["empresa"] = dfe.get("empresaNombre", "EMPRESA_UNICA")
-    if "idTicket" not in dfe.columns:
-        if "referencia" in dfe.columns:
-            dfe["idTicket"] = dfe["referencia"].astype(str)
-        else:
-            dfe = dfe.reset_index().rename(columns={"index":"idTicket"})
-            dfe["idTicket"] = dfe["idTicket"].astype(str)
-
-    gasto_mes_emp = (
-        dfe.groupby(["empresa","mes"])["importe"]
-        .sum().reset_index().rename(columns={"importe":"gasto_mes"})
-    )
-    tickets_mes_emp = (
-        dfe.groupby(["empresa","mes"])["idTicket"]
-        .nunique().reset_index().rename(columns={"idTicket":"tickets_mes"})
-    )
-    emp_autopista_mes = (
-        dfe.groupby(["empresa","mes","autopista"])["importe"]
-        .agg(gasto_autopista_mes="sum", tickets_autopista_mes="count").reset_index()
-    )
-    emp_autopista_mes["coste_medio_ticket"] = (
-        emp_autopista_mes["gasto_autopista_mes"] /
-        emp_autopista_mes["tickets_autopista_mes"].replace(0, pd.NA)
-    )
-    emp_autopista_mes["pct_gasto_empresa_mes"] = (
-        100 * emp_autopista_mes["gasto_autopista_mes"] /
-        emp_autopista_mes.groupby(["empresa","mes"])["gasto_autopista_mes"].transform("sum")
-    )
-
-    met_emp_mes = (
-        dfe.groupby(["empresa","mes","formaPago"])["idTicket"]
-        .nunique().reset_index(name="tickets")
-    )
-    met_emp_mes["pct"] = (
-        100 * met_emp_mes["tickets"] /
-        met_emp_mes.groupby(["empresa","mes"])["tickets"].transform("sum")
-    )
-
-    gasto_total_emp = (
-        dfe.groupby("empresa")["importe"]
-        .sum().reset_index().rename(columns={"importe":"gasto_total_periodo"})
-    )
-    vehiculos_emp = (
-        dfe.groupby("empresa")["idUsuario"]
-        .nunique().reset_index().rename(columns={"idUsuario":"num_vehiculos"})
-    )
-    gasto_medio_veh = (
-        dfe.groupby(["empresa","idUsuario"])["importe"]
-        .sum().groupby("empresa").mean().reset_index()
-        .rename(columns={"importe":"gasto_medio_por_vehiculo"})
-    )
-    pct_finde_emp = (
-        dfe.groupby("empresa")["is_weekend"].mean().mul(100)
-        .reset_index().rename(columns={"is_weekend":"pct_finde"})
-    )
-    gasto_emp_user_mes = (
-        dfe.groupby(["empresa","idUsuario","mes"])["importe"]
-        .sum().reset_index().rename(columns={"importe":"gasto_mes"})
-    )
-    tickets_emp_user_mes = (
-        dfe.groupby(["empresa","idUsuario","mes"])["idTicket"]
-        .nunique().reset_index().rename(columns={"idTicket":"tickets_mes"})
-    )
-
-    return {
-        "gasto_mes_emp": gasto_mes_emp,
-        "tickets_mes_emp": tickets_mes_emp,
-        "emp_autopista_mes": emp_autopista_mes,
-        "met_emp_mes": met_emp_mes,
-        "gasto_total_emp": gasto_total_emp,
-        "vehiculos_emp": vehiculos_emp,
-        "gasto_medio_veh": gasto_medio_veh,
-        "pct_finde_emp": pct_finde_emp,
-        # Nuevos datasets
-        "gasto_emp_user_mes": gasto_emp_user_mes,
-        "tickets_emp_user_mes": tickets_emp_user_mes,
-    }
-
 # ==============================
 # Dominios y combinador ALL
 # ==============================
@@ -664,7 +532,7 @@ VALID_DOMAINS = {"combustible", "ev", "peaje", "all"}
 VALID_SECTIONS = {"empresa", "usuario"}
 
 def _compute_all_empresa(start_date: str|None, end_date: str|None, empresa: str|None, idUsuario: str|None) -> dict:
-    # --- Combustible ---
+    # Combustible
     filt_fuel = _build_filter_fechas_cabecera(start_date, end_date)
     if empresa:   filt_fuel["empresaNombre"] = empresa
     if idUsuario: filt_fuel["idUsuario"] = idUsuario
@@ -681,7 +549,7 @@ def _compute_all_empresa(start_date: str|None, end_date: str|None, empresa: str|
         gasto_mes_fuel = pd.DataFrame(columns=["empresa","mes","gasto","domain"])
         gasto_user_mes_fuel = pd.DataFrame(columns=["empresa","idUsuario","mes","gasto","domain"])
 
-    # --- EV ---
+    # EV
     filt_ev = _build_filter_fechas_cabecera(start_date, end_date)
     if empresa:   filt_ev["empresaNombre"] = empresa
     if idUsuario: filt_ev["idUsuario"] = idUsuario
@@ -698,7 +566,7 @@ def _compute_all_empresa(start_date: str|None, end_date: str|None, empresa: str|
         gasto_mes_ev = pd.DataFrame(columns=["empresa","mes","gasto","domain"])
         gasto_user_mes_ev = pd.DataFrame(columns=["empresa","idUsuario","mes","gasto","domain"])
 
-    # --- Peaje ---
+    # Peaje
     filt_toll = _build_filter_fechas_toll(start_date, end_date)
     if empresa:   filt_toll["empresaNombre"] = empresa
     if idUsuario: filt_toll["idUsuario"] = idUsuario
@@ -729,7 +597,6 @@ def _compute_all_empresa(start_date: str|None, end_date: str|None, empresa: str|
         gasto_mes_toll = pd.DataFrame(columns=["empresa","mes","gasto","domain"])
         gasto_user_mes_toll = pd.DataFrame(columns=["empresa","idUsuario","mes","gasto","domain"])
 
-    # --- Unión final ---
     gasto_mes_emp_all = pd.concat([gasto_mes_fuel, gasto_mes_ev, gasto_mes_toll], ignore_index=True)
     gasto_emp_user_mes_all = pd.concat([gasto_user_mes_fuel, gasto_user_mes_ev, gasto_user_mes_toll], ignore_index=True)
 
@@ -826,7 +693,6 @@ def debug_distinct(collection: str, field: str, limit: int = 50):
 
 @app.get("/debug/peaje_sample")
 def debug_peaje_sample(n: int = 5):
-    """Mira columnas y primeras filas de la colección Peaje (sin filtros)."""
     df = load_df_mongo(coll_toll, {})
     return {
         "docs": len(df),
@@ -842,7 +708,6 @@ def debug_peaje_after(
     idUsuario: str|None = None,
     n: int = 5
 ):
-    """Muestra cómo queda el DF de Peaje después de normalizar (mismas reglas que el endpoint)."""
     filt = _build_filter_fechas_toll(start_date, end_date)
     if empresa:
         filt["empresaNombre"] = empresa
@@ -1061,7 +926,6 @@ def ep_kpis_all(
 # Aliases: "un endpoint por gráfica"
 # ==============================
 def _compute_payload(domain: str, start_date: str|None, end_date: str|None, empresa: str|None, idUsuario: str|None) -> dict:
-    """Reutiliza la misma lógica que los /kpis/* para obtener el payload completo y luego filtrar."""
     if domain == "combustible":
         filt = _build_filter_fechas_cabecera(start_date, end_date)
         if empresa:
@@ -1152,14 +1016,6 @@ def chart_endpoint(
     empresa: str|None = Query(None),
     idUsuario: str|None = Query(None),
 ):
-    """
-    Devuelve SOLO el dataset necesario para una gráfica concreta.
-    Ej.:
-    /charts/combustible/empresa/gasto_mes_emp?empresa=ACME&start_date=2025-01-01&end_date=2025-12-31
-    /charts/ev/usuario/kwh_usuario_mes?idUsuario=U42
-    /charts/peaje/empresa/emp_autopista_mes?empresa=ACME
-    /charts/all/empresa/gasto_mes_emp_all?empresa=ACME  (combinado)
-    """
     domain = domain.lower()
     section = section.lower()
     if domain not in VALID_DOMAINS:
@@ -1192,3 +1048,320 @@ def root():
         "kpis_all_example": "/kpis/all?empresa=ACME&start_date=2025-01-01&end_date=2025-12-31&fields=gasto_mes_emp,consumo_emp_user_mes",
         "charts_example": "/charts/all/empresa/gasto_mes_emp_all?empresa=ACME&start_date=2025-01-01&end_date=2025-12-31"
     }
+
+# ==============================
+# ENDPOINTS SUSTAINABILITY (EV + ICE unificados) — SECCIÓN AUTÓNOMA
+# ==============================
+
+COL_SUS = os.getenv("COL_SUS", "Sustainability")
+coll_sus = db[COL_SUS]
+
+try:
+    KGCO2_PER_L_GASOLINA
+except NameError:
+    KGCO2_PER_L_GASOLINA = 2.35
+try:
+    KGCO2_PER_L_DIESEL
+except NameError:
+    KGCO2_PER_L_DIESEL = 2.69
+try:
+    GRID_KGCO2_PER_KWH
+except NameError:
+    GRID_KGCO2_PER_KWH = 0.283
+try:
+    LOSS_FACTOR_TD
+except NameError:
+    LOSS_FACTOR_TD = 1.096
+
+def sus_safe_ratio(a: float, b: float) -> float | None:
+    a = 0.0 if pd.isna(a) else float(a)
+    b = 0.0 if pd.isna(b) else float(b)
+    return (a / b) if b > 0 else None
+
+def sus_match_date_range_mes(df: pd.DataFrame, from_: str | None, to_: str | None) -> pd.DataFrame:
+    if "mes" not in df.columns:
+        return df
+    out = df.copy()
+    if from_:
+        out = out[out["mes"] >= from_]
+    if to_:
+        out = out[out["mes"] <= to_]
+    return out
+
+def sus_materialize_from_domain_collections(
+    from_: str | None, to_: str | None,
+    idEmpresa: str | None, idUsuario: str | None,
+    propulsion: str | None
+) -> pd.DataFrame:
+    # Combustible
+    filt_fuel = _build_filter_fechas_cabecera(from_, to_)
+    if idEmpresa:   filt_fuel["empresaNombre"] = idEmpresa
+    if idUsuario:   filt_fuel["idUsuario"] = idUsuario
+    df_fuel = load_df_mongo(coll_fuel, filt_fuel)
+
+    if not df_fuel.empty:
+        df_fuel = add_time_cols_fuel_ev(df_fuel)
+        df_fuel["lineas_parsed"] = df_fuel.get("lineas", pd.Series([[]] * len(df_fuel))).apply(parse_lineas)
+        lines_f = explode_fuel_lines(df_fuel)
+
+        if lines_f.empty:
+            fuel_tx = df_fuel[["idUsuario", "empresaNombre", "mes"]].copy()
+            fuel_tx["litros"] = np.nan
+        else:
+            fuel_tx = lines_f[["idUsuario", "empresaTransporte", "mes", "litros"]].rename(
+                columns={"empresaTransporte": "empresaNombre"}
+            )
+
+        fuel_tx["idEmpresa"] = fuel_tx["empresaNombre"].astype(str)
+        if "idVehiculo" in df_fuel.columns:
+            veh_map_f = (df_fuel.dropna(subset=["idUsuario", "idVehiculo"])
+                               .drop_duplicates("idUsuario")[["idUsuario", "idVehiculo"]])
+            fuel_tx = fuel_tx.merge(veh_map_f, on="idUsuario", how="left")
+        fuel_tx["idVehiculo"] = fuel_tx["idVehiculo"].fillna(
+            fuel_tx["idEmpresa"].astype(str) + "-" + fuel_tx["idUsuario"].astype(str) + "-ICE"
+        )
+
+        fuel_tx["propulsion"] = "ICE"
+        factor_ice = KGCO2_PER_L_DIESEL
+        fuel_tx["litros"] = pd.to_numeric(fuel_tx["litros"], errors="coerce")
+        fuel_tx["kgCO2_ice"] = fuel_tx["litros"] * factor_ice
+        fuel_tx["kwh"] = np.nan
+        fuel_tx["kgCO2e_ev"] = np.nan
+        fuel_tx["kgCO2_total"] = fuel_tx["kgCO2_ice"]
+
+        fuel_tx = fuel_tx[[
+            "idEmpresa", "idUsuario", "idVehiculo", "propulsion", "mes", "kwh", "litros",
+            "kgCO2e_ev", "kgCO2_ice", "kgCO2_total"
+        ]]
+    else:
+        fuel_tx = pd.DataFrame(columns=[
+            "idEmpresa", "idUsuario", "idVehiculo", "propulsion", "mes", "kwh", "litros",
+            "kgCO2e_ev", "kgCO2_ice", "kgCO2_total"
+        ])
+
+    # EV
+    filt_ev = _build_filter_fechas_cabecera(from_, to_)
+    if idEmpresa:   filt_ev["empresaNombre"] = idEmpresa
+    if idUsuario:   filt_ev["idUsuario"] = idUsuario
+    df_ev = load_df_mongo(coll_ev, filt_ev)
+
+    if not df_ev.empty:
+        df_ev = add_time_cols_fuel_ev(df_ev)
+        df_ev["lineas_parsed"] = df_ev.get("lineas", pd.Series([[]] * len(df_ev))).apply(parse_lineas)
+        lines_e = explode_ev_lines(df_ev)
+
+        if lines_e.empty:
+            ev_tx = df_ev[["idUsuario", "empresaNombre", "mes"]].copy()
+            ev_tx["kwh"] = np.nan
+        else:
+            ev_tx = lines_e[["idUsuario", "empresaTransporte", "mes", "kwh"]].rename(
+                columns={"empresaTransporte": "empresaNombre"}
+            )
+
+        ev_tx["idEmpresa"] = ev_tx["empresaNombre"].astype(str)
+        if "idVehiculo" in df_ev.columns:
+            veh_map_e = (df_ev.dropna(subset=["idUsuario", "idVehiculo"])
+                              .drop_duplicates("idUsuario")[["idUsuario", "idVehiculo"]])
+            ev_tx = ev_tx.merge(veh_map_e, on="idUsuario", how="left")
+        ev_tx["idVehiculo"] = ev_tx["idVehiculo"].fillna(
+            ev_tx["idEmpresa"].astype(str) + "-" + ev_tx["idUsuario"].astype(str) + "-EV"
+        )
+
+        ev_tx["propulsion"] = "EV"
+        ev_tx["kwh"] = pd.to_numeric(ev_tx["kwh"], errors="coerce")
+        ev_tx["kgCO2e_ev"] = ev_tx["kwh"] * LOSS_FACTOR_TD * GRID_KGCO2_PER_KWH
+        ev_tx["litros"] = np.nan
+        ev_tx["kgCO2_ice"] = np.nan
+        ev_tx["kgCO2_total"] = ev_tx["kgCO2e_ev"]
+
+        ev_tx = ev_tx[[
+            "idEmpresa", "idUsuario", "idVehiculo", "propulsion", "mes", "kwh", "litros",
+            "kgCO2e_ev", "kgCO2_ice", "kgCO2_total"
+        ]]
+    else:
+        ev_tx = pd.DataFrame(columns=[
+            "idEmpresa", "idUsuario", "idVehiculo", "propulsion", "mes", "kwh", "litros",
+            "kgCO2e_ev", "kgCO2_ice", "kgCO2_total"
+        ])
+
+    df = pd.concat([fuel_tx, ev_tx], ignore_index=True, sort=False)
+
+    if propulsion:
+        df = df[df["propulsion"].astype(str).str.upper() == propulsion.upper()]
+
+    if "mes" not in df.columns or df["mes"].isna().all():
+        df["mes"] = "NA"
+    df["mes"] = df["mes"].astype(str)
+
+    df = sus_match_date_range_mes(df, from_, to_)
+    return df
+
+def sus_get_df(
+    from_: str | None, to_: str | None,
+    idEmpresa: str | None, idUsuario: str | None,
+    propulsion: str | None
+) -> pd.DataFrame:
+    try:
+        if coll_sus.estimated_document_count() > 0:
+            q: Dict[str, Any] = {}
+            if idEmpresa:  q["idEmpresa"]  = idEmpresa
+            if idUsuario:  q["idUsuario"]  = idUsuario
+            if propulsion: q["propulsion"] = propulsion
+            docs = list(coll_sus.find(q, {"_id": 0}))
+            df = pd.DataFrame(docs)
+            if df.empty:
+                return df
+            for c in ["kwh", "litros", "kgCO2e_ev", "kgCO2_ice", "kgCO2_total"]:
+                if c in df.columns:
+                    df[c] = pd.to_numeric(df[c], errors="coerce")
+            if "mes" in df.columns:
+                df["mes"] = df["mes"].astype(str)
+                df = sus_match_date_range_mes(df, from_, to_)
+            else:
+                df["mes"] = "NA"
+            return df
+    except Exception:
+        pass
+    return sus_materialize_from_domain_collections(from_, to_, idEmpresa, idUsuario, propulsion)
+
+def sus_paginate(items: list, limit: int, offset: int) -> list:
+    limit = max(1, min(int(limit), 1000))
+    offset = max(0, int(offset))
+    return items[offset:offset + limit]
+
+@app.get("/v1/sustainability/companies")
+def sus_companies(
+    from_: str | None = Query(None, alias="from", description="YYYY-MM"),
+    to_:   str | None = Query(None, alias="to",   description="YYYY-MM"),
+    propulsion: str | None = Query(None, description="EV|ICE"),
+    limit: int = 100,
+    offset: int = 0,
+):
+    df = sus_get_df(from_, to_, None, None, propulsion)
+    if df.empty:
+        return {"count": 0, "items": []}
+    g = (df.groupby(["idEmpresa"], dropna=False)
+           .agg(kwh=("kwh", "sum"),
+                litros=("litros", "sum"),
+                kgCO2e_ev=("kgCO2e_ev", "sum"),
+                kgCO2_ice=("kgCO2_ice", "sum"),
+                kgCO2_total=("kgCO2_total", "sum"),
+                n_usuarios=("idUsuario", pd.Series.nunique),
+                n_vehiculos=("idVehiculo", pd.Series.nunique))
+           .reset_index())
+    g["share_co2_ev"] = g.apply(lambda r: sus_safe_ratio(r["kgCO2e_ev"], r["kgCO2e_ev"] + r["kgCO2_ice"]), axis=1)
+    items = sus_paginate(g.to_dict(orient="records"), limit, offset)
+    return {"count": len(items), "items": items}
+
+@app.get("/v1/sustainability/companies/{idEmpresa}/summary")
+def sus_company_summary(
+    idEmpresa: str,
+    from_: str | None = Query(None, alias="from"),
+    to_:   str | None = Query(None, alias="to"),
+    propulsion: str | None = Query(None, description="EV|ICE"),
+):
+    df = sus_get_df(from_, to_, idEmpresa, None, propulsion)
+    if df.empty:
+        return {"idEmpresa": idEmpresa, "kwh": 0, "litros": 0, "kgCO2e_ev": 0, "kgCO2_ice": 0, "kgCO2_total": 0,
+                "n_usuarios": 0, "n_vehiculos": 0, "share_co2_ev": None}
+    g = (df.groupby(["idEmpresa"], dropna=False)
+           .agg(kwh=("kwh", "sum"),
+                litros=("litros", "sum"),
+                kgCO2e_ev=("kgCO2e_ev", "sum"),
+                kgCO2_ice=("kgCO2_ice", "sum"),
+                kgCO2_total=("kgCO2_total", "sum"),
+                n_usuarios=("idUsuario", pd.Series.nunique),
+                n_vehiculos=("idVehiculo", pd.Series.nunique))
+           .reset_index())
+    r = g.iloc[0].to_dict()
+    r["share_co2_ev"] = sus_safe_ratio(r["kgCO2e_ev"], r["kgCO2e_ev"] + r["kgCO2_ice"])
+    return r
+
+@app.get("/v1/sustainability/companies/{idEmpresa}/months")
+def sus_company_months(
+    idEmpresa: str,
+    from_: str | None = Query(None, alias="from"),
+    to_:   str | None = Query(None, alias="to"),
+    propulsion: str | None = Query(None, description="EV|ICE"),
+    limit: int = 500, offset: int = 0
+):
+    df = sus_get_df(from_, to_, idEmpresa, None, propulsion)
+    if df.empty:
+        return {"count": 0, "items": []}
+    g = (df.groupby(["idEmpresa", "mes"], dropna=False)
+           .agg(kwh=("kwh", "sum"),
+                litros=("litros", "sum"),
+                kgCO2e_ev=("kgCO2e_ev", "sum"),
+                kgCO2_ice=("kgCO2_ice", "sum"),
+                kgCO2_total=("kgCO2_total", "sum"))
+           .reset_index().sort_values(["mes"]))
+    g["share_co2_ev"] = g.apply(lambda r: sus_safe_ratio(r["kgCO2e_ev"], r["kgCO2e_ev"] + r["kgCO2_ice"]), axis=1)
+    items = sus_paginate(g.to_dict(orient="records"), limit, offset)
+    return {"count": len(items), "items": items}
+
+@app.get("/v1/sustainability/companies/{idEmpresa}/users")
+def sus_company_users(
+    idEmpresa: str,
+    from_: str | None = Query(None, alias="from"),
+    to_:   str | None = Query(None, alias="to"),
+    propulsion: str | None = Query(None, description="EV|ICE"),
+    limit: int = 200, offset: int = 0
+):
+    df = sus_get_df(from_, to_, idEmpresa, None, propulsion)
+    if df.empty:
+        return {"count": 0, "items": []}
+    g = (df.groupby(["idEmpresa", "idUsuario"], dropna=False)
+           .agg(kwh=("kwh", "sum"),
+                litros=("litros", "sum"),
+                kgCO2e_ev=("kgCO2e_ev", "sum"),
+                kgCO2_ice=("kgCO2_ice", "sum"),
+                kgCO2_total=("kgCO2_total", "sum"),
+                n_vehiculos=("idVehiculo", pd.Series.nunique))
+           .reset_index().sort_values(["idUsuario"]))
+    g["share_co2_ev"] = g.apply(lambda r: sus_safe_ratio(r["kgCO2e_ev"], r["kgCO2e_ev"] + r["kgCO2_ice"]), axis=1)
+    items = sus_paginate(g.to_dict(orient="records"), limit, offset)
+    return {"count": len(items), "items": items}
+
+@app.get("/v1/sustainability/companies/{idEmpresa}/users/{idUsuario}/months")
+def sus_company_user_months(
+    idEmpresa: str, idUsuario: str,
+    from_: str | None = Query(None, alias="from"),
+    to_:   str | None = Query(None, alias="to"),
+    propulsion: str | None = Query(None, description="EV|ICE"),
+    limit: int = 200, offset: int = 0
+):
+    df = sus_get_df(from_, to_, idEmpresa, idUsuario, propulsion)
+    if df.empty:
+        return {"count": 0, "items": []}
+    g = (df.groupby(["idEmpresa", "idUsuario", "mes"], dropna=False)
+           .agg(kwh=("kwh", "sum"),
+                litros=("litros", "sum"),
+                kgCO2e_ev=("kgCO2e_ev", "sum"),
+                kgCO2_ice=("kgCO2_ice", "sum"),
+                kgCO2_total=("kgCO2_total", "sum"))
+           .reset_index().sort_values(["mes"]))
+    g["share_co2_ev"] = g.apply(lambda r: sus_safe_ratio(r["kgCO2e_ev"], r["kgCO2e_ev"] + r["kgCO2_ice"]), axis=1)
+    items = sus_paginate(g.to_dict(orient="records"), limit, offset)
+    return {"count": len(items), "items": items}
+
+@app.get("/v1/sustainability/vehicles")
+def sus_vehicles(
+    idEmpresa: str | None = None,
+    idUsuario: str | None = None,
+    propulsion: str | None = Query(None, description="EV|ICE"),
+    from_: str | None = Query(None, alias="from"),
+    to_:   str | None = Query(None, alias="to"),
+    limit: int = 500, offset: int = 0
+):
+    df = sus_get_df(from_, to_, idEmpresa, idUsuario, propulsion)
+    if df.empty:
+        return {"count": 0, "items": []}
+    g = (df.groupby(["idEmpresa", "idUsuario", "idVehiculo", "propulsion"], dropna=False)
+           .agg(kwh=("kwh", "sum"),
+                litros=("litros", "sum"),
+                kgCO2e_ev=("kgCO2e_ev", "sum"),
+                kgCO2_ice=("kgCO2_ice", "sum"),
+                kgCO2_total=("kgCO2_total", "sum"))
+           .reset_index())
+    items = sus_paginate(g.to_dict(orient="records"), limit, offset)
+    return {"count": len(items), "items": items}

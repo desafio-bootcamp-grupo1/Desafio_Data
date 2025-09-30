@@ -1,0 +1,5772 @@
+[
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2023-02-07T19:37:00Z",
+    "ID": 213497,
+    "UUID": "3C6C8BFE-0D0E-47F0-BA82-F23FE7124A57",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 213877,
+      "Title": "Hotel Lobios Caldaria",
+      "AddressLine1": "OU-312",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32895",
+      "CountryID": 210,
+      "Latitude": 41.86188990308804,
+      "Longitude": -8.106767099959256,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 355614,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2023-02-07T19:37:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-02-07T19:37:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2023-02-07T19:38:00Z",
+    "ID": 164004,
+    "UUID": "A1DB7EAA-121A-424F-8E58-9DAF03FE1E90",
+    "DataProviderID": 1,
+    "OperatorID": 23,
+    "OperatorsReference": "42502",
+    "UsageTypeID": 6,
+    "AddressInfo": {
+      "ID": 164363,
+      "Title": "Casa Da Feira - Turismo Rural",
+      "AddressLine1": "Lugar Da Portaxe",
+      "Town": "9",
+      "StateOrProvince": "Lobios",
+      "Postcode": "32879",
+      "CountryID": 210,
+      "Latitude": 41.909257,
+      "Longitude": -8.074,
+      "ContactTelephone1": "+34 988 448 138",
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 235602,
+        "ConnectionTypeID": 30,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 17,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "GeneralComments": "1 Tesla Connector, up to 17kW.Available for customers. Please see front desk.",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2023-02-07T19:38:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2020-08-24T23:56:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2023-02-07T19:37:00Z",
+    "ID": 213496,
+    "UUID": "60A22BAF-975A-409C-90EB-95CDBCB1FCFE",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "AddressInfo": {
+      "ID": 213876,
+      "Title": "Termas Romanas",
+      "AddressLine1": "Termas Romanas",
+      "Town": "Bande",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32848",
+      "CountryID": 210,
+      "Latitude": 41.97964000156955,
+      "Longitude": -7.982454403677593,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 355613,
+        "ConnectionTypeID": 16,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 3.7,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2023-02-07T19:37:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-02-07T19:37:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-09-19T17:35:00Z",
+    "ID": 85725,
+    "UUID": "92F71B6A-2E8C-4C8E-9D1F-B03F40130006",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "OperatorsReference": "26658",
+    "UsageTypeID": 6,
+    "AddressInfo": {
+      "ID": 86071,
+      "Title": "Rectoral de Ansemil",
+      "AddressLine1": "SN Lamas de Ansemil",
+      "Town": "Celanova",
+      "Postcode": "32817",
+      "CountryID": 210,
+      "Latitude": 42.136144,
+      "Longitude": -7.94025,
+      "ContactTelephone1": "+34 6877 75726",
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 121866,
+        "ConnectionTypeID": 30,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "Amps": 32,
+        "Voltage": 230,
+        "PowerKW": 14,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      },
+      {
+        "ID": 340352,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 11,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 2,
+    "GeneralComments": "1 Tesla Connector, up to 14kW.Available for patrons only. Please see front desk.",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-09-19T17:35:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2017-04-13T05:46:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-07-11T22:17:00Z",
+    "ID": 188488,
+    "UUID": "C4265E67-E30F-4DE5-8347-9DC301045B33",
+    "DataProviderID": 1,
+    "OperatorID": 3401,
+    "UsageTypeID": 4,
+    "UsageCost": "0,40€/kWh",
+    "AddressInfo": {
+      "ID": 188847,
+      "Title": "E.S. Celanova",
+      "AddressLine1": "Estrada de Ourense, 25",
+      "Town": "Celanova",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32817",
+      "CountryID": 210,
+      "Latitude": 42.15547267885992,
+      "Longitude": -7.95256647138379,
+      "RelatedURL": "http://www.electromaps.com",
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 304405,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 24,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 304406,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 24,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 304407,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 22,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-07-11T22:17:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2021-07-29T09:53:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-04-28T21:27:00Z",
+    "ID": 312065,
+    "UUID": "B11B433A-BE70-4B2E-A6CF-C88CF85663A3",
+    "DataProviderID": 1,
+    "OperatorID": 91,
+    "UsageTypeID": 4,
+    "UsageCost": "0.47€/kWh ",
+    "AddressInfo": {
+      "ID": 312454,
+      "Title": "Repsol Celanova",
+      "AddressLine1": "Celanova",
+      "Town": "Celanova",
+      "CountryID": 210,
+      "Latitude": 42.15875749895113,
+      "Longitude": -7.950027659756756,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 601217,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 601218,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 601219,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 43,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-04-28T21:27:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2025-04-28T21:27:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2023-02-07T19:35:00Z",
+    "ID": 106782,
+    "UUID": "425C4EE2-8A9D-46CC-ABF9-C533C0CA4696",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 1,
+    "UsageCost": "Free",
+    "AddressInfo": {
+      "ID": 107128,
+      "Title": "Ben Comun Espazo",
+      "AddressLine1": "Praza Torre Lombarda",
+      "Town": "Allariz",
+      "StateOrProvince": "Ourense, Galicia",
+      "Postcode": "32660",
+      "CountryID": 210,
+      "Latitude": 42.18794622951859,
+      "Longitude": -7.804365990500855,
+      "ContactTelephone1": "988680892",
+      "ContactEmail": "info@bencomun.gal",
+      "RelatedURL": "http://bencomun.gal/",
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 150519,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "Amps": 32,
+        "Voltage": 230,
+        "PowerKW": 7.3,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      },
+      {
+        "ID": 150520,
+        "ConnectionTypeID": 28,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "Amps": 16,
+        "Voltage": 230,
+        "PowerKW": 3.6,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2023-02-07T19:35:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2018-06-30T14:13:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2023-02-07T19:35:00Z",
+    "ID": 213495,
+    "UUID": "07922124-5AF6-4375-8BD7-010718DE4659",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "AddressInfo": {
+      "ID": 213875,
+      "Title": "Hotel Torre Lombarda",
+      "AddressLine1": "Rúa de Alfredo Nan",
+      "Town": "Allariz",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32660",
+      "CountryID": 210,
+      "Latitude": 42.18815200112732,
+      "Longitude": -7.804120630136708,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 355612,
+        "ConnectionTypeID": 28,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 3.7,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2023-02-07T19:35:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-02-07T19:35:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-07-08T05:20:00Z",
+    "ID": 205602,
+    "UUID": "3F56FDFF-A57F-4A60-B3F8-558B1EC1C409",
+    "DataProviderID": 1,
+    "OperatorID": 207,
+    "UsageTypeID": 4,
+    "UsageCost": "0,40€/kWh",
+    "AddressInfo": {
+      "ID": 205971,
+      "Title": "Hotel OCA Vila de Allariz",
+      "AddressLine1": "Paseo do Arnado",
+      "Town": "Allariz",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32660",
+      "CountryID": 210,
+      "Latitude": 42.19371025795979,
+      "Longitude": -7.80406121733472,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 343206,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 4
+      }
+    ],
+    "NumberOfPoints": 4,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-07-08T05:20:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-10-06T08:00:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2023-02-07T19:34:00Z",
+    "ID": 213493,
+    "UUID": "11261B71-E9F7-40CA-B84B-2D97FE16170D",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "AddressInfo": {
+      "ID": 213873,
+      "Title": "Casa das Augas Santas",
+      "AddressLine1": "Casa das Augas Santas",
+      "Town": "Allariz",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32668",
+      "CountryID": 210,
+      "Latitude": 42.240830340858366,
+      "Longitude": -7.785642028806791,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 355610,
+        "ConnectionTypeID": 28,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 3.7,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2023-02-07T19:34:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-02-07T19:34:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-04-26T17:40:00Z",
+    "ID": 297938,
+    "UUID": "A012850B-23A7-4046-ABE7-4F72CC89076A",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 298325,
+      "Title": "Toyota Orense",
+      "AddressLine1": "Orense",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32915",
+      "CountryID": 210,
+      "Latitude": 42.28194376519255,
+      "Longitude": -7.85236678932165,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 542422,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 11,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-04-26T17:40:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-04-26T17:39:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-07-07T17:25:00Z",
+    "ID": 205594,
+    "UUID": "8BA73B4E-23B2-4F24-AB31-1E128C107787",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "AddressInfo": {
+      "ID": 205963,
+      "Title": "KIA Ourense ",
+      "AddressLine1": "KIA Ourense ",
+      "Town": "San Cibrao das Viñas",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32915",
+      "CountryID": 210,
+      "Latitude": 42.280334043974705,
+      "Longitude": -7.854252351349686,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 343192,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      },
+      {
+        "ID": 343193,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 343194,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 3,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-07-07T17:25:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-10-06T07:30:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-05-16T08:15:00Z",
+    "ID": 300600,
+    "UUID": "18F25484-9587-439D-899E-DD629F7CACDE",
+    "DataProviderID": 1,
+    "OperatorID": 3459,
+    "UsageTypeID": 4,
+    "UsageCost": "0,54€/kWh ",
+    "AddressInfo": {
+      "ID": 300987,
+      "Title": "Hotel Condado (Acciona)",
+      "AddressLine1": "Orense",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32910",
+      "CountryID": 210,
+      "Latitude": 42.28167113170824,
+      "Longitude": -7.855331734014953,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 559632,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 375,
+        "Voltage": 920,
+        "PowerKW": 100,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "Circutor Raption150C Charger. Max power for both combined outlets 100kW"
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-05-16T08:15:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-07-07T17:26:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-10-06T10:02:00Z",
+    "ID": 205612,
+    "UUID": "42DC92A7-06D6-4465-84F8-F2130014E3BA",
+    "DataProviderID": 1,
+    "OperatorID": 1,
+    "UsageTypeID": 1,
+    "AddressInfo": {
+      "ID": 205981,
+      "Title": "Hotel Arnoia Caldaria",
+      "AddressLine1": "Hotel Arnoia Caldaria",
+      "Town": "A Arnoia",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32418",
+      "CountryID": 210,
+      "Latitude": 42.258904583134154,
+      "Longitude": -8.154208580094746,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 343217,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "GeneralComments": "App Digavel",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-10-06T10:02:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-10-06T10:02:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-05-12T20:42:00Z",
+    "ID": 307181,
+    "UUID": "712CD775-CF41-47B3-BD22-A97CE021030F",
+    "DataProviderID": 1,
+    "OperatorID": 3459,
+    "UsageTypeID": 4,
+    "UsageCost": "0,36€/kWh",
+    "AddressInfo": {
+      "ID": 307570,
+      "Title": "Pabellón Municipal A Cañiza",
+      "AddressLine1": "A Cañiza",
+      "Town": "A Cañiza",
+      "CountryID": 210,
+      "Latitude": 42.216010584081914,
+      "Longitude": -8.282205444761644,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 586070,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-05-12T20:42:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-12-18T18:09:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-05-12T20:42:00Z",
+    "ID": 300571,
+    "UUID": "CE2D09D3-4499-4F41-83FD-89E5EF750117",
+    "DataProviderID": 1,
+    "OperatorID": 3459,
+    "UsageTypeID": 4,
+    "UsageCost": " 0,36€/kWh AC",
+    "AddressInfo": {
+      "ID": 300958,
+      "Title": "Casa de Cultura A Cañiza",
+      "AddressLine1": "Rúa Regueiro",
+      "Town": "A Cañiza",
+      "StateOrProvince": "Galicia",
+      "Postcode": "36880",
+      "CountryID": 210,
+      "Latitude": 42.21517677270364,
+      "Longitude": -8.268449026736334,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 559587,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-05-12T20:42:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-07-07T16:07:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-07-07T16:05:00Z",
+    "ID": 300570,
+    "UUID": "2F8CC60F-FFB1-4E4C-B4FF-5B557409C648",
+    "DataProviderID": 1,
+    "OperatorID": 91,
+    "UsageTypeID": 4,
+    "UsageCost": "0.47€/kWh ",
+    "AddressInfo": {
+      "ID": 300957,
+      "Title": "Repsol A Cañiza",
+      "AddressLine1": "Rúa Progreso",
+      "Town": "A Cañiza",
+      "StateOrProvince": "Galicia",
+      "Postcode": "36880",
+      "CountryID": 210,
+      "Latitude": 42.21555012813212,
+      "Longitude": -8.267971850525896,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 559584,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 559585,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 559586,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 43,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 150,
+    "DateLastStatusUpdate": "2024-07-07T16:05:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-07-07T16:05:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-07-07T16:04:00Z",
+    "ID": 300569,
+    "UUID": "07787563-A408-4C22-A510-EB99659806E7",
+    "DataProviderID": 1,
+    "OperatorID": 91,
+    "UsageTypeID": 4,
+    "UsageCost": "0.47€/kWh ",
+    "AddressInfo": {
+      "ID": 300956,
+      "Title": "Repsol A Cañiza",
+      "AddressLine1": "Rúa Silleda",
+      "Town": "A Cañiza",
+      "StateOrProvince": "Galicia",
+      "Postcode": "36880",
+      "CountryID": 210,
+      "Latitude": 42.20702770736858,
+      "Longitude": -8.267361703840379,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 559581,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 559582,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 559583,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 43,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-07-07T16:04:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-07-07T16:04:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-10-06T10:05:00Z",
+    "ID": 205614,
+    "UUID": "1C0DCDF4-F3C6-4F48-85E6-9DF4C7D89E14",
+    "DataProviderID": 1,
+    "OperatorID": 1,
+    "UsageTypeID": 7,
+    "AddressInfo": {
+      "ID": 205983,
+      "Title": "Ayuntamiento de Covelo",
+      "AddressLine1": "Rúa da Feira",
+      "Town": "Covelo",
+      "StateOrProvince": "Galicia",
+      "Postcode": "",
+      "CountryID": 210,
+      "Latitude": 42.23274899434071,
+      "Longitude": -8.363220673135515,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 343219,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-10-06T10:05:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-10-06T10:05:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-10-06T10:04:00Z",
+    "ID": 205613,
+    "UUID": "F10D4325-15E2-4DC0-8CAD-07B6AF699B77",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "AddressInfo": {
+      "ID": 205982,
+      "Title": "A Senra das Estrellas",
+      "AddressLine1": "Prado Pq. San Salvador",
+      "Town": "Covelo",
+      "StateOrProvince": "Galicia",
+      "Postcode": "",
+      "CountryID": 210,
+      "Latitude": 42.29208696601489,
+      "Longitude": -8.30609957613865,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 343218,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-10-06T10:04:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-10-06T10:04:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-10-06T10:01:00Z",
+    "ID": 205609,
+    "UUID": "55304E18-C388-4443-8476-861931E4CD51",
+    "DataProviderID": 1,
+    "OperatorID": 1,
+    "UsageTypeID": 1,
+    "AddressInfo": {
+      "ID": 205978,
+      "Title": "Ayunt. Ribadavia",
+      "AddressLine1": "Rúa Tomás de Lemos",
+      "Town": "Ribadavia",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32400",
+      "CountryID": 210,
+      "Latitude": 42.28729097325643,
+      "Longitude": -8.144757018047471,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 343214,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "GeneralComments": "",
+    "StatusTypeID": 150,
+    "DateLastStatusUpdate": "2022-10-06T10:01:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-10-06T09:59:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-18T17:52:00Z",
+    "ID": 300573,
+    "UUID": "F9FB1464-19C2-426D-8BB1-63C9162ECA87",
+    "DataProviderID": 1,
+    "OperatorID": 91,
+    "UsageTypeID": 4,
+    "UsageCost": "0.47€/kWh ",
+    "AddressInfo": {
+      "ID": 300960,
+      "Title": "Repsol Carballedo",
+      "AddressLine1": "N-540",
+      "StateOrProvince": "Galicia",
+      "Postcode": "27527",
+      "CountryID": 210,
+      "Latitude": 42.54140325549375,
+      "Longitude": -7.812333941270708,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 559591,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 559592,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 559593,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 43,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 150,
+    "DateLastStatusUpdate": "2025-09-18T17:52:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-07-07T16:10:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-09-19T10:32:00Z",
+    "ID": 300572,
+    "UUID": "0A9D35A3-680E-4341-9ADA-778063ADBD77",
+    "DataProviderID": 1,
+    "OperatorID": 91,
+    "UsageTypeID": 4,
+    "UsageCost": "0.47€/kWh ",
+    "AddressInfo": {
+      "ID": 300959,
+      "Title": "Repsol Carballiño",
+      "AddressLine1": "N-541",
+      "Town": "O Carballiño",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32534",
+      "CountryID": 210,
+      "Latitude": 42.42945358259436,
+      "Longitude": -8.090612471345821,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 559588,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 559589,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 559590,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 43,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-09-19T10:32:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-07-07T16:08:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-11-21T09:57:00Z",
+    "ID": 301064,
+    "UUID": "151A36A1-EEF2-4E78-9BFA-3D945AA4257D",
+    "DataProviderID": 1,
+    "OperatorID": 3583,
+    "UsageTypeID": 4,
+    "UsageCost": "0,40€/kWh DC - 0,32€/kWh AC",
+    "AddressInfo": {
+      "ID": 301451,
+      "Title": "Parking Carballiño",
+      "AddressLine1": "Rúa da Alameda",
+      "Town": "O Carballiño",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32500",
+      "CountryID": 210,
+      "Latitude": 42.430764685641236,
+      "Longitude": -8.07792088547734,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 561717,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 561718,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 3,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-11-21T09:57:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-07-14T20:44:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-04-26T17:24:00Z",
+    "ID": 265975,
+    "UUID": "94D081EC-CA28-4261-B3E7-D9D1CB364873",
+    "DataProviderID": 1,
+    "OperatorID": 3499,
+    "UsageTypeID": 4,
+    "UsageCost": "0,25€/kWh",
+    "AddressInfo": {
+      "ID": 266359,
+      "Title": "Mercadona Carballiño",
+      "AddressLine1": "Rúa 25 de Xullo",
+      "Town": "O Carballiño",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32500",
+      "CountryID": 210,
+      "Latitude": 42.430626753531044,
+      "Longitude": -8.067770612375256,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 452517,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 4
+      }
+    ],
+    "NumberOfPoints": 4,
+    "GeneralComments": "apps Iberdrola. 90' free parking  after that 0,07€/min",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-04-26T17:24:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-05-25T17:38:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-09-10T14:35:00Z",
+    "ID": 188579,
+    "UUID": "96B2F042-43C4-405A-8C5D-1A093F705228",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 5,
+    "UsageCost": "0,50€/kWh",
+    "AddressInfo": {
+      "ID": 188938,
+      "Title": "ES. CEPSA",
+      "AddressLine1": "N-541, 31",
+      "Town": "Maside",
+      "StateOrProvince": "Ourense",
+      "Postcode": "32573",
+      "CountryID": 210,
+      "Latitude": 42.42571254432468,
+      "Longitude": -8.057960092096323,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 304591,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 22,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 304592,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 22,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 304593,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 22,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-09-10T14:35:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2021-08-03T09:22:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2023-02-19T18:41:00Z",
+    "ID": 205621,
+    "UUID": "741A26A4-7538-4B73-92F8-B90089BBC6D5",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "AddressInfo": {
+      "ID": 205990,
+      "Title": "Restaurante O Barazal",
+      "AddressLine1": "Restaurante O Barazal",
+      "Town": "Punxín",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32574",
+      "CountryID": 210,
+      "Latitude": 42.406573030843475,
+      "Longitude": -8.016018210817492,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 343226,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "GeneralComments": "Porsche Destination Charger",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2023-02-19T18:41:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-10-06T10:22:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2023-05-25T17:41:00Z",
+    "ID": 265976,
+    "UUID": "B68F4863-E67A-42FF-9B8A-C41F76736E74",
+    "DataProviderID": 1,
+    "OperatorID": 2247,
+    "UsageTypeID": 6,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 266360,
+      "Title": "Bodega Casar de Vide",
+      "AddressLine1": "Castrelo de Miño",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32459",
+      "CountryID": 210,
+      "Latitude": 42.32093850590323,
+      "Longitude": -8.05214710369205,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 452518,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 100,
+    "DateLastStatusUpdate": "2023-05-25T17:41:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-05-25T17:41:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-10-06T10:00:00Z",
+    "ID": 205610,
+    "UUID": "BC49E634-8E92-4394-8C07-F3F21F8BCE39",
+    "DataProviderID": 1,
+    "OperatorID": 1,
+    "UsageTypeID": 1,
+    "AddressInfo": {
+      "ID": 205979,
+      "Title": "Hotel Balneario Laias",
+      "AddressLine1": "Laias Caldaria",
+      "Town": "Castrelo de Miño",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32450",
+      "CountryID": 210,
+      "Latitude": 42.32622842971335,
+      "Longitude": -8.02928153340929,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 343215,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "GeneralComments": "app Digavel",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-10-06T10:00:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-10-06T10:00:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-10-06T21:02:00Z",
+    "ID": 205608,
+    "UUID": "532601E4-C3E4-44A7-B467-AA2E7C2320A3",
+    "DataProviderID": 1,
+    "OperatorID": 1,
+    "UsageTypeID": 4,
+    "AddressInfo": {
+      "ID": 205977,
+      "Title": "Hotel Balneario Laias",
+      "AddressLine1": "Laias Caldaria",
+      "Town": "Castrelo de Miño",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32450",
+      "CountryID": 210,
+      "Latitude": 42.32631551459144,
+      "Longitude": -8.029282794847063,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 343213,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "GeneralComments": "app Digavel ",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-10-06T21:02:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-10-06T09:57:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-04-29T18:31:00Z",
+    "ID": 312112,
+    "UUID": "2C68E70C-F417-43BF-9057-6F63B6592ABB",
+    "DataProviderID": 1,
+    "OperatorID": 91,
+    "UsageTypeID": 4,
+    "UsageCost": "0.47€/kWh ",
+    "AddressInfo": {
+      "ID": 312501,
+      "Title": "Repsol Santa Cruz",
+      "AddressLine1": "Aldea Porta do Prado, 20",
+      "Town": "Santa Cruz",
+      "CountryID": 210,
+      "Latitude": 42.344215851108515,
+      "Longitude": -7.9818789577304585,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 601312,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 601313,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 601314,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 43,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-04-29T18:31:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2025-04-29T18:31:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-04-26T17:25:00Z",
+    "ID": 272883,
+    "UUID": "122CBC62-6603-4D90-BBF2-32CE69B1CE9D",
+    "DataProviderID": 1,
+    "OperatorID": 3499,
+    "UsageTypeID": 4,
+    "UsageCost": "0,25€/kWh",
+    "AddressInfo": {
+      "ID": 273267,
+      "Title": "Mercadona Rúa do Viso",
+      "AddressLine1": "Rúa do Viso",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32002",
+      "CountryID": 210,
+      "Latitude": 42.31750842102457,
+      "Longitude": -7.883296168302195,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 469066,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "GeneralComments": "apps Iberdrola. 90' free parking  after that 0,07€/min",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-04-26T17:25:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-07-20T15:07:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-04-29T18:48:00Z",
+    "ID": 312115,
+    "UUID": "0EA26413-69ED-4255-BDFA-6F8C1764F2C2",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 5,
+    "UsageCost": "0,46€/kWh",
+    "AddressInfo": {
+      "ID": 312504,
+      "Title": "Carrefour Ourense",
+      "AddressLine1": "Rúa dos Emigrantes, 1,",
+      "Town": "Ourense",
+      "CountryID": 210,
+      "Latitude": 42.320828668409575,
+      "Longitude": -7.877536168244433,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 601319,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 601320,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      },
+      {
+        "ID": 601321,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-04-29T18:48:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2025-04-29T18:48:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-09-10T14:37:00Z",
+    "ID": 97231,
+    "UUID": "F063E056-DF33-45E2-95EE-A2CE8874CE22",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 7,
+    "UsageCost": "Free",
+    "AddressInfo": {
+      "ID": 97577,
+      "Title": "Carrefour Parking",
+      "AddressLine1": "Rúa Dos Emigrantes, 1",
+      "Town": "Barbadás",
+      "StateOrProvince": "Ourense",
+      "Postcode": "32002",
+      "CountryID": 210,
+      "Latitude": 42.3214914,
+      "Longitude": -7.87692200000004,
+      "ContactTelephone1": "988388900",
+      "AccessComments": "Open weekdays according to the mall schedule. There are several signs for the charging point in the parking lot of the shopping center - have to ask for authorization to use the space. They give you a card that will work with any centres that have the same type of charging point.",
+      "RelatedURL": "http://www.carrefour.com/",
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 138080,
+        "ConnectionTypeID": 25,
+        "LevelID": 2,
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 12.8,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      },
+      {
+        "ID": 138081,
+        "ConnectionTypeID": 28,
+        "LevelID": 2,
+        "Amps": 32,
+        "Voltage": 230,
+        "PowerKW": 7.36,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "GeneralComments": "The space is only available to clients of the mall, you have to ask for authorization. Mall service line: 988388900. Free parking, free charging. Cannot reserve.",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-09-10T14:37:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2018-01-12T10:12:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-09-15T17:32:00Z",
+    "ID": 290051,
+    "UUID": "6BE1C901-2369-4D06-9DE8-78E5BE5B6D4B",
+    "DataProviderID": 1,
+    "OperatorID": 3750,
+    "UsageTypeID": 4,
+    "UsageCost": "0,30€/kWh",
+    "AddressInfo": {
+      "ID": 290438,
+      "Title": "Plenoil Orense",
+      "AddressLine1": "Avenida Marcelo Macías",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32002",
+      "CountryID": 210,
+      "Latitude": 42.326331139528605,
+      "Longitude": -7.877725600109557,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 512334,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 150,
+        "Voltage": 950,
+        "PowerKW": 60,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "SuperFloox 60 Charger. The DC charger allows charging one vehicle at 60kW, or two simultaneous charges at 30kW. "
+      }
+    ],
+    "NumberOfPoints": 2,
+    "GeneralComments": "Power limited to 10kW",
+    "StatusTypeID": 100,
+    "DateLastStatusUpdate": "2024-09-15T17:32:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-01-19T19:01:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-04-05T06:48:00Z",
+    "ID": 300596,
+    "UUID": "E264D363-61B5-44B1-8DC2-C54FB014DF9B",
+    "DataProviderID": 1,
+    "OperatorID": 3571,
+    "UsageTypeID": 4,
+    "UsageCost": "0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",
+    "AddressInfo": {
+      "ID": 300983,
+      "Title": "Hotel Mabú",
+      "AddressLine1": "Estrada Vigo-Pino",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32003",
+      "CountryID": 210,
+      "Latitude": 42.35537094823644,
+      "Longitude": -7.8834429869256155,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 559628,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 250,
+        "Voltage": 920,
+        "PowerKW": 100,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "Delta Slim Charger 100. Max power of the charger for both combined outlets 100 kW. "
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-04-05T06:48:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-07-07T17:18:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-05-03T07:34:00Z",
+    "ID": 266180,
+    "UUID": "79F73111-73D6-48D0-A44E-AF41BDD86E41",
+    "DataProviderID": 1,
+    "OperatorID": 91,
+    "UsageTypeID": 4,
+    "UsageCost": "0,47€/kWh ",
+    "AddressInfo": {
+      "ID": 266564,
+      "Title": "E.S. Repsol Reza",
+      "AddressLine1": "Estrada Ourense - Rabiño",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32593",
+      "CountryID": 210,
+      "Latitude": 42.35115981086955,
+      "Longitude": -7.895064097996084,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 452864,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 452865,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 43,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      },
+      {
+        "ID": 452866,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-05-03T07:34:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-05-29T12:19:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2023-11-30T09:56:00Z",
+    "ID": 280796,
+    "UUID": "161E2CA0-F34D-4A84-992F-DF81C52B2BA4",
+    "DataProviderID": 1,
+    "OperatorID": 103,
+    "UsageTypeID": 4,
+    "UsageCost": "0,39€/kWh",
+    "AddressInfo": {
+      "ID": 281183,
+      "Title": "Nissan Rofervigo",
+      "AddressLine1": "OU-0520",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32002",
+      "CountryID": 210,
+      "Latitude": 42.35508696800619,
+      "Longitude": -7.906363516509288,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 488460,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 488461,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2023-11-30T09:56:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-11-30T09:56:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-10-06T07:58:00Z",
+    "ID": 174098,
+    "UUID": "03125B28-CEEF-4CF1-B0AE-23BC3C6E8FF6",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 1,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 174457,
+      "Title": "Leroy Merlin",
+      "AddressLine1": "Quintela",
+      "Town": "Ourense",
+      "StateOrProvince": "Ourense",
+      "CountryID": 210,
+      "Latitude": 42.354551592928374,
+      "Longitude": -7.905645964713699,
+      "AccessComments": "Free",
+      "RelatedURL": "http://www.leroymerlin.es",
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 268854,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 12
+      }
+    ],
+    "NumberOfPoints": 12,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-10-06T07:58:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2021-03-14T18:05:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-07-07T17:17:00Z",
+    "ID": 300595,
+    "UUID": "929A81C4-3A0E-4B6D-AF2D-154B6E8A0797",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 300982,
+      "Title": "Bricocentro Orense",
+      "AddressLine1": "Orense",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32930",
+      "CountryID": 210,
+      "Latitude": 42.352444586703996,
+      "Longitude": -7.914453173923107,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 559627,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 3.7,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-07-07T17:17:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-07-07T17:17:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-05-07T19:01:00Z",
+    "ID": 312113,
+    "UUID": "B24099E3-479D-4D48-80D5-7D63910F22CE",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 5,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 312502,
+      "Title": "Supermercados Froiz - Ourense",
+      "AddressLine1": "Rúa Río Mao, 36",
+      "Town": "Ourense",
+      "CountryID": 210,
+      "Latitude": 42.35329018626885,
+      "Longitude": -7.863866356400763,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 601315,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 150,
+        "Voltage": 1000,
+        "PowerKW": 60,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "Orbis Viaris Lander60 DC charger allows charging one vehicle at 60kW, or two simultaneous charges at 30kW. "
+      },
+      {
+        "ID": 601316,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 4,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-05-07T19:01:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2025-04-29T18:35:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-05-17T10:23:00Z",
+    "ID": 205600,
+    "UUID": "5BF70B58-8E8F-4B4B-9D93-CC7A393D7A74",
+    "DataProviderID": 1,
+    "OperatorID": 3499,
+    "UsageTypeID": 4,
+    "UsageCost": "0,25€/kWh",
+    "AddressInfo": {
+      "ID": 205969,
+      "Title": "Mercadona Orense",
+      "AddressLine1": "Mercadona",
+      "Town": "Ourense",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32003",
+      "CountryID": 210,
+      "Latitude": 42.34934079386724,
+      "Longitude": -7.869085073164456,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 343203,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "GeneralComments": "app Waylet(Repsol). 90' free parking, then at 0,07€/min",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-05-17T10:23:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-10-06T07:57:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-05-05T12:48:00Z",
+    "ID": 312114,
+    "UUID": "8A99FE46-2EA2-4B0B-AFDD-61F36F82AA79",
+    "DataProviderID": 1,
+    "OperatorID": 2247,
+    "UsageTypeID": 4,
+    "UsageCost": "0,45€/kWh",
+    "AddressInfo": {
+      "ID": 312503,
+      "Title": "Parking O Progreso",
+      "AddressLine1": "Rúa do Progreso, 76",
+      "Town": "Ourense",
+      "CountryID": 210,
+      "Latitude": 42.34174847076022,
+      "Longitude": -7.8675146566700676,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 601317,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 150,
+        "Voltage": 1000,
+        "PowerKW": 60,
+        "CurrentTypeID": 30,
+        "Quantity": 4,
+        "Comments": "2 Ingeteam Rapid60 charger.The DC charger allows charging one vehicle at 60kW, or two simultaneous charges at 30kW. "
+      },
+      {
+        "ID": 601318,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 6,
+    "StatusTypeID": 150,
+    "DateLastStatusUpdate": "2025-05-05T12:48:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2025-04-29T18:37:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-09-10T14:36:00Z",
+    "ID": 188486,
+    "UUID": "65525FEC-CC12-4C14-B7E9-D495926EA90D",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 1,
+    "AddressInfo": {
+      "ID": 188845,
+      "Title": "C.C. Ponte Vella",
+      "AddressLine1": "Ponte Vella",
+      "Town": "Ourense",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32003",
+      "CountryID": 210,
+      "Latitude": 42.344887934601246,
+      "Longitude": -7.865610939760018,
+      "AccessComments": "Parking lot near exit",
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 304401,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-09-10T14:36:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2021-07-29T09:45:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-04-26T17:25:00Z",
+    "ID": 213499,
+    "UUID": "A73C99D4-01D9-4D00-B4DE-30B062DD3820",
+    "DataProviderID": 1,
+    "OperatorID": 3499,
+    "UsageTypeID": 4,
+    "UsageCost": "0,25€/kWh ",
+    "AddressInfo": {
+      "ID": 213879,
+      "Title": "Mercadona Lagunas Ourense",
+      "AddressLine1": "Acceso al parking de Mercadona",
+      "AddressLine2": "As Lagoas",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32003",
+      "CountryID": 210,
+      "Latitude": 42.343440720951264,
+      "Longitude": -7.853330566013597,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 355618,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "GeneralComments": "apps Iberdrola. 90' free parking  after that 0,07€/min",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-04-26T17:25:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-02-07T19:41:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-07-07T17:20:00Z",
+    "ID": 300597,
+    "UUID": "4B88BC06-DB84-429C-B5D6-A3A0A10AD5D2",
+    "DataProviderID": 1,
+    "OperatorID": 1,
+    "UsageTypeID": 6,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 300984,
+      "Title": "Univ. Vigo",
+      "AddressLine1": "Rúa de Rabaza",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32004",
+      "CountryID": 210,
+      "Latitude": 42.343290151314505,
+      "Longitude": -7.8504866201270715,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 559629,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 11,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "GeneralComments": "Only for University staff and students",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-07-07T17:20:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-07-07T17:20:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-10-06T07:43:00Z",
+    "ID": 205599,
+    "UUID": "52E3D5FB-01BF-4604-9B6A-B2DFFB0B5EBB",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "AddressInfo": {
+      "ID": 205968,
+      "Title": "Hotel Francisco II",
+      "AddressLine1": "17 Rúa Juán Manuel Bedoya",
+      "Town": "Ourense",
+      "StateOrProvince": "Galicia",
+      "Postcode": "2004",
+      "CountryID": 210,
+      "Latitude": 42.33983072146094,
+      "Longitude": -7.86079699634854,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 343202,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-10-06T07:43:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-10-06T07:43:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2023-03-04T19:43:00Z",
+    "ID": 213500,
+    "UUID": "9C649345-6004-4967-8366-A192E1B8B6C8",
+    "DataProviderID": 1,
+    "OperatorID": 207,
+    "UsageTypeID": 4,
+    "UsageCost": "0,39€/kWh AC",
+    "AddressInfo": {
+      "ID": 213880,
+      "Title": "Parking las Mercedes",
+      "AddressLine1": "Rúa Arturo Pérez Serantes",
+      "AddressLine2": "Casco Vello",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32003",
+      "CountryID": 210,
+      "Latitude": 42.33810463384944,
+      "Longitude": -7.861894887601011,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 355619,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 11,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2023-03-04T19:43:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-02-07T19:42:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-09-10T14:36:00Z",
+    "ID": 70955,
+    "UUID": "7F12946B-094C-48A3-AFB2-5C003201E7C0",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 1,
+    "AddressInfo": {
+      "ID": 71301,
+      "Title": "Parking Juan XXIII",
+      "AddressLine1": "Plaza Alférez Provisional",
+      "Town": "Orense",
+      "StateOrProvince": "Orense",
+      "Postcode": "32003",
+      "CountryID": 210,
+      "Latitude": 42.3397568,
+      "Longitude": -7.86643950000007,
+      "ContactTelephone1": "+34 88 374 700",
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 101664,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      },
+      {
+        "ID": 101665,
+        "ConnectionTypeID": 28,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "Amps": 16,
+        "Voltage": 230,
+        "PowerKW": 3.6,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 3,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-09-10T14:36:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2016-08-21T18:40:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2023-02-19T18:42:00Z",
+    "ID": 205598,
+    "UUID": "79E1A854-930F-40A7-81BA-D76156B68F42",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 5,
+    "AddressInfo": {
+      "ID": 205967,
+      "Title": "Parking Ourense",
+      "AddressLine1": "Parking Ourense",
+      "Town": "Ourense",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32003",
+      "CountryID": 210,
+      "Latitude": 42.339155882670156,
+      "Longitude": -7.86751587877734,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 343201,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 11,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "GeneralComments": "Porsche Destination Charger",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2023-02-19T18:42:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-10-06T07:38:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-04-21T20:09:00Z",
+    "ID": 300598,
+    "UUID": "6DD8167E-191C-4FEB-BC87-BF5270A38716",
+    "DataProviderID": 1,
+    "OperatorID": 3559,
+    "UsageTypeID": 5,
+    "UsageCost": "0,39€/kWh + parking fee",
+    "AddressInfo": {
+      "ID": 300985,
+      "Title": "Parking  Alameda (Telepark)",
+      "AddressLine1": "Rúa Tras Alameda",
+      "AddressLine2": "Casco Vello",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32003",
+      "CountryID": 210,
+      "Latitude": 42.335566010615395,
+      "Longitude": -7.866799860390387,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 559630,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 4
+      }
+    ],
+    "NumberOfPoints": 4,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-04-21T20:09:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-07-07T17:22:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2023-05-22T11:17:00Z",
+    "ID": 238397,
+    "UUID": "1A0C694D-03BB-4B27-90A3-12FEB817C4FA",
+    "DataProviderID": 1,
+    "OperatorID": 207,
+    "UsageTypeID": 4,
+    "UsageCost": "0,39€/kWh",
+    "AddressInfo": {
+      "ID": 238781,
+      "Title": "Camiño Portalón do Casar",
+      "AddressLine1": "Camiño Portalón do Casar",
+      "AddressLine2": "O Posío",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32005",
+      "CountryID": 210,
+      "Latitude": 42.327365827271905,
+      "Longitude": -7.861712614184967,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 392183,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 3
+      }
+    ],
+    "NumberOfPoints": 3,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2023-05-22T11:17:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-03-04T19:43:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-09-26T18:24:00Z",
+    "ID": 188578,
+    "UUID": "3D427728-6C40-4800-94F8-015D67FA80C6",
+    "DataProviderID": 1,
+    "OperatorID": 3499,
+    "UsageTypeID": 1,
+    "UsageCost": "free",
+    "AddressInfo": {
+      "ID": 188937,
+      "Title": "Mercadona Mariñamansa",
+      "AddressLine1": "Avenida Do Regato, 6",
+      "Town": "Ourense",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32005",
+      "CountryID": 210,
+      "Latitude": 42.32460861787027,
+      "Longitude": -7.86397232478248,
+      "RelatedURL": "https://www.mercadona.es/",
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 304590,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 3.7,
+        "CurrentTypeID": 10,
+        "Quantity": 1,
+        "Comments": "plug & Charge"
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-09-26T18:24:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2021-08-03T09:16:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-12-16T13:07:00Z",
+    "ID": 205597,
+    "UUID": "CA096EFF-B990-4303-8D2E-B7E8DA17A2B5",
+    "DataProviderID": 1,
+    "OperatorID": 2247,
+    "UsageTypeID": 4,
+    "UsageCost": "0,45€/kWh 50kW  - 0,39€/kWh 22kW AC",
+    "AddressInfo": {
+      "ID": 205966,
+      "Title": "ESTACION DE SERVICIO MARIÑAMANSA",
+      "AddressLine1": "ESTACION DE SERVICIO MARIÑAMANSA",
+      "Town": "Ourense",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32002",
+      "CountryID": 210,
+      "Latitude": 42.3210772209994,
+      "Longitude": -7.862609513328607,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 343198,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 2
+      },
+      {
+        "ID": 343199,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 343200,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 4,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-12-16T13:07:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-10-06T07:35:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-09-10T14:37:00Z",
+    "ID": 188577,
+    "UUID": "3E1077AF-5987-42DA-B4E2-8BF4964BE125",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 1,
+    "UsageCost": "0,30€",
+    "AddressInfo": {
+      "ID": 188936,
+      "Title": "ES. Perez Rumbao",
+      "AddressLine1": "Avenida de Zamora, 140",
+      "Town": "Ourense",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32005",
+      "CountryID": 210,
+      "Latitude": 42.32154910835612,
+      "Longitude": -7.8621707626798525,
+      "RelatedURL": "https://www.perezrumbao.es/",
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 304589,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 11,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-09-10T14:37:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2021-08-03T09:12:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-01-27T07:30:00Z",
+    "ID": 266181,
+    "UUID": "CAF5C56E-A651-47EC-90DF-ECEAC6898547",
+    "DataProviderID": 1,
+    "OperatorID": 207,
+    "UsageTypeID": 4,
+    "UsageCost": " 0,45€/kWh DC",
+    "AddressInfo": {
+      "ID": 266565,
+      "Title": "McDonald's Orense",
+      "AddressLine1": "Avenida Otero Pedrayo",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32004",
+      "CountryID": 210,
+      "Latitude": 42.34055807829074,
+      "Longitude": -7.849644443692284,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 452869,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 200,
+        "Voltage": 1000,
+        "PowerKW": 100,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "Starcharge Titan120. The DC charger allows charging one vehicle at 100kW, or two simultaneous charges at 50kW. Maximum amperage 200A (max power is limited to 80kW for 400V cars)"
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 150,
+    "DateLastStatusUpdate": "2024-01-27T07:30:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-05-29T12:24:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-09-19T10:36:00Z",
+    "ID": 304276,
+    "UUID": "DB0881FC-21FF-4E4B-95F6-8A4AB4CC4939",
+    "DataProviderID": 1,
+    "OperatorID": 91,
+    "UsageTypeID": 4,
+    "UsageCost": "0.47€/kWh ",
+    "AddressInfo": {
+      "ID": 304665,
+      "Title": "E.S. Repsol Bertólez",
+      "AddressLine1": "Rúa da Ponte Sevilla",
+      "AddressLine2": "Mariñamansa",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32911",
+      "CountryID": 210,
+      "Latitude": 42.31301845948994,
+      "Longitude": -7.865246878905737,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 576168,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 576169,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 576170,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 43,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-09-19T10:36:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-09-19T10:36:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-05-03T07:32:00Z",
+    "ID": 213501,
+    "UUID": "BFEE5C6F-0DD7-49A1-9526-2FFF7249D80F",
+    "DataProviderID": 1,
+    "OperatorID": 91,
+    "UsageTypeID": 4,
+    "UsageCost": " 0,47€/kWh ",
+    "AddressInfo": {
+      "ID": 213881,
+      "Title": "Repsol Bertolez",
+      "AddressLine1": "Rúa da Ponte Sevilla",
+      "AddressLine2": "Mariñamansa",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32911",
+      "CountryID": 210,
+      "Latitude": 42.31310291184903,
+      "Longitude": -7.866418618683639,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 355620,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 355621,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 43,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      },
+      {
+        "ID": 355622,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-05-03T07:32:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-02-07T19:43:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2023-02-07T19:44:00Z",
+    "ID": 213502,
+    "UUID": "38D40660-878D-47D7-9043-E5AB9B66D93F",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "AddressInfo": {
+      "ID": 213882,
+      "Title": "Talleres PSA Retail Ourense",
+      "AddressLine1": "Rúa Verea Real de Seixalbo",
+      "AddressLine2": "Mariñamansa",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32911",
+      "CountryID": 210,
+      "Latitude": 42.31419051223011,
+      "Longitude": -7.861757798313192,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 355623,
+        "ConnectionTypeID": 1,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 3.7,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2023-02-07T19:44:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-02-07T19:44:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-07-07T17:23:00Z",
+    "ID": 300599,
+    "UUID": "7125376D-5D9E-44E6-8EB5-CED42F655D65",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 300986,
+      "Title": "Betula Cars",
+      "AddressLine1": "N-525",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32911",
+      "CountryID": 210,
+      "Latitude": 42.30972266787603,
+      "Longitude": -7.865333804396272,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 559631,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-07-07T17:23:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-07-07T17:23:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-09-15T17:32:00Z",
+    "ID": 299114,
+    "UUID": "B38A44E7-054D-4947-B698-BFDE3537A813",
+    "DataProviderID": 1,
+    "OperatorID": 3750,
+    "UsageTypeID": 4,
+    "UsageCost": "0,30€/kWh",
+    "AddressInfo": {
+      "ID": 299501,
+      "Title": "Plenoil Orense II",
+      "AddressLine1": "Orense",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32911",
+      "CountryID": 210,
+      "Latitude": 42.31120332964102,
+      "Longitude": -7.856389045045603,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 549191,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 150,
+        "Voltage": 950,
+        "PowerKW": 60,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "SuperFloox 60 Charger. The DC charger allows charging one vehicle at 60kW, or two simultaneous charges at 30kW."
+      }
+    ],
+    "NumberOfPoints": 2,
+    "GeneralComments": "Power limited to 10kW",
+    "StatusTypeID": 100,
+    "DateLastStatusUpdate": "2024-09-15T17:32:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-05-19T11:28:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-10-06T07:28:00Z",
+    "ID": 205593,
+    "UUID": "C1A6085C-225B-4588-834B-2B87150D9164",
+    "DataProviderID": 1,
+    "OperatorID": 3558,
+    "UsageTypeID": 6,
+    "UsageCost": "Free",
+    "AddressInfo": {
+      "ID": 205962,
+      "Title": "Nissan Roferourense",
+      "AddressLine1": "Nissan",
+      "Town": "San Cibrao das Viñas",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32915",
+      "CountryID": 210,
+      "Latitude": 42.28257178490168,
+      "Longitude": -7.856999261154783,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 343191,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-10-06T07:28:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-10-06T07:28:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-10-06T07:31:00Z",
+    "ID": 205595,
+    "UUID": "45B2BCBA-5FF5-4CD8-8E38-A9D9EC982DF8",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "AddressInfo": {
+      "ID": 205964,
+      "Title": "VW Apersa",
+      "AddressLine1": "VW Apersa",
+      "Town": "San Cibrao das Viñas",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32915",
+      "CountryID": 210,
+      "Latitude": 42.28742872169326,
+      "Longitude": -7.860422739471687,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 343195,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      },
+      {
+        "ID": 343196,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 22,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-10-06T07:31:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-10-06T07:31:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-06-08T14:55:00Z",
+    "ID": 205596,
+    "UUID": "D43C4993-C8EA-468C-967E-E4BF17C41E9B",
+    "DataProviderID": 1,
+    "OperatorID": 2247,
+    "UsageTypeID": 1,
+    "UsageCost": "0,54€/kWh",
+    "AddressInfo": {
+      "ID": 205965,
+      "Title": "Audi Apersa",
+      "AddressLine1": "Audi Apersa",
+      "Town": "San Cibrao das Viñas",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32915",
+      "CountryID": 210,
+      "Latitude": 42.28706116593838,
+      "Longitude": -7.8598754992098065,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 343197,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 300,
+        "Voltage": 920,
+        "PowerKW": 150,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "VW Elli Flexpole charger. Max power for two simultaneous charges 250 kW. Charger with a 190kWh boost battery. Power limited to 50kW when charger battery is low of charge"
+      }
+    ],
+    "NumberOfPoints": 2,
+    "GeneralComments": "Accessible only during business hours, weekdays 9:00-20:30 , Sat. 10-13:30",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-06-08T14:55:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-10-06T07:33:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-11-16T11:57:00Z",
+    "ID": 297937,
+    "UUID": "962339D3-0050-4F18-AE19-A83E7839F05C",
+    "DataProviderID": 1,
+    "OperatorID": 3557,
+    "UsageTypeID": 6,
+    "UsageCost": "0,40€/kWh",
+    "AddressInfo": {
+      "ID": 298324,
+      "Title": "Hotel Eurostars Auriense",
+      "AddressLine1": "Rúa da Rábeda",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32915",
+      "CountryID": 210,
+      "Latitude": 42.29539758442169,
+      "Longitude": -7.8376611312290265,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 542421,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-11-16T11:57:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-04-26T17:37:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-04-26T17:35:00Z",
+    "ID": 297935,
+    "UUID": "E93ED0AE-84EB-4A7E-AA77-A07F238C672D",
+    "DataProviderID": 1,
+    "OperatorID": 2247,
+    "UsageTypeID": 4,
+    "UsageCost": "0,39€/kWh",
+    "AddressInfo": {
+      "ID": 298322,
+      "Title": "Pol. San Cibrao. Rúa Número 3",
+      "AddressLine1": "Rúa Número 3",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32901",
+      "CountryID": 210,
+      "Latitude": 42.28630707573117,
+      "Longitude": -7.823267093649321,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 542419,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 4
+      }
+    ],
+    "NumberOfPoints": 4,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-04-26T17:35:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-04-26T17:32:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-04-29T18:49:00Z",
+    "ID": 297936,
+    "UUID": "017E890D-0CC8-4C6E-98B4-3ACE4FCF12B9",
+    "DataProviderID": 1,
+    "OperatorID": 3750,
+    "UsageTypeID": 4,
+    "UsageCost": "0,40€/kWh",
+    "AddressInfo": {
+      "ID": 298323,
+      "Title": "Plenoil San Cibrao",
+      "AddressLine1": "OU-0514",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32901",
+      "CountryID": 210,
+      "Latitude": 42.2882278845959,
+      "Longitude": -7.824090524007801,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 542420,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 150,
+        "Voltage": 950,
+        "PowerKW": 60,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "SuperFloox 60 Charger. The DC charger allows charging one vehicle at 60kW, or two simultaneous charges at 30kW. "
+      }
+    ],
+    "NumberOfPoints": 2,
+    "GeneralComments": "",
+    "StatusTypeID": 100,
+    "DateLastStatusUpdate": "2025-04-29T18:49:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-04-26T17:34:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-09-19T10:34:00Z",
+    "ID": 213498,
+    "UUID": "2B661509-6485-4434-A559-D0D0791F964F",
+    "DataProviderID": 1,
+    "OperatorID": 91,
+    "UsageTypeID": 4,
+    "UsageCost": "0,39€/kWh DC - 0,29€/kWh AC",
+    "AddressInfo": {
+      "ID": 213878,
+      "Title": "Repsol A Derrasa",
+      "AddressLine1": "OU-536",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32792",
+      "CountryID": 210,
+      "Latitude": 42.3229919348953,
+      "Longitude": -7.790418942974156,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 355615,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 355616,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 355617,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 43,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-09-19T10:34:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-02-07T19:40:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2023-02-07T19:45:00Z",
+    "ID": 213503,
+    "UUID": "A657ADD3-CE28-473C-8DC9-0097CD5C14F1",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "AddressInfo": {
+      "ID": 213883,
+      "Title": "Parador San Esteban",
+      "AddressLine1": "Parador San Esteban",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32162",
+      "CountryID": 210,
+      "Latitude": 42.41707730915013,
+      "Longitude": -7.686092971156768,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 355624,
+        "ConnectionTypeID": 28,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 3.7,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2023-02-07T19:45:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-02-07T19:45:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-10-06T07:24:00Z",
+    "ID": 205592,
+    "UUID": "B6C9FDAC-0BAF-4098-85FE-08EA706B39DF",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "AddressInfo": {
+      "ID": 205961,
+      "Title": "Ondo Txema",
+      "AddressLine1": "Esgos",
+      "Town": "Esgos",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32720",
+      "CountryID": 210,
+      "Latitude": 42.32487013879401,
+      "Longitude": -7.6947265175901975,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 343190,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-10-06T07:24:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-10-06T07:24:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-07-07T18:15:00Z",
+    "ID": 300617,
+    "UUID": "1D48CE7B-C97E-4FAC-9551-1EB913B5063A",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 301004,
+      "Title": "Bodega Val da Lenda",
+      "AddressLine1": "Cantón",
+      "StateOrProvince": "Galicia",
+      "Postcode": "27423",
+      "CountryID": 210,
+      "Latitude": 42.40733348556256,
+      "Longitude": -7.513360222284973,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 559653,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 3.7,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-07-07T18:15:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-07-07T18:14:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2023-02-07T19:49:00Z",
+    "ID": 213507,
+    "UUID": "C63BB595-D132-4E27-8E97-3EB81D956301",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 213887,
+      "Title": "Miradores do Sil Hotel Apartamento",
+      "AddressLine1": "Estrada de Cristosende",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32765",
+      "CountryID": 210,
+      "Latitude": 42.38554017625336,
+      "Longitude": -7.488655139607971,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 355628,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2023-02-07T19:49:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-02-07T19:49:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2023-02-07T19:48:00Z",
+    "ID": 213506,
+    "UUID": "DE092B15-FA1B-4598-AEF2-780F06A8DA47",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 213886,
+      "Title": "Casa Grande de Cristosende",
+      "AddressLine1": "Estrada de Cristosende",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32765",
+      "CountryID": 210,
+      "Latitude": 42.38654955502406,
+      "Longitude": -7.488514052072475,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 355627,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2023-02-07T19:48:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-02-07T19:48:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-08-24T12:51:00Z",
+    "ID": 303688,
+    "UUID": "7991AD67-BE80-401E-B98F-68F25A36051F",
+    "DataProviderID": 1,
+    "OperatorID": 1,
+    "UsageTypeID": 5,
+    "UsageCost": "0,60€/kWh DC - 0,44€/kWh AC",
+    "AddressInfo": {
+      "ID": 304077,
+      "Title": "Bodegas Regina Viarum",
+      "AddressLine1": "Doade",
+      "StateOrProvince": "Galicia",
+      "Postcode": "27424",
+      "CountryID": 210,
+      "Latitude": 42.40887670957463,
+      "Longitude": -7.476162675238385,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 573004,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 4
+      },
+      {
+        "ID": 573005,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 300,
+        "Voltage": 950,
+        "PowerKW": 180,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "PowerElectronics NB240 charger. The DC charger allows charging one vehicle at 180kW, or two simultaneous charges at 90kW  "
+      }
+    ],
+    "NumberOfPoints": 6,
+    "GeneralComments": "App contelinera.com. Payment with credit card",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-08-24T12:51:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-08-30T15:30:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-06-16T10:50:00Z",
+    "ID": 300040,
+    "UUID": "5EB4CE5F-9F46-4081-B3AF-2D9A15123D72",
+    "DataProviderID": 1,
+    "OperatorID": 3583,
+    "UsageTypeID": 4,
+    "UsageCost": "0,32€/kWh AC",
+    "AddressInfo": {
+      "ID": 300427,
+      "Title": "Ayunt. Doade",
+      "AddressLine1": "Doade",
+      "StateOrProvince": "Galicia",
+      "Postcode": "27424",
+      "CountryID": 210,
+      "Latitude": 42.41468887613871,
+      "Longitude": -7.479013793747299,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 555789,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 150,
+    "DateLastStatusUpdate": "2024-06-16T10:50:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-06-16T10:50:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-10-06T07:21:00Z",
+    "ID": 205590,
+    "UUID": "A4B0A22E-916C-4546-80C0-14AB30370EA9",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "AddressInfo": {
+      "ID": 205959,
+      "Title": "Apartamentos Ribera Sacra",
+      "AddressLine1": "Apartamentos Ribera Sacra",
+      "Town": "Parada de Sil",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32748",
+      "CountryID": 210,
+      "Latitude": 42.3826501678372,
+      "Longitude": -7.566728657983504,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 343188,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-10-06T07:21:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-10-06T07:21:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-19T08:48:00Z",
+    "ID": 205591,
+    "UUID": "CD91EB03-38C0-45A1-A490-EFFFBBDFC0E2",
+    "DataProviderID": 1,
+    "OperatorID": 1,
+    "UsageTypeID": 1,
+    "AddressInfo": {
+      "ID": 205960,
+      "Title": "Ayunt. Parada de Sil",
+      "AddressLine1": "Parking Parada de Sil",
+      "Town": "Parada de Sil",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32740",
+      "CountryID": 210,
+      "Latitude": 42.38254466061653,
+      "Longitude": -7.570221659272306,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 343189,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 30,
+    "DateLastStatusUpdate": "2025-09-19T08:48:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-10-06T07:23:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2023-02-07T19:46:00Z",
+    "ID": 213504,
+    "UUID": "D43DC877-B5C7-49DE-A487-2C809723DB02",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "AddressInfo": {
+      "ID": 213884,
+      "Title": "Apartamentos Rio Sil",
+      "AddressLine1": "Apartamentos Rio Sil",
+      "StateOrProvince": "Galicia",
+      "Postcode": "27425",
+      "CountryID": 210,
+      "Latitude": 42.41686962344144,
+      "Longitude": -7.597403699060806,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 355625,
+        "ConnectionTypeID": 28,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 3.7,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2023-02-07T19:46:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-02-07T19:46:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-06-16T10:43:00Z",
+    "ID": 300039,
+    "UUID": "3E858034-8FED-4EDB-BA24-BDDAE8B3155F",
+    "DataProviderID": 1,
+    "OperatorID": 3583,
+    "UsageTypeID": 4,
+    "UsageCost": "0,39€/kWh DC - 0,32€/kWh AC",
+    "AddressInfo": {
+      "ID": 300426,
+      "Title": "Ayunt. Sober (Eranovum)",
+      "AddressLine1": "Rúa do Cine",
+      "StateOrProvince": "Galicia",
+      "Postcode": "27466",
+      "CountryID": 210,
+      "Latitude": 42.46058180540595,
+      "Longitude": -7.588591902252574,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 555787,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 300,
+        "Voltage": 900,
+        "PowerKW": 90,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "Power electronics NB120 Charger. The DC charger allows charging one vehicle at 90kW, or two simultaneous charges at 45kW"
+      },
+      {
+        "ID": 555788,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 150,
+    "DateLastStatusUpdate": "2024-06-16T10:43:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-06-16T10:43:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-11-16T11:58:00Z",
+    "ID": 300618,
+    "UUID": "6F974EDD-528D-4597-B80E-EDC815B76D85",
+    "DataProviderID": 1,
+    "OperatorID": 3557,
+    "UsageTypeID": 6,
+    "UsageCost": "0,40€/kWh",
+    "AddressInfo": {
+      "ID": 301005,
+      "Title": "Hotel Eurostars Pazo de Sober",
+      "AddressLine1": "LU-P-5910",
+      "StateOrProvince": "Galicia",
+      "Postcode": "27460",
+      "CountryID": 210,
+      "Latitude": 42.46305967585383,
+      "Longitude": -7.57836569050761,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 559654,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-11-16T11:58:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-07-07T18:16:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2023-02-07T19:47:00Z",
+    "ID": 213505,
+    "UUID": "A748F182-62BF-46C2-A463-E7CE0AC4FE30",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "AddressInfo": {
+      "ID": 213885,
+      "Title": "Casa Os Arcos",
+      "AddressLine1": "Casa Os Arcos",
+      "StateOrProvince": "Galicia",
+      "Postcode": "27425",
+      "CountryID": 210,
+      "Latitude": 42.47246342782586,
+      "Longitude": -7.576108016645094,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 355626,
+        "ConnectionTypeID": 28,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 3.7,
+        "CurrentTypeID": 10,
+        "Quantity": 4
+      }
+    ],
+    "NumberOfPoints": 4,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2023-02-07T19:47:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-02-07T19:47:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-19T08:43:00Z",
+    "ID": 190882,
+    "UUID": "D3910699-E063-4B9F-BACD-03E4547E4049",
+    "DataProviderID": 1,
+    "OperatorID": 207,
+    "UsageTypeID": 4,
+    "AddressInfo": {
+      "ID": 191241,
+      "Title": "Hotel Balneario Augas Santas",
+      "AddressLine1": "Hotel Balneario Augas Santas",
+      "Town": "Pantón",
+      "StateOrProvince": "Galicia",
+      "Postcode": "27430",
+      "CountryID": 210,
+      "Latitude": 42.51342011231483,
+      "Longitude": -7.6051335458373615,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 309609,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 11,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 4,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-19T08:43:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2021-12-30T23:07:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-19T10:47:00Z",
+    "ID": 461255,
+    "UUID": "A5863540-535D-41C3-B492-AAF3A230E598",
+    "DataProviderID": 1,
+    "OperatorID": 3401,
+    "UsageTypeID": 4,
+    "UsageCost": "0,30€/kWh",
+    "AddressInfo": {
+      "ID": 461644,
+      "Title": "Saltoki Monforte de Lemos",
+      "AddressLine1": "Monforte de Lemos",
+      "Town": "Monforte de Lemos",
+      "CountryID": 210,
+      "Latitude": 42.5292782466812,
+      "Longitude": -7.533234788166851,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 775986,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 4
+      }
+    ],
+    "NumberOfPoints": 4,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-19T10:47:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2025-09-19T10:47:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-01-27T07:36:00Z",
+    "ID": 290278,
+    "UUID": "7C878485-37C6-4391-A9B1-9D5AE2C359E8",
+    "DataProviderID": 1,
+    "OperatorID": 3459,
+    "UsageTypeID": 4,
+    "UsageCost": "0,54€/kWh ",
+    "AddressInfo": {
+      "ID": 290665,
+      "Title": "Hotel Terra Galega Meiga",
+      "AddressLine1": "Estrada Monforte - Belesar",
+      "Town": "Monforte de Lemos",
+      "StateOrProvince": "Galicia",
+      "Postcode": "27400",
+      "CountryID": 210,
+      "Latitude": 42.52864456601779,
+      "Longitude": -7.5320882479724105,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 512770,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 300,
+        "Voltage": 920,
+        "PowerKW": 100,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "Power electronics NB120 Charger. The DC charger allows charging one vehicle at 100kW, or two simultaneous charges at 50kW"
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 150,
+    "DateLastStatusUpdate": "2024-01-27T07:36:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-01-27T07:36:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-19T10:49:00Z",
+    "ID": 213512,
+    "UUID": "67024218-3A84-40D0-981C-C9F12D18BA51",
+    "DataProviderID": 1,
+    "OperatorID": 91,
+    "UsageTypeID": 4,
+    "UsageCost": " 0,47€/kWh ",
+    "AddressInfo": {
+      "ID": 213892,
+      "Title": "Repsol As Fontes",
+      "AddressLine1": "Estrada Monforte - Belesar",
+      "Town": "Monforte de Lemos",
+      "StateOrProvince": "Galicia",
+      "Postcode": "27400",
+      "CountryID": 210,
+      "Latitude": 42.52568680434837,
+      "Longitude": -7.527202415507531,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 355638,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 355639,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 43,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      },
+      {
+        "ID": 355640,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-19T10:49:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-02-07T19:55:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-19T10:54:00Z",
+    "ID": 300619,
+    "UUID": "5A002639-46DD-40B2-9453-E2D8CF70D584",
+    "DataProviderID": 1,
+    "OperatorID": 3557,
+    "UsageTypeID": 4,
+    "UsageCost": "0,55€/kWh DC ",
+    "AddressInfo": {
+      "ID": 301006,
+      "Title": "E.S. Galp Monforte de Lemos",
+      "AddressLine1": "Rúa de Benito Vicetto",
+      "Town": "Monforte de Lemos",
+      "StateOrProvince": "Galicia",
+      "Postcode": "27400",
+      "CountryID": 210,
+      "Latitude": 42.51735199472469,
+      "Longitude": -7.505099437520045,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 559655,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 200,
+        "Voltage": 950,
+        "PowerKW": 150,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "HelloNext H2-150 Charger. The DC charger allows charging one vehicle at 150kW, or two simultaneous charges at 75kW. Maximum amperage 200A (max power is limited to 80kW for 400V cars)"
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-19T10:54:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-07-07T18:18:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-19T10:52:00Z",
+    "ID": 213513,
+    "UUID": "22C56D4B-9F9F-42AF-8A3C-13CA2C496EC5",
+    "DataProviderID": 1,
+    "OperatorID": 91,
+    "UsageTypeID": 4,
+    "UsageCost": " 0,39€/kWh DC - 0,29€/kWh AC",
+    "AddressInfo": {
+      "ID": 213893,
+      "Title": "Repsol Monforte de Lemos",
+      "AddressLine1": "Rúa do Conde",
+      "Town": "Monforte de Lemos",
+      "StateOrProvince": "Galicia",
+      "Postcode": "27400",
+      "CountryID": 210,
+      "Latitude": 42.519780971688505,
+      "Longitude": -7.513066359608388,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 355641,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 355642,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 43,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      },
+      {
+        "ID": 355643,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 150,
+    "DateLastStatusUpdate": "2025-09-19T10:52:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-02-07T19:56:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-10-06T07:17:00Z",
+    "ID": 205588,
+    "UUID": "C3C8A395-6A39-4428-8EC5-84141FD9CA2D",
+    "DataProviderID": 1,
+    "OperatorID": 3499,
+    "UsageTypeID": 1,
+    "UsageCost": "Free.  Limited to 1 hour. Accessible during business hours",
+    "AddressInfo": {
+      "ID": 205957,
+      "Title": "Mercadona Monforte",
+      "AddressLine1": "Rúa Corredoira",
+      "Town": "Monforte de Lemos",
+      "StateOrProvince": "Galicia",
+      "Postcode": "27400",
+      "CountryID": 210,
+      "Latitude": 42.52699022418449,
+      "Longitude": -7.5216079951133,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 343186,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 3.7,
+        "CurrentTypeID": 10,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-10-06T07:17:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-10-06T07:17:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-10-06T07:18:00Z",
+    "ID": 205589,
+    "UUID": "ADA1DAD9-48AE-4CF7-8D5B-C5147022511A",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "AddressInfo": {
+      "ID": 205958,
+      "Title": "VW Monforte de Lemos",
+      "AddressLine1": "Rúa San Pedro",
+      "Town": "Monforte de Lemos",
+      "StateOrProvince": "Galicia",
+      "Postcode": "27410",
+      "CountryID": 210,
+      "Latitude": 42.52512069269898,
+      "Longitude": -7.505319340323695,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 343187,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 11,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-10-06T07:18:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-10-06T07:18:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-09-27T20:47:00Z",
+    "ID": 304573,
+    "UUID": "ED454919-A22F-495D-98BF-3BDC91DC8712",
+    "DataProviderID": 1,
+    "OperatorID": 2247,
+    "UsageTypeID": 4,
+    "UsageCost": "0,39€/kWh",
+    "AddressInfo": {
+      "ID": 304962,
+      "Title": "Plenus Quiroga",
+      "AddressLine1": "Rúa de Rosalía de Castro",
+      "Town": "Quiroga",
+      "StateOrProvince": "Galicia",
+      "Postcode": "27320",
+      "CountryID": 210,
+      "Latitude": 42.47539567357276,
+      "Longitude": -7.275470553339261,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 576720,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-09-27T20:47:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-09-27T20:46:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-14T13:22:00Z",
+    "ID": 213508,
+    "UUID": "8F00A370-35CF-4604-A82B-10B40E3203AA",
+    "DataProviderID": 1,
+    "OperatorID": 207,
+    "UsageTypeID": 4,
+    "UsageCost": "0,45€/kWh AC",
+    "AddressInfo": {
+      "ID": 213888,
+      "Title": "Castro Caldelas",
+      "AddressLine1": "Avenida de Ourense",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32760",
+      "CountryID": 210,
+      "Latitude": 42.37430607121547,
+      "Longitude": -7.417004479240916,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 355629,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 4
+      }
+    ],
+    "NumberOfPoints": 4,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-14T13:22:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-02-07T19:50:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-14T13:21:00Z",
+    "ID": 213511,
+    "UUID": "6E6C2477-641E-4608-9850-20B10F06B4E1",
+    "DataProviderID": 1,
+    "OperatorID": 91,
+    "UsageTypeID": 4,
+    "UsageCost": "0,47€/kWh",
+    "AddressInfo": {
+      "ID": 213891,
+      "Title": "Repsol Quiroga",
+      "AddressLine1": "Rúa Real",
+      "Town": "Quiroga",
+      "StateOrProvince": "Galicia",
+      "Postcode": "27320",
+      "CountryID": 210,
+      "Latitude": 42.473934827136304,
+      "Longitude": -7.264603253351311,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 355635,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 355636,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 43,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      },
+      {
+        "ID": 355637,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-14T13:21:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-02-07T19:54:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-14T13:18:00Z",
+    "ID": 298484,
+    "UUID": "2AFDE4CC-D86B-44FE-99D5-45456826D29F",
+    "DataProviderID": 1,
+    "OperatorID": 3371,
+    "UsageTypeID": 4,
+    "UsageCost": " 0,56€/kWh DC",
+    "AddressInfo": {
+      "ID": 298871,
+      "Title": "A Rúa (Wenea)",
+      "AddressLine1": "Avenida Campo Grande",
+      "Town": "A Rúa",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32350",
+      "CountryID": 210,
+      "Latitude": 42.3958800658734,
+      "Longitude": -7.106349169011395,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 546138,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 300,
+        "Voltage": 1000,
+        "PowerKW": 100,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "PowerElectronics NB240 charger (500A peak). Power is split between both outlets. The DC charger allows charging one vehicle at 100kW, or two simultaneous charges at 50kW. "
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-14T13:18:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-05-08T16:56:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-14T13:17:00Z",
+    "ID": 213510,
+    "UUID": "7FF579E5-1A6F-4D9C-842C-AD5D13AD95DC",
+    "DataProviderID": 1,
+    "OperatorID": 2247,
+    "UsageTypeID": 4,
+    "UsageCost": " 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",
+    "AddressInfo": {
+      "ID": 213890,
+      "Title": "E.S. Sobreira",
+      "AddressLine1": "Estrada Logroño - Vigo",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32340",
+      "CountryID": 210,
+      "Latitude": 42.40846129606044,
+      "Longitude": -7.072395703362645,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 355632,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 2
+      },
+      {
+        "ID": 355633,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 355634,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 4,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-14T13:17:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-02-07T19:53:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-09-26T18:23:00Z",
+    "ID": 203156,
+    "UUID": "5A01989D-432A-468F-91B3-089B321380FF",
+    "DataProviderID": 1,
+    "OperatorID": 3499,
+    "UsageTypeID": 1,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 203523,
+      "Title": "Mercadona O Barco de Valdeorras",
+      "AddressLine1": "Rúa Río Mariñán",
+      "Town": "O Barco de Valdeorras",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32317",
+      "CountryID": 210,
+      "Latitude": 42.416531780284004,
+      "Longitude": -6.9975668039820675,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 339564,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 3.7,
+        "CurrentTypeID": 10,
+        "Quantity": 4
+      }
+    ],
+    "NumberOfPoints": 4,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-09-26T18:23:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-15T07:10:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-09-15T07:07:00Z",
+    "ID": 163554,
+    "UUID": "17A86209-0A70-48D3-898B-5045D39D47A3",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "OperatorsReference": "33390",
+    "UsageTypeID": 6,
+    "AddressInfo": {
+      "ID": 163911,
+      "Title": "Hotel O Camiño",
+      "AddressLine1": "Hotel O Camiño",
+      "Postcode": "32300",
+      "CountryID": 210,
+      "Latitude": 42.426223,
+      "Longitude": -6.98854,
+      "ContactTelephone1": "+34 988 32 26 86",
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 235151,
+        "ConnectionTypeID": 30,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      },
+      {
+        "ID": 339562,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 11,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 2,
+    "GeneralComments": "1 Tesla Connector, up to 22kW.Available for customers. Please call ahead.",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-09-15T07:07:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2020-08-24T12:32:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-05-05T13:23:00Z",
+    "ID": 300616,
+    "UUID": "B92DBB92-645E-424F-9AB3-F2B4165248F0",
+    "DataProviderID": 1,
+    "OperatorID": 207,
+    "UsageTypeID": 4,
+    "UsageCost": "0,49€/kWh DC - 0,39€/kWh AC ",
+    "AddressInfo": {
+      "ID": 301003,
+      "Title": "Hotel Pazo de Castro",
+      "AddressLine1": "Castro",
+      "Town": "O Barco de Valdeorras",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32318",
+      "CountryID": 210,
+      "Latitude": 42.42857232854368,
+      "Longitude": -6.989204348699104,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 559651,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 150,
+        "Voltage": 900,
+        "PowerKW": 60,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "XCharge Juicepump60 DC charger allows charging one vehicle at 60kW, or two simultaneous charges at 30kW. "
+      },
+      {
+        "ID": 559652,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 4,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-05-05T13:23:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-07-07T18:08:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-14T13:13:00Z",
+    "ID": 162281,
+    "UUID": "4E2DFF8E-E7D8-42E4-86B5-BC46C834757C",
+    "DataProviderID": 1,
+    "OperatorID": 2247,
+    "UsageTypeID": 4,
+    "UsageCost": "0,45€/kWh",
+    "AddressInfo": {
+      "ID": 162638,
+      "Title": "E.S. Valcarcel Toral de los Vados",
+      "AddressLine1": "Nacional 120 Logroño-Vigo",
+      "Town": "Villadecanes",
+      "StateOrProvince": "Castile and León",
+      "Postcode": "24560",
+      "CountryID": 210,
+      "Latitude": 42.54467076682144,
+      "Longitude": -6.782597754178255,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 233569,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 233570,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 233571,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 64,
+        "Voltage": 400,
+        "PowerKW": 43,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-14T13:13:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2020-08-04T14:43:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-08-20T18:19:00Z",
+    "ID": 203157,
+    "UUID": "6095E890-3E18-4A52-9EE9-C46A5D9F1BAF",
+    "DataProviderID": 1,
+    "OperatorID": 3324,
+    "UsageTypeID": 4,
+    "UsageCost": "0,25€/kWh",
+    "AddressInfo": {
+      "ID": 203524,
+      "Title": "Casa del Parque de las Médulas (Moveletur)",
+      "AddressLine1": "Casa del Parque de las Médulas",
+      "Town": "Borrenes",
+      "StateOrProvince": "Castile and León",
+      "Postcode": "24442",
+      "CountryID": 210,
+      "Latitude": 42.48896331984369,
+      "Longitude": -6.772843393984658,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 339565,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "Amps": 32,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      },
+      {
+        "ID": 339566,
+        "ConnectionTypeID": 28,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 3.7,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-08-20T18:19:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-15T07:12:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-14T13:10:00Z",
+    "ID": 312117,
+    "UUID": "818FC2F9-AAD5-4076-AF05-4DFFFD51693A",
+    "DataProviderID": 1,
+    "OperatorID": 91,
+    "UsageTypeID": 4,
+    "UsageCost": " 0,47€/kWh DC - 0,35€/kWh AC ",
+    "AddressInfo": {
+      "ID": 312506,
+      "Title": "Repsol Rosa Maria Folla Fernández",
+      "AddressLine1": "Calle Valdebría, 8,",
+      "Town": "Puente de Domingo Flórez",
+      "CountryID": 210,
+      "Latitude": 42.41768015344297,
+      "Longitude": -6.8240944585194825,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 601323,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 601324,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 601325,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 43,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 150,
+    "DateLastStatusUpdate": "2025-09-14T13:10:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2025-04-29T18:52:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-07-07T18:05:00Z",
+    "ID": 300615,
+    "UUID": "77E1381E-A0E4-470A-B9B5-822FAA9E2D1B",
+    "DataProviderID": 1,
+    "OperatorID": 2247,
+    "UsageTypeID": 4,
+    "UsageCost": "0,39€/kWh",
+    "AddressInfo": {
+      "ID": 301002,
+      "Title": "Ayunt. Puente Domingo Flórez",
+      "AddressLine1": "Plaza Epifanio Campo Núñez",
+      "StateOrProvince": "Castilla y León",
+      "Postcode": "24380",
+      "CountryID": 210,
+      "Latitude": 42.41099414855725,
+      "Longitude": -6.820088460615779,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 559650,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-07-07T18:05:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-07-07T18:05:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-07-28T06:02:00Z",
+    "ID": 298965,
+    "UUID": "D29C6964-5C69-4299-B6F6-777E58D9E01E",
+    "DataProviderID": 1,
+    "OperatorID": 3556,
+    "UsageTypeID": 4,
+    "UsageCost": "0,30€/kWh",
+    "AddressInfo": {
+      "ID": 299352,
+      "Title": "Efiduero Ayunt. Requejo",
+      "AddressLine1": "Calle Fuente",
+      "StateOrProvince": "Castilla y León",
+      "Postcode": "49394",
+      "CountryID": 210,
+      "Latitude": 42.030463654403036,
+      "Longitude": -6.7435485526686705,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 548360,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-07-28T06:02:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-05-15T18:15:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-07-28T06:03:00Z",
+    "ID": 298977,
+    "UUID": "742D74CA-AB92-41D2-903C-B3E2E9F85B80",
+    "DataProviderID": 1,
+    "OperatorID": 3556,
+    "UsageTypeID": 4,
+    "UsageCost": "0,30€/kWh",
+    "AddressInfo": {
+      "ID": 299364,
+      "Title": "Efiduero Ayunt. Hermisende",
+      "AddressLine1": "Calle Pedazo",
+      "StateOrProvince": "Castilla y León",
+      "Postcode": "49572",
+      "CountryID": 210,
+      "Latitude": 41.96886115270124,
+      "Longitude": -6.892569646288422,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 548374,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-07-28T06:03:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-05-15T19:08:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-09-13T13:05:00Z",
+    "ID": 289167,
+    "UUID": "92A4E869-8A6D-46A6-9F20-050F3912386E",
+    "DataProviderID": 1,
+    "OperatorID": 3571,
+    "UsageTypeID": 4,
+    "UsageCost": " 0,50€/kWh DC, AC: 0,32€/kWh",
+    "AddressInfo": {
+      "ID": 289554,
+      "Title": "Rest. Don Pepe ",
+      "AddressLine1": "N-525",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32548",
+      "CountryID": 210,
+      "Latitude": 42.037791687369605,
+      "Longitude": -7.054592297445794,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 507581,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 500,
+        "Voltage": 920,
+        "PowerKW": 100,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "Delta UFC200 Charger. Max power of the charger for both combined outlets 100 kW"
+      },
+      {
+        "ID": 507582,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 507583,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-09-13T13:05:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-01-04T09:12:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-07-07T17:28:00Z",
+    "ID": 114191,
+    "UUID": "9EBB73D3-08BB-4B2D-A946-F6039B234FC4",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "OperatorsReference": "47470",
+    "UsageTypeID": 6,
+    "AddressInfo": {
+      "ID": 114537,
+      "Title": "Hotel Spa Vilavella",
+      "AddressLine1": "Hotel Spa Vilavella",
+      "Town": "A Vilavella",
+      "StateOrProvince": "Orense",
+      "Postcode": "32549",
+      "CountryID": 210,
+      "Latitude": 42.038277,
+      "Longitude": -7.016485,
+      "ContactTelephone1": "+34 988 59 42 42",
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 160761,
+        "ConnectionTypeID": 30,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      },
+      {
+        "ID": 340319,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 11,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      },
+      {
+        "ID": 340320,
+        "ConnectionTypeID": 28,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 3.7,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 3,
+    "GeneralComments": "1 Tesla Connector, up to 22kW.Available by reservation only. Please see front desk.",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-07-07T17:28:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2019-01-03T08:10:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-07-28T06:02:00Z",
+    "ID": 298976,
+    "UUID": "30CFED87-7D64-44E2-A17E-6FACC81AFA8C",
+    "DataProviderID": 1,
+    "OperatorID": 3556,
+    "UsageTypeID": 4,
+    "UsageCost": "0,30€/kWh",
+    "AddressInfo": {
+      "ID": 299363,
+      "Title": "Efiduero Ayunt. Lubián",
+      "AddressLine1": "Avenida Manuel Fábrega Coello",
+      "StateOrProvince": "Castilla y León",
+      "Postcode": "49570",
+      "CountryID": 210,
+      "Latitude": 42.036023603450786,
+      "Longitude": -6.905975157552888,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 548373,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-07-28T06:02:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-05-15T19:07:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-03-21T08:08:00Z",
+    "ID": 296934,
+    "UUID": "1BD7CFCA-86F1-4B95-BB84-0FB441894D77",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 297321,
+      "Title": "Pensión Río Xares",
+      "AddressLine1": "Pasaxe Campo de Fútbol",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32360",
+      "CountryID": 210,
+      "Latitude": 42.24787080817745,
+      "Longitude": -7.022267632759622,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 534018,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 11,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-03-21T08:08:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-03-21T08:08:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2023-02-07T19:52:00Z",
+    "ID": 213509,
+    "UUID": "505C859A-08D7-4101-A5CD-960F3D1873B2",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "AddressInfo": {
+      "ID": 213889,
+      "Title": "Pazo da Pena",
+      "AddressLine1": "Estrada da Encomenda",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32781",
+      "CountryID": 210,
+      "Latitude": 42.30358171484792,
+      "Longitude": -7.23812283384342,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 355630,
+        "ConnectionTypeID": 28,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 3.7,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      },
+      {
+        "ID": 355631,
+        "ConnectionTypeID": 16,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2023-02-07T19:52:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-02-07T19:52:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-11T07:08:00Z",
+    "ID": 205606,
+    "UUID": "6ECF9859-88FD-489B-A735-EF5FA4D665C7",
+    "DataProviderID": 1,
+    "OperatorID": 207,
+    "UsageTypeID": 4,
+    "UsageCost": "0,39€/kWh",
+    "AddressInfo": {
+      "ID": 205975,
+      "Title": "Hotel Mirador da Riveira",
+      "AddressLine1": "Rúa Santo Cristo",
+      "Town": "Viana do Bolo",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32550",
+      "CountryID": 210,
+      "Latitude": 42.181196971063855,
+      "Longitude": -7.115414436770948,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 343211,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-11T07:08:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-10-06T08:13:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-11T07:01:00Z",
+    "ID": 311224,
+    "UUID": "CB872657-5EB2-4D92-A28F-C75767B352B7",
+    "DataProviderID": 1,
+    "OperatorID": 3459,
+    "UsageTypeID": 4,
+    "UsageCost": "0,54€/kWh DC - 0,35€/kWh AC",
+    "AddressInfo": {
+      "ID": 311613,
+      "Title": "Hotel Rest. El Relojero, Gudiña (Acciona)",
+      "AddressLine1": "Beato Sebastián Aparicio",
+      "Town": "A Gudiña",
+      "StateOrProvince": "Lugo",
+      "CountryID": 210,
+      "Latitude": 42.057736867688135,
+      "Longitude": -7.147776629185415,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 599712,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 375,
+        "Voltage": 920,
+        "PowerKW": 100,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "Ingeteam RAPID120 Charger.The DC charger allows charging one vehicle at 100kW, or two simultaneous charges at 50kW. "
+      },
+      {
+        "ID": 599713,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 4,
+    "StatusTypeID": 150,
+    "DateLastStatusUpdate": "2025-09-11T07:01:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2025-03-14T14:35:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-11T06:59:00Z",
+    "ID": 296933,
+    "UUID": "2B656156-C445-45E2-AB07-796C197B20F8",
+    "DataProviderID": 1,
+    "OperatorID": 91,
+    "UsageTypeID": 4,
+    "UsageCost": "0.47€/kWh ",
+    "AddressInfo": {
+      "ID": 297320,
+      "Title": "Repsol A Gudiña",
+      "AddressLine1": "Rúa da Corredoira",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32540",
+      "CountryID": 210,
+      "Latitude": 42.05705540181057,
+      "Longitude": -7.148739516793057,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 534015,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 534016,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 534017,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 43,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-11T06:59:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-03-21T08:05:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-01-27T18:37:00Z",
+    "ID": 213489,
+    "UUID": "B54BEE0C-0703-4194-B894-8A214ECECE5A",
+    "DataProviderID": 1,
+    "OperatorID": 91,
+    "UsageTypeID": 4,
+    "UsageCost": " 0,39€/kWh DC - 0,29€/kWh AC",
+    "AddressInfo": {
+      "ID": 213869,
+      "Title": "Repsol Mesón de Erosa La Gudiña",
+      "AddressLine1": "N-525",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32547",
+      "CountryID": 210,
+      "Latitude": 42.03145052371403,
+      "Longitude": -7.179958961816396,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 355598,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 355599,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 43,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      },
+      {
+        "ID": 355600,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 150,
+    "DateLastStatusUpdate": "2024-01-27T18:37:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-02-07T19:30:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-08-10T19:47:00Z",
+    "ID": 459019,
+    "UUID": "6CBEC5A7-6934-48EA-9FB6-BAC972C1739E",
+    "DataProviderID": 1,
+    "OperatorID": 2247,
+    "UsageTypeID": 4,
+    "UsageCost": "0,69 €/kWh DC - 0,45€/kWh DC 50kW",
+    "AddressInfo": {
+      "ID": 459408,
+      "Title": "Mesón Erosa",
+      "AddressLine1": "A-52",
+      "AddressLine2": "",
+      "Town": "Erosa",
+      "CountryID": 210,
+      "Latitude": 42.029678253630095,
+      "Longitude": -7.180589771793279,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 771571,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 600,
+        "Voltage": 1000,
+        "PowerKW": 400,
+        "CurrentTypeID": 30,
+        "Quantity": 8,
+        "Comments": "4 Alpitronic HYC400 Chargers. The DC charger allows charging one vehicle at 400kW, or two simultaneous charges at 200kW. Max 600A Peak, charging power limited to 240kW for 400V cars"
+      },
+      {
+        "ID": 771572,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 150,
+        "Voltage": 1000,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "Alpitronic Hypercharger HYC50 DC charger that allows charging one vehicle at 50kW, or two simultaneous charges at 25kW. "
+      }
+    ],
+    "NumberOfPoints": 10,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-08-10T19:47:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2025-06-30T09:51:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-19T11:00:00Z",
+    "ID": 272842,
+    "UUID": "AA2A0160-6E60-466C-8C71-E8927FDD2089",
+    "DataProviderID": 1,
+    "OperatorID": 91,
+    "UsageTypeID": 4,
+    "UsageCost": "0,47€/kWh ",
+    "AddressInfo": {
+      "ID": 273226,
+      "Title": "Repsol Os Pepes",
+      "AddressLine1": "Xinzo de Lima",
+      "CountryID": 210,
+      "Latitude": 42.072427291184056,
+      "Longitude": -7.731947280844452,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 468954,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 43,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      },
+      {
+        "ID": 468955,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 468956,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-19T11:00:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-07-20T07:56:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-05-12T20:36:00Z",
+    "ID": 300592,
+    "UUID": "5BD6D30E-53AB-4CF7-86E0-3E3271D63168",
+    "DataProviderID": 1,
+    "OperatorID": 3459,
+    "UsageTypeID": 4,
+    "UsageCost": "0,54€/kWh ",
+    "AddressInfo": {
+      "ID": 300979,
+      "Title": "Rest. Antela (Acciona)",
+      "AddressLine1": "Avenida de Ourense",
+      "Town": "Xinzo de Limia",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32630",
+      "CountryID": 210,
+      "Latitude": 42.073029284211344,
+      "Longitude": -7.731660484598024,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 559621,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 300,
+        "Voltage": 920,
+        "PowerKW": 100,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "Ingeteam RAPID120 Charger.The DC charger allows charging one vehicle at 100kW, or two simultaneous charges at 50kW. "
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-05-12T20:36:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-07-07T17:10:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-19T11:05:00Z",
+    "ID": 300591,
+    "UUID": "F599650F-91B1-41E8-9189-8EB992C0AD57",
+    "DataProviderID": 1,
+    "OperatorID": 91,
+    "UsageTypeID": 4,
+    "UsageCost": "0.47€/kWh ",
+    "AddressInfo": {
+      "ID": 300978,
+      "Title": "Repsol Petrolimia",
+      "AddressLine1": "OU-1151",
+      "Town": "Xinzo de Limia",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32630",
+      "CountryID": 210,
+      "Latitude": 42.07604567329321,
+      "Longitude": -7.727199739063991,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 559618,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 559619,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 559620,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 43,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-19T11:05:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-07-07T17:08:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-09-19T10:49:00Z",
+    "ID": 188576,
+    "UUID": "67B99693-68A9-4074-8FB9-13091DEF20D5",
+    "DataProviderID": 1,
+    "OperatorID": 3499,
+    "UsageTypeID": 1,
+    "UsageCost": "free",
+    "AddressInfo": {
+      "ID": 188935,
+      "Title": "Mercadona Xinzo de Limia",
+      "AddressLine1": "Parque Empresarial, 67",
+      "Town": "Xinzo de Limia",
+      "Postcode": "32636",
+      "CountryID": 210,
+      "Latitude": 42.07853676180383,
+      "Longitude": -7.722174589400765,
+      "RelatedURL": "http://www.mercadona.es",
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 304588,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 3.7,
+        "CurrentTypeID": 10,
+        "Quantity": 5,
+        "Comments": ""
+      }
+    ],
+    "NumberOfPoints": 5,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-09-19T10:49:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2021-08-03T09:05:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-06-15T12:53:00Z",
+    "ID": 302583,
+    "UUID": "9DCAB29F-6A4E-4550-BE13-0BA031F01768",
+    "DataProviderID": 1,
+    "OperatorID": 3371,
+    "UsageTypeID": 4,
+    "UsageCost": "0,55€/kWh",
+    "AddressInfo": {
+      "ID": 302970,
+      "Title": "Rest. Antela (Wenea)",
+      "AddressLine1": "Autovía das Rías Baixas",
+      "Town": "Xinzo de Limia",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32630",
+      "CountryID": 210,
+      "Latitude": 42.0782249,
+      "Longitude": -7.7154692,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 568715,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 300,
+        "Voltage": 1000,
+        "PowerKW": 300,
+        "CurrentTypeID": 30,
+        "Quantity": 10,
+        "Comments": "Five Power electronics NBD Slim dispensers Chargers with dual CCS connectors (peak 500A). Two power cabinets NBi360 (Total power of the station 720kW shared among the 8 CCS connectors). Max power limited to 200kW for 400V cars"
+      }
+    ],
+    "NumberOfPoints": 10,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-06-15T12:53:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-08-13T19:33:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-08-13T19:35:00Z",
+    "ID": 203729,
+    "UUID": "A3DE8B5E-7C40-4CD8-983F-22E0A17F885A",
+    "DataProviderID": 1,
+    "OperatorID": 3534,
+    "UsageTypeID": 4,
+    "AddressInfo": {
+      "ID": 204096,
+      "Title": "Tesla Supercharger Xinzo de Limia",
+      "AddressLine1": "Autovía das Rías Baixas",
+      "Town": "Xinzo de Limia",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32630",
+      "CountryID": 210,
+      "Latitude": 42.0781117,
+      "Longitude": -7.7150781,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 340606,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 250,
+        "CurrentTypeID": 30,
+        "Quantity": 12,
+        "Comments": "V3"
+      }
+    ],
+    "NumberOfPoints": 12,
+    "GeneralComments": "12 V3 Superchargers 250kW (CCS). Max total power of the station 1,1MW",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-08-13T19:35:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-21T08:25:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-08-10T12:54:00Z",
+    "ID": 300593,
+    "UUID": "E99A0FDB-4933-47FB-9311-32EEA3DE1A2E",
+    "DataProviderID": 1,
+    "OperatorID": 91,
+    "UsageTypeID": 4,
+    "UsageCost": "0.47€/kWh ",
+    "AddressInfo": {
+      "ID": 300980,
+      "Title": "Repsol Trasmirras",
+      "AddressLine1": "Rúa Otero Pedrayo",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32696",
+      "CountryID": 210,
+      "Latitude": 42.01928670474052,
+      "Longitude": -7.608751774628104,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 559622,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 559623,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 559624,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 43,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-08-10T12:54:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-07-07T17:12:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-08-27T12:55:00Z",
+    "ID": 305465,
+    "UUID": "7516D5EE-73A1-47DB-8A52-FA5B3C3AC879",
+    "DataProviderID": 1,
+    "OperatorID": 3557,
+    "UsageTypeID": 4,
+    "UsageCost": "0,43€/kWh DC ",
+    "AddressInfo": {
+      "ID": 305854,
+      "Title": "E.S. Combustibles Galior",
+      "AddressLine1": "Rúa do Pracer",
+      "Town": "Verín",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32619",
+      "CountryID": 210,
+      "Latitude": 41.93002838079374,
+      "Longitude": -7.460280061443427,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 577971,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 774931,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-08-27T12:55:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-10-18T07:48:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-19T11:07:00Z",
+    "ID": 213491,
+    "UUID": "FFC496ED-ABEA-4FFF-AE46-8666F55B7CE4",
+    "DataProviderID": 1,
+    "OperatorID": 91,
+    "UsageTypeID": 4,
+    "UsageCost": "0,47€/kWh ",
+    "AddressInfo": {
+      "ID": 213871,
+      "Title": "Repsol Verín",
+      "AddressLine1": "Avenida de San Lázaro",
+      "AddressLine2": "Pazos",
+      "Town": "Verín",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32619",
+      "CountryID": 210,
+      "Latitude": 41.939325391855704,
+      "Longitude": -7.446248361896551,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 355604,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 355605,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 43,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      },
+      {
+        "ID": 355606,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-19T11:07:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-02-07T19:32:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-19T11:12:00Z",
+    "ID": 279893,
+    "UUID": "505598D4-C0A3-4B89-B443-9DC68ED2F0AA",
+    "DataProviderID": 1,
+    "OperatorID": 3550,
+    "UsageTypeID": 4,
+    "UsageCost": "0,60€/kWh Dc - 0,40€/kWh AC",
+    "AddressInfo": {
+      "ID": 280280,
+      "Title": "E.S. Galp Verín",
+      "AddressLine1": "N-532",
+      "Town": "Verín",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32699",
+      "CountryID": 210,
+      "Latitude": 41.82503209511424,
+      "Longitude": -7.425070266808461,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 486752,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 300,
+        "Voltage": 1000,
+        "PowerKW": 100,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "Two Kempower CCS Satellite chargers that dynamically share the total power of the cabinet (100 kW). Charging power limited for 400V cars"
+      },
+      {
+        "ID": 486753,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 3,
+    "GeneralComments": "Max power currently limited to 35kW. Galp/PowerDot. Payment: apps Galp, Electromaps, credit card",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-19T11:12:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-11-12T07:38:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-19T11:09:00Z",
+    "ID": 213492,
+    "UUID": "EB080046-82BF-4E64-897D-5CBD5B0B147B",
+    "DataProviderID": 1,
+    "OperatorID": 91,
+    "UsageTypeID": 4,
+    "UsageCost": "0,47€/kWh ",
+    "AddressInfo": {
+      "ID": 213872,
+      "Title": "Repsol Verín",
+      "AddressLine1": "N-525",
+      "AddressLine2": "A Rasela",
+      "Town": "Verín",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32627",
+      "CountryID": 210,
+      "Latitude": 41.945320230667875,
+      "Longitude": -7.416089503444596,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 355607,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 355608,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 355609,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 43,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-19T11:09:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-02-07T19:32:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-10-06T08:05:00Z",
+    "ID": 205603,
+    "UUID": "2D5EAEE4-3BB6-4AA7-B4D7-D098AC974716",
+    "DataProviderID": 1,
+    "OperatorID": 3499,
+    "UsageTypeID": 1,
+    "UsageCost": "Free.  Limited to 1 hour. Accessible during business hours",
+    "AddressInfo": {
+      "ID": 205972,
+      "Title": "Mercadona Verin",
+      "AddressLine1": "Rúa Rosalía de Castro",
+      "Town": "Verín",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32627",
+      "CountryID": 210,
+      "Latitude": 41.94237471439055,
+      "Longitude": -7.433832449109673,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 343207,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 3.7,
+        "CurrentTypeID": 10,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-10-06T08:05:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-10-06T08:05:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-05-20T18:05:00Z",
+    "ID": 213490,
+    "UUID": "5C57E7FE-4AFC-4D39-B800-7695F3BC55DA",
+    "DataProviderID": 1,
+    "OperatorID": 91,
+    "UsageTypeID": 4,
+    "UsageCost": " 0,47€/kWh ",
+    "AddressInfo": {
+      "ID": 213870,
+      "Title": "Repsol Rios",
+      "AddressLine1": "Autovía das Rías Baixas",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32610",
+      "CountryID": 210,
+      "Latitude": 41.9827402267797,
+      "Longitude": -7.285745666610524,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 355601,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 355602,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 43,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      },
+      {
+        "ID": 355603,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-05-20T18:05:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-02-07T19:30:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2023-02-19T18:43:00Z",
+    "ID": 205604,
+    "UUID": "4BDDE206-D417-40CC-B4F6-C1CCF63C8D1B",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "AddressInfo": {
+      "ID": 205973,
+      "Title": "Asador Jose Restaurante",
+      "AddressLine1": "Asador Jose Restaurante",
+      "Town": "Riós",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32611",
+      "CountryID": 210,
+      "Latitude": 41.97935033526721,
+      "Longitude": -7.284854516426776,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 343208,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "GeneralComments": "Porsche Destination Charger",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2023-02-19T18:43:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-10-06T08:07:00Z",
+    "SubmissionStatusTypeID": 200
+  }
+]

@@ -1,0 +1,443 @@
+﻿Concesionaria,Autopista,Tramo,Precio (€),Fecha
+Estatal,AP-66,Campomanes - Oblanca,5.65,2025-01-01
+Estatal,AP-66,Campomanes - La Magdalena,9.8,2025-01-01
+Estatal,AP-66,Campomanes - León,15.6,2025-01-01
+Estatal,AP-66,Oblanca - La Magdalena,4.15,2025-01-01
+Estatal,AP-66,Oblanca - León,9.95,2025-01-01
+Estatal,AP-66,La Magdalena - León,6.1,2025-01-01
+Estatal,AP-53,Santiago - Ribadulla,1.95,2025-01-01
+Estatal,AP-53,Santiago - Bandeira,3.15,2025-01-01
+Estatal,AP-53,Santiago - Silleda,4.2,2025-01-01
+Estatal,AP-53,Santiago - Lalín Oeste,7.0,2025-01-01
+Estatal,AP-53,Santiago - Lalín Centro,7.0,2025-01-01
+Estatal,AP-53,Santiago - Lalín Este,7.0,2025-01-01
+Estatal,AP-53,Santiago - Alto de Santo Domingo,7.0,2025-01-01
+Estatal,AP-53,Ribadulla - Bandeira,1.35,2025-01-01
+Estatal,AP-53,Ribadulla - Silleda,2.35,2025-01-01
+Estatal,AP-53,Ribadulla - Lalín Oeste,5.15,2025-01-01
+Estatal,AP-53,Ribadulla - Lalín Centro,5.15,2025-01-01
+Estatal,AP-53,Ribadulla - Lalín Este,5.15,2025-01-01
+Estatal,AP-53,Ribadulla - Alto de Santo Domingo,5.15,2025-01-01
+Estatal,AP-53,Bandeira - Silleda,1.3,2025-01-01
+Estatal,AP-53,Bandeira - Lalín Oeste,4.1,2025-01-01
+Estatal,AP-53,Bandeira - Lalín Centro,4.1,2025-01-01
+Estatal,AP-53,Bandeira - Lalín Este,4.1,2025-01-01
+Estatal,AP-53,Bandeira - Alto de Santo Domingo,4.1,2025-01-01
+Estatal,AP-53,Silleda - Lalín Oeste,2.9,2025-01-01
+Estatal,AP-53,Silleda - Lalín Centro,2.9,2025-01-01
+Estatal,AP-53,Silleda - Lalín Este,2.9,2025-01-01
+Estatal,AP-53,Silleda - Alto de Santo Domingo,2.9,2025-01-01
+Estatal,AP-6,Villalba - San Rafael,5.45,2025-01-01
+Estatal,AP-6,Villalba - Villacastín,9.75,2025-01-01
+Estatal,AP-6,Villalba - Adanero,15.15,2025-01-01
+Estatal,AP-6,San Rafael - Villacastín,3.1,2025-01-01
+Estatal,AP-6,San Rafael - Adanero,8.75,2025-01-01
+Estatal,AP-6,Villacastín - Adanero,4.5,2025-01-01
+Estatal,AP-61,Conexión AP-6 (El Espinar) - Otero de H.,0.8,2025-01-01
+Estatal,AP-61,Conexión AP-6 (El Espinar) - Ortigosa,1.4,2025-01-01
+Estatal,AP-61,Conexión AP-6 (El Espinar) - Hontoria,2.85,2025-01-01
+Estatal,AP-61,Conexión AP-6 (El Espinar) - Segovia,2.85,2025-01-01
+Estatal,AP-61,San Rafael - Otero de Herreros,0.9,2025-01-01
+Estatal,AP-61,San Rafael - Ortigosa,1.5,2025-01-01
+Estatal,AP-61,San Rafael - El Hontoria,2.95,2025-01-01
+Estatal,AP-61,San Rafael - Segovia,2.95,2025-01-01
+Estatal,AP-61,Otero de Herreros - Ortigosa,0.7,2025-01-01
+Estatal,AP-61,Otero de Herreros - Hontoria,2.15,2025-01-01
+Estatal,AP-61,Otero de Herreros - Segovia,2.15,2025-01-01
+Estatal,AP-61,Ortigosa del Monte - Hontoria,1.55,2025-01-01
+Estatal,AP-61,Ortigosa del Monte - Segovia,1.55,2025-01-01
+Estatal,AP-61,Hontoria - Segovia,0.0,2025-01-01
+Estatal,AP-61,Conexión AP-6 (El Espinar) - Otero de Herreros,0.8,2025-01-01
+Estatal,AP-61,Conexión AP-6 (El Espinar) - Ortigosa,1.4,2025-01-01
+Estatal,AP-61,Conexión AP-6 (El Espinar) - Hontoria,2.85,2025-01-01
+Estatal,AP-61,Conexión AP-6 (El Espinar) - Segovia,2.85,2025-01-01
+Estatal,AP-61,San Rafael - Otero de Herreros,0.9,2025-01-01
+Estatal,AP-61,San Rafael - Ortigosa,1.5,2025-01-01
+Estatal,AP-61,San Rafael - El Hontoria,2.95,2025-01-01
+Estatal,AP-61,San Rafael - Segovia,2.95,2025-01-01
+Estatal,AP-61,Otero de Herreros - Ortigosa,0.7,2025-01-01
+Estatal,AP-61,Otero de Herreros - Hontoria,2.15,2025-01-01
+Estatal,AP-61,Otero de Herreros - Segovia,2.15,2025-01-01
+Estatal,AP-61,Ortigosa del Monte - Hontoria,1.55,2025-01-01
+Estatal,AP-61,Ortigosa del Monte - Segovia,1.55,2025-01-01
+Estatal,AP-61,Hontoria - Segovia,0.0,2025-01-01
+Estatal,AP-68,Llodio - Logroño,16.8,2025-01-01
+Estatal,AP-68,Llodio - Recajo,17.8,2025-01-01
+Estatal,AP-68,Llodio - Agoncillo,18.3,2025-01-01
+Estatal,AP-68,Llodio - Lodosa,20.55,2025-01-01
+Estatal,AP-68,Llodio - Calahorra,21.75,2025-01-01
+Estatal,AP-68,Llodio - Alfaro,24.75,2025-01-01
+Estatal,AP-68,Llodio - Autop. Navarra,25.4,2025-01-01
+Estatal,AP-68,Llodio - Tudela,26.8,2025-01-01
+Estatal,AP-68,Llodio - Gallur,30.6,2025-01-01
+Estatal,AP-68,Llodio - Alagón pk 272,33.75,2025-01-01
+Estatal,AP-68,Llodio - Zaragoza,36.35,2025-01-01
+Estatal,AP-68,Ziorraga - Altube,1.6,2025-01-01
+Estatal,AP-68,Ziorraga - Subijana,4.6,2025-01-01
+Estatal,AP-68,Ziorraga - Autop. Burgos,7.0,2025-01-01
+Estatal,AP-68,Ziorraga - Zambrana,8.05,2025-01-01
+Estatal,AP-68,Ziorraga - Haro,9.5,2025-01-01
+Estatal,AP-68,Ziorraga - Cenicero,11.95,2025-01-01
+Estatal,AP-68,Ziorraga - Fuenmayor,12.85,2025-01-01
+Estatal,AP-68,Ziorraga - Logroño,13.95,2025-01-01
+Estatal,AP-68,Ziorraga - Recajo,15.0,2025-01-01
+Estatal,AP-68,Ziorraga - Agoncillo,15.5,2025-01-01
+Estatal,AP-68,Ziorraga - Lodosa,17.7,2025-01-01
+Estatal,AP-68,Ziorraga - Calahorra,18.95,2025-01-01
+Estatal,AP-68,Ziorraga - Alfaro,21.95,2025-01-01
+Estatal,AP-68,Ziorraga - Autop. Navarra,22.6,2025-01-01
+Estatal,AP-68,Ziorraga - Tudela,23.95,2025-01-01
+Estatal,AP-68,Ziorraga - Gallur,27.8,2025-01-01
+Estatal,AP-68,Ziorraga - Alagón pk 272,30.95,2025-01-01
+Estatal,AP-68,Ziorraga - Zaragoza,33.5,2025-01-01
+Estatal,AP-68,Altube - Subijana,3.4,2025-01-01
+Estatal,AP-68,Altube - Autop. Burgos,5.85,2025-01-01
+Estatal,AP-68,Altube - Zambrana,6.85,2025-01-01
+Estatal,AP-68,Altube - Haro,8.35,2025-01-01
+Estatal,AP-68,Altube - Cenicero,10.8,2025-01-01
+Estatal,AP-68,Altube - Fuenmayor,11.7,2025-01-01
+Estatal,AP-68,Altube - Logroño,12.8,2025-01-01
+Estatal,AP-68,Altube - Recajo,13.85,2025-01-01
+Estatal,AP-68,Altube - Agoncillo,14.35,2025-01-01
+Estatal,AP-68,Altube - Lodosa,16.55,2025-01-01
+Estatal,AP-68,Altube - Calahorra,17.8,2025-01-01
+Estatal,AP-68,Altube - Alfaro,20.8,2025-01-01
+Estatal,AP-68,Altube - Autop. Navarra,21.25,2025-01-01
+Estatal,AP-68,Altube - Tudela,22.8,2025-01-01
+Estatal,AP-68,Altube - Gallur,26.65,2025-01-01
+Estatal,AP-68,Altube - Alagón pk 272,29.8,2025-01-01
+Estatal,AP-68,Altube - Zaragoza,32.35,2025-01-01
+Estatal,AP-68,Subijana - Autop. Burgos,2.6,2025-01-01
+Estatal,AP-68,Subijana - Zambrana,3.6,2025-01-01
+Estatal,AP-68,Subijana - Haro,5.05,2025-01-01
+Estatal,AP-68,Subijana - Cenicero,7.55,2025-01-01
+Estatal,AP-68,Subijana - Fuenmayor,8.45,2025-01-01
+Estatal,AP-68,Subijana - Logroño,9.55,2025-01-01
+Estatal,AP-68,Subijana - Recajo,10.55,2025-01-01
+Estatal,AP-68,Subijana - Agoncillo,11.1,2025-01-01
+Estatal,AP-68,Subijana - Lodosa,13.3,2025-01-01
+Estatal,AP-68,Subijana - Calahorra,14.55,2025-01-01
+Estatal,AP-68,Subijana - Alfaro,17.5,2025-01-01
+Estatal,AP-68,Subijana - Autop. Navarra,18.2,2025-01-01
+Estatal,AP-68,Subijana - Tudela,19.55,2025-01-01
+Estatal,AP-68,Subijana - Gallur,23.35,2025-01-01
+Estatal,AP-68,Subijana - Alagón pk 272,26.55,2025-01-01
+Estatal,AP-68,Subijana - Zaragoza,29.1,2025-01-01
+Estatal,AP-68,Autop. Burgos - Zambrana,0.9,2025-01-01
+Estatal,AP-68,Autop. Burgos - Haro,2.35,2025-01-01
+Estatal,AP-68,Autop. Burgos - Cenicero,4.85,2025-01-01
+Estatal,AP-68,Autop. Burgos - Fuenmayor,5.85,2025-01-01
+Estatal,AP-68,Autop. Burgos - Logroño,6.8,2025-01-01
+Estatal,AP-68,Autop. Burgos - Recajo,7.85,2025-01-01
+Estatal,AP-68,Autop. Burgos - Agoncillo,8.35,2025-01-01
+Estatal,AP-68,Autop. Burgos - Lodosa,10.6,2025-01-01
+Estatal,AP-68,Autop. Burgos - Calahorra,11.8,2025-01-01
+Estatal,AP-68,Autop. Burgos - Alfaro,14.8,2025-01-01
+Estatal,AP-68,Autop. Burgos - Autop. Navarra,15.45,2025-01-01
+Estatal,AP-68,Autop. Burgos - Tudela,16.85,2025-01-01
+Estatal,AP-68,Autop. Burgos - Gallur,20.65,2025-01-01
+Estatal,AP-68,Autop. Burgos - Alagón pk 272,23.8,2025-01-01
+Estatal,AP-68,Autop. Burgos - Zaragoza,26.35,2025-01-01
+Estatal,AP-68,Zambrana - Haro,1.85,2025-01-01
+Estatal,AP-68,Zambrana - Cenicero,4.35,2025-01-01
+Estatal,AP-68,Zambrana - Fuenmayor,5.25,2025-01-01
+Estatal,AP-68,Zambrana - Logroño,6.25,2025-01-01
+Estatal,AP-68,Zambrana - Recajo,7.35,2025-01-01
+Estatal,AP-68,Zambrana - Agoncillo,7.85,2025-01-01
+Estatal,AP-68,Zambrana - Lodosa,10.05,2025-01-01
+Estatal,AP-68,Zambrana - Calahorra,11.3,2025-01-01
+Estatal,AP-68,Zambrana - Alfaro,14.3,2025-01-01
+Estatal,AP-68,Zambrana - Autop. Navarra,14.95,2025-01-01
+Estatal,AP-68,Zambrana - Tudela,16.35,2025-01-01
+Estatal,AP-68,Zambrana - Gallur,20.15,2025-01-01
+Estatal,AP-68,Zambrana - Alagón pk 272,23.35,2025-01-01
+Estatal,AP-68,Zambrana - Zaragoza,25.85,2025-01-01
+Estatal,AP-68,Haro - Cenicero,2.65,2025-01-01
+Estatal,AP-68,Haro - Fuenmayor,3.55,2025-01-01
+Estatal,AP-68,Haro - Logroño,4.65,2025-01-01
+Estatal,AP-68,Recajo - Alfaro,7.1,2025-01-01
+Estatal,AP-68,Recajo - Autop. Navarra,7.75,2025-01-01
+Estatal,AP-68,Recajo - Tudela,9.15,2025-01-01
+Estatal,AP-68,Recajo - Gallur,12.95,2025-01-01
+Estatal,AP-68,Recajo - Alagón pk 272,16.1,2025-01-01
+Estatal,AP-68,Recajo - Zaragoza,18.7,2025-01-01
+Estatal,AP-68,Agoncillo - Lodosa,2.35,2025-01-01
+Estatal,AP-68,Agoncillo - Calahorra,3.6,2025-01-01
+Estatal,AP-68,Agoncillo - Alfaro,6.6,2025-01-01
+Estatal,AP-68,Agoncillo - Autop. Navarra,7.25,2025-01-01
+Estatal,AP-68,Agoncillo - Tudela,8.65,2025-01-01
+Estatal,AP-68,Agoncillo - Gallur,12.45,2025-01-01
+Estatal,AP-68,Agoncillo - Alagón pk 272,15.6,2025-01-01
+Estatal,AP-68,Agoncillo - Zaragoza,18.15,2025-01-01
+Estatal,AP-68,Lodosa - Calahorra,1.3,2025-01-01
+Estatal,AP-68,Lodosa - Alfaro,4.3,2025-01-01
+Estatal,AP-68,Lodosa - Autop. Navarra,4.95,2025-01-01
+Estatal,AP-68,Lodosa - Tudela,6.3,2025-01-01
+Estatal,AP-68,Lodosa - Gallur,10.15,2025-01-01
+Estatal,AP-68,Lodosa - Alagón pk 272,13.3,2025-01-01
+Estatal,AP-68,Lodosa - Zaragoza,15.85,2025-01-01
+Estatal,AP-68,Calahorra - Alfaro,3.15,2025-01-01
+Estatal,AP-68,Calahorra - Autop. Navarra,3.8,2025-01-01
+Estatal,AP-68,Calahorra - Tudela,5.2,2025-01-01
+Estatal,AP-68,Calahorra - Gallur,9.0,2025-01-01
+Estatal,AP-68,Calahorra - Alagón pk 272,12.15,2025-01-01
+Estatal,AP-68,Calahorra - Zaragoza,14.75,2025-01-01
+Estatal,AP-68,Alfaro - Autop. Navarra,0.95,2025-01-01
+Estatal,AP-68,Alfaro - Tudela,2.3,2025-01-01
+Estatal,AP-68,Alfaro - Gallur,6.15,2025-01-01
+Estatal,AP-68,Alfaro - Alagón pk 272,9.3,2025-01-01
+Estatal,AP-68,Alfaro - Zaragoza,11.85,2025-01-01
+Estatal,AP-68,Autop. Navarra - Tudela,1.65,2025-01-01
+Estatal,AP-68,Autop. Navarra - Gallur,5.5,2025-01-01
+Estatal,AP-68,Autop. Navarra - Alagón pk 272,8.65,2025-01-01
+Estatal,AP-68,Autop. Navarra - Zaragoza,11.2,2025-01-01
+Estatal,AP-68,Tudela - Gallur,4.05,2025-01-01
+Estatal,AP-68,Tudela - Alagón pk 272,7.25,2025-01-01
+Estatal,AP-68,Tudela - Zaragoza,9.2,2025-01-01
+Estatal,AP-68,Gallur - Alagón pk 272,3.35,2025-01-01
+Estatal,AP-68,Gallur - Zaragoza,5.95,2025-01-01
+Estatal,AP-68,Recajo - Alfaro,7.1,2025-01-01
+Estatal,AP-68,Recajo - Autop. Navarra,7.75,2025-01-01
+Estatal,AP-68,Recajo - Tudela,9.15,2025-01-01
+Estatal,AP-68,Recajo - Gallur,12.95,2025-01-01
+Estatal,AP-68,Recajo - Alagón pk 272,16.1,2025-01-01
+Estatal,AP-68,Recajo - Zaragoza,18.7,2025-01-01
+Estatal,AP-68,Agoncillo - Lodosa,2.35,2025-01-01
+Estatal,AP-68,Agoncillo - Calahorra,3.6,2025-01-01
+Estatal,AP-68,Agoncillo - Alfaro,6.6,2025-01-01
+Estatal,AP-68,Agoncillo - Autop. Navarra,7.25,2025-01-01
+Estatal,AP-68,Agoncillo - Tudela,8.65,2025-01-01
+Estatal,AP-68,Agoncillo - Gallur,12.45,2025-01-01
+Estatal,AP-68,Agoncillo - Alagón pk 272,15.6,2025-01-01
+Estatal,AP-68,Agoncillo - Zaragoza,18.15,2025-01-01
+Estatal,AP-68,Lodosa - Calahorra,1.3,2025-01-01
+Estatal,AP-68,Lodosa - Alfaro,4.3,2025-01-01
+Estatal,AP-68,Lodosa - Autop. Navarra,4.95,2025-01-01
+Estatal,AP-68,Lodosa - Tudela,6.3,2025-01-01
+Estatal,AP-68,Lodosa - Gallur,10.15,2025-01-01
+Estatal,AP-68,Lodosa - Alagón pk 272,13.3,2025-01-01
+Estatal,AP-68,Lodosa - Zaragoza,15.85,2025-01-01
+Estatal,AP-68,Calahorra - Alfaro,3.15,2025-01-01
+Estatal,AP-68,Calahorra - Autop. Navarra,3.8,2025-01-01
+Estatal,AP-68,Calahorra - Tudela,5.2,2025-01-01
+Estatal,AP-68,Calahorra - Gallur,9.0,2025-01-01
+Estatal,AP-68,Calahorra - Alagón pk 272,12.15,2025-01-01
+Estatal,AP-68,Calahorra - Zaragoza,14.75,2025-01-01
+Estatal,AP-68,Alfaro - Autop. Navarra,0.95,2025-01-01
+Estatal,AP-68,Alfaro - Tudela,2.3,2025-01-01
+Estatal,AP-68,Alfaro - Gallur,6.15,2025-01-01
+Estatal,AP-68,Alfaro - Alagón pk 272,9.3,2025-01-01
+Estatal,AP-68,Alfaro - Zaragoza,11.85,2025-01-01
+Estatal,AP-68,Autop. Navarra - Tudela,1.65,2025-01-01
+Estatal,AP-68,Autop. Navarra - Gallur,5.5,2025-01-01
+Estatal,AP-68,Autop. Navarra - Alagón pk 272,8.65,2025-01-01
+Estatal,AP-68,Autop. Navarra - Zaragoza,11.2,2025-01-01
+Estatal,AP-68,Tudela - Gallur,4.05,2025-01-01
+Estatal,AP-68,Tudela - Alagón pk 272,7.25,2025-01-01
+Estatal,AP-68,Tudela - Zaragoza,8.2,2025-01-01
+Estatal,AP-68,Gallur - Alagón pk 272,3.35,2025-01-01
+Estatal,AP-68,Gallur - Zaragoza,5.95,2025-01-01
+Estatal,AP-7,Troncal de Los Montesinos,2.75,2025-01-01
+Estatal,AP-7,Acceso de La Zenia,2.75,2025-01-01
+Estatal,AP-7,Troncal de La Zenia,2.75,2025-01-01
+Estatal,AP-7,724 Entronque A-7 - 754 Carretera San Miguel Benijofar,2.75,2025-01-01
+Estatal,AP-7,730 Catral - 758 San Miguel de Salinas-Torrevieja,2.75,2025-01-01
+Estatal,AP-7,733 Catral-Albatera - 763 La Zenia Urbanizaciones,5.5,2025-01-01
+Estatal,AP-7,737 Almoradí-Dolores - 768 Campoamor-Urbanizaciones,5.5,2025-01-01
+Estatal,AP-7,740 Almoradí-Formentera - 770 El Pilar de la Horadada (Norte),5.5,2025-01-01
+Estatal,AP-7,743 Algorfa-Benijofar - 774 San Pedro del Pinatar (Norte),5.5,2025-01-01
+Estatal,AP-7,745 CV90-Torrevieja - 775 Los Tárragas,5.5,2025-01-01
+Estatal,AP-7,751 Los Montesinos - 777 El Mirador-Colonia Ruiz de Alda,5.5,2025-01-01
+Estatal,AP-7,754 Carretera San Miguel Benijofar - 780 San Javier (Norte)-Sucina,5.5,2025-01-01
+Estatal,AP-7,758 San Miguel de Salinas-Torrevieja - 782 Balsicas,5.5,2025-01-01
+Estatal,AP-7,763 La Zenia Urbanizaciones - 784 San Javier (Sur)-Acceso aeropuerto,5.5,2025-01-01
+Estatal,AP-7,768 Campoamor-Urbanizaciones - 786 Los Alcazares (Norte),5.5,2025-01-01
+Estatal,AP-7,770 El Pilar de la Horadada (Norte) - 790 Los Alcazares (Centro)-Torre Pacheco,5.5,2025-01-01
+Estatal,AP-7,774 San Pedro del Pinatar (Norte) - 794 Los Alcazares (Sur),5.5,2025-01-01
+Estatal,AP-7,775 Los Tárragas - 797 Torre del Negro,5.5,2025-01-01
+Estatal,AP-7,777 El Mirador-Colonia Ruiz de Alda - 800 Los Beatos-El Algar,5.5,2025-01-01
+Estatal,AP-7,754 Carretera San Miguel Benijofar - 758 San Miguel de Salinas-Torrevieja,0.0,2025-01-01
+Estatal,AP-7,754 Carretera San Miguel Benijofar - 763 La Zenia Urbanizaciones,2.75,2025-01-01
+Estatal,AP-7,754 Carretera San Miguel Benijofar - 768 Campoamor-Urbanizaciones,2.75,2025-01-01
+Estatal,AP-7,754 Carretera San Miguel Benijofar - 770 El Pilar de la Horadada (Norte),2.75,2025-01-01
+Estatal,AP-7,754 Carretera San Miguel Benijofar - 774 San Pedro del Pinatar (Norte),2.75,2025-01-01
+Estatal,AP-7,754 Carretera San Miguel Benijofar - 775 Los Tárragas,2.75,2025-01-01
+Estatal,AP-7,754 Carretera San Miguel Benijofar - 777 El Mirador-Colonia Ruiz de Alda,2.75,2025-01-01
+Estatal,AP-7,754 Carretera San Miguel Benijofar - 780 San Javier (Norte)-Sucina,2.75,2025-01-01
+Estatal,AP-7,754 Carretera San Miguel Benijofar - 782 Balsicas,2.75,2025-01-01
+Estatal,AP-7,754 Carretera San Miguel Benijofar - 784 San Javier (Sur)-Acceso aeropuerto,2.75,2025-01-01
+Estatal,AP-7,754 Carretera San Miguel Benijofar - 786 Los Alcazares (Norte),2.75,2025-01-01
+Estatal,AP-7,754 Carretera San Miguel Benijofar - 790 Los Alcazares (Centro)-Torre Pacheco,2.75,2025-01-01
+Estatal,AP-7,754 Carretera San Miguel Benijofar - 794 Los Alcazares (Sur),2.75,2025-01-01
+Estatal,AP-7,754 Carretera San Miguel Benijofar - 797 Torre del Negro,2.75,2025-01-01
+Estatal,AP-7,754 Carretera San Miguel Benijofar - 800 Los Beatos-El Algar,2.75,2025-01-01
+Estatal,AP-7,758 San Miguel de Salinas-Torrevieja - 763 La Zenia Urbanizaciones,2.75,2025-01-01
+Estatal,AP-7,758 San Miguel de Salinas-Torrevieja - 768 Campoamor-Urbanizaciones,2.75,2025-01-01
+Estatal,AP-7,758 San Miguel de Salinas-Torrevieja - 770 El Pilar de la Horadada (Norte),2.75,2025-01-01
+Estatal,AP-7,758 San Miguel de Salinas-Torrevieja - 774 San Pedro del Pinatar (Norte),2.75,2025-01-01
+Estatal,AP-7,758 San Miguel de Salinas-Torrevieja - 775 Los Tárragas,2.75,2025-01-01
+Estatal,AP-7,758 San Miguel de Salinas-Torrevieja - 777 El Mirador-Colonia Ruiz de Alda,2.75,2025-01-01
+Estatal,AP-7,758 San Miguel de Salinas-Torrevieja - 780 San Javier (Norte)-Sucina,2.75,2025-01-01
+Estatal,AP-7,758 San Miguel de Salinas-Torrevieja - 782 Balsicas,2.75,2025-01-01
+Estatal,AP-7,Troncal de Los Montesinos,2.75,2025-01-01
+Estatal,AP-7,Acceso de La Zenia,2.75,2025-01-01
+Estatal,AP-7,Troncal de La Zenia,2.75,2025-01-01
+Estatal,AP-7,754 Carretera San Miguel Benijofar - 758 San Miguel de Salinas-Torrevieja,0.0,2025-01-01
+Estatal,AP-7,754 Carretera San Miguel Benijofar - 763 La Zenia Urbanizaciones,2.75,2025-01-01
+Estatal,AP-7,754 Carretera San Miguel Benijofar - 768 Campoamor-Urbanizaciones,2.75,2025-01-01
+Estatal,AP-7,754 Carretera San Miguel Benijofar - 770 El Pilar de la Horadada (Norte),2.75,2025-01-01
+Estatal,AP-7,754 Carretera San Miguel Benijofar - 774 San Pedro del Pinatar (Norte),2.75,2025-01-01
+Estatal,AP-7,754 Carretera San Miguel Benijofar - 775 Los Tárragas,2.75,2025-01-01
+Estatal,AP-7,754 Carretera San Miguel Benijofar - 777 El Mirador-Colonia Ruiz de Alda,2.75,2025-01-01
+Estatal,AP-7,754 Carretera San Miguel Benijofar - 780 San Javier (Norte)-Sucina,2.75,2025-01-01
+Estatal,AP-7,754 Carretera San Miguel Benijofar - 782 Balsicas,2.75,2025-01-01
+Estatal,AP-7,754 Carretera San Miguel Benijofar - 784 San Javier (Sur)-Acceso aeropuerto,2.75,2025-01-01
+Estatal,AP-7,754 Carretera San Miguel Benijofar - 786 Los Alcazares (Norte),2.75,2025-01-01
+Estatal,AP-7,754 Carretera San Miguel Benijofar - 790 Los Alcazares (Centro)-Torre Pacheco,2.75,2025-01-01
+Estatal,AP-7,754 Carretera San Miguel Benijofar - 794 Los Alcazares (Sur),2.75,2025-01-01
+Estatal,AP-7,754 Carretera San Miguel Benijofar - 797 Torre del Negro,2.75,2025-01-01
+Estatal,AP-7,754 Carretera San Miguel Benijofar - 800 Los Beatos-El Algar,2.75,2025-01-01
+Estatal,AP-7,758 San Miguel de Salinas-Torrevieja - 763 La Zenia Urbanizaciones,2.75,2025-01-01
+Estatal,AP-7,758 San Miguel de Salinas-Torrevieja - 768 Campoamor-Urbanizaciones,2.75,2025-01-01
+Estatal,AP-7,758 San Miguel de Salinas-Torrevieja - 770 El Pilar de la Horadada (Norte),2.75,2025-01-01
+Estatal,AP-7,758 San Miguel de Salinas-Torrevieja - 774 San Pedro del Pinatar (Norte),2.75,2025-01-01
+Estatal,AP-7,758 San Miguel de Salinas-Torrevieja - 775 Los Tárragas,2.75,2025-01-01
+Estatal,AP-7,758 San Miguel de Salinas-Torrevieja - 777 El Mirador-Colonia Ruiz de Alda,2.75,2025-01-01
+Estatal,AP-7,758 San Miguel de Salinas-Torrevieja - 780 San Javier (Norte)-Sucina,2.75,2025-01-01
+Estatal,AP-7,758 San Miguel de Salinas-Torrevieja - 782 Balsicas,2.75,2025-01-01
+Estatal,AP-7,784 San Javier (Sur)-Acceso aeropuerto - 786 Los Alcazares (Norte),2.75,2025-01-01
+Estatal,AP-7,784 San Javier (Sur)-Acceso aeropuerto - 790 Los Alcazares (Centro)-Torre Pacheco,2.75,2025-01-01
+Estatal,AP-7,784 San Javier (Sur)-Acceso aeropuerto - 794 Los Alcazares (Sur),2.75,2025-01-01
+Estatal,AP-7,784 San Javier (Sur)-Acceso aeropuerto - 797 Torre del Negro,2.75,2025-01-01
+Estatal,AP-7,784 San Javier (Sur)-Acceso aeropuerto - 800 Los Beatos-El Algar,2.75,2025-01-01
+Estatal,AP-7,763 La Zenia Urbanizaciones - 768 Campoamor-Urbanizaciones,2.75,2025-01-01
+Estatal,AP-7,763 La Zenia Urbanizaciones - 770 El Pilar de la Horadada,2.75,2025-01-01
+Estatal,AP-7,763 La Zenia Urbanizaciones - 774 San Pedro del Pinatar (Norte),2.75,2025-01-01
+Estatal,AP-7,763 La Zenia Urbanizaciones - 775 Los Tárragas,2.75,2025-01-01
+Estatal,AP-7,763 La Zenia Urbanizaciones - 777 El Mirador-Colonia Ruiz de Alda,2.75,2025-01-01
+Estatal,AP-7,763 La Zenia Urbanizaciones - 780 San Javier (Norte)-Sucina,2.75,2025-01-01
+Estatal,AP-7,763 La Zenia Urbanizaciones - 782 Balsicas,2.75,2025-01-01
+Estatal,AP-7,763 La Zenia Urbanizaciones - 784 San Javier (Sur)-Acceso aeropuerto,2.75,2025-01-01
+Estatal,AP-7,763 La Zenia Urbanizaciones - 786 Los Alcazares (Norte),2.75,2025-01-01
+Estatal,AP-7,763 La Zenia Urbanizaciones - 790 Los Alcazares (Centro)-Torre Pacheco,2.75,2025-01-01
+Estatal,AP-7,763 La Zenia Urbanizaciones - 794 Los Alcazares (Sur),2.75,2025-01-01
+Estatal,AP-7,763 La Zenia Urbanizaciones - 797 Torre del Negro,2.75,2025-01-01
+Estatal,AP-7,763 La Zenia Urbanizaciones - 800 Los Beatos-El Algar,2.75,2025-01-01
+Estatal,AP-7,Troncal de Manilva,2.4,2025-01-01
+Estatal,AP-7,Acceso de Manilva,1.15,2025-01-01
+Estatal,AP-7,Estepona - Manilva,1.15,2025-01-01
+Estatal,AP-7,Estepona - Guadiaro,2.4,2025-01-01
+Estatal,AP-7,Manilva - Guadiaro,1.15,2025-01-01
+Estatal,AP-7,Troncal de Calahonda,5.5,2025-01-01
+Estatal,AP-7,Acceso de Calahonda,3.4,2025-01-01
+Estatal,AP-7,Troncal de San Pedro de Alcantara,3.7,2025-01-01
+Estatal,AP-7,Acceso de San Pedro de Alcantara,2.15,2025-01-01
+Estatal,AP-7,Málaga - Calahonda,3.4,2025-01-01
+Estatal,AP-7,Málaga - Marbella,5.5,2025-01-01
+Estatal,AP-7,Málaga - San Pedro de Alcantara,7.65,2025-01-01
+Estatal,AP-7,Málaga - Estepona,9.2,2025-01-01
+Estatal,AP-7,Calahonda - Marbella,3.4,2025-01-01
+Estatal,AP-7,Calahonda - San Pedro de Alcantara,5.55,2025-01-01
+Estatal,AP-7,Calahonda - Estepona,7.1,2025-01-01
+Estatal,AP-7,Marbella - San Pedro de Alcantara,2.15,2025-01-01
+Estatal,AP-7,Marbella - Estepona,3.7,2025-01-01
+Estatal,AP-7,San Pedro de Alcantara - Estepona,2.15,2025-01-01
+Estatal,AP-71,León - Villadangos,1.18,2025-01-01
+Estatal,AP-71,León - Hospital de Órbigo,2.72,2025-01-01
+Estatal,AP-71,León - Astorga,4.3,2025-01-01
+Estatal,AP-71,Villadangos - Hospital de Órbigo,1.67,2025-01-01
+Estatal,AP-71,Villadangos - Astorga,3.12,2025-01-01
+Estatal,AP-71,Hospital de Órbigo - Astorga,1.6,2025-01-01
+Estatal,AP-9,Fene - Cabanas,1.1,2025-01-01
+Estatal,AP-9,Fene - Miño,2.5,2025-01-01
+Estatal,AP-9,Fene - Guisamo,3.9,2025-01-01
+Estatal,AP-9,Fene - A Coruña,5.9,2025-01-01
+Estatal,AP-9,Cabanas - Miño,1.35,2025-01-01
+Estatal,AP-9,Cabanas - Guisamo,2.5,2025-01-01
+Estatal,AP-9,Cabanas - A Coruña,4.45,2025-01-01
+Estatal,AP-9,Miño - Guisamo,1.4,2025-01-01
+Estatal,AP-9,Miño - A Coruña,3.35,2025-01-01
+Estatal,AP-9,Guisamo o Sta Marta - Macenda,1.15,2025-01-01
+Estatal,AP-9,Guisamo o Sta Marta - Ordes,4.55,2025-01-01
+Estatal,AP-9,Guisamo o Sta Marta - Sigueiro,6.65,2025-01-01
+Estatal,AP-9,Guisamo o Sta Marta - Santiago,7.5,2025-01-01
+Estatal,AP-9,A Coruña - A Barcala,1.95,2025-01-01
+Estatal,AP-9,A Coruña o A Barcala - Guisamo/Sta Marta,1.95,2025-01-01
+Estatal,AP-9,A Coruña o A Barcala - Macenda,2.35,2025-01-01
+Estatal,AP-9,A Coruña o A Barcala - Ordes,5.5,2025-01-01
+Estatal,AP-9,A Coruña o A Barcala - Sigueiro,7.6,2025-01-01
+Estatal,AP-9,A Coruña o A Barcala - Santiago,8.4,2025-01-01
+Estatal,AP-9,Macenda - Ordes,3.8,2025-01-01
+Estatal,AP-9,Macenda - Sigueiro,5.55,2025-01-01
+Estatal,AP-9,Macenda - Santiago,7.55,2025-01-01
+Estatal,AP-9,Ordes - Sigueiro,2.25,2025-01-01
+Estatal,AP-9,Ordes - Santiago,3.15,2025-01-01
+Estatal,AP-9,Sigueiro - Santiago,2.15,2025-01-01
+Estatal,AP-9,Sigueiro - Sigueiro,0.25,2025-01-01
+Estatal,AP-9,Santiago - Santiago,4.35,2025-01-01
+Estatal,AP-9,Santiago - Padron,3.0,2025-01-01
+Estatal,AP-9,Santiago - Caldas de Reis,4.7,2025-01-01
+Estatal,AP-9,Santiago - Curro,6.3,2025-01-01
+Estatal,AP-9,Santiago - Pontevedra,7.2,2025-01-01
+Estatal,AP-9,Padron - Caldas de Reis,2.2,2025-01-01
+Estatal,AP-9,Padron - Curro,3.65,2025-01-01
+Estatal,AP-9,Padron - Pontevedra,4.75,2025-01-01
+Estatal,AP-9,Carracedo - Caldas de Reis,0.9,2025-01-01
+Estatal,AP-9,Carracedo - Curro,2.1,2025-01-01
+Estatal,AP-9,Carracedo - Pontevedra,3.3,2025-01-01
+Estatal,AP-9,Caldas de Reis - Curro,1.55,2025-01-01
+Estatal,AP-9,Caldas de Reis - Pontevedra,2.75,2025-01-01
+Estatal,AP-9,Curro - Pontevedra,1.7,2025-01-01
+Estatal,AP-9,Pontevedra - Vilaboa,1.35,2025-01-01
+Estatal,AP-9,Pontevedra - Morrazo,3.45,2025-01-01
+Estatal,AP-9,Pontevedra - Vigo / Puxeiros,4.85,2025-01-01
+Estatal,AP-9,Morrazo - Vigo / Puxeiros,1.2,2025-01-01
+Estatal,AP-9,Rande - Vigo / Puxeiros,1.2,2025-01-01
+Estatal,AP-9,Puxeiros - Porriño,2.0,2025-01-01
+Estatal,AP-9,Puxeiros - Tui,3.4,2025-01-01
+Estatal,AP-9,Porriño - Tui,2.0,2025-01-01
+Estatal,AP-9,Fene - Cabanas,1.1,2025-01-01
+Estatal,AP-9,Fene - Miño,2.5,2025-01-01
+Estatal,AP-9,Fene - Guísamo,3.9,2025-01-01
+Estatal,AP-9,Fene - A Coruña,5.9,2025-01-01
+Estatal,AP-9,Cabanas - Miño,1.35,2025-01-01
+Estatal,AP-9,Cabanas - Guísamo,2.5,2025-01-01
+Estatal,AP-9,Cabanas - A Coruña,4.45,2025-01-01
+Estatal,AP-9,Miño - Guísamo,1.4,2025-01-01
+Estatal,AP-9,Miño - A Coruña,3.35,2025-01-01
+Estatal,AP-9,Guísamo o Sta Marta - Macenda,1.15,2025-01-01
+Estatal,AP-9,Guísamo o Sta Marta - Ordes,4.55,2025-01-01
+Estatal,AP-9,Guísamo o Sta Marta - Sigüeiro,6.65,2025-01-01
+Estatal,AP-9,Guísamo o Sta Marta - Santiago,7.5,2025-01-01
+Estatal,AP-9,A Coruña - A Barcala,1.95,2025-01-01
+Estatal,AP-9,A Coruña o A Barcala - Guísamo/Sta Marta,2.35,2025-01-01
+Estatal,AP-9,A Coruña o A Barcala - Ordes,5.5,2025-01-01
+Estatal,AP-9,A Coruña o A Barcala - Sigüeiro,7.6,2025-01-01
+Estatal,AP-9,A Coruña o A Barcala - Santiago,8.4,2025-01-01
+Estatal,AP-9,Macenda - Ordes,3.8,2025-01-01
+Estatal,AP-9,Macenda - Sigüeiro,5.55,2025-01-01
+Estatal,AP-9,Macenda - Santiago,7.55,2025-01-01
+Estatal,AP-9,Ordes - Sigüeiro,2.25,2025-01-01
+Estatal,AP-9,Ordes - Santiago,3.15,2025-01-01
+Estatal,AP-9,Sigüeiro - Santiago,2.15,2025-01-01
+Estatal,AP-9,Sigüeiro - Sigüeiro,0.25,2025-01-01
+Estatal,AP-9,Santiago - Santiago,4.35,2025-01-01
+Estatal,AP-9,Santiago - Padrón,3.0,2025-01-01
+Estatal,AP-9,Santiago - Caldas de Reis,4.7,2025-01-01
+Estatal,AP-9,Santiago - Curro,6.3,2025-01-01
+Estatal,AP-9,Santiago - Pontevedra,7.2,2025-01-01
+Estatal,AP-9,Padrón - Caldas de Reis,2.2,2025-01-01
+Estatal,AP-9,Padrón - Curro,3.65,2025-01-01
+Estatal,AP-9,Padrón - Pontevedra,4.75,2025-01-01
+Estatal,AP-9,Carracedo - Caldas de Reis,0.9,2025-01-01
+Estatal,AP-9,Carracedo - Curro,2.1,2025-01-01
+Estatal,AP-9,Carracedo - Pontevedra,3.3,2025-01-01
+Estatal,AP-9,Caldas de Reis - Curro,1.55,2025-01-01
+Estatal,AP-9,Caldas de Reis - Pontevedra,2.75,2025-01-01
+Estatal,AP-9,Curro - Pontevedra,1.7,2025-01-01
+Estatal,AP-9,Pontevedra - Vilaboa,1.35,2025-01-01
+Estatal,AP-9,Pontevedra - Morrazo,3.45,2025-01-01
+Estatal,AP-9,Pontevedra - Vigo / Puxeiros,4.85,2025-01-01
+Estatal,AP-9,Puxeiros - Porriño,1.2,2025-01-01
+Estatal,AP-9,Puxeiros - Tui,3.4,2025-01-01
+Estatal,AP-9,Porriño - Tui,2.0,2025-01-01

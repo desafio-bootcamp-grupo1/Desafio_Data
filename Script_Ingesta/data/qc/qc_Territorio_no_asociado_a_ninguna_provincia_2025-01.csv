@@ -1,0 +1,17 @@
+month,provincia,operator,power_kW,band,usagecost_original,parsed,reason
+2025-01,Territorio no asociado a ninguna provincia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Territorio no asociado a ninguna provincia,,3.7,AC,,,no_kwh
+2025-01,Territorio no asociado a ninguna provincia,,7.4,AC,Free,,free
+2025-01,Territorio no asociado a ninguna provincia,,3.7,AC,,,empty
+2025-01,Territorio no asociado a ninguna provincia,,50.0,DC,,,no_kwh
+2025-01,Territorio no asociado a ninguna provincia,,50.0,DC,,,no_kwh
+2025-01,Territorio no asociado a ninguna provincia,,43.0,DC,,,no_kwh
+2025-01,Territorio no asociado a ninguna provincia,,3.7,AC,,,no_kwh
+2025-01,Territorio no asociado a ninguna provincia,,11.0,AC,,,no_kwh
+2025-01,Territorio no asociado a ninguna provincia,,22.0,AC,,,no_kwh
+2025-01,Territorio no asociado a ninguna provincia,,22.0,AC,,,empty
+2025-01,Territorio no asociado a ninguna provincia,,2.3,AC,,,empty
+2025-01,Territorio no asociado a ninguna provincia,,7.4,AC,,,no_kwh
+2025-01,Territorio no asociado a ninguna provincia,,22.0,AC,,,no_kwh
+2025-01,Territorio no asociado a ninguna provincia,,3.7,AC,,,empty
+2025-01,Territorio no asociado a ninguna provincia,,22.0,AC,,,no_kwh

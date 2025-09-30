@@ -1,0 +1,5050 @@
+[
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-05-13T10:12:00Z",
+    "ID": 266169,
+    "UUID": "E25D88C1-9761-426C-A53D-78C161C6B0D6",
+    "DataProviderID": 1,
+    "OperatorID": 3459,
+    "UsageTypeID": 4,
+    "UsageCost": "0,45€/kWh",
+    "AddressInfo": {
+      "ID": 266553,
+      "Title": "E.S. Repsol Siguenza",
+      "AddressLine1": "Siguenza",
+      "Town": "Sigüenza",
+      "StateOrProvince": "Castilla-La Mancha",
+      "Postcode": "19250",
+      "CountryID": 210,
+      "Latitude": 41.061598502980274,
+      "Longitude": -2.647285323574664,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 452827,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 200,
+        "Voltage": 920,
+        "PowerKW": 100,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "XCharge  DC charger allows charging one vehicle at 100kW, or two simultaneous charges at 50kW. Maximum amperage 200A (max power is limited to 80kW for 400V cars)"
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-05-13T10:12:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-05-28T22:47:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-08T18:03:00Z",
+    "ID": 201759,
+    "UUID": "C9B7C978-CC57-46F2-828C-7F75565CB2CB",
+    "DataProviderID": 1,
+    "OperatorID": 2247,
+    "UsageTypeID": 4,
+    "UsageCost": "0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",
+    "AddressInfo": {
+      "ID": 202123,
+      "Title": "Siguenza Biblioteca",
+      "AddressLine1": "Calle Cardenal Mendoza",
+      "Town": "Sigüenza",
+      "StateOrProvince": "Castile-La Mancha",
+      "Postcode": "",
+      "CountryID": 210,
+      "Latitude": 41.06852223381435,
+      "Longitude": -2.63870862020633,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 336919,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 2
+      },
+      {
+        "ID": 336920,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 2
+      },
+      {
+        "ID": 336921,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 43,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      },
+      {
+        "ID": 351106,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 6,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-08T18:03:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-04T14:20:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2023-02-19T08:40:00Z",
+    "ID": 74958,
+    "UUID": "758EB71B-7099-40A8-A489-1BA0D4A526A3",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "OperatorsReference": "18872",
+    "UsageTypeID": 6,
+    "UsageCost": "Free",
+    "AddressInfo": {
+      "ID": 75304,
+      "Title": "Relais & Chateaux Molino de Alcuneza",
+      "AddressLine1": "GU 128 km 0.5",
+      "Town": "Alcuneza",
+      "StateOrProvince": "Guadalajara",
+      "Postcode": "19264",
+      "CountryID": 210,
+      "Latitude": 41.105906,
+      "Longitude": -2.604201,
+      "ContactTelephone1": "+34 949 391 501",
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 108141,
+        "ConnectionTypeID": 30,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "Amps": 16,
+        "Voltage": 400,
+        "PowerKW": 11,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      },
+      {
+        "ID": 339418,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 11,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 4,
+    "GeneralComments": "2 Tesla Connector, up to 11kW.Available for patrons only. Porsche Destination Charger",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2023-02-19T08:40:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2016-12-09T09:34:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-05-10T18:40:00Z",
+    "ID": 312514,
+    "UUID": "B6846861-860B-4866-AFA0-A4AC5814CC4D",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 312903,
+      "Title": "Hotel Cardamomo Sigüenza Carabias",
+      "AddressLine1": "Carabias",
+      "Town": "Carabias",
+      "CountryID": 210,
+      "Latitude": 41.09028112002025,
+      "Longitude": -2.718986151537621,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 602164,
+        "ConnectionTypeID": 28,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "Amps": 16,
+        "Voltage": 230,
+        "PowerKW": 3.7,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-05-10T18:40:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2025-05-10T18:40:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-08T18:07:00Z",
+    "ID": 203057,
+    "UUID": "3EFF2BAA-C3A7-4D28-8E8E-0616214B95E7",
+    "DataProviderID": 1,
+    "OperatorID": 207,
+    "UsageTypeID": 4,
+    "UsageCost": "0,29€/kWh",
+    "AddressInfo": {
+      "ID": 203424,
+      "Title": "Atienza",
+      "AddressLine1": "Calle Pozuelo",
+      "Town": "Atienza",
+      "StateOrProvince": "Castile-La Mancha",
+      "Postcode": "",
+      "CountryID": 210,
+      "Latitude": 41.19997931947535,
+      "Longitude": -2.868074323419478,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 339419,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 4
+      }
+    ],
+    "NumberOfPoints": 4,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-08T18:07:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-14T15:16:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2023-08-27T16:37:00Z",
+    "ID": 86074,
+    "UUID": "CC147B6E-29DC-497A-9271-91C806260DBF",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "UsageCost": "Free",
+    "AddressInfo": {
+      "ID": 86420,
+      "Title": "Hotel Convento Santa Ana",
+      "AddressLine1": "GU-154, 3",
+      "Town": "Atienza",
+      "StateOrProvince": "Guadalajara",
+      "Postcode": "19270",
+      "CountryID": 210,
+      "Latitude": 41.1975394352063,
+      "Longitude": -2.86930253729555,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 122415,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 3.7,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "GeneralComments": "Booking available - Phone number 943399300",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2023-08-27T16:37:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2017-04-25T10:34:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2023-08-27T16:36:00Z",
+    "ID": 274009,
+    "UUID": "0F88F777-CD6A-4AEA-9F9F-467D9033B198",
+    "DataProviderID": 1,
+    "OperatorID": 3401,
+    "UsageTypeID": 6,
+    "UsageCost": "0,35€/kWh",
+    "AddressInfo": {
+      "ID": 274393,
+      "Title": "Casa Rural La Perla",
+      "AddressLine1": "Hiendalaencina",
+      "CountryID": 210,
+      "Latitude": 41.08580331801559,
+      "Longitude": -3.0036868867666726,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 474403,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "GeneralComments": "app Electromaps",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2023-08-27T16:36:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-08-27T16:36:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-09-18T13:30:00Z",
+    "ID": 203582,
+    "UUID": "443D8FFC-C51D-472D-9D38-5B903805A7B1",
+    "DataProviderID": 1,
+    "OperatorID": 207,
+    "UsageTypeID": 4,
+    "AddressInfo": {
+      "ID": 203949,
+      "Title": "Calle del Arroyo",
+      "AddressLine1": "Calle del Arroyo",
+      "Town": "Valverde de los Arroyos",
+      "StateOrProvince": "Castile-La Mancha",
+      "Postcode": "19224",
+      "CountryID": 210,
+      "Latitude": 41.128488194568945,
+      "Longitude": -3.2327383435205093,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 340127,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 4
+      }
+    ],
+    "NumberOfPoints": 4,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-09-18T13:30:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-18T13:30:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2023-02-19T08:33:00Z",
+    "ID": 235375,
+    "UUID": "B3A56FF9-7CD0-4C5A-8C5F-043170B3BFDF",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 235759,
+      "Title": "Casa del Ocejón",
+      "AddressLine1": "Calle de Las Cabezadas",
+      "StateOrProvince": "Castilla-La Mancha",
+      "Postcode": "19223",
+      "CountryID": 210,
+      "Latitude": 41.112342553089576,
+      "Longitude": -3.2994475307548896,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 388232,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 11,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "GeneralComments": "Porsche Destination Charger",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2023-02-19T08:33:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-02-19T08:33:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-09-18T13:33:00Z",
+    "ID": 203583,
+    "UUID": "25D14517-63E7-4383-B24C-F7F433BE06B4",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 203950,
+      "Title": "Casa Rural El Bulín de Horcajuelo",
+      "AddressLine1": "Calle Eras",
+      "Town": "Horcajuelo de la Sierra",
+      "StateOrProvince": "Community of Madrid",
+      "Postcode": "",
+      "CountryID": 210,
+      "Latitude": 41.06193880048565,
+      "Longitude": -3.543698279798491,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 340129,
+        "ConnectionTypeID": 28,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 3.7,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-09-18T13:33:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-18T13:33:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2025-03-14T20:20:00Z",
+    "ID": 301117,
+    "UUID": "8DBB18CC-4407-4244-9B6A-89FF50601291",
+    "DataProviderID": 1,
+    "OperatorID": 3583,
+    "UsageTypeID": 1,
+    "UsageCost": "0,39€/kWh DC - 0,32kWh AC",
+    "AddressInfo": {
+      "ID": 301504,
+      "Title": "Rest. Hípica La Vereda",
+      "AddressLine1": "N-110",
+      "Town": "Riaza",
+      "StateOrProvince": "Castilla y León",
+      "Postcode": "40500",
+      "CountryID": 210,
+      "Latitude": 41.307153077231106,
+      "Longitude": -3.4786275962268576,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 561993,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 30,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 561994,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 3
+      },
+      {
+        "ID": 561995,
+        "ConnectionTypeID": 28,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 3.7,
+        "CurrentTypeID": 10,
+        "Quantity": 3
+      }
+    ],
+    "NumberOfPoints": 4,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-03-14T20:20:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-07-15T11:09:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-07-15T11:04:00Z",
+    "ID": 301116,
+    "UUID": "DE0BABDF-597B-4CA0-8291-9726CBDA0715",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 1,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 301503,
+      "Title": "Supermercado Lupa Riaza",
+      "AddressLine1": "Calle Cordelería",
+      "Town": "Riaza",
+      "StateOrProvince": "Castilla y León",
+      "Postcode": "40500",
+      "CountryID": 210,
+      "Latitude": 41.2749792290129,
+      "Longitude": -3.48101639850384,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 561991,
+        "ConnectionTypeID": 28,
+        "StatusTypeID": 50,
+        "LevelID": 1,
+        "PowerKW": 2.3,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      },
+      {
+        "ID": 561992,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 11,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-07-15T11:04:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-07-15T11:04:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2023-12-08T11:40:00Z",
+    "ID": 287640,
+    "UUID": "565BB998-C8BA-4784-B81A-E0DD7369F16C",
+    "DataProviderID": 1,
+    "OperatorID": 207,
+    "UsageTypeID": 4,
+    "UsageCost": " 0,40€/kWh AC ",
+    "AddressInfo": {
+      "ID": 288027,
+      "Title": "Ayunt. Maderuelo",
+      "AddressLine1": "Calle de la Ermita",
+      "StateOrProvince": "Castilla y León",
+      "Postcode": "40554",
+      "CountryID": 210,
+      "Latitude": 41.48322469238178,
+      "Longitude": -3.524303623888585,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 503149,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2023-12-08T11:40:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-12-08T11:39:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-06T21:26:00Z",
+    "ID": 209296,
+    "UUID": "EB8C76DE-BF95-4579-BD12-E2563F0ECAE9",
+    "DataProviderID": 1,
+    "OperatorID": 207,
+    "UsageTypeID": 4,
+    "UsageCost": "0,39€/kWh AC ",
+    "AddressInfo": {
+      "ID": 209676,
+      "Title": "Careluenga ",
+      "AddressLine1": "Plaza Del Cid",
+      "StateOrProvince": "Castilla y León",
+      "CountryID": 210,
+      "Latitude": 41.823141503873444,
+      "Longitude": -3.485758565999447,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 348231,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 4
+      }
+    ],
+    "NumberOfPoints": 4,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-06T21:26:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-10-25T19:35:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-09-18T13:39:00Z",
+    "ID": 203585,
+    "UUID": "1F4B9A86-C944-4B7D-B1AE-C9A3B2F51269",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 203952,
+      "Title": "Hospederia Monasterio de la Vid",
+      "AddressLine1": "La Vid y Barrios",
+      "Town": "La Vid y Barrios",
+      "StateOrProvince": "Castile and León",
+      "Postcode": "09471",
+      "CountryID": 210,
+      "Latitude": 41.62967663063441,
+      "Longitude": -3.4886014264028518,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 340131,
+        "ConnectionTypeID": 28,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 3.7,
+        "CurrentTypeID": 10,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-09-18T13:39:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-18T13:39:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-06T21:44:00Z",
+    "ID": 461017,
+    "UUID": "76CBAF14-5F06-4651-9BA7-9E16AD1B17B7",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 461406,
+      "Title": "Hotel El Refugio De Don Miguel",
+      "AddressLine1": "Peñaranda De Duero",
+      "Town": "Peñaranda De Duero",
+      "CountryID": 210,
+      "Latitude": 41.6880187377688,
+      "Longitude": -3.4816093071025023,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 775624,
+        "ConnectionTypeID": 28,
+        "StatusTypeID": 50,
+        "LevelID": 1,
+        "PowerKW": 2.3,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-06T21:44:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2025-09-06T21:44:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-06T21:45:00Z",
+    "ID": 273923,
+    "UUID": "6BA8145B-B7A4-4BB2-A80C-3150D261B69A",
+    "DataProviderID": 1,
+    "OperatorID": 2247,
+    "UsageTypeID": 4,
+    "UsageCost": "0,35€/kWh",
+    "AddressInfo": {
+      "ID": 274307,
+      "Title": "Peñaranda de Duero",
+      "AddressLine1": "Calle Arias de Miranda",
+      "StateOrProvince": "Castilla y León",
+      "Postcode": "09410",
+      "CountryID": 210,
+      "Latitude": 41.687296869602875,
+      "Longitude": -3.4812570368736715,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 474170,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "Amps": 32,
+        "Voltage": 230,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-06T21:45:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-08-24T20:22:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-06T21:48:00Z",
+    "ID": 203066,
+    "UUID": "9ADB1443-53F7-4E70-8032-5B3B768C381C",
+    "DataProviderID": 1,
+    "OperatorID": 2247,
+    "UsageTypeID": 4,
+    "UsageCost": " 0,25€/kWh",
+    "AddressInfo": {
+      "ID": 203433,
+      "Title": "Ayunt. Brazacorta",
+      "AddressLine1": "Brazacorta",
+      "Town": "Brazacorta",
+      "StateOrProvince": "Castile and León",
+      "Postcode": "",
+      "CountryID": 210,
+      "Latitude": 41.7174121580417,
+      "Longitude": -3.367056120462223,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 339433,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-06T21:48:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-14T15:32:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-10-28T13:57:00Z",
+    "ID": 203064,
+    "UUID": "5F789FD6-1B58-4FBC-8FF6-9729BBE56DAC",
+    "DataProviderID": 1,
+    "OperatorID": 2247,
+    "UsageTypeID": 4,
+    "UsageCost": " 0,20€/kWh",
+    "AddressInfo": {
+      "ID": 203431,
+      "Title": "Ayunt. San Esteban de Gormaz",
+      "AddressLine1": "Avda. de la Rambla",
+      "Town": "San Esteban de Gormaz",
+      "StateOrProvince": "Castile and León",
+      "Postcode": "",
+      "CountryID": 210,
+      "Latitude": 41.57141742114365,
+      "Longitude": -3.2011005739278744,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 339431,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-10-28T13:57:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-14T15:30:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-10-28T13:57:00Z",
+    "ID": 203065,
+    "UUID": "FB7A5037-A11B-4099-90BE-7204964606A4",
+    "DataProviderID": 1,
+    "OperatorID": 2247,
+    "UsageTypeID": 4,
+    "UsageCost": " 0,20€/kWh",
+    "AddressInfo": {
+      "ID": 203432,
+      "Title": "Ayunt. San Esteban de Gormaz Plza Escuelas",
+      "AddressLine1": "Carretera de Madrid",
+      "Town": "San Esteban de Gormaz",
+      "StateOrProvince": "Castile and León",
+      "Postcode": "",
+      "CountryID": 210,
+      "Latitude": 41.57296567627543,
+      "Longitude": -3.2011627192546257,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 339432,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-10-28T13:57:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-14T15:31:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2023-01-20T17:41:00Z",
+    "ID": 212563,
+    "UUID": "14F33EE0-83F5-40EE-8B44-E0B53EC6EA9C",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 212943,
+      "Title": "Talleres Miguel Hijos",
+      "AddressLine1": "Carretera de Valladolid",
+      "Town": "San Esteban de Gormaz",
+      "StateOrProvince": "Castilla y León",
+      "Postcode": "42330",
+      "CountryID": 210,
+      "Latitude": 41.58086816858864,
+      "Longitude": -3.2059042243347733,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 353907,
+        "ConnectionTypeID": 17,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 11,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      },
+      {
+        "ID": 353908,
+        "ConnectionTypeID": 28,
+        "StatusTypeID": 50,
+        "LevelID": 1,
+        "PowerKW": 2.3,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2023-01-20T17:41:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-01-20T17:41:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-06-14T21:29:00Z",
+    "ID": 304892,
+    "UUID": "9664E6C0-B5B8-46A2-B2A6-1C71340CA18C",
+    "DataProviderID": 1,
+    "OperatorID": 3534,
+    "UsageTypeID": 4,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 305281,
+      "Title": "Tesla Supercharger Almazán",
+      "AddressLine1": "Travesía CL-116",
+      "Town": "Almazán",
+      "StateOrProvince": "Castilla y León",
+      "Postcode": "42020",
+      "CountryID": 210,
+      "Latitude": 41.470622064144465,
+      "Longitude": -2.528511731757874,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 577095,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 675,
+        "Voltage": 900,
+        "PowerKW": 250,
+        "CurrentTypeID": 30,
+        "Quantity": 4,
+        "Comments": "v4"
+      }
+    ],
+    "NumberOfPoints": 4,
+    "GeneralComments": "4 V4 Superchargers 250kW (CCS). Max total power of the station 375kW",
+    "StatusTypeID": 150,
+    "DateLastStatusUpdate": "2025-06-14T21:29:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-10-03T14:17:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-08T17:46:00Z",
+    "ID": 298058,
+    "UUID": "8B3BCCD4-24BE-43D6-807E-DAB29B31F706",
+    "DataProviderID": 1,
+    "OperatorID": 3552,
+    "UsageTypeID": 4,
+    "UsageCost": "0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",
+    "AddressInfo": {
+      "ID": 298445,
+      "Title": "Rest. El Polígono - Almazán",
+      "AddressLine1": "Calle Aliso",
+      "Town": "Almazán",
+      "StateOrProvince": "Castilla y León",
+      "Postcode": "42020",
+      "CountryID": 210,
+      "Latitude": 41.46936136942361,
+      "Longitude": -2.533959618937473,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 543048,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 200,
+        "Voltage": 920,
+        "PowerKW": 150,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "Starcharge Titan180. The DC charger allows charging one vehicle at 150kW, or two simultaneous charges at 75kW. Maximum amperage 200A (max power is limited to 80kW for 400V cars)"
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 150,
+    "DateLastStatusUpdate": "2025-09-08T17:46:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-04-28T14:22:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-08T17:50:00Z",
+    "ID": 305880,
+    "UUID": "17B87DFA-46EE-475D-ABC5-32A065622F63",
+    "DataProviderID": 1,
+    "OperatorID": 207,
+    "UsageTypeID": 4,
+    "UsageCost": "0,59-0,49€/kWh",
+    "AddressInfo": {
+      "ID": 306269,
+      "Title": "Forjas de Castilla",
+      "AddressLine1": "Travesía CL-116",
+      "Town": "Almazán",
+      "StateOrProvince": "Castilla y León",
+      "Postcode": "42020",
+      "CountryID": 210,
+      "Latitude": 41.47042148923873,
+      "Longitude": -2.530046892277994,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 578837,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 150,
+        "Voltage": 900,
+        "PowerKW": 60,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "XCharge Juicepump60 DC charger allows charging one vehicle at 60kW, or two simultaneous charges at 30kW. "
+      },
+      {
+        "ID": 578838,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 500,
+        "Voltage": 1000,
+        "PowerKW": 300,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "Hypercharger HYC300 DC charger allows charging one vehicle at 300kW, or two simultaneous charges at 150kW. (max power is limited for 400V cars)"
+      }
+    ],
+    "NumberOfPoints": 4,
+    "GeneralComments": "Max power limited to 100kW",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-08T17:50:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-11-04T10:51:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-08T17:40:00Z",
+    "ID": 209573,
+    "UUID": "383ACB01-1106-4B80-9641-D81EA8896B48",
+    "DataProviderID": 1,
+    "OperatorID": 91,
+    "UsageTypeID": 4,
+    "UsageCost": "0,47€/kWh",
+    "AddressInfo": {
+      "ID": 209953,
+      "Title": "REPSOL Almazán",
+      "AddressLine1": "REPSOL",
+      "Town": "Almazán",
+      "StateOrProvince": "Castile and León",
+      "Postcode": "42200",
+      "CountryID": 210,
+      "Latitude": 41.480843186863126,
+      "Longitude": -2.5284308299350187,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 348686,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 348687,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 43,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      },
+      {
+        "ID": 348688,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-08T17:40:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-10-30T19:12:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-08T17:45:00Z",
+    "ID": 203058,
+    "UUID": "62D9CB76-814D-46B9-BF78-887B842473B8",
+    "DataProviderID": 1,
+    "OperatorID": 3279,
+    "UsageTypeID": 1,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 203425,
+      "Title": "Ayunt. Almazán",
+      "AddressLine1": "Paseo de la Arboleda",
+      "Town": "Almazán",
+      "StateOrProvince": "Castile and León",
+      "Postcode": "42200",
+      "CountryID": 210,
+      "Latitude": 41.48934522723104,
+      "Longitude": -2.5387990810238534,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 339420,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      },
+      {
+        "ID": 339421,
+        "ConnectionTypeID": 28,
+        "StatusTypeID": 50,
+        "LevelID": 1,
+        "PowerKW": 2.3,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 100,
+    "DateLastStatusUpdate": "2025-09-08T17:45:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-14T15:18:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-08T17:38:00Z",
+    "ID": 273086,
+    "UUID": "17C40FF1-25A4-428F-BB6B-CA4388CD5AED",
+    "DataProviderID": 1,
+    "OperatorID": 207,
+    "UsageTypeID": 4,
+    "UsageCost": " 0,40€/kWh DC - 0,35€/kWh AC ",
+    "AddressInfo": {
+      "ID": 273470,
+      "Title": "Hotel Vila Alamazán",
+      "AddressLine1": "Calle de Salvador Dalí",
+      "Town": "Almazán",
+      "StateOrProvince": "Castilla y León",
+      "Postcode": "42200",
+      "CountryID": 210,
+      "Latitude": 41.49391673567919,
+      "Longitude": -2.535888533639053,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 469790,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 150,
+        "Voltage": 900,
+        "PowerKW": 60,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "XCharge Juicepump60 DC charger allows charging one vehicle at 60kW, or two simultaneous charges at 30kW. "
+      },
+      {
+        "ID": 469791,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 4,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-08T17:38:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-07-25T14:28:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-08T17:36:00Z",
+    "ID": 203584,
+    "UUID": "086900E7-5685-4664-9A9E-E24F13F58662",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 5,
+    "UsageCost": "10€/charge",
+    "AddressInfo": {
+      "ID": 203951,
+      "Title": "E.S. Oruca",
+      "AddressLine1": "Carretera de Madrid",
+      "Town": "Almazán",
+      "StateOrProvince": "Castile and León",
+      "Postcode": "42200",
+      "CountryID": 210,
+      "Latitude": 41.49948074620522,
+      "Longitude": -2.5371585364687235,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 340130,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 11,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-08T17:36:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-18T13:36:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-08T17:33:00Z",
+    "ID": 461034,
+    "UUID": "99785C10-17AB-437C-B76B-CA501DD53C48",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 1,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 461423,
+      "Title": "Lupa Almazán",
+      "AddressLine1": "Almazán",
+      "Town": "Almazán",
+      "CountryID": 210,
+      "Latitude": 41.49929484731766,
+      "Longitude": -2.5369748189222037,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 775651,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "Amps": 16,
+        "Voltage": 400,
+        "PowerKW": 3.7,
+        "CurrentTypeID": 10,
+        "Quantity": 3
+      },
+      {
+        "ID": 775652,
+        "ConnectionTypeID": 28,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 3.7,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 3,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-08T17:33:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2025-09-08T17:30:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-12-09T18:18:00Z",
+    "ID": 279146,
+    "UUID": "F2FE03A9-C691-4974-81B4-3034A397A377",
+    "DataProviderID": 1,
+    "OperatorID": 3324,
+    "UsageTypeID": 4,
+    "UsageCost": "0,40€/kWh",
+    "AddressInfo": {
+      "ID": 279533,
+      "Title": "UVa Campus Duques de Soria",
+      "AddressLine1": "Avenida Universidad",
+      "StateOrProvince": "Castilla y León",
+      "Postcode": "42003",
+      "CountryID": 210,
+      "Latitude": 41.75244033593415,
+      "Longitude": -2.470327597597816,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 484044,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-12-09T18:18:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-10-12T20:04:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-09-18T14:05:00Z",
+    "ID": 203594,
+    "UUID": "81DEEF92-5FF3-4482-BA3B-2A9E2DA9A381",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 203961,
+      "Title": "VW Soria",
+      "AddressLine1": "44 Calle Eduardo Saavedra",
+      "Town": "Soria",
+      "StateOrProvince": "Castile and León",
+      "Postcode": "42003",
+      "CountryID": 210,
+      "Latitude": 41.758939809485724,
+      "Longitude": -2.475417505000223,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 340144,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      },
+      {
+        "ID": 340145,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-09-18T14:05:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-18T14:05:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-07-09T12:39:00Z",
+    "ID": 203593,
+    "UUID": "E5A63F0F-BDF2-4DBA-A39A-D0E111A4E03B",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "UsageCost": "charge: 5€/day + parking: 17€/day",
+    "AddressInfo": {
+      "ID": 203960,
+      "Title": "Hotel Cotabitarte",
+      "AddressLine1": "El Collado",
+      "Town": "Soria",
+      "StateOrProvince": "Castile and León",
+      "Postcode": "42002",
+      "CountryID": 210,
+      "Latitude": 41.76385573420691,
+      "Longitude": -2.465010515928043,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 340143,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 11,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-07-09T12:39:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-18T14:04:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-08-18T14:59:00Z",
+    "ID": 203592,
+    "UUID": "5BFF7539-9103-46B3-957E-BCB1307270B7",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 4,
+    "UsageCost": "0,46€/kWh + parking fee",
+    "AddressInfo": {
+      "ID": 203959,
+      "Title": "Parking Plaza del Olivo",
+      "AddressLine1": "Plaza del Olivo",
+      "Town": "Soria",
+      "StateOrProvince": "Castile and León",
+      "Postcode": "42001",
+      "CountryID": 210,
+      "Latitude": 41.763670898690236,
+      "Longitude": -2.466650768747286,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 578862,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 11,
+        "CurrentTypeID": 20,
+        "Quantity": 4
+      }
+    ],
+    "NumberOfPoints": 4,
+    "GeneralComments": "App Electromps or P-app",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-08-18T14:59:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-18T14:01:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-07-09T12:35:00Z",
+    "ID": 459386,
+    "UUID": "ADBE1E5B-3B25-4C60-B92A-4D78FA132607",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "UsageCost": "0,30€/kWh + 14€/day parking",
+    "AddressInfo": {
+      "ID": 459775,
+      "Title": "Hotel Alfonso VIII",
+      "AddressLine1": "Soria",
+      "Town": "Soria",
+      "CountryID": 210,
+      "Latitude": 41.76270390815992,
+      "Longitude": -2.469987092413504,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 772482,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "Amps": 16,
+        "Voltage": 400,
+        "PowerKW": 11,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-07-09T12:35:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2025-07-09T12:35:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-08-18T16:37:00Z",
+    "ID": 280055,
+    "UUID": "2F892F5C-E68E-4255-BC56-9A7449A3A25B",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 5,
+    "UsageCost": "parking fee",
+    "AddressInfo": {
+      "ID": 280442,
+      "Title": "Parking Paseo del Espolón",
+      "AddressLine1": "Paseo del Espolón",
+      "StateOrProvince": "Castilla y León",
+      "Postcode": "42001",
+      "CountryID": 210,
+      "Latitude": 41.76430050159922,
+      "Longitude": -2.4699267899187873,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 487116,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 10
+      },
+      {
+        "ID": 487117,
+        "ConnectionTypeID": 28,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 3.4,
+        "CurrentTypeID": 10,
+        "Quantity": 8
+      }
+    ],
+    "NumberOfPoints": 18,
+    "GeneralComments": "Free charging",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-08-18T16:37:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-11-17T21:05:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-03-02T15:47:00Z",
+    "ID": 61102,
+    "UUID": "32039CF6-D72E-4E58-9A00-AEEC47385263",
+    "DataProviderID": 1,
+    "OperatorID": 1,
+    "UsageTypeID": 1,
+    "AddressInfo": {
+      "ID": 61448,
+      "Title": "Hospital Santa Bárbara",
+      "AddressLine1": "Hospital Santa Bárbara",
+      "Town": "Soria",
+      "StateOrProvince": "Castile and León",
+      "Postcode": "42001",
+      "CountryID": 210,
+      "Latitude": 41.77190486573966,
+      "Longitude": -2.4719815879216185,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 77982,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "GeneralComments": "Tarjeta Iberdrola o Electromaps",
+    "StatusTypeID": 150,
+    "DateLastStatusUpdate": "2024-03-02T15:47:00Z",
+    "DataQualityLevel": 3,
+    "DateCreated": "2016-02-13T00:24:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-09-24T09:06:00Z",
+    "ID": 203591,
+    "UUID": "AF2F7736-5FB0-4D05-AC17-A0381466C861",
+    "DataProviderID": 1,
+    "OperatorID": 3499,
+    "UsageTypeID": 4,
+    "UsageCost": "0,25€/kWh",
+    "AddressInfo": {
+      "ID": 203958,
+      "Title": "Mercadona Soria",
+      "AddressLine1": "Mercadona",
+      "Town": "Soria",
+      "StateOrProvince": "Castile and León",
+      "Postcode": "42001",
+      "CountryID": 210,
+      "Latitude": 41.77203769159149,
+      "Longitude": -2.47356560285823,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 340141,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 4
+      }
+    ],
+    "NumberOfPoints": 4,
+    "GeneralComments": "app Waylet(Repsol). 90' free parking, then at 0,07€/min",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-09-24T09:06:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-18T13:58:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-09-18T13:53:00Z",
+    "ID": 203589,
+    "UUID": "5DDBA6BE-1028-4A34-A3D6-2B471BE2CA57",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 1,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 203956,
+      "Title": "Centre Commercial E. Leclerc",
+      "AddressLine1": "Centre Commercial E. Leclerc",
+      "Town": "Soria",
+      "StateOrProvince": "Castile and León",
+      "Postcode": "42005",
+      "CountryID": 210,
+      "Latitude": 41.77249136917246,
+      "Longitude": -2.4864153163013043,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 340139,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-09-18T13:53:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-18T13:53:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-08-19T21:57:00Z",
+    "ID": 460467,
+    "UUID": "330ACCA1-CEEA-4028-BA9E-645FD423D356",
+    "DataProviderID": 1,
+    "OperatorID": 3276,
+    "UsageTypeID": 4,
+    "UsageCost": "0,58€/kWh DC >60kW (0,40€/min parked without charging)",
+    "AddressInfo": {
+      "ID": 460856,
+      "Title": "Petropix Soria",
+      "AddressLine1": "soria",
+      "Town": "soria",
+      "CountryID": 210,
+      "Latitude": 41.76896446494342,
+      "Longitude": -2.4857278498502637,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 774714,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 250,
+        "Voltage": 920,
+        "PowerKW": 210,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "XCharger NZS 210 (Peak 250A). Max power for two simultaneous charges 210 kW. Charger with a 233 kWh boost battery. Power limited to 50kW when charger battery is low of charge. (max power limited to 100kW for 400V cars)"
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 150,
+    "DateLastStatusUpdate": "2025-08-19T21:57:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2025-08-19T21:50:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-07-10T06:39:00Z",
+    "ID": 209350,
+    "UUID": "CFD82AB0-1D73-4D7E-9B09-50DB1359223E",
+    "DataProviderID": 1,
+    "OperatorID": 3632,
+    "UsageTypeID": 4,
+    "UsageCost": "0,60€/kWh",
+    "AddressInfo": {
+      "ID": 209730,
+      "Title": "+B Energías Soria (PowerGo)",
+      "AddressLine1": "Calle Miguel Roca Junyent",
+      "StateOrProvince": "Castilla y León",
+      "Postcode": "42004",
+      "CountryID": 210,
+      "Latitude": 41.75755663413585,
+      "Longitude": -2.4811418898352144,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 348328,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 300,
+        "Voltage": 920,
+        "PowerKW": 100,
+        "CurrentTypeID": 30,
+        "Quantity": 1,
+        "Comments": "Ecotap DC120 Charger (250-400A)"
+      }
+    ],
+    "NumberOfPoints": 1,
+    "GeneralComments": "app PowerGo",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-07-10T06:39:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-10-26T19:18:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-08-19T21:56:00Z",
+    "ID": 460468,
+    "UUID": "71C75C03-DD7D-4EC8-9BA3-43D49AE53381",
+    "DataProviderID": 1,
+    "OperatorID": 3584,
+    "UsageTypeID": 4,
+    "UsageCost": "0,60€/kWh",
+    "AddressInfo": {
+      "ID": 460857,
+      "Title": "Cepsa Caballo Blanco Soria",
+      "AddressLine1": "Soria",
+      "Town": "Soria",
+      "CountryID": 210,
+      "Latitude": 41.77070448599204,
+      "Longitude": -2.494086001796859,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 774715,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 500,
+        "Voltage": 1000,
+        "PowerKW": 150,
+        "CurrentTypeID": 30,
+        "Quantity": 1,
+        "Comments": "Hypercharger HYC150 CCS charger."
+      },
+      {
+        "ID": 774716,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 500,
+        "Voltage": 1000,
+        "PowerKW": 150,
+        "CurrentTypeID": 30,
+        "Quantity": 1,
+        "Comments": "Hypercharger HYC150 CCS charger."
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 150,
+    "DateLastStatusUpdate": "2025-08-19T21:56:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2025-08-19T21:52:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-09-18T13:54:00Z",
+    "ID": 203590,
+    "UUID": "03EFA3A1-F37D-43CE-B9E3-697770114CFA",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 203957,
+      "Title": "Hyundai Soria",
+      "AddressLine1": "87 Avenida de Valladolid",
+      "Town": "Soria",
+      "StateOrProvince": "Castile and León",
+      "Postcode": "42004",
+      "CountryID": 210,
+      "Latitude": 41.769621376794504,
+      "Longitude": -2.490296673452235,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 340140,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-09-18T13:54:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-18T13:54:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2023-12-10T18:07:00Z",
+    "ID": 171298,
+    "UUID": "1095014B-BA55-4053-8D60-08C50B5362C0",
+    "DataProviderID": 1,
+    "OperatorID": 2247,
+    "UsageTypeID": 4,
+    "UsageCost": "0,45€/kWh ",
+    "AddressInfo": {
+      "ID": 171657,
+      "Title": "McDonalds Soria",
+      "AddressLine1": "Calle del Naranjo 1",
+      "Town": "Golmayo",
+      "StateOrProvince": "Soria",
+      "Postcode": "42190",
+      "CountryID": 210,
+      "Latitude": 41.773158084527495,
+      "Longitude": -2.499624293490342,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 261810,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 2
+      },
+      {
+        "ID": 261811,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 2
+      },
+      {
+        "ID": 261815,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 43,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 4,
+    "GeneralComments": "App Recarga Pública Iberdrola",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2023-12-10T18:07:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2020-12-29T20:23:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-09-18T13:51:00Z",
+    "ID": 203587,
+    "UUID": "7DA83FAC-B915-423D-8181-16F353BA1768",
+    "DataProviderID": 1,
+    "OperatorID": 3558,
+    "UsageTypeID": 6,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 203954,
+      "Title": "Nissan Mateo Lorenzo",
+      "AddressLine1": "Calle A",
+      "Town": "Soria",
+      "StateOrProvince": "Castile and León",
+      "Postcode": "42005",
+      "CountryID": 210,
+      "Latitude": 41.7788979546537,
+      "Longitude": -2.488048270426475,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 340135,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 340136,
+        "ConnectionTypeID": 28,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 3.5,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-09-18T13:51:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-18T13:51:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-09-26T18:44:00Z",
+    "ID": 203588,
+    "UUID": "C027BDCA-6FD1-479D-81D1-085C2913954C",
+    "DataProviderID": 1,
+    "OperatorID": 3275,
+    "UsageTypeID": 6,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 203955,
+      "Title": "Renault Auto",
+      "AddressLine1": "Calle A",
+      "Town": "Soria",
+      "StateOrProvince": "Castile and León",
+      "Postcode": "42005",
+      "CountryID": 210,
+      "Latitude": 41.77551067720776,
+      "Longitude": -2.4853126348741625,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 340137,
+        "ConnectionTypeID": 28,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 3.7,
+        "CurrentTypeID": 10,
+        "Quantity": 2
+      },
+      {
+        "ID": 340138,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 4,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-09-26T18:44:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-18T13:52:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2023-07-20T21:41:00Z",
+    "ID": 272902,
+    "UUID": "5AFFB5C8-4B47-4474-A78F-B8FFCFBFAA77",
+    "DataProviderID": 1,
+    "OperatorID": 2247,
+    "UsageTypeID": 4,
+    "UsageCost": "0,39€/kwh",
+    "AddressInfo": {
+      "ID": 273286,
+      "Title": "Leroy Merlin Soria",
+      "AddressLine1": "Calle A",
+      "StateOrProvince": "Castilla y León",
+      "Postcode": "42004",
+      "CountryID": 210,
+      "Latitude": 41.77519283283203,
+      "Longitude": -2.4837056561408417,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 469093,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2023-07-20T21:41:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-07-20T21:41:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-06T22:13:00Z",
+    "ID": 461020,
+    "UUID": "BE088E8A-892A-4F3B-A67F-AC3A70206892",
+    "DataProviderID": 1,
+    "OperatorID": 1,
+    "UsageTypeID": 4,
+    "UsageCost": "0,45€/kWh",
+    "AddressInfo": {
+      "ID": 461409,
+      "Title": "Camping Urbión",
+      "AddressLine1": "urbión",
+      "Town": "Vinuesa",
+      "CountryID": 210,
+      "Latitude": 41.841295284759525,
+      "Longitude": -2.777937273127833,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 775627,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22,
+        "CurrentTypeID": 10,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "GeneralComments": "App chargevite",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-06T22:13:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2025-09-06T22:13:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2023-08-25T15:17:00Z",
+    "ID": 273937,
+    "UUID": "2B8C3EA2-53E6-4B7B-843C-908656DC02BA",
+    "DataProviderID": 1,
+    "OperatorID": 2247,
+    "UsageTypeID": 4,
+    "UsageCost": "0,35€/kWh",
+    "AddressInfo": {
+      "ID": 274321,
+      "Title": "Abejar",
+      "AddressLine1": "Calle Eras de la Horca",
+      "StateOrProvince": "Castilla y León",
+      "Postcode": "42146",
+      "CountryID": 210,
+      "Latitude": 41.808877270608406,
+      "Longitude": -2.7796402591512788,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 474190,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "Amps": 32,
+        "Voltage": 230,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 20,
+        "Quantity": 4
+      }
+    ],
+    "NumberOfPoints": 4,
+    "StatusTypeID": 150,
+    "DateLastStatusUpdate": "2023-08-25T15:17:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-08-25T15:17:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2023-08-24T20:24:00Z",
+    "ID": 273924,
+    "UUID": "A9697D33-C3DD-4A6B-80BD-638F31B0A0B2",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 274308,
+      "Title": "Hotel el Cielo de Muriel",
+      "AddressLine1": "SO-P-5018",
+      "StateOrProvince": "Castilla y León",
+      "CountryID": 210,
+      "Latitude": 41.781005505670606,
+      "Longitude": -2.9165373887174155,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 474171,
+        "ConnectionTypeID": 28,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 3.7,
+        "CurrentTypeID": 10,
+        "Quantity": 3
+      }
+    ],
+    "NumberOfPoints": 3,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2023-08-24T20:24:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-08-24T20:24:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-08-27T18:40:00Z",
+    "ID": 203060,
+    "UUID": "8C6DCCB7-F8D0-4718-A8F4-BFA6C881A720",
+    "DataProviderID": 1,
+    "OperatorID": 3324,
+    "UsageTypeID": 1,
+    "UsageCost": "0,25€/kWh",
+    "AddressInfo": {
+      "ID": 203427,
+      "Title": "Ayunt. Muriel de la Fuente Casa del Parque (Moveletur)",
+      "AddressLine1": "Casa del Parque",
+      "Town": "Calatañazor",
+      "StateOrProvince": "Castile and León",
+      "Postcode": "",
+      "CountryID": 210,
+      "Latitude": 41.723523114690096,
+      "Longitude": -2.8569198585116737,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 339425,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-08-27T18:40:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-14T15:22:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-09-14T15:26:00Z",
+    "ID": 203063,
+    "UUID": "2BDCB8AD-8C41-43F2-A849-AB90C8C250E4",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 203430,
+      "Title": "Renault Aceña Motor",
+      "AddressLine1": "Carretera del Burgo de Osma a Retortillo",
+      "Town": "Burgo de Osma-Ciudad de Osma",
+      "StateOrProvince": "Castile and León",
+      "Postcode": "",
+      "CountryID": 210,
+      "Latitude": 41.5851813552722,
+      "Longitude": -3.074313424711363,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 339428,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 11,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      },
+      {
+        "ID": 339429,
+        "ConnectionTypeID": 28,
+        "StatusTypeID": 50,
+        "LevelID": 1,
+        "PowerKW": 2.3,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      },
+      {
+        "ID": 339430,
+        "ConnectionTypeID": 17,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 11,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 3,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-09-14T15:26:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-14T15:26:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-09-14T15:25:00Z",
+    "ID": 203062,
+    "UUID": "6790C06F-69C7-473D-A763-F219BCC16586",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 1,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 203429,
+      "Title": "Supermercado Lupa",
+      "AddressLine1": "Carretera del Burgo de Osma a Retortillo",
+      "Town": "Burgo de Osma-Ciudad de Osma",
+      "StateOrProvince": "Castile and León",
+      "Postcode": "",
+      "CountryID": 210,
+      "Latitude": 41.58564643583543,
+      "Longitude": -3.074217358562464,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 339427,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 4
+      }
+    ],
+    "NumberOfPoints": 4,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-09-14T15:25:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-14T15:25:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-02-10T16:33:00Z",
+    "ID": 203061,
+    "UUID": "F5AEAD6C-2ADD-4A13-B22E-049871CB1FE3",
+    "DataProviderID": 1,
+    "OperatorID": 2247,
+    "UsageTypeID": 6,
+    "UsageCost": " 0,39€/kWh",
+    "AddressInfo": {
+      "ID": 203428,
+      "Title": "Hotel Termal Burgo de Osma",
+      "AddressLine1": "Hotel Termal Burgo de Osma",
+      "Town": "Burgo de Osma-Ciudad de Osma",
+      "StateOrProvince": "Castile and León",
+      "Postcode": "",
+      "CountryID": 210,
+      "Latitude": 41.58768075577325,
+      "Longitude": -3.065333255036876,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 339426,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "GeneralComments": "underground parking",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-02-10T16:33:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-14T15:23:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-12-12T13:00:00Z",
+    "ID": 195451,
+    "UUID": "2F0D9243-E48C-40B6-A56C-135D41FBBF29",
+    "DataProviderID": 1,
+    "OperatorID": 2247,
+    "UsageTypeID": 4,
+    "UsageCost": "0,45€/kWh DC - 0,39€/kWh 22kW AC",
+    "AddressInfo": {
+      "ID": 195810,
+      "Title": "Avenida de Juan Carlos I",
+      "AddressLine1": "Avenida de Juan Carlos I",
+      "Town": "Burgo de Osma-Ciudad de Osma",
+      "StateOrProvince": "Castile and León",
+      "Postcode": "",
+      "CountryID": 210,
+      "Latitude": 41.58793400817518,
+      "Longitude": -3.067239669142964,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 325496,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 2
+      },
+      {
+        "ID": 325497,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 350741,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 4,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-12-12T13:00:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-08-21T19:40:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-08-26T12:46:00Z",
+    "ID": 265589,
+    "UUID": "EC566D2D-52B3-4588-B4C6-7E11DC38E233",
+    "DataProviderID": 1,
+    "OperatorID": 3324,
+    "UsageTypeID": 4,
+    "UsageCost": "0,25€/kWh",
+    "AddressInfo": {
+      "ID": 265973,
+      "Title": "Casa del Parque El Cañón del Río Lobos (Moveletur)",
+      "AddressLine1": "Senda de las Gullurías",
+      "StateOrProvince": "Castilla y León",
+      "Postcode": "42317",
+      "CountryID": 210,
+      "Latitude": 41.72201614753999,
+      "Longitude": -3.048799528786276,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 451743,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "GeneralComments": "",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-08-26T12:46:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-05-15T08:01:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-06T22:06:00Z",
+    "ID": 302584,
+    "UUID": "04EF7FBE-5C4E-4315-AB25-CB78A9EC1D40",
+    "DataProviderID": 1,
+    "OperatorID": 2247,
+    "UsageTypeID": 4,
+    "UsageCost": "0,43 €/kWh DC - 0,39 €/kWh AC",
+    "AddressInfo": {
+      "ID": 302971,
+      "Title": "Iberdrola Navaleno",
+      "AddressLine1": "Avenida de la Constitución",
+      "StateOrProvince": "Castilla y León",
+      "Postcode": "42149",
+      "CountryID": 210,
+      "Latitude": 41.83690585881063,
+      "Longitude": -3.006758232522792,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 568716,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 2
+      },
+      {
+        "ID": 568717,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 568718,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 4,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-06T22:06:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-08-13T20:11:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-09-18T11:50:00Z",
+    "ID": 203552,
+    "UUID": "92228F34-3D28-42C2-A390-FD3A5901F735",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 203919,
+      "Title": "Hotel El Nido de Pianres",
+      "AddressLine1": "Navaleno",
+      "Town": "Navaleno",
+      "StateOrProvince": "Castile and León",
+      "Postcode": "",
+      "CountryID": 210,
+      "Latitude": 41.84250159185825,
+      "Longitude": -3.003405174588238,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 340082,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-09-18T11:50:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-18T11:50:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-06T21:59:00Z",
+    "ID": 307026,
+    "UUID": "FF9E29A9-E3EB-4E39-B300-CCBA61D7B3C0",
+    "DataProviderID": 1,
+    "OperatorID": 3459,
+    "UsageTypeID": 4,
+    "UsageCost": "0,48€/kWh DC - 0,41€/kWh AC",
+    "AddressInfo": {
+      "ID": 307415,
+      "Title": "Hotel Rest. Manrique de Lara (San Leonardo de Yagüe)",
+      "AddressLine1": "Carretera del Burgo de Osma",
+      "StateOrProvince": "Castilla y León",
+      "Postcode": "42140",
+      "CountryID": 210,
+      "Latitude": 41.82766952673714,
+      "Longitude": -3.0717988701067043,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 585849,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 585850,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 585851,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-06T21:59:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-12-14T17:00:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-05-10T19:07:00Z",
+    "ID": 312521,
+    "UUID": "9B108E02-326A-4517-93A2-95CFD90BD7B9",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 312910,
+      "Title": "Casa Rural La Ermita",
+      "AddressLine1": "Canicosa de la Sierra",
+      "Town": "Canicosa de la Sierra",
+      "CountryID": 210,
+      "Latitude": 41.933059996555954,
+      "Longitude": -3.048928360811175,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 602173,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "Amps": 32,
+        "Voltage": 230,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 5
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-05-10T19:07:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2025-05-10T19:07:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-08-26T12:45:00Z",
+    "ID": 265592,
+    "UUID": "EC87AC0F-2DDA-438A-A513-C9E9A4DCDA48",
+    "DataProviderID": 1,
+    "OperatorID": 3324,
+    "UsageTypeID": 4,
+    "UsageCost": "0,25€/kWh",
+    "AddressInfo": {
+      "ID": 265976,
+      "Title": "Casa del Parque Lagunas Glaciares de Nelia (Moveletur)",
+      "AddressLine1": "Neila",
+      "StateOrProvince": "Castilla y León",
+      "Postcode": "09679",
+      "CountryID": 210,
+      "Latitude": 42.060270202733506,
+      "Longitude": -2.9928248239441473,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 451748,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "GeneralComments": "",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-08-26T12:45:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-05-15T12:57:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2023-08-25T15:15:00Z",
+    "ID": 203553,
+    "UUID": "7F9D6778-8CE1-49CD-82EE-F2BE36A20FAF",
+    "DataProviderID": 1,
+    "OperatorID": 2247,
+    "UsageTypeID": 4,
+    "UsageCost": " 0,35€/kWh",
+    "AddressInfo": {
+      "ID": 203920,
+      "Title": "Vinuesa",
+      "AddressLine1": "Camino Forestal",
+      "Town": "Vinuesa",
+      "StateOrProvince": "Castile and León",
+      "Postcode": "",
+      "CountryID": 210,
+      "Latitude": 41.91217163773317,
+      "Longitude": -2.7594730487679726,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 340083,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2023-08-25T15:15:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-18T11:52:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-02-10T16:28:00Z",
+    "ID": 203554,
+    "UUID": "9A8193CE-57EB-46A5-934A-FFD8CBC7F247",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "UsageCost": "20€/charge",
+    "AddressInfo": {
+      "ID": 203921,
+      "Title": "Camping Cobijo",
+      "AddressLine1": "Carretera de Montenegro",
+      "Town": "Vinuesa",
+      "StateOrProvince": "Castile and León",
+      "Postcode": "",
+      "CountryID": 210,
+      "Latitude": 41.914586292342705,
+      "Longitude": -2.7549912103368115,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 340084,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-02-10T16:28:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-18T11:53:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-08-26T12:42:00Z",
+    "ID": 209288,
+    "UUID": "B22A2C07-7111-4496-B97E-FB777038B0BC",
+    "DataProviderID": 1,
+    "OperatorID": 3324,
+    "UsageTypeID": 1,
+    "UsageCost": "0,25€/kWh",
+    "AddressInfo": {
+      "ID": 209668,
+      "Title": "Casa del Parque Laguna Negra (Moveletur)",
+      "AddressLine1": "Camino Forestal",
+      "StateOrProvince": "Castilla y León",
+      "Postcode": "42150",
+      "CountryID": 210,
+      "Latitude": 41.932201273990216,
+      "Longitude": -2.7761499240959893,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 348219,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      },
+      {
+        "ID": 348220,
+        "ConnectionTypeID": 28,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 3.7,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 2,
+    "GeneralComments": "",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-08-26T12:42:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-10-25T17:57:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-08-26T09:39:00Z",
+    "ID": 312520,
+    "UUID": "595E2E5A-94CC-4583-89CD-A43AB27015D3",
+    "DataProviderID": 1,
+    "OperatorID": 3557,
+    "UsageTypeID": 4,
+    "UsageCost": "0,31€/kWh",
+    "AddressInfo": {
+      "ID": 312909,
+      "Title": "Ayunt. El Royo",
+      "AddressLine1": "El Royo",
+      "Town": "El Royo",
+      "CountryID": 210,
+      "Latitude": 41.90876796669991,
+      "Longitude": -2.6460099435612676,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 602172,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 11,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-08-26T09:39:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2025-05-10T19:01:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-09-18T11:55:00Z",
+    "ID": 203555,
+    "UUID": "84304646-47E2-49A3-88C5-0C12A557BA00",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 203922,
+      "Title": "Hotel El Morendal",
+      "AddressLine1": "Almarza",
+      "Town": "Almarza",
+      "StateOrProvince": "Castile and León",
+      "Postcode": "42164",
+      "CountryID": 210,
+      "Latitude": 41.947952637798295,
+      "Longitude": -2.470962676751924,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 340086,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-09-18T11:55:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-18T11:55:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-07T15:59:00Z",
+    "ID": 172241,
+    "UUID": "0266A497-74E6-4651-83FD-36DFC69DC39B",
+    "DataProviderID": 1,
+    "OperatorID": 2247,
+    "UsageTypeID": 4,
+    "UsageCost": "0,45€/kWh ",
+    "AddressInfo": {
+      "ID": 172600,
+      "Title": "Ayunt. Villoslada De Cameros",
+      "AddressLine1": "Puente de Villoslada",
+      "Town": "Villoslada de Cameros",
+      "StateOrProvince": "Rioja",
+      "CountryID": 210,
+      "Latitude": 42.11231383063105,
+      "Longitude": -2.672448150210357,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 263318,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 263319,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 263320,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-07T15:59:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2021-01-24T15:08:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-06T15:17:00Z",
+    "ID": 212562,
+    "UUID": "A29B45B1-A290-49AC-8BBA-78F91820E7FC",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 1,
+    "UsageCost": "free",
+    "AddressInfo": {
+      "ID": 212942,
+      "Title": "Lupa Salas de los Infantes",
+      "AddressLine1": "Carretera de Salas de los Infantes a Abejar",
+      "Town": "Salas de los Infantes",
+      "StateOrProvince": "Castilla y León",
+      "Postcode": "09600",
+      "CountryID": 210,
+      "Latitude": 42.019826598681675,
+      "Longitude": -3.2783610843907525,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 353906,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 11,
+        "CurrentTypeID": 20,
+        "Quantity": 4
+      }
+    ],
+    "NumberOfPoints": 4,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-06T15:17:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-01-20T17:38:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-06T15:19:00Z",
+    "ID": 203550,
+    "UUID": "93A1D3EC-F250-408C-B5F9-B8EBC218F366",
+    "DataProviderID": 1,
+    "OperatorID": 1,
+    "UsageTypeID": 1,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 203917,
+      "Title": "Ayunt. Salar de los Infantes",
+      "AddressLine1": "Calle de la Flor",
+      "Town": "Salas de los Infantes",
+      "StateOrProvince": "Castile and León",
+      "Postcode": "09611",
+      "CountryID": 210,
+      "Latitude": 42.02314063592945,
+      "Longitude": -3.290191802075242,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 340079,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 150,
+    "DateLastStatusUpdate": "2025-09-06T15:19:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-18T11:45:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-06T15:21:00Z",
+    "ID": 272852,
+    "UUID": "E624EC56-9284-4E20-B778-5F80E15CD7C7",
+    "DataProviderID": 1,
+    "OperatorID": 91,
+    "UsageTypeID": 4,
+    "UsageCost": "0,47€/kWh ",
+    "AddressInfo": {
+      "ID": 273236,
+      "Title": "E.S. Repsol Salas",
+      "AddressLine1": "Salas de los Infantes",
+      "CountryID": 210,
+      "Latitude": 42.02289283042998,
+      "Longitude": -3.2949970081295703,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 468980,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 43,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      },
+      {
+        "ID": 468981,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 468982,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-06T15:21:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-07-20T08:47:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-10-30T19:58:00Z",
+    "ID": 274006,
+    "UUID": "89CC5C81-3D87-402E-8D14-B45CB7A1C426",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "UsageCost": "15€/day",
+    "AddressInfo": {
+      "ID": 274390,
+      "Title": "Hotel Santo Domingo de Silos",
+      "AddressLine1": "Santo Domingo de Silos",
+      "Town": "Santo Domingo de Silos",
+      "CountryID": 210,
+      "Latitude": 41.96236950688112,
+      "Longitude": -3.418991615748638,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 474400,
+        "ConnectionTypeID": 28,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 3.7,
+        "CurrentTypeID": 10,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-10-30T19:58:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-08-27T14:01:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-06T15:56:00Z",
+    "ID": 298958,
+    "UUID": "EFC5C109-5565-49B8-84A5-A318BE4394B0",
+    "DataProviderID": 1,
+    "OperatorID": 3556,
+    "UsageTypeID": 4,
+    "UsageCost": "free",
+    "AddressInfo": {
+      "ID": 299345,
+      "Title": "Ayunt. Cubillejo de Lara",
+      "AddressLine1": "Calle Real",
+      "StateOrProvince": "Castilla y León",
+      "Postcode": "09642",
+      "CountryID": 210,
+      "Latitude": 42.142066574785474,
+      "Longitude": -3.5039031825163534,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 548353,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-06T15:56:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-05-15T17:19:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-06T21:09:00Z",
+    "ID": 203549,
+    "UUID": "CF822475-7581-47EB-90DC-132C62DD410E",
+    "DataProviderID": 1,
+    "OperatorID": 2247,
+    "UsageTypeID": 4,
+    "UsageCost": " 0,20€/kWh",
+    "AddressInfo": {
+      "ID": 203916,
+      "Title": "Covarrubias",
+      "AddressLine1": "Calle de la Viña Vieja",
+      "Town": "Covarrubias",
+      "StateOrProvince": "Castile and León",
+      "Postcode": "09346",
+      "CountryID": 210,
+      "Latitude": 42.058822809288785,
+      "Longitude": -3.5221204011313603,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 340078,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      },
+      {
+        "ID": 775623,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-06T21:09:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-18T11:43:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-06T16:06:00Z",
+    "ID": 212561,
+    "UUID": "CE342AE5-7988-4552-AFBE-695B42282BD8",
+    "DataProviderID": 1,
+    "OperatorID": 3279,
+    "UsageTypeID": 4,
+    "UsageCost": "0,33€/kWh",
+    "AddressInfo": {
+      "ID": 212941,
+      "Title": "Hotel Doña Sancha",
+      "AddressLine1": "Avenida de Víctor Barbadillo",
+      "AddressLine2": "Camping de Covarrubias",
+      "StateOrProvince": "Castilla y León",
+      "Postcode": "09346",
+      "CountryID": 210,
+      "Latitude": 42.05948346267752,
+      "Longitude": -3.5141789901091727,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 353903,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-06T16:06:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-01-20T17:36:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-06-08T11:05:00Z",
+    "ID": 309159,
+    "UUID": "3AA365FA-DC52-44CA-9FDB-CF76737D728B",
+    "DataProviderID": 1,
+    "OperatorID": 2247,
+    "UsageTypeID": 4,
+    "UsageCost": "0,55€/kWh",
+    "AddressInfo": {
+      "ID": 309548,
+      "Title": "Hortigüela",
+      "AddressLine1": "Calle Espolon",
+      "Town": "Hortigüela",
+      "CountryID": 210,
+      "Latitude": 42.06954229250766,
+      "Longitude": -3.427122198626364,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 592910,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 300,
+        "Voltage": 1000,
+        "PowerKW": 100,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "Ingeteam RAPID120 Charger. The DC charger allows charging one vehicle at 120kW, or two simultaneous charges at 60kW"
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-06-08T11:05:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2025-03-01T15:05:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-12-14T19:34:00Z",
+    "ID": 203551,
+    "UUID": "B8AA457C-5435-4142-886E-2270E802A507",
+    "DataProviderID": 1,
+    "OperatorID": 2247,
+    "UsageTypeID": 4,
+    "UsageCost": " 0,20€/kWh",
+    "AddressInfo": {
+      "ID": 203918,
+      "Title": "Silos 2000",
+      "AddressLine1": "Silos 2000",
+      "Town": "Santo Domingo de Silos",
+      "StateOrProvince": "Castile and León",
+      "Postcode": "",
+      "CountryID": 210,
+      "Latitude": 41.96268191766049,
+      "Longitude": -3.422406923715812,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 340080,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 4
+      }
+    ],
+    "NumberOfPoints": 4,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-12-14T19:34:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-18T11:46:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-06T21:16:00Z",
+    "ID": 305784,
+    "UUID": "33A3D719-A644-49A0-A1EA-B82A090F4A17",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "UsageCost": "0,35€/kWh",
+    "AddressInfo": {
+      "ID": 306173,
+      "Title": "Rest. Hotel La Parada del Cid",
+      "AddressLine1": "Calle Real",
+      "StateOrProvince": "Castilla y León",
+      "Postcode": "09610",
+      "CountryID": 210,
+      "Latitude": 41.8974944338884,
+      "Longitude": -3.4702070068681223,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 578676,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-06T21:16:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-10-30T19:56:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-06-09T18:54:00Z",
+    "ID": 307658,
+    "UUID": "A9D9149A-FD90-4057-9101-81B3D209F719",
+    "DataProviderID": 1,
+    "OperatorID": 2247,
+    "UsageTypeID": 4,
+    "UsageCost": "0,55€/kWh",
+    "AddressInfo": {
+      "ID": 308047,
+      "Title": "AN Energéticos Cintruénigo",
+      "AddressLine1": "Cintruénigo",
+      "Town": "Cintruénigo",
+      "CountryID": 210,
+      "Latitude": 42.07147336373063,
+      "Longitude": -1.7946792379977978,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 586868,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 500,
+        "Voltage": 1000,
+        "PowerKW": 100,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "Hypercharger HYC300 DC charger allows charging one vehicle at 100kW, or two simultaneous charges at 50kW"
+      },
+      {
+        "ID": 586869,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 200,
+        "Voltage": 500,
+        "PowerKW": 80,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-06-09T18:54:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2025-01-04T22:03:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-09-18T12:03:00Z",
+    "ID": 203558,
+    "UUID": "4565B287-69FF-4AE4-AB75-850A2C45A177",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "UsageCost": "0,50€/hora",
+    "AddressInfo": {
+      "ID": 203925,
+      "Title": "Hotel Alhama",
+      "AddressLine1": "Hotel Alhama",
+      "Town": "Cintruénigo",
+      "StateOrProvince": "Comunidad Foral de Navarra",
+      "Postcode": "31592",
+      "CountryID": 210,
+      "Latitude": 42.07750692697121,
+      "Longitude": -1.7972844026164694,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 340089,
+        "ConnectionTypeID": 28,
+        "StatusTypeID": 50,
+        "LevelID": 1,
+        "PowerKW": 2.3,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      },
+      {
+        "ID": 340090,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-09-18T12:03:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-18T12:01:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-08T15:39:00Z",
+    "ID": 203557,
+    "UUID": "A5E69457-CC28-4A1D-B39E-420E83C29B4B",
+    "DataProviderID": 1,
+    "OperatorID": 1,
+    "UsageTypeID": 1,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 203924,
+      "Title": "Ayunt. Cintruénigo",
+      "AddressLine1": "Calle Donantes De Sangre",
+      "Town": "Cintruénigo",
+      "StateOrProvince": "Comunidad Foral de Navarra",
+      "Postcode": "",
+      "CountryID": 210,
+      "Latitude": 42.07965726810238,
+      "Longitude": -1.8021279444854201,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 340088,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 11,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-08T15:39:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-18T12:00:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-08T14:40:00Z",
+    "ID": 461031,
+    "UUID": "1165CB88-F41B-4C22-B33B-0A0C8997532B",
+    "DataProviderID": 1,
+    "OperatorID": 3584,
+    "UsageTypeID": 4,
+    "UsageCost": "0,60€/kWh",
+    "AddressInfo": {
+      "ID": 461420,
+      "Title": "Cepsa Corella",
+      "AddressLine1": "corella",
+      "Town": "corella",
+      "CountryID": 210,
+      "Latitude": 42.11462019160098,
+      "Longitude": -1.7980927978778993,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 775646,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 250,
+        "Voltage": 1000,
+        "PowerKW": 180,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "XCharge NZS 210 (Peak 250A). Max combined power for two simultaneous charges 210 kW. Charger with a 233 kWh boost battery. Power limited to 50kW when charger battery is low of charge. (max power limited to 100kW for 400V cars)"
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-08T14:40:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2025-09-08T14:40:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-08T15:35:00Z",
+    "ID": 209739,
+    "UUID": "C151BA94-DA86-4943-A832-8BDDC81E844E",
+    "DataProviderID": 1,
+    "OperatorID": 2247,
+    "UsageTypeID": 4,
+    "UsageCost": "0,54€/kWh",
+    "AddressInfo": {
+      "ID": 210119,
+      "Title": "Calle Monasterio de Iranzu",
+      "AddressLine1": "Calle Monasterio de Iranzu",
+      "Town": "Corella",
+      "StateOrProvince": "Navarra - Nafarroa",
+      "Postcode": "31591",
+      "CountryID": 210,
+      "Latitude": 42.11279509880163,
+      "Longitude": -1.789120687869513,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 348992,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 300,
+        "Voltage": 920,
+        "PowerKW": 120,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "Ingeteam RAPID120 Charger. The DC charger allows charging one vehicle at 120kW, or two simultaneous charges at 60kW"
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-08T15:35:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-11-02T16:08:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-08T14:20:00Z",
+    "ID": 209289,
+    "UUID": "20A5A7B0-E6B2-45E3-AE71-9001B72122BB",
+    "DataProviderID": 1,
+    "OperatorID": 1,
+    "UsageTypeID": 1,
+    "UsageCost": "free",
+    "AddressInfo": {
+      "ID": 209669,
+      "Title": "Ayunt. Valdelavilla ",
+      "AddressLine1": "Punto de recarga Valdelavilla ",
+      "StateOrProvince": "Castilla y León",
+      "CountryID": 210,
+      "Latitude": 41.97042231209463,
+      "Longitude": -2.2020172303399477,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 348221,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      },
+      {
+        "ID": 348222,
+        "ConnectionTypeID": 28,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 3.7,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 2,
+    "GeneralComments": "Ruralia Europa SLU",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-08T14:20:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-10-25T17:59:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-08T14:24:00Z",
+    "ID": 203556,
+    "UUID": "1FACF562-18D8-4B1A-970F-CF947449B2B3",
+    "DataProviderID": 1,
+    "OperatorID": 2247,
+    "UsageTypeID": 4,
+    "UsageCost": "0,35€/kWh",
+    "AddressInfo": {
+      "ID": 203923,
+      "Title": "Igea",
+      "AddressLine1": "Carretera de Cornago",
+      "Town": "Igea",
+      "StateOrProvince": "Rioja",
+      "Postcode": "",
+      "CountryID": 210,
+      "Latitude": 42.067366321291786,
+      "Longitude": -2.0083151705635203,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 340087,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 4
+      }
+    ],
+    "NumberOfPoints": 4,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-08T14:24:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-18T11:58:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-08T14:32:00Z",
+    "ID": 461029,
+    "UUID": "03BA0D3B-AF53-4386-BA50-618ED00932C7",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 4,
+    "UsageCost": "free",
+    "AddressInfo": {
+      "ID": 461418,
+      "Title": "Balneario Fitero",
+      "AddressLine1": "Fitero",
+      "Town": "Fitera",
+      "CountryID": 210,
+      "Latitude": 42.05666467553496,
+      "Longitude": -1.905641362694297,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 775644,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 11,
+        "CurrentTypeID": 20,
+        "Quantity": 4
+      }
+    ],
+    "NumberOfPoints": 4,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-08T14:32:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2025-09-08T14:32:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-08T14:33:00Z",
+    "ID": 461030,
+    "UUID": "20ED58BD-C29E-472B-8D64-074CEACBDE16",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 4,
+    "UsageCost": "free",
+    "AddressInfo": {
+      "ID": 461419,
+      "Title": "Hotel Virrey Palafox",
+      "AddressLine1": "Fitero",
+      "Town": "Fitero",
+      "CountryID": 210,
+      "Latitude": 42.05932148361558,
+      "Longitude": -1.9074954992415485,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 775645,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 11,
+        "CurrentTypeID": 20,
+        "Quantity": 4
+      }
+    ],
+    "NumberOfPoints": 4,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-08T14:33:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2025-09-08T14:33:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-04-27T07:16:00Z",
+    "ID": 279376,
+    "UUID": "0AF35937-5CDD-4E00-ACF0-E03553320BD8",
+    "DataProviderID": 1,
+    "OperatorID": 3276,
+    "UsageTypeID": 4,
+    "UsageCost": "0,42€/kWh AC ",
+    "AddressInfo": {
+      "ID": 279763,
+      "Title": "Asador Sanda",
+      "AddressLine1": "LR-123",
+      "StateOrProvince": "La Rioja",
+      "CountryID": 210,
+      "Latitude": 42.050385150206864,
+      "Longitude": -1.925411609081607,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 484416,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 150,
+    "DateLastStatusUpdate": "2024-04-27T07:16:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-10-23T18:45:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-08T15:59:00Z",
+    "ID": 203560,
+    "UUID": "609F16A8-14BD-4DA6-B465-BADB9665E034",
+    "DataProviderID": 1,
+    "OperatorID": 3459,
+    "UsageTypeID": 4,
+    "UsageCost": "0,37€/kWh",
+    "AddressInfo": {
+      "ID": 203927,
+      "Title": "Ayunt. Ágreda.  Dehesa Alta",
+      "AddressLine1": "Carretera de Olvega",
+      "Town": "Ágreda",
+      "StateOrProvince": "Castile and León",
+      "Postcode": "42100",
+      "CountryID": 210,
+      "Latitude": 41.847579106470874,
+      "Longitude": -1.9303857629612367,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 340093,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-08T15:59:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-18T12:32:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-08T16:03:00Z",
+    "ID": 203561,
+    "UUID": "146AECE9-9087-4889-9A17-D9DF7E6343CA",
+    "DataProviderID": 1,
+    "OperatorID": 3459,
+    "UsageTypeID": 4,
+    "UsageCost": "0,37€/kWh",
+    "AddressInfo": {
+      "ID": 203928,
+      "Title": "Ayunt. Ágreda",
+      "AddressLine1": "Plaza Castejón",
+      "Town": "Ágreda",
+      "StateOrProvince": "Castile and León",
+      "Postcode": "42100",
+      "CountryID": 210,
+      "Latitude": 41.85323413754148,
+      "Longitude": -1.9200960889517944,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 340094,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 3.7,
+        "CurrentTypeID": 10,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-08T16:03:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-18T12:33:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-08T16:07:00Z",
+    "ID": 312793,
+    "UUID": "4F5E9AF4-7693-40AD-9C03-660871D2ED0B",
+    "DataProviderID": 1,
+    "OperatorID": 91,
+    "UsageTypeID": 4,
+    "UsageCost": "0.47€/kWh ",
+    "AddressInfo": {
+      "ID": 313182,
+      "Title": "Repsol Ágreda",
+      "AddressLine1": "Ágreda",
+      "Town": "Ágreda",
+      "CountryID": 210,
+      "Latitude": 41.85369837472524,
+      "Longitude": -1.9264023159466035,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 602667,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 602668,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 602669,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 43,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-08T16:07:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2025-05-24T06:20:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-08T15:58:00Z",
+    "ID": 274389,
+    "UUID": "B0F6AC25-9CFE-456C-8E28-8FE00C22881F",
+    "DataProviderID": 1,
+    "OperatorID": 3459,
+    "UsageTypeID": 4,
+    "UsageCost": "0,37€/kWh",
+    "AddressInfo": {
+      "ID": 274773,
+      "Title": "Ayunt. Ágreda.  Calle Víctimas del Terrorismo ",
+      "AddressLine1": "Calle Víctimas del Terrorismo",
+      "Town": "Ágreda",
+      "StateOrProvince": "Castilla y León",
+      "Postcode": "42100",
+      "CountryID": 210,
+      "Latitude": 41.85151998552641,
+      "Longitude": -1.926579669201459,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 475640,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 6,
+        "CurrentTypeID": 10,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-08T15:58:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-09-09T20:20:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-08T16:04:00Z",
+    "ID": 203562,
+    "UUID": "503F2AAA-87E2-4978-83FF-BA4D889F2B15",
+    "DataProviderID": 1,
+    "OperatorID": 3459,
+    "UsageTypeID": 4,
+    "UsageCost": "0,37€/kWh",
+    "AddressInfo": {
+      "ID": 203929,
+      "Title": "Ayunt. Ágreda. Avenida Virgen de los Milagros",
+      "AddressLine1": "Avenida Virgen de los Milagros",
+      "Town": "Ágreda",
+      "StateOrProvince": "Castile and León",
+      "Postcode": "42100",
+      "CountryID": 210,
+      "Latitude": 41.856161560926665,
+      "Longitude": -1.9203474477041027,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 340095,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 6,
+        "CurrentTypeID": 10,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-08T16:04:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-18T12:34:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2025-01-06T17:09:00Z",
+    "ID": 209454,
+    "UUID": "02D5D1C2-08D3-4E7E-AE45-5802CA792820",
+    "DataProviderID": 1,
+    "OperatorID": 207,
+    "UsageTypeID": 1,
+    "UsageCost": "free",
+    "AddressInfo": {
+      "ID": 209834,
+      "Title": "Ayunt. Ólvega",
+      "AddressLine1": "Avenida Europa 3",
+      "Town": "Ólvega",
+      "StateOrProvince": "Castilla y León",
+      "Postcode": "42110",
+      "CountryID": 210,
+      "Latitude": 41.77864933049119,
+      "Longitude": -1.9853839936912152,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 348513,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 2
+      },
+      {
+        "ID": 348514,
+        "ConnectionTypeID": 28,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 3.7,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-01-06T17:09:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-10-28T16:17:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-05-24T06:23:00Z",
+    "ID": 312794,
+    "UUID": "11E6B068-B0DB-415B-9BFF-25FE31F00E94",
+    "DataProviderID": 1,
+    "OperatorID": 91,
+    "UsageTypeID": 4,
+    "UsageCost": "0.47€/kWh ",
+    "AddressInfo": {
+      "ID": 313183,
+      "Title": "Repsol Matalebreras",
+      "AddressLine1": "Matalebreras",
+      "Town": "Matalebreras",
+      "CountryID": 210,
+      "Latitude": 41.840645381771964,
+      "Longitude": -2.044292195842587,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 602670,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 602671,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 602672,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 43,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-05-24T06:23:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2025-05-24T06:23:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-08T16:10:00Z",
+    "ID": 290839,
+    "UUID": "3DBBA16F-AE72-492C-A63A-3F59417116F5",
+    "DataProviderID": 1,
+    "OperatorID": 207,
+    "UsageTypeID": 4,
+    "UsageCost": " 0,45€/kWh DC - 0,39€/kWh AC ",
+    "AddressInfo": {
+      "ID": 291226,
+      "Title": "Hostal Mari Carmen",
+      "AddressLine1": "Matalebreras",
+      "CountryID": 210,
+      "Latitude": 41.840760782286964,
+      "Longitude": -2.0437605960146925,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 513910,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 150,
+        "Voltage": 900,
+        "PowerKW": 60,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "XCharge Juicepump60 DC charger allows charging one vehicle at 60kW, or two simultaneous charges at 30kW."
+      },
+      {
+        "ID": 513911,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 4,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-08T16:10:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-02-10T16:19:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-07-09T12:44:00Z",
+    "ID": 165051,
+    "UUID": "1B8660B1-B1A4-4D4A-AD56-9EBEC495CABB",
+    "DataProviderID": 1,
+    "OperatorID": 3816,
+    "OperatorsReference": "47361",
+    "UsageTypeID": 6,
+    "UsageCost": "0,42€/kWh",
+    "AddressInfo": {
+      "ID": 165410,
+      "Title": "Parador de Soria",
+      "AddressLine1": "Parador de Soria",
+      "Postcode": "42005",
+      "CountryID": 210,
+      "Latitude": 41.762577,
+      "Longitude": -2.457695,
+      "ContactTelephone1": " +34 975 24 08 00 0",
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 339422,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 4
+      }
+    ],
+    "NumberOfPoints": 4,
+    "GeneralComments": "App ChargeGuru",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-07-09T12:44:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2020-08-25T05:47:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-01-27T22:31:00Z",
+    "ID": 212565,
+    "UUID": "1A4C18D4-4E90-4D65-B16F-8D7D2734F3BF",
+    "DataProviderID": 1,
+    "OperatorID": 91,
+    "UsageTypeID": 4,
+    "UsageCost": " 0,39€/kWh DC - 0,29€/kWh AC",
+    "AddressInfo": {
+      "ID": 212945,
+      "Title": "Repsol Venta Valcorba",
+      "AddressLine1": "Circunvalación de Soria",
+      "StateOrProvince": "Castilla y León",
+      "Postcode": "42134",
+      "CountryID": 210,
+      "Latitude": 41.762952075007234,
+      "Longitude": -2.4123028972388454,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 353910,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 353911,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 43,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      },
+      {
+        "ID": 353912,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 150,
+    "DateLastStatusUpdate": "2024-01-27T22:31:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-01-20T17:49:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-05-05T13:34:00Z",
+    "ID": 297502,
+    "UUID": "0D1F86B6-F4EF-4FCC-9204-EC66BF702537",
+    "DataProviderID": 1,
+    "OperatorID": 207,
+    "UsageTypeID": 4,
+    "UsageCost": " 0,45€/kWh DC",
+    "AddressInfo": {
+      "ID": 297889,
+      "Title": "Monteagudo de Las Vicarias",
+      "AddressLine1": "Calle Castilla",
+      "StateOrProvince": "Castilla y León",
+      "Postcode": "42269",
+      "CountryID": 210,
+      "Latitude": 41.36525069875225,
+      "Longitude": -2.1693454991101078,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 538526,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 150,
+        "Voltage": 900,
+        "PowerKW": 60,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "XCharge Juicepump60 DC charger allows charging one vehicle at 60kW, or two simultaneous charges at 30kW. "
+      },
+      {
+        "ID": 538527,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 4,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-05-05T13:34:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-04-11T13:45:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2023-11-23T22:52:00Z",
+    "ID": 146720,
+    "UUID": "FECA9908-6265-4804-A916-54E6DCAB8960",
+    "DataProviderID": 1,
+    "OperatorID": 3459,
+    "UsageTypeID": 4,
+    "UsageCost": "0.36 €/kWh",
+    "AddressInfo": {
+      "ID": 147072,
+      "Title": "Ciudad Arcóbriga [Acciona]",
+      "AddressLine1": "Monreal de Ariza",
+      "Town": "Monreal de Ariza",
+      "StateOrProvince": "Zaragoza",
+      "Postcode": "50291",
+      "CountryID": 210,
+      "Latitude": 41.30757640437449,
+      "Longitude": -2.1227086481094943,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 204029,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1,
+        "Comments": "Circutor Raption50 Charger"
+      },
+      {
+        "ID": 204030,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 204031,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 43,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 2,
+    "GeneralComments": "App. Acciona Cargacohes",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2023-11-23T22:52:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2020-01-14T20:50:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2023-11-23T22:50:00Z",
+    "ID": 108672,
+    "UUID": "A587B7C0-3B63-4A90-A912-99E568BF50D6",
+    "DataProviderID": 1,
+    "OperatorID": 3459,
+    "OperatorsReference": "11208",
+    "UsageTypeID": 4,
+    "UsageCost": "0,41€/kWh DC - 0,36€/kWh AC",
+    "AddressInfo": {
+      "ID": 109018,
+      "Title": "Hotel El Aral (Acciona)",
+      "AddressLine1": "Autovía del Nordeste A-2, salida 197",
+      "Town": "Ariza",
+      "StateOrProvince": "Zaragoza",
+      "Postcode": "50220",
+      "CountryID": 210,
+      "Latitude": 41.313033316643185,
+      "Longitude": -2.0029784506113515,
+      "ContactTelephone1": "976845154",
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 153781,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 1,
+        "Comments": "Circutor Raption50 Charger"
+      },
+      {
+        "ID": 182278,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 182279,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 2,
+    "GeneralComments": "APP Acciona",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2023-11-23T22:50:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2018-10-11T05:14:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2023-06-03T19:35:00Z",
+    "ID": 175093,
+    "UUID": "DBE79C22-6F71-4623-8F07-3CA05C55EE46",
+    "DataProviderID": 1,
+    "OperatorID": 3299,
+    "UsageTypeID": 4,
+    "UsageCost": "0,65€/kWh (or subscription rates) ",
+    "AddressInfo": {
+      "ID": 175452,
+      "Title": "IONITY Ariza Sur",
+      "AddressLine1": "A-2, Pk 197.2",
+      "Town": "Ariza",
+      "StateOrProvince": "Zaragoza",
+      "Postcode": "50220",
+      "CountryID": 210,
+      "Latitude": 41.311297,
+      "Longitude": -2.003104,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 271351,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 500,
+        "Voltage": 920,
+        "PowerKW": 350,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "Charging power limited to 200kW for 400V cars"
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2023-06-03T19:35:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2021-04-26T13:04:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-05-13T10:10:00Z",
+    "ID": 108674,
+    "UUID": "14249F15-2E46-4FB5-9ACB-5ED6C6D72F73",
+    "DataProviderID": 1,
+    "OperatorID": 3459,
+    "OperatorsReference": "11206",
+    "UsageTypeID": 4,
+    "UsageCost": "0,41€/kWh DC - 0,36€/kWh AC",
+    "AddressInfo": {
+      "ID": 109020,
+      "Title": "Hotel Restaurante La Cadiera",
+      "AddressLine1": "Autovía del Nordeste A-2, salida 197",
+      "Town": "Ariza",
+      "StateOrProvince": "Zaragoza",
+      "Postcode": "50220",
+      "CountryID": 210,
+      "Latitude": 41.31089250727345,
+      "Longitude": -2.001314773354295,
+      "ContactTelephone1": "976845736",
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 153785,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      },
+      {
+        "ID": 182275,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1,
+        "Comments": "Circutor Raption50 Charger"
+      },
+      {
+        "ID": 182500,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 2,
+    "GeneralComments": "APP Acciona",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-05-13T10:10:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2018-10-11T05:16:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-03-23T14:20:00Z",
+    "ID": 163672,
+    "UUID": "9324803C-6FDB-4BCE-9A9A-48FB0E318151",
+    "DataProviderID": 1,
+    "OperatorID": 3534,
+    "OperatorsReference": "24205",
+    "UsageTypeID": 4,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 164029,
+      "Title": "Ariza Tesla Supercharger",
+      "AddressLine1": "Carretera de Madrid 0197",
+      "Town": "Ariza",
+      "CountryID": 210,
+      "Latitude": 41.313192,
+      "Longitude": -2.002201,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 235269,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 675,
+        "Voltage": 800,
+        "PowerKW": 250,
+        "CurrentTypeID": 30,
+        "Quantity": 12,
+        "Comments": "V4"
+      }
+    ],
+    "NumberOfPoints": 12,
+    "GeneralComments": "Upgraded to 12 V4 Superchargers 250kW (CCS). Max total power of the station 1,1MW",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-03-23T14:20:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2020-08-24T14:19:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2023-11-18T19:02:00Z",
+    "ID": 175092,
+    "UUID": "70B7C4E9-E9C8-4245-89DE-7F982A0338D0",
+    "DataProviderID": 1,
+    "OperatorID": 3299,
+    "UsageTypeID": 4,
+    "UsageCost": "0,65€/kWh (or subscription rates) ",
+    "AddressInfo": {
+      "ID": 175451,
+      "Title": "IONITY Ariza Norte",
+      "AddressLine1": "A-2, Pk 197.3",
+      "Town": "Ariza",
+      "StateOrProvince": "Zaragoza",
+      "Postcode": "50220",
+      "CountryID": 210,
+      "Latitude": 41.312891,
+      "Longitude": -2.001533,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 271350,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 500,
+        "Voltage": 920,
+        "PowerKW": 350,
+        "CurrentTypeID": 30,
+        "Quantity": 4,
+        "Comments": "Charging power limited to 200kW for 400V cars"
+      }
+    ],
+    "NumberOfPoints": 4,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2023-11-18T19:02:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2021-04-26T13:02:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-12-16T09:16:00Z",
+    "ID": 133797,
+    "UUID": "6BA0BA41-52C9-4547-A105-C01E9ACBCC9F",
+    "DataProviderID": 1,
+    "OperatorID": 2247,
+    "UsageTypeID": 4,
+    "UsageCost": "0,45€/kWh ",
+    "AddressInfo": {
+      "ID": 134143,
+      "Title": "ESTACION DE SERVICIO CETINA",
+      "AddressLine1": "N-II KM 200",
+      "Town": "Cetina",
+      "StateOrProvince": "Zaragoza",
+      "Postcode": "50292",
+      "CountryID": 210,
+      "Latitude": 41.306001766497815,
+      "Longitude": -1.9646251423966987,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 187247,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 500,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 187248,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 500,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 187249,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 0,
+        "LevelID": 3,
+        "Amps": 63,
+        "Voltage": 400,
+        "PowerKW": 43,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 2,
+    "GeneralComments": "",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-12-16T09:16:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2019-10-26T17:42:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-07-31T15:25:00Z",
+    "ID": 288717,
+    "UUID": "2AECABF3-8E3A-41A5-B309-FF09E89647C2",
+    "DataProviderID": 1,
+    "OperatorID": 3324,
+    "UsageTypeID": 4,
+    "UsageCost": "0,55€/kWh DC ",
+    "AddressInfo": {
+      "ID": 289104,
+      "Title": "E.S. Cetina (Zunder)",
+      "AddressLine1": "A-2501",
+      "StateOrProvince": "Aragón",
+      "Postcode": "50292",
+      "CountryID": 210,
+      "Latitude": 41.30659847216151,
+      "Longitude": -1.9646019862513526,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 506704,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 500,
+        "Voltage": 920,
+        "PowerKW": 360,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "ABB Terra360 charger. The DC charger allows charging one vehicle at 360 kW, or two simultaneous charges at 180 kW. Nominal current 300A, max peak current 500A. Charging power limited to 200 kW for 400 V vehicles. Peak power can be reduced when the thermal control of the connector is activated."
+      },
+      {
+        "ID": 506705,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 500,
+        "Voltage": 920,
+        "PowerKW": 360,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "ABB Terra360 Charger. "
+      },
+      {
+        "ID": 506706,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 500,
+        "Voltage": 920,
+        "PowerKW": 360,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "ABB Terra360 Charger. "
+      },
+      {
+        "ID": 506707,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 500,
+        "Voltage": 920,
+        "PowerKW": 360,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "ABB Terra360 Charger. "
+      },
+      {
+        "ID": 506708,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 500,
+        "Voltage": 920,
+        "PowerKW": 360,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "ABB Terra360 Charger. "
+      },
+      {
+        "ID": 506709,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 500,
+        "Voltage": 920,
+        "PowerKW": 360,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "ABB Terra360 Charger. "
+      }
+    ],
+    "NumberOfPoints": 12,
+    "GeneralComments": "",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-07-31T15:25:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-12-21T17:19:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-09-19T12:58:00Z",
+    "ID": 91049,
+    "UUID": "2D6063AD-5195-4794-A2BB-5C3F9E58B07E",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "OperatorsReference": "32313",
+    "UsageTypeID": 6,
+    "AddressInfo": {
+      "ID": 91395,
+      "Title": "Hotel Balneario Alhama de Aragon",
+      "AddressLine1": "Calle de San Roque 1-6",
+      "Town": "Alhama de Aragón",
+      "StateOrProvince": "Zaragoza",
+      "Postcode": "50230",
+      "CountryID": 210,
+      "Latitude": 41.294603,
+      "Longitude": -1.896894,
+      "ContactTelephone1": "+34 976 879 239",
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 129104,
+        "ConnectionTypeID": 30,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      },
+      {
+        "ID": 263888,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 2,
+    "GeneralComments": "1 Tesla Connector, up to 22kW.Available for patrons only. Please call ahead.",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-09-19T12:58:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2017-07-28T05:45:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-07-15T15:57:00Z",
+    "ID": 203581,
+    "UUID": "5E587C21-2677-478A-B406-615866D027E6",
+    "DataProviderID": 1,
+    "OperatorID": 207,
+    "UsageTypeID": 4,
+    "UsageCost": "0,39€/kWh",
+    "AddressInfo": {
+      "ID": 203948,
+      "Title": "Monasterio de Piedra",
+      "AddressLine1": "Piedra Vieja",
+      "Town": "Nuévalos",
+      "StateOrProvince": "Aragon",
+      "Postcode": "",
+      "CountryID": 210,
+      "Latitude": 41.19377338953905,
+      "Longitude": -1.7812097883884235,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 340126,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 11,
+        "CurrentTypeID": 20,
+        "Quantity": 3
+      }
+    ],
+    "NumberOfPoints": 3,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-07-15T15:57:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-09-18T13:23:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-08T17:56:00Z",
+    "ID": 130826,
+    "UUID": "5406BDA7-1F34-477F-AC3E-8206383FF055",
+    "DataProviderID": 1,
+    "OperatorID": 3571,
+    "UsageTypeID": 4,
+    "UsageCost": "0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",
+    "AddressInfo": {
+      "ID": 131172,
+      "Title": "Hotel Restaurante Torremar",
+      "AddressLine1": "Autovia A-2 Km 154 / Carretera de Lodares",
+      "Town": "Medinaceli",
+      "StateOrProvince": "Soria",
+      "Postcode": "42240",
+      "CountryID": 210,
+      "Latitude": 41.189238674958375,
+      "Longitude": -2.40158717008876,
+      "AccessComments": "App required",
+      "RelatedURL": "http://www.wenea.com/",
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 183160,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 250,
+        "Voltage": 920,
+        "PowerKW": 100,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "Delta Slim100 Charger. Max power of the charger for both combined outlets 100 kW "
+      },
+      {
+        "ID": 183161,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 183162,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 474895,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 43,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      },
+      {
+        "ID": 474896,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 4,
+    "GeneralComments": "App Wenea",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-08T17:56:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2019-08-18T09:26:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-08T17:54:00Z",
+    "ID": 280408,
+    "UUID": "53E1AF40-6626-488A-8C53-2064C6E26C4D",
+    "DataProviderID": 1,
+    "OperatorID": 91,
+    "UsageTypeID": 4,
+    "UsageCost": "0,47€/kWh ",
+    "AddressInfo": {
+      "ID": 280795,
+      "Title": "Repsol Villahuerta",
+      "AddressLine1": "A2 Pk 154,4",
+      "Town": "Medinaceli",
+      "StateOrProvince": "Soria",
+      "Postcode": "42248",
+      "CountryID": 210,
+      "Latitude": 41.18923882247719,
+      "Longitude": -2.404612538624633,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 487762,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 487763,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-08T17:54:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2023-11-26T10:10:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-09-08T17:52:00Z",
+    "ID": 298212,
+    "UUID": "7E46E727-2F15-43C6-B058-4225C9FE48C1",
+    "DataProviderID": 1,
+    "OperatorID": 91,
+    "UsageTypeID": 4,
+    "UsageCost": "0.47€/kWh ",
+    "AddressInfo": {
+      "ID": 298599,
+      "Title": "E.S. Repsol Medinaceli",
+      "AddressLine1": "Medinaceli",
+      "CountryID": 210,
+      "Latitude": 41.16877712257781,
+      "Longitude": -2.4215087675266886,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 544274,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 544275,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 544276,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "PowerKW": 43,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-09-08T17:52:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-05-04T08:10:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2025-05-13T10:11:00Z",
+    "ID": 312039,
+    "UUID": "6CAA395A-DBD3-40AE-B054-7315EBC57FA2",
+    "DataProviderID": 1,
+    "OperatorID": 3459,
+    "UsageTypeID": 4,
+    "UsageCost": "0,54€/kWh DC - 0,35€/kWh AC",
+    "AddressInfo": {
+      "ID": 312428,
+      "Title": "Hotel Restaurante Esteras",
+      "AddressLine1": "Esteras de Medinaceli",
+      "Town": "Esteras de Medinaceli",
+      "CountryID": 210,
+      "Latitude": 41.10686802948513,
+      "Longitude": -2.444916366484307,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 601113,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 50,
+        "LevelID": 3,
+        "Amps": 300,
+        "Voltage": 920,
+        "PowerKW": 100,
+        "CurrentTypeID": 30,
+        "Quantity": 2,
+        "Comments": "Ingeteam RAPID120 Charger. The DC charger allows charging one vehicle at 100kW, or two simultaneous charges at 50kW"
+      },
+      {
+        "ID": 601114,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 4,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-05-13T10:11:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2025-04-28T07:08:00Z",
+    "SubmissionStatusTypeID": 200
+  }
+]
