@@ -1,0 +1,630 @@
+month,provincia,operator,power_kW,band,usagecost_original,parsed,reason
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,50.0,DC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,50.0,DC,0.42€/kWh ,0.42,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,0.42€/kWh ,0.42,ok
+2025-05,Santa Cruz de Tenerife,,43.0,DC,0.42€/kWh ,0.42,ok
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,empty
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,11.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,2.3,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,"0,40€/kWh",0.4,ok
+2025-05,Santa Cruz de Tenerife,,60.0,DC,"0,38",,no_kwh
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,"0,42€/kWh DC - 0,33€/kWh AC ",0.42,ok
+2025-05,Santa Cruz de Tenerife,,60.0,DC,"0,42€/kWh DC - 0,33€/kWh AC ",0.42,ok
+2025-05,Santa Cruz de Tenerife,,150.0,DC,"0,59€/kWh DC - 0,39€/kWh AC ",0.59,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,59€/kWh DC - 0,39€/kWh AC ",0.59,ok
+2025-05,Santa Cruz de Tenerife,,7.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,60.0,DC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,150.0,DC,0.54€/kWh,0.54,ok
+2025-05,Santa Cruz de Tenerife,,150.0,DC,0.54€/kWh,0.54,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,11.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,empty
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-05,Santa Cruz de Tenerife,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,2.3,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,11.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,2.3,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,3.6,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,2.3,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,7.0,AC,"0,42€/kWh DC - 0,33€/kWh AC ",0.42,ok
+2025-05,Santa Cruz de Tenerife,,25.0,DC,"0,42€/kWh DC - 0,33€/kWh AC ",0.42,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.68,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,0.24€/kWh + parking fee,0.24,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,35€/kWh. Parking: 0,80 €/hour",0.35,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC," 0,55€/kWh DC - 0,35€/kWh AC ",0.55,ok
+2025-05,Santa Cruz de Tenerife,,60.0,DC," 0,55€/kWh DC - 0,35€/kWh AC ",0.55,ok
+2025-05,Santa Cruz de Tenerife,,150.0,DC," 0,55€/kWh DC - 0,35€/kWh AC ",0.55,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,"parking fee + 0,45€/kWh (0,01€/min parked without charging)",0.45,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,90.0,DC,"0,62€/kWh",0.62,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,62€/kWh",0.62,ok
+2025-05,Santa Cruz de Tenerife,,43.0,DC,"0,62€/kWh",0.62,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,62€/KWh",0.62,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,62€/KWh",0.62,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,62€/KWh",0.62,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,62€/KWh DC - 0,41€/kWh AC",0.62,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,62€/KWh DC - 0,41€/kWh AC",0.62,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,62€/KWh DC - 0,41€/kWh AC",0.62,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,62€/KWh DC - 0,41€/kWh AC",0.62,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC," 0,39€/kWh ",0.39,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-05,Santa Cruz de Tenerife,,3.7,AC,Free charging + parking fee,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,Free charging + parking fee,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,57€/kWh",0.57,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,11.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,50.0,DC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,150.0,DC," 0,59€/kWh - 0,40€/kWh AC ",0.59,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC," 0,59€/kWh - 0,40€/kWh AC ",0.59,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,62€/kWh",0.62,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,62€/kWh",0.62,ok
+2025-05,Santa Cruz de Tenerife,,43.0,DC,"0,62€/kWh",0.62,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,empty
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,25.0,DC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,7.0,AC,"0,39€/kWh",0.39,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,160.0,DC,,,empty
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,45€/kWh DC50kW/AC43kW ",0.45,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,45€/kWh DC50kW/AC43kW ",0.45,ok
+2025-05,Santa Cruz de Tenerife,,43.0,DC,"0,45€/kWh DC50kW/AC43kW ",0.45,ok
+2025-05,Santa Cruz de Tenerife,,320.0,DC,,,empty
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,empty
+2025-05,Santa Cruz de Tenerife,,7.4,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,empty
+2025-05,Santa Cruz de Tenerife,,11.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,50.0,DC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,empty
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,empty
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,empty
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,90.0,DC,"0,62€/kWh",0.62,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,58€/kWh DC - 0,38€/kWh AC",0.58,ok
+2025-05,Santa Cruz de Tenerife,,150.0,DC,"0,58€/kWh DC - 0,38€/kWh AC",0.58,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,45€/kWh DC50kW/AC43kW ",0.45,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,45€/kWh DC50kW/AC43kW ",0.45,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-05,Santa Cruz de Tenerife,,11.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,7.0,AC,€0/kWh,,no_kwh
+2025-05,Santa Cruz de Tenerife,,2.3,AC,€0/kWh,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,"0,33€/kWh",0.33,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,2.3,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,150.0,DC," 0,59€/kWh  ",0.59,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,0.50€/kWh ,0.5,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,0.50€/kWh ,0.5,ok
+2025-05,Santa Cruz de Tenerife,,43.0,DC,0.50€/kWh ,0.5,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,11.0,AC,,,empty
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-05,Santa Cruz de Tenerife,,7.0,AC,"0,33€/kWh",0.33,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC," 0,42€/kWh DC - 0,33€/kWh AC ",0.42,ok
+2025-05,Santa Cruz de Tenerife,,60.0,DC," 0,42€/kWh DC - 0,33€/kWh AC ",0.42,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,90.0,DC,"0,62€/kWh",0.62,ok
+2025-05,Santa Cruz de Tenerife,,11.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,2.3,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,30€/kWh + parking fee",0.3,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,2.3,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,150.0,DC," 0,55€/kWh DC - 0,40€/kWh AC",0.55,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,empty
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,empty
+2025-05,Santa Cruz de Tenerife,,7.0,AC," 0,39€/kWh ",0.39,ok
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,empty
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,empty
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,45€/kWh DC50kW/AC43kW ",0.45,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,45€/kWh DC50kW/AC43kW ",0.45,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,150.0,DC,0.47€/kWh ,0.47,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,60.0,DC,0.50€/kWh ,0.5,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,2.3,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,80.0,DC,"0,40€/kWh",0.4,ok
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,empty
+2025-05,Santa Cruz de Tenerife,,50.0,DC,0.62€/kWh ,0.62,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,0.62€/kWh ,0.62,ok
+2025-05,Santa Cruz de Tenerife,,43.0,DC,0.62€/kWh ,0.62,ok
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,,,empty
+2025-05,Santa Cruz de Tenerife,,50.0,DC,,,empty
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,empty
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,2.3,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,60.0,DC,"0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,2.3,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.6,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-05,Santa Cruz de Tenerife,,3.7,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,11.0,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,11.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,0.69€/kWh ,0.69,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,0.69€/kWh ,0.69,ok
+2025-05,Santa Cruz de Tenerife,,43.0,DC,0.69€/kWh ,0.69,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,0.69€/kWh ,0.69,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,39€/kWh DC - 0,35€/kWh AC",0.39,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,39€/kWh DC - 0,35€/kWh AC",0.39,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,39€/kWh DC - 0,35€/kWh AC",0.39,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,50.0,DC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,39€/kWh DC - 0,35€/kWh AC",0.39,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,39€/kWh DC - 0,35€/kWh AC",0.39,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,39€/kWh DC - 0,35€/kWh AC",0.39,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,empty
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,2.3,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-05,Santa Cruz de Tenerife,,43.0,DC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-05,Santa Cruz de Tenerife,,11.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-05,Santa Cruz de Tenerife,,43.0,DC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,33€/kWh",0.33,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,59€/kWh DC - 0,38€/kWh AC",0.59,ok
+2025-05,Santa Cruz de Tenerife,,150.0,DC,"0,59€/kWh DC - 0,38€/kWh AC",0.59,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,59€/kWh DC - 0,38€/kWh AC",0.59,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,2.3,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,100.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-05,Santa Cruz de Tenerife,,300.0,DC,,,empty
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,2.3,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,11.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,40€/kWh",0.4,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,40€/kWh",0.4,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,40€/kWh",0.4,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,2€/hora,,no_kwh
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,empty
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,11.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,50.0,DC,Free,,free
+2025-05,Santa Cruz de Tenerife,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-05,Santa Cruz de Tenerife,,43.0,DC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,39€/kWh DC - 0,35€/kWh AC",0.39,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,39€/kWh DC - 0,35€/kWh AC",0.39,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,39€/kWh DC - 0,35€/kWh AC",0.39,ok
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,empty
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-05,Santa Cruz de Tenerife,,43.0,DC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-05,Santa Cruz de Tenerife,,43.0,DC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,100.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,45€/kWh",0.45,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-05,Santa Cruz de Tenerife,,160.0,DC,"0,40€/kWh",0.4,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,39€/kWh AC ",0.39,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,50.0,DC,0.57€/kWh ,0.57,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,0.57€/kWh ,0.57,ok
+2025-05,Santa Cruz de Tenerife,,43.0,DC,0.57€/kWh ,0.57,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,0.57€/kWh ,0.57,ok
+2025-05,Santa Cruz de Tenerife,,11.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,120.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,11.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,32€/kWh",0.32,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,"0,32€/kWh",0.32,ok
+2025-05,Santa Cruz de Tenerife,,11.0,AC,"0,39€/kWh",0.39,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,0.50€/kWh ,0.5,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,0.50€/kWh ,0.5,ok
+2025-05,Santa Cruz de Tenerife,,43.0,DC,0.50€/kWh ,0.5,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,0.50€/kWh ,0.5,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,29€/kWh",0.29,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-05,Santa Cruz de Tenerife,,2.3,AC,"0,39€/kWh",0.39,ok
+2025-05,Santa Cruz de Tenerife,,7.0,AC,"0,39€/kWh",0.39,ok
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-05,Santa Cruz de Tenerife,,11.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,11.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,100.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,2€/hour,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,29€/kWh",0.29,ok
+2025-05,Santa Cruz de Tenerife,,2.3,AC,"0,29€/kWh",0.29,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,29€/kWh",0.29,ok
+2025-05,Santa Cruz de Tenerife,,2.3,AC,"0,29€/kWh",0.29,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,45€/kWh DC50kW/AC43kW ",0.45,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,45€/kWh DC50kW/AC43kW ",0.45,ok
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.0,AC,€0/kWh,,no_kwh
+2025-05,Santa Cruz de Tenerife,,2.3,AC,€0/kWh,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,0.46€/kWh,0.46,ok
+2025-05,Santa Cruz de Tenerife,,100.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,0.46€/kWh,0.46,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,0.46€/kWh,0.46,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,11.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,60.0,DC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,60.0,DC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,40.0,DC,"0,38€/kWh",0.38,ok
+2025-05,Santa Cruz de Tenerife,,40.0,DC,"0,38€/kWh",0.38,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,40€/kWh",0.4,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,0.46€/kWh,0.46,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-05,Santa Cruz de Tenerife,,43.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,empty
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,50.0,DC,0.50€/kWh ,0.5,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,0.50€/kWh ,0.5,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,0.50€/kWh ,0.5,ok
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,3.6,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,40€/kWh",0.4,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,"0,40€/kWh",0.4,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,2.3,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,50.0,DC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,57€/kWh",0.57,ok
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,empty
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,58€/kWh",0.58,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,180.0,DC,"0,62€/kWh",0.62,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,50.0,DC,Free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,50.0,DC," 0,45€/kWh ",0.45,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,0.25€/kWh,0.25,ok
+2025-05,Santa Cruz de Tenerife,,60.0,DC," 0,45€/kWh DC - 0,40€/kWh AC ",0.45,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC," 0,39€/kWh ",0.39,ok
+2025-05,Santa Cruz de Tenerife,,150.0,DC," 0,60€/kWh DC ",0.6,ok
+2025-05,Santa Cruz de Tenerife,,150.0,DC," 0,60€/kWh DC ",0.6,ok
+2025-05,Santa Cruz de Tenerife,,150.0,DC," 0,60€/kWh DC ",0.6,ok
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,empty
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,empty
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,4.2,AC,2€/hora,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,50.0,DC,free,,free
+2025-05,Santa Cruz de Tenerife,,50.0,DC,free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,50.0,DC,free,,free
+2025-05,Santa Cruz de Tenerife,,50.0,DC,free,,free
+2025-05,Santa Cruz de Tenerife,,15.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,11.0,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,15.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,15.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,15.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,2.3,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,50.0,DC,free,,free
+2025-05,Santa Cruz de Tenerife,,50.0,DC,free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,90.0,DC,"0,62€/kWh",0.62,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,28€/kWh",0.28,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,2.3,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,15.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,15.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,15.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,,,,,empty
+2025-05,Santa Cruz de Tenerife,,7.4,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,50.0,DC,free,,free
+2025-05,Santa Cruz de Tenerife,,15.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,50.0,DC,free,,free
+2025-05,Santa Cruz de Tenerife,,50.0,DC,free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,50.0,DC,free,,free
+2025-05,Santa Cruz de Tenerife,,50.0,DC,free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,50.0,DC,free,,free
+2025-05,Santa Cruz de Tenerife,,50.0,DC,free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"1,29€/charge + 2,59€/h",,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,empty
+2025-05,Santa Cruz de Tenerife,,3.2,AC,,,empty
+2025-05,Santa Cruz de Tenerife,,50.0,DC,free,,free
+2025-05,Santa Cruz de Tenerife,,50.0,DC,free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,11.0,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,11.0,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,2.3,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,11.0,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,empty
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,empty
+2025-05,Santa Cruz de Tenerife,,11.0,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,60.0,DC,"0,62€/kWh",0.62,ok
+2025-05,Santa Cruz de Tenerife,,7.4,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,60.0,DC," 0,45€/kWh DC - 0,40€/kWh AC ",0.45,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-05,Santa Cruz de Tenerife,,43.0,DC,"0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,"0,20 €/kWh + parking",0.2,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,11.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,empty
+2025-05,Santa Cruz de Tenerife,,22.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,11.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,11.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,60.0,DC,"0,62€/kWh",0.62,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,11.0,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,parking fee,,no_kwh
+2025-05,Santa Cruz de Tenerife,,43.0,DC,"0,45€/kWh DC - 0,35€/kWh AC",0.45,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,45€/kWh DC - 0,35€/kWh AC",0.45,ok
+2025-05,Santa Cruz de Tenerife,,50.0,DC,"0,45€/kWh DC - 0,35€/kWh AC",0.45,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,"0,45€/kWh DC - 0,35€/kWh AC",0.45,ok
+2025-05,Santa Cruz de Tenerife,,22.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,empty
+2025-05,Santa Cruz de Tenerife,,2.3,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,3.7,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,empty
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,empty
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,empty
+2025-05,Santa Cruz de Tenerife,,22.0,AC,,,empty
+2025-05,Santa Cruz de Tenerife,,5.4,AC,Free,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,no_kwh
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,empty
+2025-05,Santa Cruz de Tenerife,,7.4,AC,,,empty
+2025-05,Santa Cruz de Tenerife,,22.0,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,3.7,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,7.4,AC,free,,free
+2025-05,Santa Cruz de Tenerife,,22.0,AC,Free,,free

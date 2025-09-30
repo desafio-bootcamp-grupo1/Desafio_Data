@@ -1,0 +1,3515 @@
+month,provincia,operator,power_kW,band,usagecost_original,parsed,reason
+2025-08,Madrid,,50.0,DC,"0,54€/kWh DC - 0,38€/kWh AC",0.54,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,36€/kWh",0.36,ok
+2025-08,Madrid,,22.0,AC,"0,36€/kWh",0.36,ok
+2025-08,Madrid,,100.0,DC,"0,54€/kWh",0.54,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,7.4,AC,free,,free
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,100.0,DC,"0,54 €/kWh DC",0.54,ok
+2025-08,Madrid,,80.0,DC,"0,54 €/kWh DC",0.54,ok
+2025-08,Madrid,,7.4,AC,free,,free
+2025-08,Madrid,,100.0,DC,"0,54€/kWh ",0.54,ok
+2025-08,Madrid,,11.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,3.7,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,2.3,AC,,,no_kwh
+2025-08,Madrid,,150.0,DC,0.59€/kWh,0.59,ok
+2025-08,Madrid,,11.0,AC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Madrid,,43.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Madrid,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Madrid,,7.3,AC,"0,35€/kWh",0.35,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Madrid,,100.0,DC,"0,65€/kWh",0.65,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,22.0,AC,free,,free
+2025-08,Madrid,,2.3,AC,free,,free
+2025-08,Madrid,,22.0,AC,"0,45€/kWh - 0,30€/kWh for Golf Club Members",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh AC",0.45,ok
+2025-08,Madrid,,22.0,AC,free,,free
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,7.4,AC,free,,free
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,43.0,DC,"0,47€/kWh DC - 0,35€/kWh AC",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh DC - 0,35€/kWh AC",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh DC - 0,35€/kWh AC",0.47,ok
+2025-08,Madrid,,22.0,AC,free,,free
+2025-08,Madrid,,22.0,AC,free,,free
+2025-08,Madrid,,2.3,AC,free,,free
+2025-08,Madrid,,22.0,AC,"0,20€",,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,2.3,AC,,,no_kwh
+2025-08,Madrid,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Madrid,,7.4,AC,0,,no_kwh
+2025-08,Madrid,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,100.0,DC,"0.59€/kWh >60kW - 0,45€/kWh DC - 0,32€/kWh AC",0.59,ok
+2025-08,Madrid,,50.0,DC,"0.59€/kWh >60kW - 0,45€/kWh DC - 0,32€/kWh AC",0.59,ok
+2025-08,Madrid,,100.0,DC,"0.59€/kWh >60kW - 0,45€/kWh DC - 0,32€/kWh AC",0.59,ok
+2025-08,Madrid,,50.0,DC,"0.59€/kWh >60kW - 0,45€/kWh DC - 0,32€/kWh AC",0.59,ok
+2025-08,Madrid,,22.0,AC,"0.59€/kWh >60kW - 0,45€/kWh DC - 0,32€/kWh AC",0.59,ok
+2025-08,Madrid,,22.0,AC,"0,38€/kWh AC - (0,03€/min parked without charging)",0.38,ok
+2025-08,Madrid,,7.4,AC,"0,38€/kWh",0.38,ok
+2025-08,Madrid,,7.4,AC,free,,free
+2025-08,Madrid,,22.0,AC,Free,,free
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,free,,free
+2025-08,Madrid,,150.0,DC,0.59€/kWh,0.59,ok
+2025-08,Madrid,,7.4,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,22.0,AC,Free,,free
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh DC - 0,35€/kWh AC",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh DC - 0,35€/kWh AC",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh DC - 0,35€/kWh AC",0.47,ok
+2025-08,Madrid,,22.0,AC,"0,22€/kWh ",0.22,ok
+2025-08,Madrid,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-08,Madrid,,50.0,DC,"0,46€/kWh",0.46,ok
+2025-08,Madrid,,22.0,AC,"0,46€/kWh",0.46,ok
+2025-08,Madrid,,50.0,DC,"0,46€/kWh",0.46,ok
+2025-08,Madrid,,5.0,AC,0.40€/kWh,0.4,ok
+2025-08,Madrid,,7.4,AC,0.40€/kWh,0.4,ok
+2025-08,Madrid,,11.0,AC,"parking fee + 0,20€/kWh (0,01€/min parked without charging)",0.2,ok
+2025-08,Madrid,,22.0,AC,Recarga gratuita + parking pago,,no_kwh
+2025-08,Madrid,,2.3,AC,Recarga gratuita + parking pago,,no_kwh
+2025-08,Madrid,,11.0,AC,Recarga gratuita + parking pago,,no_kwh
+2025-08,Madrid,,2.3,AC,Recarga gratuita + parking pago,,no_kwh
+2025-08,Madrid,,7.4,AC,Recarga gratuita + parking pago,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,2.3,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,0.40€/kWh,0.4,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,11.0,AC,4€/h,,no_kwh
+2025-08,Madrid,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh ",0.25,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-08,Madrid,,7.3,AC,"0,29€/kWh",0.29,ok
+2025-08,Madrid,,50.0,DC,,,no_kwh
+2025-08,Madrid,,50.0,DC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,22.0,AC,"0,44€/kWh",0.44,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,25.0,DC,,,no_kwh
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,150.0,DC,"0,58€/kWh DC >60kW (0,40€/min parked without charging)",0.58,ok
+2025-08,Madrid,,150.0,DC," 0,55€/kWh",0.55,ok
+2025-08,Madrid,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,2.3,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC," 0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC," 0,47€/kWh",0.47,ok
+2025-08,Madrid,,43.0,DC," 0,47€/kWh",0.47,ok
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,100.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,100.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,150.0,DC,"0,45€/kWh DC - 0,32€/kWh AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh DC - 0,32€/kWh AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,100.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,100.0,DC,,,no_kwh
+2025-08,Madrid,,60.0,DC,"0,40€/kWh",0.4,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,45€/kWh AC",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,free (max. 3h),,free
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,100.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,100.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,2.3,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,60.0,DC,"0,43€/kWh DC - 0,35€/kWh AC",0.43,ok
+2025-08,Madrid,,22.0,AC,"0,43€/kWh DC - 0,35€/kWh AC",0.43,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh AC",0.45,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,45€/kWh AC",0.45,ok
+2025-08,Madrid,,7.4,AC,10€/day,,no_kwh
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,3.7,AC,free,,free
+2025-08,Madrid,,50.0,DC," 0,47€/kWh DC",0.47,ok
+2025-08,Madrid,,22.0,AC," 0,47€/kWh DC",0.47,ok
+2025-08,Madrid,,50.0,DC," 0,47€/kWh DC",0.47,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,43.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,100.0,DC,"0,54€/kWh DC - 0,38€/kWh AC",0.54,ok
+2025-08,Madrid,,100.0,DC,"0,54€/kWh DC - 0,38€/kWh AC",0.54,ok
+2025-08,Madrid,,7.4,AC,0,,no_kwh
+2025-08,Madrid,,7.4,AC,0,,no_kwh
+2025-08,Madrid,,100.0,DC,"0,54€/kWh DC - 0,38€/kWh AC",0.54,ok
+2025-08,Madrid,,150.0,DC,"0,59",,no_kwh
+2025-08,Madrid,,100.0,DC,"0,54€/kWh DC - 0,38€/kWh AC",0.54,ok
+2025-08,Madrid,,100.0,DC,"0,54€/kWh DC - 0,38€/kWh AC",0.54,ok
+2025-08,Madrid,,180.0,DC,"0,58€/kWh DC >60kW (0,40€/min parked without charging)",0.58,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,45€/kWh AC",0.45,ok
+2025-08,Madrid,,120.0,DC,"0,54€/kWh",0.54,ok
+2025-08,Madrid,,100.0,DC,"0,54€/kWh DC - 0,38€/kWh AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,35€/kWh DC & AC",0.35,ok
+2025-08,Madrid,,42.0,DC,"0,35€/kWh DC & AC",0.35,ok
+2025-08,Madrid,,42.0,DC,"0,35€/kWh DC & AC",0.35,ok
+2025-08,Madrid,,400.0,DC,"0,59€/kWh ",0.59,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,100.0,DC,"0,54€/kWh DC - 0,38€/kWh AC",0.54,ok
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,60.0,DC,"0,55€/kWh",0.55,ok
+2025-08,Madrid,,3.7,AC,free,,free
+2025-08,Madrid,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Madrid,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Madrid,,43.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Madrid,,60.0,DC,"0,30 €/kWh",0.3,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,150.0,DC,0.59€/kWh,0.59,ok
+2025-08,Madrid,,11.0,AC,"0,48€/kWh",0.48,ok
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,100.0,DC,"0,54€/kWh DC - 0,38€/kWh AC",0.54,ok
+2025-08,Madrid,,120.0,DC,"0,54 €/kWh DC",0.54,ok
+2025-08,Madrid,,11.0,AC,free,,free
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,150.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,150.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,150.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,50.0,DC,0.60€/kWh ,0.6,ok
+2025-08,Madrid,,50.0,DC,0.60€/kWh ,0.6,ok
+2025-08,Madrid,,22.0,AC,0.60€/kWh ,0.6,ok
+2025-08,Madrid,,50.0,DC,0.60€/kWh ,0.6,ok
+2025-08,Madrid,,50.0,DC,0.60€/kWh ,0.6,ok
+2025-08,Madrid,,22.0,AC,0.60€/kWh ,0.6,ok
+2025-08,Madrid,,60.0,DC,"0,40€/kWh",0.4,ok
+2025-08,Madrid,,22.0,AC,free,,free
+2025-08,Madrid,,100.0,DC,"0.60€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.6,ok
+2025-08,Madrid,,100.0,DC,"0.60€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.6,ok
+2025-08,Madrid,,50.0,DC,"0.60€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.6,ok
+2025-08,Madrid,,22.0,AC,"0.60€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.6,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,60.0,DC,"0,40 €/kWh",0.4,ok
+2025-08,Madrid,,7.4,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,60.0,DC,"0,40€/kWh",0.4,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,60.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,22.0,AC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,150.0,DC," 0,59€/kWh - 0,40€/kWh AC ",0.59,ok
+2025-08,Madrid,,240.0,DC,"0,59€/kWh",0.59,ok
+2025-08,Madrid,,240.0,DC,"0,59€/kWh",0.59,ok
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,60.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,39€/kWh + parking fee",0.39,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,43.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,50.0,DC," 0,45€/kWh DC50kW/AC43kW ",0.45,ok
+2025-08,Madrid,,50.0,DC," 0,45€/kWh DC50kW/AC43kW ",0.45,ok
+2025-08,Madrid,,60.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,22.0,AC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,2.3,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,free (max. 2h. 8-22),,free
+2025-08,Madrid,,11.0,AC,free (max. 2h 8-22),,free
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,7.0,AC,"0,39€/kWh AC ",0.39,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,2.3,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,150.0,DC,"0,58€/kWh DC >60kW (0,40€/min parked without charging)",0.58,ok
+2025-08,Madrid,,150.0,DC,"DC: 0,54€/kWh - AC: 0,39€/kWh",0.54,ok
+2025-08,Madrid,,150.0,DC,"DC: 0,54€/kWh - AC: 0,39€/kWh",0.54,ok
+2025-08,Madrid,,22.0,AC,"DC: 0,54€/kWh - AC: 0,39€/kWh",0.54,ok
+2025-08,Madrid,,50.0,DC," 0,45€/kWh DC50kW/AC43kW ",0.45,ok
+2025-08,Madrid,,50.0,DC," 0,45€/kWh DC50kW/AC43kW ",0.45,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,90.0,DC,"0,50€/kWh DC ",0.5,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,0.40€/kWh,0.4,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,22.0,AC,"0,34€/kWh",0.34,ok
+2025-08,Madrid,,50.0,DC,"0,34€/kWh",0.34,ok
+2025-08,Madrid,,60.0,DC," 0,49€/kWh DC - 0,40€/kWh AC ",0.49,ok
+2025-08,Madrid,,22.0,AC," 0,49€/kWh DC - 0,40€/kWh AC ",0.49,ok
+2025-08,Madrid,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-08,Madrid,,3.7,AC,free,,free
+2025-08,Madrid,,2.3,AC,free,,free
+2025-08,Madrid,,11.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,7.4,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,3.7,AC,"0,35€/kWh",0.35,ok
+2025-08,Madrid,,2.3,AC,"0,35€/kWh",0.35,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,"0,33€/kWh DC - 0,25€/kWh AC (AC chargers free with Costco Membership)",0.33,ok
+2025-08,Madrid,,180.0,DC,"0,33€/kWh DC - 0,25€/kWh AC (AC chargers free with Costco Membership)",0.33,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,150.0,DC,"0,46€/kWh",0.46,ok
+2025-08,Madrid,,22.0,AC,"0,22€/kWh",0.22,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,free,,free
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,"0,30€/kWh + 1€/charge",0.3,ok
+2025-08,Madrid,,22.0,AC,"0,34€/kWh + parking fee",0.34,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,43.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,22.0,AC," 0,30€/kWh 22kW AC",0.3,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,22.0,AC,free,,free
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,200.0,DC,"0,49€/kWh",0.49,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,250.0,DC,,,empty
+2025-08,Madrid,,250.0,DC,,,empty
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,2.3,AC,,,no_kwh
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,34€/kWh + parking fee",0.34,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,150.0,DC,0.59€/kWh,0.59,ok
+2025-08,Madrid,,150.0,DC,0.59€/kWh,0.59,ok
+2025-08,Madrid,,3.6,AC,"0,39€/kWh DC - 0,32€/kWh AC",0.39,ok
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,100.0,DC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Madrid,,22.0,AC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Madrid,,22.0,AC,free,,free
+2025-08,Madrid,,22.0,AC,"0,10€/kWh",0.1,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,120.0,DC,"0,60€/kWh ",0.6,ok
+2025-08,Madrid,,50.0,DC,"0,60€/kWh ",0.6,ok
+2025-08,Madrid,,11.0,AC,"0,60€/kWh ",0.6,ok
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,39€/kWh + parking fee",0.39,ok
+2025-08,Madrid,,60.0,DC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Madrid,,22.0,AC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,60.0,DC," 0,45€/kWh DC - 0,39€/kWh AC ",0.45,ok
+2025-08,Madrid,,22.0,AC," 0,45€/kWh DC - 0,39€/kWh AC ",0.45,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,"0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-08,Madrid,,60.0,DC,"0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,150.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-08,Madrid,,50.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-08,Madrid,,22.0,AC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-08,Madrid,,100.0,DC,"0,60€/kWh DC - 0,40€/kWh AC",0.6,ok
+2025-08,Madrid,,50.0,DC,"0,60€/kWh DC - 0,40€/kWh AC",0.6,ok
+2025-08,Madrid,,11.0,AC,"0,60€/kWh DC - 0,40€/kWh AC",0.6,ok
+2025-08,Madrid,,90.0,DC,"0,56€/kWh DC - 0,38€/kWh AC",0.56,ok
+2025-08,Madrid,,22.0,AC,"0,56€/kWh DC - 0,38€/kWh AC",0.56,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,38€/kWh AC - (0,03€/min parked without charging)",0.38,ok
+2025-08,Madrid,,100.0,DC,"0,54€/kWh >60kW - 0,44€/kWh DC/AC43kW - 0,32€/kWh AC 22kW",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,54€/kWh >60kW - 0,44€/kWh DC/AC43kW - 0,32€/kWh AC 22kW",0.54,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,2.3,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,120.0,DC,"0,54€/kWh ",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,43.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,39/kWh",,no_kwh
+2025-08,Madrid,,50.0,DC,,,no_kwh
+2025-08,Madrid,,43.0,DC,,,no_kwh
+2025-08,Madrid,,50.0,DC,,,no_kwh
+2025-08,Madrid,,150.0,DC,"0,65€/kWh >150kW - 0,55€/kWh >60kW - 0,45€/kWh DC - 0,39€/kWh AC ",0.65,ok
+2025-08,Madrid,,150.0,DC,"0,65€/kWh >150kW - 0,55€/kWh >60kW - 0,45€/kWh DC - 0,39€/kWh AC ",0.65,ok
+2025-08,Madrid,,22.0,AC,"0,65€/kWh >150kW - 0,55€/kWh >60kW - 0,45€/kWh DC - 0,39€/kWh AC ",0.65,ok
+2025-08,Madrid,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,22.0,AC,"0,58€/kWh",0.58,ok
+2025-08,Madrid,,320.0,DC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,46€/kWh",0.46,ok
+2025-08,Madrid,,150.0,DC,"0,46€/kWh",0.46,ok
+2025-08,Madrid,,11.0,AC,"0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-08,Madrid,,60.0,DC,"0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-08,Madrid,,22.0,AC,free,,free
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,"0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-08,Madrid,,50.0,DC,"0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-08,Madrid,,22.0,AC,"0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-08,Madrid,,320.0,DC,0.69 €/kWh,0.69,ok
+2025-08,Madrid,,50.0,DC," 0,45€/kWh DC50kW/AC43kW ",0.45,ok
+2025-08,Madrid,,50.0,DC," 0,45€/kWh DC50kW/AC43kW ",0.45,ok
+2025-08,Madrid,,22.0,AC,free,,free
+2025-08,Madrid,,7.4,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,free,,free
+2025-08,Madrid,,22.0,AC,free,,free
+2025-08,Madrid,,2.3,AC,free,,free
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,"0,39€/kWh + parking fee",0.39,ok
+2025-08,Madrid,,7.4,AC,0,,no_kwh
+2025-08,Madrid,,2.4,AC,0,,no_kwh
+2025-08,Madrid,,22.0,AC,free,,free
+2025-08,Madrid,,13.0,AC,,,empty
+2025-08,Madrid,,60.0,DC,"0,55€/kWh",0.55,ok
+2025-08,Madrid,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-08,Madrid,,30.0,DC,"0,38€/kWh",0.38,ok
+2025-08,Madrid,,11.0,AC,"0,39€/kWh AC ",0.39,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,60.0,DC,"0,50€/kWh DC - 0,39€/kWh AC ",0.5,ok
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,300.0,DC,"DC: 0,67€/kWh",0.67,ok
+2025-08,Madrid,,80.0,DC,"DC: 0,67€/kWh",0.67,ok
+2025-08,Madrid,,3.7,AC,0,,no_kwh
+2025-08,Madrid,,11.0,AC,0.45€/kWh,0.45,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh",0.42,ok
+2025-08,Madrid,,7.0,AC,"0,38€/kWh",0.38,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,11.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,30.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,40€/kWh",0.4,ok
+2025-08,Madrid,,43.0,DC,"0,48€/kWh ",0.48,ok
+2025-08,Madrid,,50.0,DC,"0,48€/kWh ",0.48,ok
+2025-08,Madrid,,50.0,DC,"0,48€/kWh ",0.48,ok
+2025-08,Madrid,,30.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,7.4,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,7.0,AC,"0,39€/kWh AC ",0.39,ok
+2025-08,Madrid,,3.7,AC,"0,35€/kWh",0.35,ok
+2025-08,Madrid,,100.0,DC,"0,45€/kWh DC - 0.35€/kWh AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh DC - 0.35€/kWh AC",0.45,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,43.6,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,100.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,11.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,7.4,AC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,40€/kWh",0.4,ok
+2025-08,Madrid,,100.0,DC,"0,56€/kWh 150kW - 0,42€/kWh 50 kW - 0,38€/kWh AC",0.56,ok
+2025-08,Madrid,,50.0,DC,"0,56€/kWh 150kW - 0,42€/kWh 50 kW - 0,38€/kWh AC",0.56,ok
+2025-08,Madrid,,22.0,AC,"0,56€/kWh 150kW - 0,42€/kWh 50 kW - 0,38€/kWh AC",0.56,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,43.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,5.75,AC,2€/hora,,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,80.0,DC,"0,54€/kWh DC>50kW - 0,47€/kWh ",0.54,ok
+2025-08,Madrid,,80.0,DC,"0,54€/kWh DC>50kW - 0,47€/kWh ",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh DC>50kW - 0,47€/kWh ",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh DC>50kW - 0,47€/kWh ",0.54,ok
+2025-08,Madrid,,43.0,DC,"0,54€/kWh DC>50kW - 0,47€/kWh ",0.54,ok
+2025-08,Madrid,,7.4,AC,"0,24€/kWh",0.24,ok
+2025-08,Madrid,,7.4,AC,"0,24€/kWh",0.24,ok
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,7.4,AC,"0,38€/kWh ",0.38,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Madrid,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Madrid,,22.0,AC," 0,47€/kWh ",0.47,ok
+2025-08,Madrid,,22.0,AC,"0,38€/kWh AC - (0,03€/min parked without charging)",0.38,ok
+2025-08,Madrid,,120.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,100.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,100.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,45.0,DC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,45.0,DC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,43.0,DC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,11.0,AC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,11.0,AC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,11.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,13.8,AC,€0/kWh,,no_kwh
+2025-08,Madrid,,2.3,AC,€0/kWh,,no_kwh
+2025-08,Madrid,,60.0,DC," 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,60.0,DC," 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,50.0,DC," 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,50.0,DC," 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,7.4,AC,"0,25€/kWh ",0.25,ok
+2025-08,Madrid,,2.3,AC,"0,25€/kWh ",0.25,ok
+2025-08,Madrid,,7.0,AC,"0,43€/kWh",0.43,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,7.4,AC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,100.0,DC,"0,55€/kWh",0.55,ok
+2025-08,Madrid,,150.0,DC,"0,65€/kWh >150kW - 0,55€/kWh >60kW - 0,45€/kWh DC - 0,39€/kWh AC  + parking fee",0.65,ok
+2025-08,Madrid,,22.0,AC,"0,65€/kWh >150kW - 0,55€/kWh >60kW - 0,45€/kWh DC - 0,39€/kWh AC  + parking fee",0.65,ok
+2025-08,Madrid,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-08,Madrid,,22.0,AC,"0,59€/kWh  DC - 0,38€/kWh AC + parking fee",0.59,ok
+2025-08,Madrid,,120.0,DC,"0,59€/kWh  DC - 0,38€/kWh AC + parking fee",0.59,ok
+2025-08,Madrid,,50.0,DC,"0,59€/kWh  DC - 0,38€/kWh AC + parking fee",0.59,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,100.0,DC,"0,56€/kWh",0.56,ok
+2025-08,Madrid,,22.0,AC," 0,30€/kWh 22kW AC",0.3,ok
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-08,Madrid,,100.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-08,Madrid,,50.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-08,Madrid,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,50.0,DC,"€0,47/kWh",,no_kwh
+2025-08,Madrid,,50.0,DC,"€0,47/kWh",,no_kwh
+2025-08,Madrid,,43.65,DC,"€0,47/kWh",,no_kwh
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,60.0,DC,"0,60€/kWh DC - 0,45€/kWh AC",0.6,ok
+2025-08,Madrid,,22.0,AC,"0,60€/kWh DC - 0,45€/kWh AC",0.6,ok
+2025-08,Madrid,,100.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,100.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,150.0,DC,0.59€/kWh,0.59,ok
+2025-08,Madrid,,50.0,DC,"0,42€/kWh DC - 0,38€/kWh AC",0.42,ok
+2025-08,Madrid,,50.0,DC,"0,42€/kWh DC - 0,38€/kWh AC",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh DC - 0,38€/kWh AC",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,2.3,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,120.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Madrid,,43.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Madrid,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Madrid,,22.0,AC,"0,38€/kWh AC - (0,03€/min parked without charging)",0.38,ok
+2025-08,Madrid,,22.0,AC,free,,free
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,43.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,150.0,DC,"0,58€/kWh DC >60kW (0,40€/min parked without charging)",0.58,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,11.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,150.0,DC,"0,58€/kWh DC  (0,40€/min parked without charging)",0.58,ok
+2025-08,Madrid,,120.0,DC,"0,39€/kWh DC - 0,32€/kWh AC",0.39,ok
+2025-08,Madrid,,22.0,AC,"0,39€/kWh DC - 0,32€/kWh AC",0.39,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,120.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,120.0,DC,"0,54€/kWh DC -  0,39€/kWh AC",0.54,ok
+2025-08,Madrid,,7.4,AC,"0,54€/kWh DC -  0,39€/kWh AC",0.54,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,150.0,DC,0.59€/kWh,0.59,ok
+2025-08,Madrid,,150.0,DC,"0,58€/kWh DC >60kW (0,40€/min parked without charging)",0.58,ok
+2025-08,Madrid,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,50.0,DC,,,no_kwh
+2025-08,Madrid,,50.0,DC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,360.0,DC,"0,69€/kWh >200kW - 0,54€/kWh 80-200kW - 0,45€/kWh 50kW   - 0,39€/kWh 22kW AC",0.69,ok
+2025-08,Madrid,,240.0,DC,"0,69€/kWh >200kW - 0,54€/kWh 80-200kW - 0,45€/kWh 50kW   - 0,39€/kWh 22kW AC",0.69,ok
+2025-08,Madrid,,60.0,DC,"0,69€/kWh >200kW - 0,54€/kWh 80-200kW - 0,45€/kWh 50kW   - 0,39€/kWh 22kW AC",0.69,ok
+2025-08,Madrid,,60.0,DC,"0,69€/kWh >200kW - 0,54€/kWh 80-200kW - 0,45€/kWh 50kW   - 0,39€/kWh 22kW AC",0.69,ok
+2025-08,Madrid,,22.0,AC,"0,69€/kWh >200kW - 0,54€/kWh 80-200kW - 0,45€/kWh 50kW   - 0,39€/kWh 22kW AC",0.69,ok
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,2.3,AC,,,no_kwh
+2025-08,Madrid,,60.0,DC,"0,36€/kWh",0.36,ok
+2025-08,Madrid,,22.0,AC,"0,36€/kWh",0.36,ok
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,50.0,DC,CCS/ CHADEMO: 0.48€/kWh // TYPE 2: 0.38€/kWh,0.48,ok
+2025-08,Madrid,,50.0,DC,CCS/ CHADEMO: 0.48€/kWh // TYPE 2: 0.38€/kWh,0.48,ok
+2025-08,Madrid,,22.0,AC,CCS/ CHADEMO: 0.48€/kWh // TYPE 2: 0.38€/kWh,0.48,ok
+2025-08,Madrid,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Madrid,,43.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Madrid,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Madrid,,3.7,AC,Free,,free
+2025-08,Madrid,,11.0,AC,Free,,free
+2025-08,Madrid,,7.0,AC,"0,39€/kWh AC ",0.39,ok
+2025-08,Madrid,,120.0,DC,"0,54€/kWh DC - 0,39€/kWh AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,54€/kWh DC - 0,39€/kWh AC",0.54,ok
+2025-08,Madrid,,7.4,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,120.0,DC,"0,55€/kWh",0.55,ok
+2025-08,Madrid,,120.0,DC,"0,55€/kWh",0.55,ok
+2025-08,Madrid,,22.0,AC,"0,10€/kWh",0.1,ok
+2025-08,Madrid,,210.0,DC,"0,49€/kWh",0.49,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,50.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,43.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,120.0,DC,"0,55€/kWh DC - 0,40€/kWh AC",0.55,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,43.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,60.0,DC,"0,40 €/kWh",0.4,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh ",0.25,ok
+2025-08,Madrid,,60.0,DC,"0,60€/kWh DC - 0,39€/kWh AC",0.6,ok
+2025-08,Madrid,,22.0,AC,"0,60€/kWh DC - 0,39€/kWh AC",0.6,ok
+2025-08,Madrid,,17.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,7.4,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,7.4,AC,free,,free
+2025-08,Madrid,,60.0,DC," 0,45€/kWh DC50kW/AC43kW ",0.45,ok
+2025-08,Madrid,,60.0,DC," 0,45€/kWh DC50kW/AC43kW ",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh",0.42,ok
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,7.0,AC,"0,39€/kWh AC ",0.39,ok
+2025-08,Madrid,,3.7,AC,0,,no_kwh
+2025-08,Madrid,,3.7,AC,0,,no_kwh
+2025-08,Madrid,,7.4,AC,"0,38€/kWh",0.38,ok
+2025-08,Madrid,,100.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Madrid,,120.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-08,Madrid,,150.0,DC,0.59€/kWh,0.59,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,7.4,AC,0,,no_kwh
+2025-08,Madrid,,7.4,AC,0,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,120.0,DC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Madrid,,22.0,AC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC," 0,54€/kWh DC - 0,39€/kWh AC",0.54,ok
+2025-08,Madrid,,180.0,DC," 0,54€/kWh DC - 0,39€/kWh AC",0.54,ok
+2025-08,Madrid,,180.0,DC," 0,54€/kWh DC - 0,39€/kWh AC",0.54,ok
+2025-08,Madrid,,180.0,DC," 0,54€/kWh DC - 0,39€/kWh AC",0.54,ok
+2025-08,Madrid,,180.0,DC," 0,54€/kWh DC - 0,39€/kWh AC",0.54,ok
+2025-08,Madrid,,180.0,DC," 0,54€/kWh DC - 0,39€/kWh AC",0.54,ok
+2025-08,Madrid,,150.0,DC,"0,55€/kWh",0.55,ok
+2025-08,Madrid,,250.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,CCS/ CHADEMO: 0.48€/kWh // TYPE 2: 0.38€/kWh,0.48,ok
+2025-08,Madrid,,50.0,DC,CCS/ CHADEMO: 0.48€/kWh // TYPE 2: 0.38€/kWh,0.48,ok
+2025-08,Madrid,,22.0,AC,CCS/ CHADEMO: 0.48€/kWh // TYPE 2: 0.38€/kWh,0.48,ok
+2025-08,Madrid,,60.0,DC,"0,30 €/kWh",0.3,ok
+2025-08,Madrid,,150.0,DC,0.59€/kWh,0.59,ok
+2025-08,Madrid,,7.4,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,150.0,DC,0.59€/kWh,0.59,ok
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,43.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,60.0,DC,"0,39€/kWh DC - 0,32€/kWh AC",0.39,ok
+2025-08,Madrid,,7.0,AC,"0,39€/kWh DC - 0,32€/kWh AC",0.39,ok
+2025-08,Madrid,,150.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,150.0,DC,0.59€/kWh,0.59,ok
+2025-08,Madrid,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,60.0,DC,,,empty
+2025-08,Madrid,,150.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,60.0,DC,"0,40€/kWh DC - 0,32€/kWh AC",0.4,ok
+2025-08,Madrid,,7.4,AC,"0,40€/kWh DC - 0,32€/kWh AC",0.4,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,400.0,DC,"0,49€/kWh",0.49,ok
+2025-08,Madrid,,80.0,DC,"0,49€/kWh",0.49,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,150.0,DC,,,no_kwh
+2025-08,Madrid,,50.0,DC,"0,48€/kWh DC/AC43kW (0,14€/min parked without charging)",0.48,ok
+2025-08,Madrid,,50.0,DC,"0,48€/kWh DC/AC43kW (0,14€/min parked without charging)",0.48,ok
+2025-08,Madrid,,43.0,DC,"0,48€/kWh DC/AC43kW (0,14€/min parked without charging)",0.48,ok
+2025-08,Madrid,,150.0,DC,0.59€/kWh,0.59,ok
+2025-08,Madrid,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Madrid,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,43.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,48€/kWh DC/AC43kW - 0,38€/kWh AC - (0,14€/min DC / 0,03€/min AC parked without charging)",0.48,ok
+2025-08,Madrid,,50.0,DC,"0,48€/kWh DC/AC43kW - 0,38€/kWh AC - (0,14€/min DC / 0,03€/min AC parked without charging)",0.48,ok
+2025-08,Madrid,,50.0,DC,"0,48€/kWh DC/AC43kW - 0,38€/kWh AC - (0,14€/min DC / 0,03€/min AC parked without charging)",0.48,ok
+2025-08,Madrid,,43.0,DC,"0,48€/kWh DC/AC43kW - 0,38€/kWh AC - (0,14€/min DC / 0,03€/min AC parked without charging)",0.48,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,150.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,100.0,DC,"0,54€/kWh ",0.54,ok
+2025-08,Madrid,,80.0,DC,"0,54€/kWh ",0.54,ok
+2025-08,Madrid,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,3.8,AC,,,empty
+2025-08,Madrid,,120.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,43.0,DC,"0,45€/kWh DC - 0,40€/kWh AC",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,40€/kWh AC",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,40€/kWh AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh DC - 0,40€/kWh AC",0.45,ok
+2025-08,Madrid,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Madrid,,22.0,AC,"0,38€/kWh (0,03€/min parked without charging)",0.38,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,50.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,50.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,43.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,43.0,DC,,,empty
+2025-08,Madrid,,22.0,AC,"0,43€/kWh",0.43,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,7.4,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,43.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,7.4,AC,0.30€/kWh,0.3,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,free,,free
+2025-08,Madrid,,150.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,150.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,7.0,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,"0,35€/kWh",0.35,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,43.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,30.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,50.0,DC,0.42€/kWh ,0.42,ok
+2025-08,Madrid,,50.0,DC,0.42€/kWh ,0.42,ok
+2025-08,Madrid,,22.0,AC,0.42€/kWh ,0.42,ok
+2025-08,Madrid,,22.0,AC,"0,36€/kWh",0.36,ok
+2025-08,Madrid,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,65.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-08,Madrid,,22.0,AC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-08,Madrid,,150.0,DC,0.59€/kWh,0.59,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh ",0.25,ok
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,120.0,DC,"0,55€/kWh  DC - 0,45€/kWh AC",0.55,ok
+2025-08,Madrid,,11.0,AC,"0,55€/kWh  DC - 0,45€/kWh AC",0.55,ok
+2025-08,Madrid,,50.0,DC," 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,50.0,DC," 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,7.0,AC,"0,39€/kWh AC ",0.39,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,7.4,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,"0,35€/kWh",0.35,ok
+2025-08,Madrid,,150.0,DC,0.59€/kWh,0.59,ok
+2025-08,Madrid,,150.0,DC,0.59€/kWh,0.59,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,30.0,DC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,50.0,DC,,,no_kwh
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,38€/kWh + parking fee",0.38,ok
+2025-08,Madrid,,7.4,AC,"0,31€/kWh",0.31,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,100.0,DC,"0,54€/kWh DC - 0,38€/kWh AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,54€/kWh DC - 0,38€/kWh AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,43.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,100.0,DC,"0,54€/kWh ",0.54,ok
+2025-08,Madrid,,120.0,DC,"0,54€/kWh DC - 0,36€/kWh AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,54€/kWh DC - 0,36€/kWh AC",0.54,ok
+2025-08,Madrid,,3.6,AC,Free,,free
+2025-08,Madrid,,120.0,DC,"0,55€/kWh DC  - 0,40€/kWh AC",0.55,ok
+2025-08,Madrid,,22.0,AC,"0,55€/kWh DC  - 0,40€/kWh AC",0.55,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,43.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,22.0,AC,"0,38€/kWh ",0.38,ok
+2025-08,Madrid,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,free,,free
+2025-08,Madrid,,22.0,AC,free,,free
+2025-08,Madrid,,22.0,AC,free,,free
+2025-08,Madrid,,2.3,AC,free,,free
+2025-08,Madrid,,2.3,AC,free,,free
+2025-08,Madrid,,22.0,AC,free,,free
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,€0/kWh,,no_kwh
+2025-08,Madrid,,2.3,AC,€0/kWh,,no_kwh
+2025-08,Madrid,,3.0,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,22.0,AC,Free,,free
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,2.3,AC,,,empty
+2025-08,Madrid,,7.3,AC,,,empty
+2025-08,Madrid,,11.0,AC,free,,free
+2025-08,Madrid,,3.7,AC,free,,free
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,11.0,AC,Free the first 1h,,free
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,150.0,DC,"0,56-0,49€/kWh DC",0.49,ok
+2025-08,Madrid,,100.0,DC,"0,56-0,49€/kWh DC",0.49,ok
+2025-08,Madrid,,50.0,DC,"0,56-0,49€/kWh DC",0.49,ok
+2025-08,Madrid,,22.0,AC," 0,40€/kWh AC",0.4,ok
+2025-08,Madrid,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Madrid,,43.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Madrid,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Madrid,,180.0,DC,"0,50€/kWh DC ",0.5,ok
+2025-08,Madrid,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,200.0,DC," 0,60€/kWh ",0.6,ok
+2025-08,Madrid,,50.0,DC," 0,60€/kWh ",0.6,ok
+2025-08,Madrid,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,400.0,DC,,,empty
+2025-08,Madrid,,400.0,DC,,,empty
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,150.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,150.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,100.0,DC,"0,56€/kWh DC - 0,38€/kWh AC",0.56,ok
+2025-08,Madrid,,22.0,AC,"0,56€/kWh DC - 0,38€/kWh AC",0.56,ok
+2025-08,Madrid,,7.4,AC,"0,56€/kWh DC - 0,38€/kWh AC",0.56,ok
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,18€/kWh",0.18,ok
+2025-08,Madrid,,2.3,AC,"0,18€/kWh",0.18,ok
+2025-08,Madrid,,150.0,DC,"0,43€/kWh",0.43,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,2.3,AC,,,no_kwh
+2025-08,Madrid,,150.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,150.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,22.0,AC,"0,50€/kWh",0.5,ok
+2025-08,Madrid,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-08,Madrid,,7.4,AC,"0,48€/kWh DC/AC43kW - 0,38€/kWh AC - (0,14€/min DC / 0,03€/min AC parked without charging)",0.48,ok
+2025-08,Madrid,,60.0,DC,"0,48€/kWh DC/AC43kW - 0,38€/kWh AC - (0,14€/min DC / 0,03€/min AC parked without charging)",0.48,ok
+2025-08,Madrid,,22.0,AC,"0,39€/kWh AC ",0.39,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,7.4,AC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,7.4,AC,"0,26€/kWh",0.26,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,11.0,AC,free,,free
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,60.0,DC,"0,42€/kWh DC - 0,35€/kWh AC",0.42,ok
+2025-08,Madrid,,60.0,DC,"0,42€/kWh DC - 0,35€/kWh AC",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh DC - 0,35€/kWh AC",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh DC - 0,35€/kWh AC",0.42,ok
+2025-08,Madrid,,3.7,AC,free,,free
+2025-08,Madrid,,3.7,AC,free,,free
+2025-08,Madrid,,3.7,AC,free,,free
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,22.0,AC,0,,no_kwh
+2025-08,Madrid,,60.0,DC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Madrid,,22.0,AC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,"0,60€/kWh >60kW - 0,50€/kWh DC - 0,45€/kWh AC",0.6,ok
+2025-08,Madrid,,50.0,DC,"0,60€/kWh >60kW - 0,50€/kWh DC - 0,45€/kWh AC",0.6,ok
+2025-08,Madrid,,22.0,AC,"0,60€/kWh >60kW - 0,50€/kWh DC - 0,45€/kWh AC",0.6,ok
+2025-08,Madrid,,60.0,DC,"0,60€/kWh >60kW - 0,50€/kWh DC - 0,45€/kWh AC",0.6,ok
+2025-08,Madrid,,60.0,DC,"0,60€/kWh >60kW - 0,50€/kWh DC - 0,45€/kWh AC",0.6,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,11.0,AC,free,,free
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,7.4,AC,free,,free
+2025-08,Madrid,,2.3,AC,free,,free
+2025-08,Madrid,,100.0,DC,"0,54€/kWh DC - 0,36€/kWh AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,54€/kWh DC - 0,36€/kWh AC",0.54,ok
+2025-08,Madrid,,7.4,AC,free,,free
+2025-08,Madrid,,22.0,AC,free,,free
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,7.4,AC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,7.4,AC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,22.0,AC,parking fee,,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,100.0,DC,"0,54€/kWh",0.54,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,11.0,AC,"0,42€/kWh (0,01€/min parked without charging)",0.42,ok
+2025-08,Madrid,,11.0,AC,2.9€/h,,no_kwh
+2025-08,Madrid,,2.3,AC,2.9€/h,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,,,Free,,free
+2025-08,Madrid,,2.3,AC,Free,,free
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,2.3,AC,,,no_kwh
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,100.0,DC,"0,54€/kWh >60kW - 0,44€/kWh DC/AC43kW - 0,32€/kWh AC 22kW",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,43.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,100.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Madrid,,7.4,AC,"0,45€/kWh (0,01€/min parked without charging)",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,100.0,DC," 0,60€/kWh DC, AC: 0,43€/kWh",0.6,ok
+2025-08,Madrid,,50.0,DC," 0,60€/kWh DC, AC: 0,43€/kWh",0.6,ok
+2025-08,Madrid,,22.0,AC," 0,60€/kWh DC, AC: 0,43€/kWh",0.6,ok
+2025-08,Madrid,,2.3,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,150.0,DC," 0,59€/kWh - 0,40€/kWh AC ",0.59,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,100.0,DC,"0,54€/kWh ",0.54,ok
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,,,no_kwh
+2025-08,Madrid,,120.0,DC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,90.0,DC,"0,54€/kWh ",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,2.3,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,50.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,43.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,60.0,DC,"0,47€/kWh DC ",0.47,ok
+2025-08,Madrid,,60.0,DC,"0,47€/kWh DC ",0.47,ok
+2025-08,Madrid,,11.0,AC,free,,free
+2025-08,Madrid,,11.0,AC,free,,free
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,free,,free
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,50.0,DC," 0,45€/kWh DC50kW/AC43kW ",0.45,ok
+2025-08,Madrid,,50.0,DC," 0,45€/kWh DC50kW/AC43kW ",0.45,ok
+2025-08,Madrid,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Madrid,,100.0,DC,"0,60€/kWh DC - 0,40€/kWh AC",0.6,ok
+2025-08,Madrid,,50.0,DC,"0,60€/kWh DC - 0,40€/kWh AC",0.6,ok
+2025-08,Madrid,,60.0,DC,"0,40€/kWh",0.4,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,22.0,AC,free,,free
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,120.0,DC,"0,54€/kWh",0.54,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,23€/kWh",0.23,ok
+2025-08,Madrid,,22.0,AC,"0,23€/kWh",0.23,ok
+2025-08,Madrid,,22.0,AC,"0,38€/kWh ",0.38,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,60.0,DC,"0,20€/kWh",0.2,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,43.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh ",0.25,ok
+2025-08,Madrid,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,43.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,7.4,AC,"0,11€/kWh",0.11,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,150.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,150.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-08,Madrid,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,43.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,60.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Madrid,,50.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,43.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,11.0,AC,0.45€/kWh,0.45,ok
+2025-08,Madrid,,7.4,AC,"0,38€/kWh",0.38,ok
+2025-08,Madrid,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,100.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-08,Madrid,,80.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh ",0.25,ok
+2025-08,Madrid,,150.0,DC," 0,45€/kWh DC - 0,40€/kWh AC ",0.45,ok
+2025-08,Madrid,,7.4,AC," 0,45€/kWh DC - 0,40€/kWh AC ",0.45,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,58€/kWh",0.58,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,150.0,DC,"0,60€/kWh DC ",0.6,ok
+2025-08,Madrid,,50.0,DC,"0,60€/kWh DC ",0.6,ok
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,150.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,"0,38€/kWh AC - (0,03€/min parked without charging)",0.38,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,43.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,100.0,DC,"0,56€/kWh 100kW - 0,42€/kWh 50 kW - 0,38€/kWh AC",0.56,ok
+2025-08,Madrid,,50.0,DC,"0,56€/kWh 100kW - 0,42€/kWh 50 kW - 0,38€/kWh AC",0.56,ok
+2025-08,Madrid,,22.0,AC,"0,56€/kWh 100kW - 0,42€/kWh 50 kW - 0,38€/kWh AC",0.56,ok
+2025-08,Madrid,,250.0,DC,,,empty
+2025-08,Madrid,,7.4,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,180.0,DC,"0,58€/kWh DC >60kW (0,40€/min parked without charging)",0.58,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,180.0,DC,"0,58€/kWh DC >60kW (0,40€/min parked without charging)",0.58,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,50€/kWh",0.5,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,120.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,43.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,50.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Madrid,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Madrid,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-08,Madrid,,120.0,DC,"0,54€/kWh DC  - 0,39€/kWh AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,54€/kWh DC  - 0,39€/kWh AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,43.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,150.0,DC,0.59€/kWh,0.59,ok
+2025-08,Madrid,,22.0,AC,"0,38€/kWh (0,03€/min parked without charging)",0.38,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh + 0,07€/kwh (90')",0.25,ok
+2025-08,Madrid,,150.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,100.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-08,Madrid,,50.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-08,Madrid,,22.0,AC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-08,Madrid,,7.4,AC,Free,,free
+2025-08,Madrid,,2.76,AC,Free,,free
+2025-08,Madrid,,150.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,150.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh ",0.25,ok
+2025-08,Madrid,,50.0,DC,"0,48€/kWh Dc - 0,38€/kWh AC",0.48,ok
+2025-08,Madrid,,50.0,DC,"0,48€/kWh Dc - 0,38€/kWh AC",0.48,ok
+2025-08,Madrid,,22.0,AC,"0,48€/kWh Dc - 0,38€/kWh AC",0.48,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,2.3,AC,,,no_kwh
+2025-08,Madrid,,250.0,DC,,,empty
+2025-08,Madrid,,150.0,DC,"0,60€/kWh  DC ",0.6,ok
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,7.4,AC,free,,free
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,2.3,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Madrid,,43.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Madrid,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Madrid,,11.0,AC,"0,34€/kWh",0.34,ok
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,100.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,2.4,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,22.0,AC,0.25€/kWh,0.25,ok
+2025-08,Madrid,,60.0,DC,"0,55€/kWh >60kW - 0,45€/kWh DC - 0,39€/kWh AC ",0.55,ok
+2025-08,Madrid,,22.0,AC,"0,55€/kWh >60kW - 0,45€/kWh DC - 0,39€/kWh AC ",0.55,ok
+2025-08,Madrid,,120.0,DC,"0,50€/kWh",0.5,ok
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,43.0,DC,,,empty
+2025-08,Madrid,,7.4,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Madrid,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,150.0,DC,"0,54€/kWh",0.54,ok
+2025-08,Madrid,,100.0,DC,"0,54€/kWh",0.54,ok
+2025-08,Madrid,,7.4,AC,"0,45€/kWh (0,01€/min parked without charging)",0.45,ok
+2025-08,Madrid,,60.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,1.0,AC,Free,,free
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,58€/kWh",0.58,ok
+2025-08,Madrid,,22.0,AC,"0,58€/kWh",0.58,ok
+2025-08,Madrid,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,43.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,150.0,DC,0.59€/kWh,0.59,ok
+2025-08,Madrid,,140.0,DC,"0,56-0,49€/kWh DC - 0,38€/kWh AC",0.49,ok
+2025-08,Madrid,,50.0,DC,"0,56-0,49€/kWh DC - 0,38€/kWh AC",0.49,ok
+2025-08,Madrid,,50.0,DC,"0,56-0,49€/kWh DC - 0,38€/kWh AC",0.49,ok
+2025-08,Madrid,,43.0,DC,"0,56-0,49€/kWh DC - 0,38€/kWh AC",0.49,ok
+2025-08,Madrid,,22.0,AC,"0,56-0,49€/kWh DC - 0,38€/kWh AC",0.49,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh AC ",0.42,ok
+2025-08,Madrid,,180.0,DC,"0,33€/kWh DC - 0,25€/kWh AC (AC chargers free with Costco Membership)",0.33,ok
+2025-08,Madrid,,7.4,AC,"0,33€/kWh DC - 0,25€/kWh AC (AC chargers free with Costco Membership)",0.33,ok
+2025-08,Madrid,,250.0,DC,charging + parking fee,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,11.0,AC,free,,free
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,22.0,AC,"0,58€/kWh D C>60kW - 0,38€/kWh AC - (0,40€/min DC / 0,03€/min AC parked without charging)",0.58,ok
+2025-08,Madrid,,150.0,DC,"0,58€/kWh D C>60kW - 0,38€/kWh AC - (0,40€/min DC / 0,03€/min AC parked without charging)",0.58,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,43.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,43.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,100.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Madrid,,7.4,AC,0.40€/kWh,0.4,ok
+2025-08,Madrid,,22.0,AC," 0,30€/kWh 22kW AC",0.3,ok
+2025-08,Madrid,,22.0,AC,"0,36€/kWh",0.36,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,100.0,DC,"0,56€/kWh DC 100-50 kW - 0,41€/kWh AC",0.56,ok
+2025-08,Madrid,,22.0,AC,"0,56€/kWh DC 100-50 kW - 0,41€/kWh AC",0.56,ok
+2025-08,Madrid,,150.0,DC,"0,45€/kWh DC - 0,32€/kWh AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh DC - 0,32€/kWh AC",0.45,ok
+2025-08,Madrid,,180.0,DC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,60.0,DC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,60.0,DC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,150.0,DC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,80.0,DC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,11.0,AC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,120.0,DC,"0,54€/kWh DC",0.54,ok
+2025-08,Madrid,,80.0,DC,"0,54€/kWh DC",0.54,ok
+2025-08,Madrid,,400.0,DC,"0,55€/kWh",0.55,ok
+2025-08,Madrid,,50.0,DC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,50€/kWh AC",0.5,ok
+2025-08,Madrid,,60.0,DC,"0,42€/kWh DC 60kW - 0,55€/kWh DC 400kW",0.42,ok
+2025-08,Madrid,,400.0,DC,"0,42€/kWh DC 60kW - 0,55€/kWh DC 400kW",0.42,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,11.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,400.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-08,Madrid,,90.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Madrid,,150.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,150.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,100.0,DC,"DC: 0,54€/kWh",0.54,ok
+2025-08,Madrid,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,7.0,AC,"0,39€/kWh AC ",0.39,ok
+2025-08,Madrid,,180.0,DC,"0,50€/kWh DC - 0,40€/kWh AC ",0.5,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,40€/kWh AC ",0.5,ok
+2025-08,Madrid,,22.0,AC,"0,50€/kWh DC - 0,40€/kWh AC ",0.5,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,40€/kWh AC ",0.5,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,50.0,DC,,,no_kwh
+2025-08,Madrid,,50.0,DC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,"0,48€/kWh DC - 0,38€/kWh AC   (+0,03€/min parked without charging)",0.48,ok
+2025-08,Madrid,,60.0,DC,"0,48€/kWh DC - 0,38€/kWh AC   (+0,03€/min parked without charging)",0.48,ok
+2025-08,Madrid,,22.0,AC,"0,48€/kWh DC - 0,38€/kWh AC   (+0,03€/min parked without charging)",0.48,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,150.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-08,Madrid,,50.0,DC,"0,46€/kWh",0.46,ok
+2025-08,Madrid,,22.0,AC,"0,46€/kWh",0.46,ok
+2025-08,Madrid,,50.0,DC,"0,46€/kWh",0.46,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Madrid,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,28.0,DC,"0,45€/kWh DC - 0,35€/kWh AC + parking fee",0.45,ok
+2025-08,Madrid,,60.0,DC,"0,45€/kWh DC - 0,35€/kWh AC + parking fee",0.45,ok
+2025-08,Madrid,,60.0,DC,"0,45€/kWh DC - 0,35€/kWh AC + parking fee",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,50€/kWh",0.5,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,400.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-08,Madrid,,50.0,DC,free,,free
+2025-08,Madrid,,50.0,DC,free,,free
+2025-08,Madrid,,22.0,AC,free,,free
+2025-08,Madrid,,7.4,AC,free,,free
+2025-08,Madrid,,60.0,DC,"0,30 €/kWh",0.3,ok
+2025-08,Madrid,,100.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,210.0,DC,,,no_kwh
+2025-08,Madrid,,100.0,DC,,,no_kwh
+2025-08,Madrid,,50.0,DC,,,no_kwh
+2025-08,Madrid,,50.0,DC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,60.0,DC,"0,20 €/kWh",0.2,ok
+2025-08,Madrid,,60.0,DC,"0,55€/kWh",0.55,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,60.0,DC,"0,43€/kWh DC - 0,35€/kWh AC",0.43,ok
+2025-08,Madrid,,22.0,AC,"0,43€/kWh DC - 0,35€/kWh AC",0.43,ok
+2025-08,Madrid,,60.0,DC,"0,43€/kWh DC - 0,35€/kWh AC",0.43,ok
+2025-08,Madrid,,100.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,100.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,43€/kWh + parking fee",0.43,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,300.0,DC,,,no_kwh
+2025-08,Madrid,,300.0,DC,,,no_kwh
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,100.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,7.4,AC,"0,35€/kWh",0.35,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,100.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,50.0,DC," 0,47€/kWh DC - AC",0.47,ok
+2025-08,Madrid,,43.0,DC," 0,47€/kWh DC - AC",0.47,ok
+2025-08,Madrid,,50.0,DC," 0,47€/kWh DC - AC",0.47,ok
+2025-08,Madrid,,7.4,AC,"0,38€/kWh ",0.38,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,7.0,AC,"0,39€/kWh AC ",0.39,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,50.0,DC,"0,49€",,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,43.0,DC,"0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Madrid,,43.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Madrid,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Madrid,,22.0,AC,"5,0820 €/charge + 1,0914 €/kWh",1.0914,ok
+2025-08,Madrid,,100.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,22.0,AC," 0,39€/kWh ",0.39,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,120.0,DC,"0,60€/kWh  + parking",0.6,ok
+2025-08,Madrid,,50.0,DC,"0,60€/kWh  + parking",0.6,ok
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,39€/kWh AC ",0.39,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Madrid,,100.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,43.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,,,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh ",0.25,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,6€ parking,,no_kwh
+2025-08,Madrid,,22.0,AC,6€ parking,,no_kwh
+2025-08,Madrid,,3.7,AC,6€ parking,,no_kwh
+2025-08,Madrid,,3.7,AC,6€ parking,,no_kwh
+2025-08,Madrid,,50.0,DC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,43.0,DC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,29€/kWh AC",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,29€/kWh AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh DC - 0,29€/kWh AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh DC - 0,29€/kWh AC",0.45,ok
+2025-08,Madrid,,7.4,AC,parking fee,,no_kwh
+2025-08,Madrid,,22.0,AC,parking fee,,no_kwh
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,30€/kWh AC",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,30€/kWh AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh DC - 0,30€/kWh AC",0.45,ok
+2025-08,Madrid,,22.0,AC," 0,40€/kWh AC ",0.4,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,100.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,59€/kWh DC - 0,38€/kWh AC",0.59,ok
+2025-08,Madrid,,150.0,DC,"0,59€/kWh DC - 0,38€/kWh AC",0.59,ok
+2025-08,Madrid,,7.4,AC,free,,free
+2025-08,Madrid,,22.0,AC,"0,45€/kWh + parking fee",0.45,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,parking fee (charging free),,free
+2025-08,Madrid,,150.0,DC,"0,54€/kWh",0.54,ok
+2025-08,Madrid,,100.0,DC,"0,54€/kWh",0.54,ok
+2025-08,Madrid,,100.0,DC,"0,54€/kWh",0.54,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,39€/kWh ",0.39,ok
+2025-08,Madrid,,7.4,AC,"0,13-0,21€/kWh",0.21,ok
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC," 0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-08,Madrid,,150.0,DC," 0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,parking fee,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,45€/kWh + parking fee",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,42€/kWh DC - 0,38€/kWh AC",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh DC - 0,38€/kWh AC",0.42,ok
+2025-08,Madrid,,50.0,DC,"0,42€/kWh DC - 0,38€/kWh AC",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,40€/kwh + parking fee",0.4,ok
+2025-08,Madrid,,22.0,AC," 0,39€/kWh ",0.39,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,22.0,AC,"0,15€/kWh",0.15,ok
+2025-08,Madrid,,3.7,AC,"0,15€/kWh",0.15,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,100.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,60.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,60.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,22.0,AC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,7.0,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,200.0,DC,"0,49€/kWh",0.49,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,100.0,DC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,7.4,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,100.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,120.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,7.4,AC,"0,38€/kWh + parking fee",0.38,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,7.4,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,7.0,AC,"0,39€/kWh AC ",0.39,ok
+2025-08,Madrid,,7.4,AC,"0,29€/kWh",0.29,ok
+2025-08,Madrid,,150.0,DC,"0,65€/kWh >150kW - 0,55€/kWh >60kW - 0,45€/kWh DC - 0,39€/kWh AC ",0.65,ok
+2025-08,Madrid,,22.0,AC,"0,65€/kWh >150kW - 0,55€/kWh >60kW - 0,45€/kWh DC - 0,39€/kWh AC ",0.65,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,22.0,AC,"app Waylet(Repsol). 90' free parking, then at 0,07€/min",,per_minute
+2025-08,Madrid,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Madrid,,7.0,AC,"0,39€/kWh AC ",0.39,ok
+2025-08,Madrid,,100.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,100.0,DC,"0,50€/kWh",0.5,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh",0.5,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh",0.5,ok
+2025-08,Madrid,,22.0,AC,"0,50€/kWh",0.5,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,22.0,AC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,35€/kWh AC",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,35€/kWh AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh DC - 0,35€/kWh AC",0.45,ok
+2025-08,Madrid,,50.0,DC," 0,48€/kWh DC - 0,38€/kWh AC",0.48,ok
+2025-08,Madrid,,50.0,DC," 0,48€/kWh DC - 0,38€/kWh AC",0.48,ok
+2025-08,Madrid,,22.0,AC," 0,48€/kWh DC - 0,38€/kWh AC",0.48,ok
+2025-08,Madrid,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,150.0,DC,"0,46€/kWh",0.46,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh ",0.25,ok
+2025-08,Madrid,,60.0,DC,"0,40€/kWh",0.4,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,22.0,AC,"0,58€/kWh D C>60kW - 0,38€/kWh AC - (0,40€/min DC / 0,03€/min AC parked without charging)",0.58,ok
+2025-08,Madrid,,150.0,DC,"0,58€/kWh D C>60kW - 0,38€/kWh AC - (0,40€/min DC / 0,03€/min AC parked without charging)",0.58,ok
+2025-08,Madrid,,300.0,DC,"0,55€/kWh",0.55,ok
+2025-08,Madrid,,80.0,DC,"0,55€/kWh",0.55,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,50.0,DC,"0,48€/kWh DC/AC43kW - 0,38€/kWh AC - (0,14€/min DC / 0,03€/min AC parked without charging)",0.48,ok
+2025-08,Madrid,,50.0,DC,"0,48€/kWh DC/AC43kW - 0,38€/kWh AC - (0,14€/min DC / 0,03€/min AC parked without charging)",0.48,ok
+2025-08,Madrid,,43.0,DC,"0,48€/kWh DC/AC43kW - 0,38€/kWh AC - (0,14€/min DC / 0,03€/min AC parked without charging)",0.48,ok
+2025-08,Madrid,,22.0,AC,"0,48€/kWh DC/AC43kW - 0,38€/kWh AC - (0,14€/min DC / 0,03€/min AC parked without charging)",0.48,ok
+2025-08,Madrid,,50.0,DC,"0,42€/kWh 50 kW - 0,38€/kWh AC",0.42,ok
+2025-08,Madrid,,50.0,DC,"0,42€/kWh 50 kW - 0,38€/kWh AC",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh 50 kW - 0,38€/kWh AC",0.42,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,43.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC," 0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-08,Madrid,,22.0,AC," 0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-08,Madrid,,50.0,DC," 0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-08,Madrid,,11.0,AC," 0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,11.0,AC,Free,,free
+2025-08,Madrid,,3.0,AC,Free,,free
+2025-08,Madrid,,3.0,AC,Free,,free
+2025-08,Madrid,,11.0,AC,Free,,free
+2025-08,Madrid,,3.7,AC,0,,no_kwh
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,150.0,DC,"0,65€/kWh >150kW - 0,55€/kWh >60kW - 0,45€/kWh DC - 0,39€/kWh AC ",0.65,ok
+2025-08,Madrid,,150.0,DC,"0,65€/kWh >150kW - 0,55€/kWh >60kW - 0,45€/kWh DC - 0,39€/kWh AC ",0.65,ok
+2025-08,Madrid,,22.0,AC,"0,65€/kWh >150kW - 0,55€/kWh >60kW - 0,45€/kWh DC - 0,39€/kWh AC ",0.65,ok
+2025-08,Madrid,,150.0,DC,"0,60€/kWh DC - 0,40€/kWh AC",0.6,ok
+2025-08,Madrid,,100.0,DC,"0,54€/kWh DC - 0,36€/kWh AC",0.54,ok
+2025-08,Madrid,,7.0,AC,"0,54€/kWh DC - 0,36€/kWh AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-08,Madrid,,60.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,150.0,DC,0.59€/kWh,0.59,ok
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,2.3,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,100.0,DC,"0,55€/kWh",0.55,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,180.0,DC,"0,56€/kWh ",0.56,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,100.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,2.3,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,40€/kWh ",0.4,ok
+2025-08,Madrid,,7.4,AC,"0,40€/kWh ",0.4,ok
+2025-08,Madrid,,22.0,AC,"0,39 €/kWh",0.39,ok
+2025-08,Madrid,,22.0,AC,"0,39 €/kWh",0.39,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,400.0,DC,"0,49€/kWh",0.49,ok
+2025-08,Madrid,,200.0,DC,"0,49€/kWh",0.49,ok
+2025-08,Madrid,,100.0,DC,"0,49€/kWh",0.49,ok
+2025-08,Madrid,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,43.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,100.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,60.0,DC,"0,42€/kWh DC - 0,35kWh AC",0.42,ok
+2025-08,Madrid,,60.0,DC,"0,42€/kWh DC - 0,35kWh AC",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh DC - 0,35kWh AC",0.42,ok
+2025-08,Madrid,,100.0,DC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,60.0,DC,"0,48€/kWh",0.48,ok
+2025-08,Madrid,,7.4,AC,"0,43€/kWh  + parking fee",0.43,ok
+2025-08,Madrid,,22.0,AC," 0,30€/kWh 22kW AC",0.3,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,22.0,AC,parking fee (charging free),,free
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,100.0,DC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,22.0,AC,"0,39€/kWh+parking fee",0.39,ok
+2025-08,Madrid,,22.0,AC,"0,35€/kWh + parking fee",0.35,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,3.0,AC,free charging + parking fee,,free
+2025-08,Madrid,,50.0,DC,"0,42€/kWh DC - 0,35kWh AC + parking fee",0.42,ok
+2025-08,Madrid,,50.0,DC,"0,42€/kWh DC - 0,35kWh AC + parking fee",0.42,ok
+2025-08,Madrid,,43.0,DC,"0,42€/kWh DC - 0,35kWh AC + parking fee",0.42,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,7.4,AC,"0,38€/kWh + parking fee",0.38,ok
+2025-08,Madrid,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,,,no_kwh
+2025-08,Madrid,,50.0,DC,,,no_kwh
+2025-08,Madrid,,43.0,DC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,7.4,AC,"0,42€/kWh DC - 0,38€/kWh AC + parking fee",0.42,ok
+2025-08,Madrid,,30.0,DC,"0,42€/kWh DC - 0,38€/kWh AC + parking fee",0.42,ok
+2025-08,Madrid,,30.0,DC,"0,42€/kWh DC - 0,38€/kWh AC + parking fee",0.42,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,22.0,AC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,60.0,DC,"0,40€/kWh DC - 0,32€/kWh AC",0.4,ok
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,7.0,AC,"0,40€/kWh + parking fee",0.4,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,50€/kWh",0.5,ok
+2025-08,Madrid,,7.4,AC,"0,40€/kWh",0.4,ok
+2025-08,Madrid,,22.0,AC,"0,55€/kWh DC- 0,39€/kWh AC + parking fee",0.55,ok
+2025-08,Madrid,,120.0,DC,"0,55€/kWh DC- 0,39€/kWh AC + parking fee",0.55,ok
+2025-08,Madrid,,7.4,AC,"0,20€/kWh ",0.2,ok
+2025-08,Madrid,,11.0,AC,"0,39€/kWh AC ",0.39,ok
+2025-08,Madrid,,50.0,DC,"0,39€/kWh AC ",0.39,ok
+2025-08,Madrid,,50.0,DC,"0,39€/kWh AC ",0.39,ok
+2025-08,Madrid,,,,"0,39€/kWh AC ",0.39,ok
+2025-08,Madrid,,100.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,2.3,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,50.0,DC,"0,42€/kWh DC - 0,38€/kWh AC",0.42,ok
+2025-08,Madrid,,50.0,DC,"0,42€/kWh DC - 0,38€/kWh AC",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh DC - 0,38€/kWh AC",0.42,ok
+2025-08,Madrid,,50.0,DC,Free,,free
+2025-08,Madrid,,22.0,AC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,22.0,AC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,50.0,DC,"0,49€/kWh",0.49,ok
+2025-08,Madrid,,50.0,DC,"0,49€/kWh",0.49,ok
+2025-08,Madrid,,22.0,AC,"0,49€/kWh",0.49,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,400.0,DC,"0,67 €/kWh ",0.67,ok
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,100.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,45€/kWh + parking fee",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,38€/kWh+ parking fee",0.38,ok
+2025-08,Madrid,,22.0,AC," parking fee + 0,24€/kWh 22kW - 0,20€/kWh 7,4kW  (0,01€/min parked without charging)",0.24,ok
+2025-08,Madrid,,7.4,AC," parking fee + 0,24€/kWh 22kW - 0,20€/kWh 7,4kW  (0,01€/min parked without charging)",0.24,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh + parking fee",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,38€/kWh + parking fee",0.38,ok
+2025-08,Madrid,,11.0,AC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,7.36,AC,"parking fee + 0,20€/kWh (0,01€/min parked without charging)",0.2,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,250.0,DC,    + parking: 1 hour free,,free
+2025-08,Madrid,,7.4,AC,"parking fee + 0,20€/kWh (0,01€/min parked without charging) First hour free",0.2,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh DC - 0,38€/kWh AC + parking fee",0.42,ok
+2025-08,Madrid,,30.0,DC,"0,42€/kWh DC - 0,38€/kWh AC + parking fee",0.42,ok
+2025-08,Madrid,,30.0,DC,"0,42€/kWh DC - 0,38€/kWh AC + parking fee",0.42,ok
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,parking fee,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,55€/kWh DC- 0,39€/kWh AC + parking fee",0.55,ok
+2025-08,Madrid,,120.0,DC,"0,55€/kWh DC- 0,39€/kWh AC + parking fee",0.55,ok
+2025-08,Madrid,,7.0,AC,"0,35€/kWh + parking fee",0.35,ok
+2025-08,Madrid,,2.3,AC,"0,35€/kWh + parking fee",0.35,ok
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,43.0,DC,"0,35€/kWh + parking fee",0.35,ok
+2025-08,Madrid,,50.0,DC,"0,35€/kWh + parking fee",0.35,ok
+2025-08,Madrid,,50.0,DC,"0,35€/kWh + parking fee",0.35,ok
+2025-08,Madrid,,7.0,AC,"0,35€/kWh + parking fee",0.35,ok
+2025-08,Madrid,,3.7,AC,"0,35€/kWh + parking fee",0.35,ok
+2025-08,Madrid,,400.0,DC,"0,35€/kWh ",0.35,ok
+2025-08,Madrid,,200.0,DC,"0,35€/kWh ",0.35,ok
+2025-08,Madrid,,100.0,DC,"0,35€/kWh ",0.35,ok
+2025-08,Madrid,,50.0,DC,"0,35€/kWh ",0.35,ok
+2025-08,Madrid,,43.0,DC,"0,35€/kWh ",0.35,ok
+2025-08,Madrid,,50.0,DC,"0,35€/kWh ",0.35,ok
+2025-08,Madrid,,150.0,DC,"0,45€/kWh DC 150kW - 0,39€/kWh DC - 0,29€/kWh AC + parking fee",0.45,ok
+2025-08,Madrid,,60.0,DC,"0,45€/kWh DC 150kW - 0,39€/kWh DC - 0,29€/kWh AC + parking fee",0.45,ok
+2025-08,Madrid,,7.4,AC,"0,45€/kWh DC 150kW - 0,39€/kWh DC - 0,29€/kWh AC + parking fee",0.45,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,45€/kWh + parking fee",0.45,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,55€/kWh DC- 0,39€/kWh AC + parking fee",0.55,ok
+2025-08,Madrid,,120.0,DC,"0,55€/kWh DC- 0,39€/kWh AC + parking fee",0.55,ok
+2025-08,Madrid,,7.4,AC,"parking fee + 0,20€/kWh (0,01€/min parked without charging)",0.2,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,"0,35€/kWh AC ",0.35,ok
+2025-08,Madrid,,22.0,AC,"0,35€/kWh AC ",0.35,ok
+2025-08,Madrid,,7.4,AC,"0,43€/kWh ",0.43,ok
+2025-08,Madrid,,11.0,AC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,2.3,AC,,,no_kwh
+2025-08,Madrid,,11.0,AC,Free,,free
+2025-08,Madrid,,11.0,AC,Free,,free
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,7.0,AC,"0,35€/kWh",0.35,ok
+2025-08,Madrid,,7.4,AC,"0,43€/kWh + parking fee",0.43,ok
+2025-08,Madrid,,22.0,AC," parking fee + 0,39€/kWh",0.39,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,30€/kWh AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh DC - 0,30€/kWh AC",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,30€/kWh AC",0.45,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC," 0,39€/kWh ",0.39,ok
+2025-08,Madrid,,7.4,AC,"0,35€/kWh",0.35,ok
+2025-08,Madrid,,2.3,AC,,,empty
+2025-08,Madrid,,7.4,AC,"0,13-0,21€/kWh",0.21,ok
+2025-08,Madrid,,7.4,AC,"0,13-0,21€/kWh",0.21,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,7.4,AC,"0,43€/kWh ",0.43,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,55€/kWh DC- 0,39€/kWh AC + parking fee",0.55,ok
+2025-08,Madrid,,120.0,DC,"0,55€/kWh DC- 0,39€/kWh AC + parking fee",0.55,ok
+2025-08,Madrid,,7.4,AC,"0,55€/kWh DC- 0,39€/kWh AC + parking fee",0.55,ok
+2025-08,Madrid,,50.0,DC,"0,40€/kWh",0.4,ok
+2025-08,Madrid,,43.0,DC,"0,40€/kWh",0.4,ok
+2025-08,Madrid,,50.0,DC,"0,40€/kWh",0.4,ok
+2025-08,Madrid,,7.4,AC,"0,38€/kWh + parking fee",0.38,ok
+2025-08,Madrid,,7.4,AC,"0,38€/kWh + parking fee",0.38,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-08,Madrid,,50.0,DC,"0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-08,Madrid,,50.0,DC,"0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,"0,42€/kWh DC - 0,38€/kWh AC",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh DC - 0,38€/kWh AC",0.42,ok
+2025-08,Madrid,,50.0,DC,"0,42€/kWh DC - 0,38€/kWh AC",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,43€/kWh",0.43,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,7.4,AC,"0,38€/kWh +  parking fee",0.38,ok
+2025-08,Madrid,,22.0,AC,"0,39€/kWh + parking fee",0.39,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,50.0,DC,"0,42€/kWh DC - 0,38€/kWh AC",0.42,ok
+2025-08,Madrid,,50.0,DC,"0,42€/kWh DC - 0,38€/kWh AC",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh DC - 0,38€/kWh AC",0.42,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,"0,38€/kWh + parking fee",0.38,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,3.7,AC,"0,27€/kWh + parking fee",0.27,ok
+2025-08,Madrid,,3.7,AC,"0,27€/kWh + parking fee",0.27,ok
+2025-08,Madrid,,22.0,AC,Free,,free
+2025-08,Madrid,,7.4,AC,Free,,free
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,22.0,AC," 0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-08,Madrid,,60.0,DC," 0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-08,Madrid,,50.0,DC,"0,43€/kWh ",0.43,ok
+2025-08,Madrid,,43.0,DC,"0,43€/kWh ",0.43,ok
+2025-08,Madrid,,50.0,DC,"0,43€/kWh ",0.43,ok
+2025-08,Madrid,,7.4,AC,"0,43€/kWh ",0.43,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,22.0,AC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,7.4,AC,"0,35€/kWh + parking fee",0.35,ok
+2025-08,Madrid,,50.0,DC,"0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-08,Madrid,,50.0,DC,"0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-08,Madrid,,22.0,AC,"0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-08,Madrid,,50.0,DC,"0,42€/kWh DC - 0,38€/kWh AC ",0.42,ok
+2025-08,Madrid,,50.0,DC,"0,42€/kWh DC - 0,38€/kWh AC ",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh DC - 0,38€/kWh AC ",0.42,ok
+2025-08,Madrid,,3.7,AC,"0,42€/kWh DC - 0,38€/kWh AC ",0.42,ok
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,45€/kWh + parking fee",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,50€/kWh  + parking 3,6€/h",0.5,ok
+2025-08,Madrid,,22.0,AC,"0,50€/kWh  + parking 3,6€/h",0.5,ok
+2025-08,Madrid,,2.3,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,7.3,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,7.36,AC,"parking fee + 0,20€/kWh (0,01€/min parked without charging)",0.2,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,22.0,AC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,7.4,AC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,11.0,AC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,50€/kWh + parking fee",0.5,ok
+2025-08,Madrid,,7.4,AC,"0,50€/kWh + parking fee",0.5,ok
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,50.0,DC," 0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-08,Madrid,,50.0,DC," 0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-08,Madrid,,22.0,AC," 0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-08,Madrid,,7.4,AC,free,,free
+2025-08,Madrid,,2.3,AC,free,,free
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,7.4,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,38€/kWh +  parking fee",0.38,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,7.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,7.4,AC,"0,13-0,21€/kWh",0.21,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,20€/kWh + parking fee",0.2,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh + parking fee",0.45,ok
+2025-08,Madrid,,11.0,AC,"0,45€/kWh + parking fee",0.45,ok
+2025-08,Madrid,,7.4,AC,"0,13-0,21€/kWh",0.21,ok
+2025-08,Madrid,,11.0,AC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,120.0,DC," 0,59€/kWh  DC - 0,39€/kWh AC ",0.59,ok
+2025-08,Madrid,,22.0,AC," 0,59€/kWh  DC - 0,39€/kWh AC ",0.59,ok
+2025-08,Madrid,,22.0,AC,0.45€/kWh,0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,30€/kWh AC",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,30€/kWh AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh DC - 0,30€/kWh AC",0.45,ok
+2025-08,Madrid,,30.0,DC,"0,37€/kWh DC - 0,32€/kWh AC",0.37,ok
+2025-08,Madrid,,22.0,AC,"0,37€/kWh DC - 0,32€/kWh AC",0.37,ok
+2025-08,Madrid,,43.0,DC,"0,35€/kWh + parking fee",0.35,ok
+2025-08,Madrid,,50.0,DC,"0,35€/kWh + parking fee",0.35,ok
+2025-08,Madrid,,50.0,DC,"0,35€/kWh + parking fee",0.35,ok
+2025-08,Madrid,,2.3,AC,"0,35€/kWh + parking fee",0.35,ok
+2025-08,Madrid,,7.4,AC,"0,35€/kWh + parking fee",0.35,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh + parking fee",0.25,ok
+2025-08,Madrid,,7.4,AC,"0,38€/kWh + parking fee",0.38,ok
+2025-08,Madrid,,50.0,DC,"0,42€/kWh DC - 0,38€/kWh AC",0.42,ok
+2025-08,Madrid,,50.0,DC,"0,42€/kWh DC - 0,38€/kWh AC",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh DC - 0,38€/kWh AC",0.42,ok
+2025-08,Madrid,,7.4,AC,"0,38€/kWh + parking fee",0.38,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh",0.42,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,7.0,AC,"0,37€/kWh",0.37,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,"0,13-0,21€/kWh",0.21,ok
+2025-08,Madrid,,7.4,AC,"0,13-0,21€/kWh",0.21,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,22.0,AC," 0,40€/kWh AC ",0.4,ok
+2025-08,Madrid,,150.0,DC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,50.0,DC,"0,72€/kWh DC / 0,57€kWh AC + parking fee",0.72,ok
+2025-08,Madrid,,50.0,DC,"0,72€/kWh DC / 0,57€kWh AC + parking fee",0.72,ok
+2025-08,Madrid,,22.0,AC,"0,72€/kWh DC / 0,57€kWh AC + parking fee",0.72,ok
+2025-08,Madrid,,7.4,AC,parking fee - charging free,,free
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,30.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,39€/kWh + parking fee",0.39,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,2.3,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,38€/kWh AC - (0,03€/min parked without charging)",0.38,ok
+2025-08,Madrid,,7.36,AC,"parking fee + 0,20€/kWh (0,01€/min parked without charging)",0.2,ok
+2025-08,Madrid,,7.4,AC,free,,free
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,"0,35€/kWh",0.35,ok
+2025-08,Madrid,,100.0,DC,"0,54€/kWh DC 50 kW -  0,38€/kWh AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh DC 50 kW -  0,38€/kWh AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,54€/kWh DC 50 kW -  0,38€/kWh AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,22.0,AC,"0,10€/kWh",0.1,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,250.0,DC,,,no_kwh
+2025-08,Madrid,,300.0,DC,"DC: 0,59€/kWh",0.59,ok
+2025-08,Madrid,,100.0,DC,"DC: 0,59€/kWh",0.59,ok
+2025-08,Madrid,,350.0,DC,"DC: 0,59€/kWh",0.59,ok
+2025-08,Madrid,,175.0,DC,"DC: 0,59€/kWh",0.59,ok
+2025-08,Madrid,,7.4,AC,"0,31€/kWh",0.31,ok
+2025-08,Madrid,,7.4,AC,"0,20€/kWh ",0.2,ok
+2025-08,Madrid,,22.0,AC,"0,31€/kWh",0.31,ok
+2025-08,Madrid,,11.0,AC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,22.0,AC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,30.0,DC,"0,42€/kWh DC - 0,38€/kWh AC +  parking fee",0.42,ok
+2025-08,Madrid,,30.0,DC,"0,42€/kWh DC - 0,38€/kWh AC +  parking fee",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh DC - 0,38€/kWh AC +  parking fee",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,31€/kWh",0.31,ok
+2025-08,Madrid,,7.4,AC,"2,50€/kWh",,out_of_range
+2025-08,Madrid,,22.0,AC,Free,,free
+2025-08,Madrid,,11.0,AC,Free,,free
+2025-08,Madrid,,22.0,AC,Free,,free
+2025-08,Madrid,,7.4,AC,"0,13-0,21€/kWh",0.21,ok
+2025-08,Madrid,,22.0,AC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,7.4,AC,"0,13-0,21€/kWh",0.21,ok
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,7.4,AC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,2.3,AC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,22.0,AC,"0,12-0,19€/kWh",0.19,ok
+2025-08,Madrid,,7.4,AC,"0,11-0,14€/kWh",0.14,ok
+2025-08,Madrid,,11.0,AC,"0,38€/kWh (Tesla connectors free) + parking fee ",0.38,ok
+2025-08,Madrid,,11.0,AC,"0,38€/kWh (Tesla connectors free) + parking fee ",0.38,ok
+2025-08,Madrid,,22.0,AC,"0,38€/kWh (Tesla connectors free) + parking fee ",0.38,ok
+2025-08,Madrid,,7.4,AC,"0,20€/kWh ",0.2,ok
+2025-08,Madrid,,50.0,DC,"0,35€/kWh",0.35,ok
+2025-08,Madrid,,50.0,DC,"0,35€/kWh",0.35,ok
+2025-08,Madrid,,43.0,DC,"0,35€/kWh",0.35,ok
+2025-08,Madrid,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-08,Madrid,,7.4,AC,"0,20€/kWh ",0.2,ok
+2025-08,Madrid,,11.0,AC,"0,31€/kWh",0.31,ok
+2025-08,Madrid,,7.4,AC,"0,31€/kWh",0.31,ok
+2025-08,Madrid,,7.4,AC,"0,38€/kWh + parking fee",0.38,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,"0,38€/kWh",0.38,ok
+2025-08,Madrid,,30.0,DC,"0,42€/kWh 50 kW - 0,38€/kWh AC +  parking fee",0.42,ok
+2025-08,Madrid,,30.0,DC,"0,42€/kWh 50 kW - 0,38€/kWh AC +  parking fee",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh 50 kW - 0,38€/kWh AC +  parking fee",0.42,ok
+2025-08,Madrid,,7.4,AC,"0,13-0,21€/kWh",0.21,ok
+2025-08,Madrid,,22.0,AC,"0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-08,Madrid,,50.0,DC,"0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-08,Madrid,,50.0,DC,"0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-08,Madrid,,4.0,AC,"0,41€/kWh + parking fee",0.41,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,3.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,7.4,AC,"0,20€/kWh",0.2,ok
+2025-08,Madrid,,2.3,AC,"0,20€/kWh",0.2,ok
+2025-08,Madrid,,7.4,AC,"0,30€/kWh + parking fee",0.3,ok
+2025-08,Madrid,,3.7,AC,"0,30€/kWh + parking fee",0.3,ok
+2025-08,Madrid,,7.4,AC,"parking fee + 0,20€/kWh (0,01€/min parked without charging)",0.2,ok
+2025-08,Madrid,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,7.4,AC,"0,43€/kWh",0.43,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC," 0,29€/kWh AC",0.29,ok
+2025-08,Madrid,,7.4,AC,"parking fee + 0,20€/kWh (0,01€/min parked without charging)",0.2,ok
+2025-08,Madrid,,7.4,AC,"0,35€/kWh",0.35,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-08,Madrid,,180.0,DC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,60.0,DC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,60.0,DC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,48€/kWh",0.48,ok
+2025-08,Madrid,,30.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,7.4,AC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC," parking fee + 0,39€/kWh ",0.39,ok
+2025-08,Madrid,,7.4,AC,"parking fee + 0,20€/kWh (0,01€/min parked without charging)",0.2,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,150.0,DC," 0,45€/kWh DC - 0,40€/kWh AC ",0.45,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,60.0,DC,"0,49€/kWh DC ",0.49,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,100.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,50.0,DC,"0,45€/kWh 50kW/AC43 - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh 50kW/AC43 - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,43.0,DC,"0,45€/kWh 50kW/AC43 - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh 50kW/AC43 - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,"0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-08,Madrid,,50.0,DC,"0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-08,Madrid,,22.0,AC,"0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,22.0,AC,0.45€/kWh,0.45,ok
+2025-08,Madrid,,22.0,AC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,38€/kWh AC +  parking fee",0.38,ok
+2025-08,Madrid,,30.0,DC,"0,38€/kWh AC +  parking fee",0.38,ok
+2025-08,Madrid,,30.0,DC,"0,38€/kWh AC +  parking fee",0.38,ok
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,120.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,60.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,60.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,22.0,AC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,7.4,AC,"0,36€/kWh",0.36,ok
+2025-08,Madrid,,22.0,AC," 0,40€/kWh AC ",0.4,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh ",0.25,ok
+2025-08,Madrid,,7.4,AC,"0,38€/kWh + parking fee",0.38,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh + parking fee",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh + parking fee",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh + parking fee",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh + parking fee",0.45,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,7.4,AC,"0,38€/kWh + parking fee",0.38,ok
+2025-08,Madrid,,7.4,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,7.0,AC,"0,36€/kWh",0.36,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh DC - 0,35€/kWh AC",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh DC - 0,35€/kWh AC",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh DC - 0,35€/kWh AC",0.47,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,"0,5082€/kWh",0.5082,ok
+2025-08,Madrid,,7.4,AC,free,,free
+2025-08,Madrid,,2.3,AC,free,,free
+2025-08,Madrid,,7.4,AC,"0,48€/kWh + parking fee",0.48,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,22.0,AC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,11.0,AC,"0,35€/kWh",0.35,ok
+2025-08,Madrid,,7.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,50.0,DC,"0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-08,Madrid,,22.0,AC,"0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-08,Madrid,,50.0,DC,"0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,50.0,DC,"0,43€/kWh + parking fee",0.43,ok
+2025-08,Madrid,,22.0,AC,"0,43€/kWh + parking fee",0.43,ok
+2025-08,Madrid,,50.0,DC,"0,43€/kWh + parking fee",0.43,ok
+2025-08,Madrid,,7.4,AC,"0,43€/kWh + parking fee",0.43,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,7.4,AC,"0,13-0,21€/kWh",0.21,ok
+2025-08,Madrid,,7.4,AC,"0,43€/kWh",0.43,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,42€/kWh",0.42,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,30.0,DC,"0,37€/kWh DC - 0,32€/kWh AC",0.37,ok
+2025-08,Madrid,,22.0,AC,"0,37€/kWh DC - 0,32€/kWh AC",0.37,ok
+2025-08,Madrid,,7.4,AC,"0,37€/kWh DC - 0,32€/kWh AC",0.37,ok
+2025-08,Madrid,,22.0,AC,0.45€/kWh,0.45,ok
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,7.4,AC,"0,40€/kWh",0.4,ok
+2025-08,Madrid,,320.0,DC,,,no_kwh
+2025-08,Madrid,,320.0,DC,,,no_kwh
+2025-08,Madrid,,320.0,DC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,100.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,7.0,AC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,90.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,400.0,DC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,31€/kWh",0.31,ok
+2025-08,Madrid,,7.3,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,7.4,AC,"0,38€/kWh",0.38,ok
+2025-08,Madrid,,120.0,DC,"0,55€/kWh DC  0,40€/kWh AC + parking fee",0.55,ok
+2025-08,Madrid,,7.4,AC,"0,55€/kWh DC  0,40€/kWh AC + parking fee",0.55,ok
+2025-08,Madrid,,22.0,AC,"0,29€/kWh",0.29,ok
+2025-08,Madrid,,50.0,DC," 0,45€/kWh DC - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,50.0,DC," 0,45€/kWh DC - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,22.0,AC," 0,45€/kWh DC - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,7.4,AC,"0,40€/kWh",0.4,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,120.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,3.4,AC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,100.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,7.4,AC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,7.4,AC,"0,40€/kWh",0.4,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,7.4,AC,"0,35€/kWh",0.35,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh DC - 0,35€/kWh AC",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh DC - 0,35€/kWh AC",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh DC - 0,35€/kWh AC",0.47,ok
+2025-08,Madrid,,11.0,AC,"0,47€/kwh",0.47,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,7.4,AC,"0,01€/kWh ",,out_of_range
+2025-08,Madrid,,22.0,AC,"0,25€/kWh AC",0.25,ok
+2025-08,Madrid,,50.0,DC,"0,25€/kWh AC",0.25,ok
+2025-08,Madrid,,50.0,DC,"0,25€/kWh AC",0.25,ok
+2025-08,Madrid,,43.0,DC,"0,25€/kWh AC",0.25,ok
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,29€/kWh",0.29,ok
+2025-08,Madrid,,22.0,AC,"0,29€/kWh",0.29,ok
+2025-08,Madrid,,22.0,AC,"0,29€/kWh",0.29,ok
+2025-08,Madrid,,50.0,DC,,,no_kwh
+2025-08,Madrid,,50.0,DC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,29€/kWh",0.29,ok
+2025-08,Madrid,,50.0,DC,,,no_kwh
+2025-08,Madrid,,50.0,DC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,"0,37-0,50€/kWh",0.5,ok
+2025-08,Madrid,,7.4,AC,"0,37-0,50€/kWh",0.5,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,3.0,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,60.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,22.0,AC," 0,39€/kWh",0.39,ok
+2025-08,Madrid,,11.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,7.4,AC,"1,7€/kWh",1.7,ok
+2025-08,Madrid,,90.0,DC,"0,62€/kWh",0.62,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,48€/kWh + 3,3€/hour + parking fee",0.48,ok
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,7.4,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,2.3,AC,Free,,free
+2025-08,Madrid,,7.4,AC,Free,,free
+2025-08,Madrid,,50.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,50.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,43.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,4.6,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,100.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,7.4,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,7.4,AC,"0,38€/kWh",0.38,ok
+2025-08,Madrid,,30.0,DC,"0,38€/kWh",0.38,ok
+2025-08,Madrid,,30.0,DC,"0,38€/kWh",0.38,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,43.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,80.0,DC,"0,45€/kWh DC - 0,35€/kWh AC ",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh DC - 0,35€/kWh AC ",0.45,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,43.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,7.2,AC,0.45€,,no_kwh
+2025-08,Madrid,,7.4,AC,"0,35€/kWh",0.35,ok
+2025-08,Madrid,,2.3,AC,,,empty
+2025-08,Madrid,,7.4,AC,"0,13-0,21€/kWh",0.21,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,"0,40€/kWh",0.4,ok
+2025-08,Madrid,,22.0,AC,free,,free
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,40€/kWh AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh DC - 0,40€/kWh AC",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,40€/kWh AC",0.45,ok
+2025-08,Madrid,,7.4,AC,"0,45€/kWh DC - 0,40€/kWh AC",0.45,ok
+2025-08,Madrid,,7.0,AC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,20.0,AC,,,no_kwh
+2025-08,Madrid,,120.0,DC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,22.0,AC,free,,free
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,60.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,150.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,7.4,AC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,150.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,7.4,AC," 0,35€/kWh",0.35,ok
+2025-08,Madrid,,180.0,DC,"0,47€/kWh DC - 0,35€/kWh AC",0.47,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,50.0,DC," 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,50.0,DC," 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,250.0,DC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,150.0,DC,0.59€/kWh,0.59,ok
+2025-08,Madrid,,7.4,AC,"0,31€/kWh",0.31,ok
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,3.7,AC,charging free + parking fee,,free
+2025-08,Madrid,,3.7,AC,charging free + parking fee,,free
+2025-08,Madrid,,3.7,AC,charging free + parking fee,,free
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,42€/kWh AC ",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,22.0,AC,free,,free
+2025-08,Madrid,,100.0,DC,"0,55€/kWh DC 0,39€/kWh AC",0.55,ok
+2025-08,Madrid,,22.0,AC,"0,55€/kWh DC 0,39€/kWh AC",0.55,ok
+2025-08,Madrid,,22.0,AC,"0,38€/kWh (0,03€/min parked without charging)",0.38,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Madrid,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,7.0,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,80.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-08,Madrid,,50.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-08,Madrid,,11.0,AC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,150.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,150.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,7.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,free,,free
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,22.0,AC,"0,43€/kWh (0,05€/min parked without charging)",0.43,ok
+2025-08,Madrid,,150.0,DC,"0,65€/kWh >150kW - 0,55€/kWh >60kW - 0,45€/kWh DC - 0,39€/kWh AC ",0.65,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,7.4,AC,free,,free
+2025-08,Madrid,,200.0,DC,"0,49€/kWh",0.49,ok
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,150.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,150.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,22.0,AC,"0,43€/kWh AC",0.43,ok
+2025-08,Madrid,,150.0,DC,"0,43€/kWh AC",0.43,ok
+2025-08,Madrid,,150.0,DC,0.59€/kWh,0.59,ok
+2025-08,Madrid,,200.0,DC,"0,58€/kWh DC >60kW (0,40€/min parked without charging)",0.58,ok
+2025-08,Madrid,,150.0,DC,"0,58€/kWh DC >60kW (0,40€/min parked without charging)",0.58,ok
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,7.0,AC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,43.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,150.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,150.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,6.4,AC,"0,00€/kw",,no_kwh
+2025-08,Madrid,,11.0,AC,"0,00€/kWh",,out_of_range
+2025-08,Madrid,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,100.0,DC,"0,54€/kWh",0.54,ok
+2025-08,Madrid,,100.0,DC,"0,54€/kWh",0.54,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,120.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-08,Madrid,,7.4,AC,"0,40€/kWh",0.4,ok
+2025-08,Madrid,,300.0,DC,"0,59€/kWh ",0.59,ok
+2025-08,Madrid,,80.0,DC,"0,59€/kWh ",0.59,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,11.0,AC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,7.4,AC,"0,35€/kWh",0.35,ok
+2025-08,Madrid,,11.0,AC,"0,30€/kWh + parking fee",0.3,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,11.0,AC,"0,30€/kWh + parking fee",0.3,ok
+2025-08,Madrid,,7.4,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,"0,30€/kWh + parking fee",0.3,ok
+2025-08,Madrid,,17.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Madrid,,120.0,DC,"0,60€/kWh ",0.6,ok
+2025-08,Madrid,,50.0,DC,"0,60€/kWh ",0.6,ok
+2025-08,Madrid,,120.0,DC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,60.0,DC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,60.0,DC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,2.76,AC,,,empty
+2025-08,Madrid,,350.0,DC,"0,65€/kWh (or subscription rates) ",0.65,ok
+2025-08,Madrid,,300.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Madrid,,500.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Madrid,,300.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,7.4,AC,free,,free
+2025-08,Madrid,,22.0,AC,free,,free
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,50.0,DC,"0,45€/kWh 50kW/AC43 - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh 50kW/AC43 - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,43.0,DC,"0,45€/kWh 50kW/AC43 - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh 50kW/AC43 - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,7.4,AC,"0,38€/kWh",0.38,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,50.0,DC,"0,40€/kWh DC - 0,30€/kWh AC",0.4,ok
+2025-08,Madrid,,50.0,DC,"0,40€/kWh DC - 0,30€/kWh AC",0.4,ok
+2025-08,Madrid,,43.0,DC,"0,40€/kWh DC - 0,30€/kWh AC",0.4,ok
+2025-08,Madrid,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,100.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,40€/kWh DC - 0,30€/kWh AC",0.4,ok
+2025-08,Madrid,,50.0,DC,"0,40€/kWh DC - 0,30€/kWh AC",0.4,ok
+2025-08,Madrid,,43.0,DC,"0,40€/kWh DC - 0,30€/kWh AC",0.4,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,39€/kWh AC ",0.39,ok
+2025-08,Madrid,,150.0,DC,0.62€/kWh,0.62,ok
+2025-08,Madrid,,7.4,AC,free,,free
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,7.4,AC,"0,13-0,21€/kWh",0.21,ok
+2025-08,Madrid,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Madrid,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,3.7,AC,"0,40€/kWh + parking",0.4,ok
+2025-08,Madrid,,22.0,AC,"0,40€/kWh + parking",0.4,ok
+2025-08,Madrid,,7.0,AC,"0,39€/kWh AC ",0.39,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Madrid,,22.0,AC,"0,47€/kWh ",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,2.3,AC,,,empty
+2025-08,Madrid,,30.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,7.0,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,150.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,"0,38€/kWh + parking fee",0.38,ok
+2025-08,Madrid,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,,,,,empty
+2025-08,Madrid,,100.0,DC,"0,56€/kWh 150kW - 0,42€/kWh 50 kW - 0,38€/kWh AC",0.56,ok
+2025-08,Madrid,,50.0,DC,"0,56€/kWh 150kW - 0,42€/kWh 50 kW - 0,38€/kWh AC",0.56,ok
+2025-08,Madrid,,22.0,AC,"0,56€/kWh 150kW - 0,42€/kWh 50 kW - 0,38€/kWh AC",0.56,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,25€/kWh ",0.25,ok
+2025-08,Madrid,,22.0,AC,"0,22€/kWh",0.22,ok
+2025-08,Madrid,,17.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,7.3,AC,Free,,free
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,30€/kWh AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh DC - 0,30€/kWh AC",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,30€/kWh AC",0.45,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,2.3,AC,,,empty
+2025-08,Madrid,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Madrid,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,7.4,AC,"parking fee + 0,39€/kWh",0.39,ok
+2025-08,Madrid,,7.4,AC,"0,13-0,21€/kWh",0.21,ok
+2025-08,Madrid,,3.6,AC,"0,13-0,21€/kWh",0.21,ok
+2025-08,Madrid,,3.6,AC,"0,29€/kWh",0.29,ok
+2025-08,Madrid,,7.4,AC,free,,free
+2025-08,Madrid,,50.0,DC," 0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-08,Madrid,,50.0,DC," 0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-08,Madrid,,43.0,DC," 0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-08,Madrid,,22.0,AC," 0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-08,Madrid,,100.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,38€/kWh AC - (0,03€/min parked without charging)",0.38,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,7.4,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,60.0,DC," 0,47€/kWh DC - 0,38€/kWh AC",0.47,ok
+2025-08,Madrid,,60.0,DC," 0,47€/kWh DC - 0,38€/kWh AC",0.47,ok
+2025-08,Madrid,,22.0,AC," 0,47€/kWh DC - 0,38€/kWh AC",0.47,ok
+2025-08,Madrid,,120.0,DC," 0,47€/kWh DC - 0,38€/kWh AC",0.47,ok
+2025-08,Madrid,,80.0,DC," 0,47€/kWh DC - 0,38€/kWh AC",0.47,ok
+2025-08,Madrid,,22.0,AC," 0,47€/kWh DC - 0,38€/kWh AC",0.47,ok
+2025-08,Madrid,,3.7,AC," 0,47€/kWh DC - 0,38€/kWh AC",0.47,ok
+2025-08,Madrid,,120.0,DC,"0,55€/kWh DC- 0,39€/kWh AC + parking fee",0.55,ok
+2025-08,Madrid,,50.0,DC," 0,42€/kWh 50 kW - 0,38€/kWh AC",0.42,ok
+2025-08,Madrid,,50.0,DC," 0,42€/kWh 50 kW - 0,38€/kWh AC",0.42,ok
+2025-08,Madrid,,43.0,DC," 0,42€/kWh 50 kW - 0,38€/kWh AC",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Madrid,,7.4,AC,"0,32€/kWh",0.32,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,7.0,AC,"0,39€/kWh AC ",0.39,ok
+2025-08,Madrid,,22.0,AC,"0,38€/kWh AC - (0,03€/min parked without charging)",0.38,ok
+2025-08,Madrid,,7.4,AC,free,,free
+2025-08,Madrid,,22.0,AC,"0,25€/kWh ",0.25,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,40€/kWh AC ",0.5,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,40€/kWh AC ",0.5,ok
+2025-08,Madrid,,22.0,AC,"0,50€/kWh DC - 0,40€/kWh AC ",0.5,ok
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,38€/kWh AC - (0,03€/min parked without charging)",0.38,ok
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,40€/kWh AC ",0.5,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,40€/kWh AC ",0.5,ok
+2025-08,Madrid,,22.0,AC,"0,50€/kWh DC - 0,40€/kWh AC ",0.5,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,40€/kWh",0.4,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,11.0,AC,Free,,free
+2025-08,Madrid,,2.3,AC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,7.4,AC,"0,38€/kWh + parking fee",0.38,ok
+2025-08,Madrid,,7.4,AC,"0,16€/kWh",0.16,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,120.0,DC,"0,45 €/kWh",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45 €/kWh",0.45,ok
+2025-08,Madrid,,11.0,AC,Free,,free
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,60.0,DC,"0,48€/kWh",0.48,ok
+2025-08,Madrid,,50.0,DC,"0,53 €/kwh",0.53,ok
+2025-08,Madrid,,22.0,AC,"0,53 €/kwh",0.53,ok
+2025-08,Madrid,,50.0,DC,"0,53 €/kwh",0.53,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,7.4,AC,"0,35€/kWh",0.35,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,,,Free,,free
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,300.0,DC,"0,59€/kWh",0.59,ok
+2025-08,Madrid,,80.0,DC,"0,59€/kWh",0.59,ok
+2025-08,Madrid,,100.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Madrid,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,7.4,AC,"0,16€/kWh",0.16,ok
+2025-08,Madrid,,150.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,150.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,7.4,AC,free,,free
+2025-08,Madrid,,3.7,AC,free,,free
+2025-08,Madrid,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-08,Madrid,,150.0,DC,"0,54€/kWh",0.54,ok
+2025-08,Madrid,,50.0,DC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Madrid,,7.4,AC,"0,59€/kWh DC - 0,38€/kWh AC",0.59,ok
+2025-08,Madrid,,150.0,DC,"0,59€/kWh DC - 0,38€/kWh AC",0.59,ok
+2025-08,Madrid,,100.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,300.0,DC,"0,49€/kWh",0.49,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,50€/kWh + parking fee ",0.5,ok
+2025-08,Madrid,,11.0,AC,parking fee (10€),,no_kwh
+2025-08,Madrid,,3.7,AC,"0,20€/kWh + parking fee 2€/hour",0.2,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,22.0,AC,"0,56€/kWh DC - 0,38€/kWh AC",0.56,ok
+2025-08,Madrid,,100.0,DC,"0,56€/kWh DC - 0,38€/kWh AC",0.56,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,22.0,AC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,20.0,AC,Free,,free
+2025-08,Madrid,,20.0,AC,Free,,free
+2025-08,Madrid,,,,Free,,free
+2025-08,Madrid,,11.0,AC,"0,38€/kWh AC - (0,03€/min parked without charging)",0.38,ok
+2025-08,Madrid,,22.0,AC," 0,39€/kWh ",0.39,ok
+2025-08,Madrid,,22.0,AC,"0,55€/kWh DC - 0,31€/kWh AC",0.55,ok
+2025-08,Madrid,,22.0,AC,"0,38€/kWh AC - (0,03€/min parked without charging)",0.38,ok
+2025-08,Madrid,,22.0,AC,"0,38€/kWh +  parking fee",0.38,ok
+2025-08,Madrid,,7.4,AC,"0,38€/kWh +  parking fee",0.38,ok
+2025-08,Madrid,,11.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,38€/kWh AC - (0,03€/min parked without charging)",0.38,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Madrid,,150.0,DC,0.59€/kWh,0.59,ok
+2025-08,Madrid,,50.0,DC,"0,60 €/kWh",0.6,ok
+2025-08,Madrid,,50.0,DC,"0,60 €/kWh",0.6,ok
+2025-08,Madrid,,120.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-08,Madrid,,150.0,DC,0.59€/kWh,0.59,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,11.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,50.0,DC,"0,46€/kWh",0.46,ok
+2025-08,Madrid,,50.0,DC,"0,46€/kWh",0.46,ok
+2025-08,Madrid,,22.0,AC,"0,46€/kWh",0.46,ok
+2025-08,Madrid,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,60.0,DC,"  0,45€/kWh DC - 0,40€/kWh AC ",0.45,ok
+2025-08,Madrid,,22.0,AC,"  0,45€/kWh DC - 0,40€/kWh AC ",0.45,ok
+2025-08,Madrid,,360.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-08,Madrid,,360.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-08,Madrid,,360.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-08,Madrid,,360.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-08,Madrid,,22.0,AC,"0,10€/kWh",0.1,ok
+2025-08,Madrid,,2.3,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,3.7,AC,free,,free
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,22.0,AC,parking fee,,no_kwh
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,11.0,AC,"0,30€/kWh + parking fee",0.3,ok
+2025-08,Madrid,,11.0,AC,"0,30€/kWh + parking fee",0.3,ok
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,60.0,DC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Madrid,,22.0,AC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,60.0,DC,"0,50€/kWh DC ",0.5,ok
+2025-08,Madrid,,11.0,AC,"0,30€/kWh + parking fee",0.3,ok
+2025-08,Madrid,,22.0,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,60.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh DC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,7.4,AC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Madrid,,60.0,DC,"0,20€/kWh",0.2,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,150.0,DC,,,no_kwh
+2025-08,Madrid,,150.0,DC,"0,58€/kWh DC >60kW (0,40€/min parked without charging)",0.58,ok
+2025-08,Madrid,,3.7,AC,"0,39€/kWh + parking fee",0.39,ok
+2025-08,Madrid,,7.4,AC,"0,35€/kW",,no_kwh
+2025-08,Madrid,,15.0,AC,,,no_kwh
+2025-08,Madrid,,15.0,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,300.0,DC,"0,49€/kWh",0.49,ok
+2025-08,Madrid,,7.4,AC,free,,free
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,free,,free
+2025-08,Madrid,,7.4,AC,free,,free
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,7.4,AC," 0,54€/kWh 80-200kW - 0,45€/kWh DC50kW - 0,39€/kWh  AC",0.54,ok
+2025-08,Madrid,,150.0,DC," 0,54€/kWh 80-200kW - 0,45€/kWh DC50kW - 0,39€/kWh  AC",0.54,ok
+2025-08,Madrid,,150.0,DC," 0,54€/kWh 80-200kW - 0,45€/kWh DC50kW - 0,39€/kWh  AC",0.54,ok
+2025-08,Madrid,,50.0,DC," 0,54€/kWh 80-200kW - 0,45€/kWh DC50kW - 0,39€/kWh  AC",0.54,ok
+2025-08,Madrid,,50.0,DC," 0,54€/kWh 80-200kW - 0,45€/kWh DC50kW - 0,39€/kWh  AC",0.54,ok
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,11.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,50.0,DC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,50.0,DC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,43.0,DC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,2.3,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,7.4,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,60.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,60.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,150.0,DC,0.59€/kWh,0.59,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,38€/kWh AC - (0,03€/min parked without charging)",0.38,ok
+2025-08,Madrid,,120.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,38€/kWh AC - (0,03€/min parked without charging)",0.38,ok
+2025-08,Madrid,,7.4,AC,free,,free
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,2.3,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,"€0,47/kWh",,no_kwh
+2025-08,Madrid,,50.0,DC,"€0,47/kWh",,no_kwh
+2025-08,Madrid,,43.65,DC,"€0,47/kWh",,no_kwh
+2025-08,Madrid,,60.0,DC,"0,5€/kWh",0.5,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,7.0,AC,"0,39€/kWh AC ",0.39,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,11.0,AC,"0,16€/kw más IVA",,no_kwh
+2025-08,Madrid,,150.0,DC," 0,55€/kWh DC - 0,40€/kWh AC ",0.55,ok
+2025-08,Madrid,,22.0,AC," 0,55€/kWh DC - 0,40€/kWh AC ",0.55,ok
+2025-08,Madrid,,400.0,DC,,,empty
+2025-08,Madrid,,400.0,DC,,,empty
+2025-08,Madrid,,7.4,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,180.0,DC,"0,40€/kWh ",0.4,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,180.0,DC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,7.4,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,150.0,DC,0.59€/kWh,0.59,ok
+2025-08,Madrid,,60.0,DC,"0,20€/kWh",0.2,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,100.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,100.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,150.0,DC,"0,65€/kWh >150kW - 0,55€/kWh >60kW - 0,45€/kWh DC - 0,39€/kWh AC ",0.65,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,60.0,DC,"0,40€/kWh",0.4,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,22.0,AC,"app Waylet(Repsol). 90' free parking, then at 0,07€/min",,per_minute
+2025-08,Madrid,,60.0,DC,"0,42€/kWh DC - 0,39€/kWh AC",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh DC - 0,39€/kWh AC",0.42,ok
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,400.0,DC,"0,65€/kWh (or subscription rates) ",0.65,ok
+2025-08,Madrid,,180.0,DC,"0,46€/kWh",0.46,ok
+2025-08,Madrid,,50.0,DC," 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,50.0,DC," 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,22.0,AC," 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,4.6,AC,0,,no_kwh
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,300.0,DC,"0,49€/kWh",0.49,ok
+2025-08,Madrid,,150.0,DC,"0,54€/kWh DC - 0,38€/kWh AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,54€/kWh DC - 0,38€/kWh AC",0.54,ok
+2025-08,Madrid,,120.0,DC,"0,54€/kWh DC - 0,38€/kWh AC",0.54,ok
+2025-08,Madrid,,60.0,DC,"0,36€/kWh",0.36,ok
+2025-08,Madrid,,300.0,DC,,,empty
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,Gratis - Free,,free
+2025-08,Madrid,,22.0,AC,Gratis - Free,,free
+2025-08,Madrid,,22.0,AC,Gratis - Free,,free
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,90.0,DC,"0,40€/kWh",0.4,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,3.7,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,100.0,DC,"0,55€/kWh",0.55,ok
+2025-08,Madrid,,80.0,DC,"0,55€/kWh",0.55,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,43.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,250.0,DC,,,empty
+2025-08,Madrid,,22.0,AC,"0,58€/kWh D C>60kW - 0,38€/kWh AC - (0,40€/min DC / 0,03€/min AC parked without charging)",0.58,ok
+2025-08,Madrid,,150.0,DC,"0,58€/kWh D C>60kW - 0,38€/kWh AC - (0,40€/min DC / 0,03€/min AC parked without charging)",0.58,ok
+2025-08,Madrid,,60.0,DC,"0,58€/kWh D C>60kW - 0,38€/kWh AC - (0,40€/min DC / 0,03€/min AC parked without charging)",0.58,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,0.49€/kWh ,0.49,ok
+2025-08,Madrid,,50.0,DC,0.49€/kWh ,0.49,ok
+2025-08,Madrid,,22.0,AC,0.49€/kWh ,0.49,ok
+2025-08,Madrid,,60.0,DC,"0,60€/kWh DC - 0,45€/kWh AC",0.6,ok
+2025-08,Madrid,,11.0,AC,"0,60€/kWh DC - 0,45€/kWh AC",0.6,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,50.0,DC,"0,42€/kWh 50 kW - 0,38€/kWh AC",0.42,ok
+2025-08,Madrid,,50.0,DC,"0,42€/kWh 50 kW - 0,38€/kWh AC",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh 50 kW - 0,38€/kWh AC",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,58€/kWh",0.58,ok
+2025-08,Madrid,,22.0,AC,"0,39€/kWh AC",0.39,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,150.0,DC,"0,54€/kWh ",0.54,ok
+2025-08,Madrid,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,50.0,DC," 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,50.0,DC," 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Madrid,,7.4,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,7.4,AC,free,,free
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,58€/kWh",0.58,ok
+2025-08,Madrid,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-08,Madrid,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,43.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,22.0,AC,"0,38€/kWh AC - (0,03€/min parked without charging)",0.38,ok
+2025-08,Madrid,,100.0,DC,"0,78€/kWh",0.78,ok
+2025-08,Madrid,,22.0,AC,"0,38€/kWh AC - (0,03€/min parked without charging)",0.38,ok
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,43.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,11.0,AC,free,,free
+2025-08,Madrid,,22.0,AC,"0,38€/kWh AC - (0,03€/min parked without charging)",0.38,ok
+2025-08,Madrid,,50.0,DC," 0,45€/kWh DC50kW/AC43kW ",0.45,ok
+2025-08,Madrid,,50.0,DC," 0,45€/kWh DC50kW/AC43kW ",0.45,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh ",0.25,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,36.0,DC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Madrid,,43.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Madrid,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,25€/kWh ",0.25,ok
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,150.0,DC,"0,58€/kWh DC >60kW (0,40€/min parked without charging)",0.58,ok
+2025-08,Madrid,,150.0,DC,"0,55€/kWh DC - 0,40€/kWh AC",0.55,ok
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,150.0,DC,0.54€/kWh,0.54,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh DC",0.45,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,11.0,AC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh",0.42,ok
+2025-08,Madrid,,150.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,7.0,AC,"0,39€/kWh AC ",0.39,ok
+2025-08,Madrid,,150.0,DC,"0,46€/kWh",0.46,ok
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC," 0,42€/kWh DC, AC: 0,38€/kWh",0.42,ok
+2025-08,Madrid,,50.0,DC," 0,42€/kWh DC, AC: 0,38€/kWh",0.42,ok
+2025-08,Madrid,,22.0,AC," 0,42€/kWh DC, AC: 0,38€/kWh",0.42,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,empty
+2025-08,Madrid,,180.0,DC,"0,60€/kWh DC",0.6,ok
+2025-08,Madrid,,50.0,DC,"0,42€/kWh",0.42,ok
+2025-08,Madrid,,50.0,DC,"0,42€/kWh",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh",0.42,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,"0,49€/kWh DC - 0,40€/kWh AC",0.49,ok
+2025-08,Madrid,,50.0,DC,"0,49€/kWh DC - 0,40€/kWh AC",0.49,ok
+2025-08,Madrid,,22.0,AC,"0,49€/kWh DC - 0,40€/kWh AC",0.49,ok
+2025-08,Madrid,,7.4,AC,"0,49€/kWh DC - 0,40€/kWh AC",0.49,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Madrid,,150.0,DC,0.59€/kWh,0.59,ok
+2025-08,Madrid,,80.0,DC,0.59€/kWh,0.59,ok
+2025-08,Madrid,,100.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Madrid,,50.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,43.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,150.0,DC,"0,59€/kWh DC - 0,39€/kWh AC ",0.59,ok
+2025-08,Madrid,,22.0,AC,"0,59€/kWh DC - 0,39€/kWh AC ",0.59,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Madrid,,7.4,AC,"0,25€/kWh ",0.25,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,7.0,AC,"0,37€/kWh",0.37,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,2.3,AC,,,no_kwh
+2025-08,Madrid,,400.0,DC,"0,55€/kWh DC - 0,40€/kWh AC",0.55,ok
+2025-08,Madrid,,7.4,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,100.0,DC," 0,56€/kWh DC - 0,38€/kWh AC",0.56,ok
+2025-08,Madrid,,22.0,AC," 0,56€/kWh DC - 0,38€/kWh AC",0.56,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,2.4,AC,,,empty
+2025-08,Madrid,,7.4,AC,"0,37-0,50€/kWh",0.5,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,,,,,empty
+2025-08,Madrid,,,,,,empty
+2025-08,Madrid,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,120.0,DC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,60.0,DC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"app Waylet(Repsol). 90' free parking, then at 0,07€/min",,per_minute
+2025-08,Madrid,,400.0,DC,,,empty
+2025-08,Madrid,,400.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,22.0,AC,"0,38€/kWh AC - (0,03€/min parked without charging)",0.38,ok
+2025-08,Madrid,,50.0,DC,"0,42€/kWh 50 kW - 0,38€/kWh AC",0.42,ok
+2025-08,Madrid,,50.0,DC,"0,42€/kWh 50 kW - 0,38€/kWh AC",0.42,ok
+2025-08,Madrid,,43.0,DC,"0,42€/kWh 50 kW - 0,38€/kWh AC",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,43.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,100.0,DC,"0,60€/kWh DC - 0,40€/kWh AC",0.6,ok
+2025-08,Madrid,,22.0,AC,"0,60€/kWh DC - 0,40€/kWh AC",0.6,ok
+2025-08,Madrid,,100.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Madrid,,50.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Madrid,,150.0,DC,"0,40€/kWh ",0.4,ok
+2025-08,Madrid,,150.0,DC,0.59€/kWh,0.59,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,150.0,DC,"0,55€/kWh",0.55,ok
+2025-08,Madrid,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,320.0,DC,"0,69€/kWh",0.69,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,36€/kWh",0.36,ok
+2025-08,Madrid,,100.0,DC,"0,54€/kWh",0.54,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,11.0,AC,free,,free
+2025-08,Madrid,,50.0,DC,0.41€/kWh,0.41,ok
+2025-08,Madrid,,50.0,DC,0.41€/kWh,0.41,ok
+2025-08,Madrid,,43.0,DC,0.41€/kWh,0.41,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,60.0,DC,"0,40€/kWh",0.4,ok
+2025-08,Madrid,,50.0,DC,"0,33€/kWh",0.33,ok
+2025-08,Madrid,,50.0,DC,"0,33€/kWh",0.33,ok
+2025-08,Madrid,,43.0,DC,"0,33€/kWh",0.33,ok
+2025-08,Madrid,,150.0,DC,"0,56€/kWh DC ",0.56,ok
+2025-08,Madrid,,7.4,AC,"0,45€/kWh (0,01€/min parked without charging)",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,43.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,43.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Madrid,,11.0,AC,Free,,free
+2025-08,Madrid,,22.0,AC,"0,39€/kWh + parking fee",0.39,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,150.0,DC,"0,59€/kWh DC - 0,39€/kWh AC ",0.59,ok
+2025-08,Madrid,,22.0,AC,"0,59€/kWh DC - 0,39€/kWh AC ",0.59,ok
+2025-08,Madrid,,22.0,AC,"0,39€/kWh + parking fee",0.39,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,150.0,DC,"0,59€/kWh DC - 0,39€/kWh AC ",0.59,ok
+2025-08,Madrid,,22.0,AC,"0,59€/kWh DC - 0,39€/kWh AC ",0.59,ok
+2025-08,Madrid,,60.0,DC," 0,55€/kWh DC - 0,40€/kWh AC + parking 12.5€/day",0.55,ok
+2025-08,Madrid,,22.0,AC," 0,55€/kWh DC - 0,40€/kWh AC + parking 12.5€/day",0.55,ok
+2025-08,Madrid,,22.0,AC,"0,39€/kWh + parking  fee",0.39,ok
+2025-08,Madrid,,150.0,DC," 0,59€/kWh  ",0.59,ok
+2025-08,Madrid,,22.0,AC," 0,59€/kWh DC - 0,39€/kWh AC ",0.59,ok
+2025-08,Madrid,,150.0,DC," 0,59€/kWh DC - 0,39€/kWh AC ",0.59,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Madrid,,43.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Madrid,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,120.0,DC,"0,54€/kWh DC ",0.54,ok
+2025-08,Madrid,,100.0,DC,"0,54€/kWh DC ",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,150.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,150.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,60.0,DC,"0,40€/kWh",0.4,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,150.0,DC,"0,59€/kWh DC - 0,39€/kWh AC ",0.59,ok
+2025-08,Madrid,,22.0,AC,"0,59€/kWh DC - 0,39€/kWh AC ",0.59,ok
+2025-08,Madrid,,150.0,DC,"0,58€/kWh DC >60kW (0,40€/min parked without charging)",0.58,ok
+2025-08,Madrid,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Madrid,,43.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Madrid,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,7.0,AC,"0,39€/kWh AC ",0.39,ok
+2025-08,Madrid,,22.0,AC,"0,38€/kWh AC - (0,03€/min parked without charging)",0.38,ok
+2025-08,Madrid,,60.0,DC,"0,40€/kWh",0.4,ok
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,150.0,DC,"0,55€/kWh",0.55,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,2.3,AC,,,no_kwh
+2025-08,Madrid,,360.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-08,Madrid,,360.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,100.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,22.0,AC,"0,35€/kWh AC",0.35,ok
+2025-08,Madrid,,3.7,AC,Free,,free
+2025-08,Madrid,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,120.0,DC,"0,48€/kWh",0.48,ok
+2025-08,Madrid,,120.0,DC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,60.0,DC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,11.0,AC,0,,no_kwh
+2025-08,Madrid,,60.0,DC," 0,50€/kWh DC - 0,35€/kWh AC ",0.5,ok
+2025-08,Madrid,,50.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,50.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,43.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,22.0,AC,0,,no_kwh
+2025-08,Madrid,,22.0,AC,Free,,free
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,50.0,DC,,,no_kwh
+2025-08,Madrid,,50.0,DC,,,no_kwh
+2025-08,Madrid,,43.0,DC,,,no_kwh
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,7.0,AC,"0,39€/kWh AC ",0.39,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,150.0,DC,"0,45€/kWh DC - 0,32€/kWh AC",0.45,ok
+2025-08,Madrid,,22.0,AC,"0,45€/kWh DC - 0,32€/kWh AC",0.45,ok
+2025-08,Madrid,,350.0,DC,"0,65€/kWh (or subscription rates) ",0.65,ok
+2025-08,Madrid,,11.0,AC,"0,25€/kWh AC",0.25,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,2.3,AC,,,empty
+2025-08,Madrid,,300.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,300.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,25€/kwh ",0.25,ok
+2025-08,Madrid,,22.0,AC,"0,20€/kWh",0.2,ok
+2025-08,Madrid,,11.0,AC,free,,free
+2025-08,Madrid,,3.7,AC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,43.0,DC,,,empty
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,43.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Madrid,,5.3,AC,,,no_kwh
+2025-08,Madrid,,2.3,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,11.0,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,"0,32€/kWh AC",0.32,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,60.0,DC,"0,39€/kWh DC - 0,29€/kWh AC + parking fee",0.39,ok
+2025-08,Madrid,,22.0,AC,"0,39€/kWh DC - 0,29€/kWh AC + parking fee",0.39,ok
+2025-08,Madrid,,60.0,DC,"0,39€/kWh DC - 0,29€/kWh AC + parking fee",0.39,ok
+2025-08,Madrid,,60.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,60.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Madrid,,7.4,AC,"0,40€/kWh",0.4,ok
+2025-08,Madrid,,7.4,AC,"0,40€/kWh",0.4,ok
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,Free,,free
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,50.0,DC,,,empty
+2025-08,Madrid,,43.0,DC,,,empty
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh",0.42,ok
+2025-08,Madrid,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Madrid,,11.0,AC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,7.4,AC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,7.4,AC,"0,30€/kWh",0.3,ok
+2025-08,Madrid,,60.0,DC,"0,40€/kWh DC - 0,32€/kWh AC",0.4,ok
+2025-08,Madrid,,7.4,AC,"0,40€/kWh DC - 0,32€/kWh AC",0.4,ok
+2025-08,Madrid,,22.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,11.0,AC,"0,41€/kWh AC",0.41,ok
+2025-08,Madrid,,350.0,DC,"0,64€/kW",,no_kwh
+2025-08,Madrid,,100.0,DC,"0,64€/kW",,no_kwh
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,2.3,AC,,,no_kwh
+2025-08,Madrid,,7.4,AC,free,,free
+2025-08,Madrid,,2.3,AC,free,,free
+2025-08,Madrid,,7.4,AC,,,no_kwh
+2025-08,Madrid,,2.3,AC,,,no_kwh
+2025-08,Madrid,,4.7,AC,,,no_kwh
+2025-08,Madrid,,2.3,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,36€/kWh",0.36,ok
+2025-08,Madrid,,22.0,AC,"0,387€/kWh",0.387,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,130.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Madrid,,50.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Madrid,,22.0,AC,"0,20€/kWh",0.2,ok
+2025-08,Madrid,,11.0,AC,10€,,no_kwh
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,20€/kWh",0.2,ok
+2025-08,Madrid,,7.4,AC,"0,38€/kWh",0.38,ok
+2025-08,Madrid,,22.0,AC,"0,36€/kWh",0.36,ok
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,11.0,AC,,,empty
+2025-08,Madrid,,22.0,AC,"0,22€/kWh",0.22,ok
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,22€/kWh",0.22,ok
+2025-08,Madrid,,100.0,DC,"0,54€/kWh ",0.54,ok
+2025-08,Madrid,,3.7,AC,"0,45€/kWh AC",0.45,ok
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,"0,48€/kWh DC 50 kW -  0,38€/kWh AC",0.48,ok
+2025-08,Madrid,,50.0,DC,"0,48€/kWh DC 50 kW -  0,38€/kWh AC",0.48,ok
+2025-08,Madrid,,22.0,AC,"0,48€/kWh DC 50 kW -  0,38€/kWh AC",0.48,ok
+2025-08,Madrid,,50.0,DC,"0,41€/kWh ",0.41,ok
+2025-08,Madrid,,50.0,DC,"0,41€/kWh ",0.41,ok
+2025-08,Madrid,,43.0,DC,"0,41€/kWh ",0.41,ok
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,150.0,DC,"0,55€/kWh >150kW - 0,49€/kWh >60kW - 0,40€/kWh DC - 0,35€/kWh AC ",0.55,ok
+2025-08,Madrid,,150.0,DC,"0,55€/kWh >150kW - 0,49€/kWh >60kW - 0,40€/kWh DC - 0,35€/kWh AC ",0.55,ok
+2025-08,Madrid,,22.0,AC,"0,55€/kWh >150kW - 0,49€/kWh >60kW - 0,40€/kWh DC - 0,35€/kWh AC ",0.55,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,2.3,AC,,,no_kwh
+2025-08,Madrid,,3.7,AC,,,no_kwh
+2025-08,Madrid,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-08,Madrid,,22.0,AC,,,no_kwh
+2025-08,Madrid,,22.0,AC,"0,25€/kWh",0.25,ok

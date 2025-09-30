@@ -1,0 +1,342 @@
+month,provincia,operator,power_kW,band,usagecost_original,parsed,reason
+2025-01,Huelva,,60.0,DC," 0,45€/kWh DC",0.45,ok
+2025-01,Huelva,,22.0,AC," 0,45€/kWh DC",0.45,ok
+2025-01,Huelva,,22.0,AC,,,no_kwh
+2025-01,Huelva,,3.7,AC,,,no_kwh
+2025-01,Huelva,,11.0,AC,,,no_kwh
+2025-01,Huelva,,50.0,DC,"0.48€/kWh Dc - 0,41€/kWh AC",0.48,ok
+2025-01,Huelva,,50.0,DC,"0.48€/kWh Dc - 0,41€/kWh AC",0.48,ok
+2025-01,Huelva,,22.0,AC,"0.48€/kWh Dc - 0,41€/kWh AC",0.48,ok
+2025-01,Huelva,,50.0,DC,0.45€/kWh ,0.45,ok
+2025-01,Huelva,,50.0,DC,0.45€/kWh ,0.45,ok
+2025-01,Huelva,,22.0,AC,0.45€/kWh ,0.45,ok
+2025-01,Huelva,,11.0,AC,,,empty
+2025-01,Huelva,,60.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Huelva,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Huelva,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Huelva,,22.0,AC,,,no_kwh
+2025-01,Huelva,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Huelva,,11.0,AC,"0,35€/kWh",0.35,ok
+2025-01,Huelva,,22.0,AC,,,empty
+2025-01,Huelva,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Huelva,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Huelva,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Huelva,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Huelva,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-01,Huelva,,22.0,AC,,,no_kwh
+2025-01,Huelva,,11.0,AC,,,empty
+2025-01,Huelva,,11.0,AC,,,empty
+2025-01,Huelva,,22.0,AC,"0,38€/kWh AC - (0,03€/min parked without charging)",0.38,ok
+2025-01,Huelva,,11.0,AC,,,no_kwh
+2025-01,Huelva,,22.0,AC,,,no_kwh
+2025-01,Huelva,,7.4,AC,,,empty
+2025-01,Huelva,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Huelva,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Huelva,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Huelva,,50.0,DC,"0,45€/kWh DC - 0,29€/kWh AC",0.45,ok
+2025-01,Huelva,,50.0,DC,"0,45€/kWh DC - 0,29€/kWh AC",0.45,ok
+2025-01,Huelva,,22.0,AC,"0,45€/kWh DC - 0,29€/kWh AC",0.45,ok
+2025-01,Huelva,,22.0,AC,,,no_kwh
+2025-01,Huelva,,3.7,AC,,,no_kwh
+2025-01,Huelva,,22.0,AC,,,no_kwh
+2025-01,Huelva,,3.7,AC,,,no_kwh
+2025-01,Huelva,,7.4,AC,"0,90€/kWh",0.9,ok
+2025-01,Huelva,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-01,Huelva,,22.0,AC,"0,45€/kWh",0.45,ok
+2025-01,Huelva,,3.7,AC,,,empty
+2025-01,Huelva,,3.7,AC,,,empty
+2025-01,Huelva,,22.0,AC,.30€ plus 19€ to park,,no_kwh
+2025-01,Huelva,,7.4,AC,,,empty
+2025-01,Huelva,,22.0,AC,10 euros/night,,no_kwh
+2025-01,Huelva,,4.0,AC,10 euros/night,,no_kwh
+2025-01,Huelva,,3.7,AC,,,empty
+2025-01,Huelva,,3.7,AC,,,no_kwh
+2025-01,Huelva,,3.7,AC,,,no_kwh
+2025-01,Huelva,,22.0,AC,0.25€/kWh + 9€/h after 250' charging,0.25,ok
+2025-01,Huelva,,22.0,AC,,,no_kwh
+2025-01,Huelva,,3.7,AC,,,no_kwh
+2025-01,Huelva,,22.0,AC,"0,26€/kWh",0.26,ok
+2025-01,Huelva,,3.7,AC,"0,26€/kWh",0.26,ok
+2025-01,Huelva,,22.0,AC,"0,26€/kWh",0.26,ok
+2025-01,Huelva,,3.7,AC,"0,26€/kWh",0.26,ok
+2025-01,Huelva,,3.7,AC,,,no_kwh
+2025-01,Huelva,,22.0,AC,"0,26€/kWh",0.26,ok
+2025-01,Huelva,,3.7,AC,"0,26€/kWh",0.26,ok
+2025-01,Huelva,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Huelva,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Huelva,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Huelva,,100.0,DC,"0,50€/kWh >60kW - 0,39€/kWh 50kW - 0,32€/kWh AC",0.5,ok
+2025-01,Huelva,,50.0,DC,"0,50€/kWh >60kW - 0,39€/kWh 50kW - 0,32€/kWh AC",0.5,ok
+2025-01,Huelva,,22.0,AC,"0,50€/kWh >60kW - 0,39€/kWh 50kW - 0,32€/kWh AC",0.5,ok
+2025-01,Huelva,,50.0,DC,"0,42€/kWh 50 kW - 0,38€/kWh AC",0.42,ok
+2025-01,Huelva,,50.0,DC,"0,42€/kWh 50 kW - 0,38€/kWh AC",0.42,ok
+2025-01,Huelva,,22.0,AC,"0,42€/kWh 50 kW - 0,38€/kWh AC",0.42,ok
+2025-01,Huelva,,3.7,AC,,,empty
+2025-01,Huelva,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Huelva,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Huelva,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Huelva,,22.0,AC,"0,40€/kWh",0.4,ok
+2025-01,Huelva,,400.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-01,Huelva,,22.0,AC,"0,40€/kWh",0.4,ok
+2025-01,Huelva,,22.0,AC,"0,40€/kWh",0.4,ok
+2025-01,Huelva,,22.0,AC,"0,40€/kWh",0.4,ok
+2025-01,Huelva,,11.0,AC,"0,45€/kWh",0.45,ok
+2025-01,Huelva,,22.0,AC,free,,free
+2025-01,Huelva,,22.0,AC,"0,28€/kWh",0.28,ok
+2025-01,Huelva,,22.0,AC,free,,free
+2025-01,Huelva,,22.0,AC,,,no_kwh
+2025-01,Huelva,,22.0,AC,,,no_kwh
+2025-01,Huelva,,22.0,AC,"0,45€/kWh",0.45,ok
+2025-01,Huelva,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Huelva,,3.7,AC,,,no_kwh
+2025-01,Huelva,,22.0,AC,"0,28€/kWh",0.28,ok
+2025-01,Huelva,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Huelva,,22.0,AC,"0,25€/kWh AC",0.25,ok
+2025-01,Huelva,,22.0,AC,"0,39€/kWh AC ",0.39,ok
+2025-01,Huelva,,22.0,AC,"0,28€/kWh",0.28,ok
+2025-01,Huelva,,11.0,AC,,,no_kwh
+2025-01,Huelva,,11.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Huelva,,22.0,AC,"0,28€/kWh",0.28,ok
+2025-01,Huelva,,22.0,AC,"0,28€/kWh",0.28,ok
+2025-01,Huelva,,22.0,AC,free,,free
+2025-01,Huelva,,3.7,AC,,,no_kwh
+2025-01,Huelva,,3.7,AC,,,no_kwh
+2025-01,Huelva,,22.0,AC,"0,28€/kWh",0.28,ok
+2025-01,Huelva,,22.0,AC,"0,45€/kWh",0.45,ok
+2025-01,Huelva,,7.0,AC,free,,free
+2025-01,Huelva,,22.0,AC,free,,free
+2025-01,Huelva,,3.7,AC,,,no_kwh
+2025-01,Huelva,,22.0,AC,"0,24€/kWh",0.24,ok
+2025-01,Huelva,,7.4,AC,"0,24€/kWh",0.24,ok
+2025-01,Huelva,,22.0,AC,free,,free
+2025-01,Huelva,,50.0,DC,free,,free
+2025-01,Huelva,,50.0,DC,free,,free
+2025-01,Huelva,,43.0,DC,free,,free
+2025-01,Huelva,,3.7,AC,Free.  Limited to 1 hour. Accessible during business hours,,free
+2025-01,Huelva,,3.7,AC,,,no_kwh
+2025-01,Huelva,,3.7,AC,,,no_kwh
+2025-01,Huelva,,11.0,AC,free,,free
+2025-01,Huelva,,22.0,AC,"0,28€/kWh",0.28,ok
+2025-01,Huelva,,22.0,AC,"0,28€/kWh",0.28,ok
+2025-01,Huelva,,7.4,AC,,,no_kwh
+2025-01,Huelva,,22.0,AC,"0,45€/kWh",0.45,ok
+2025-01,Huelva,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Huelva,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Huelva,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Huelva,,22.0,AC,free,,free
+2025-01,Huelva,,7.4,AC,,,no_kwh
+2025-01,Huelva,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-01,Huelva,,22.0,AC,0.40 €/kWh,0.4,ok
+2025-01,Huelva,,22.0,AC,0.40 €/kWh,0.4,ok
+2025-01,Huelva,,22.0,AC,"0,45€/kWh AC",0.45,ok
+2025-01,Huelva,,22.0,AC,free,,free
+2025-01,Huelva,,350.0,DC,"0,65€/kWh (or subscription rates) ",0.65,ok
+2025-01,Huelva,,22.0,AC,"0,40€/kWh",0.4,ok
+2025-01,Huelva,,3.7,AC,,,empty
+2025-01,Huelva,,11.0,AC,free,,free
+2025-01,Huelva,,350.0,DC,"0,65€/kWh (or subscription rates) ",0.65,ok
+2025-01,Huelva,,22.0,AC,free,,free
+2025-01,Huelva,,22.0,AC,,,no_kwh
+2025-01,Huelva,,11.0,AC,free,,free
+2025-01,Huelva,,11.0,AC,free,,free
+2025-01,Huelva,,30.0,DC," 0,39€/kWh ",0.39,ok
+2025-01,Huelva,,22.0,AC,,,no_kwh
+2025-01,Huelva,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Huelva,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Huelva,,43.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Huelva,,22.0,AC,"0,58€/kWh D C>60kW - 0,38€/kWh AC - (0,40€/min DC / 0,03€/min AC parked without charging)",0.58,ok
+2025-01,Huelva,,150.0,DC,"0,58€/kWh D C>60kW - 0,38€/kWh AC - (0,40€/min DC / 0,03€/min AC parked without charging)",0.58,ok
+2025-01,Huelva,,3.7,AC,,,no_kwh
+2025-01,Huelva,,3.7,AC,,,no_kwh
+2025-01,Huelva,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-01,Huelva,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-01,Huelva,,50.0,DC,,,empty
+2025-01,Huelva,,22.0,AC,"0,22€/kWh",0.22,ok
+2025-01,Huelva,,3.7,AC,"0,22€/kWh",0.22,ok
+2025-01,Huelva,,11.0,AC,,,empty
+2025-01,Huelva,,100.0,DC,"0,54€/kWh ",0.54,ok
+2025-01,Huelva,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Huelva,,3.7,AC,Free.  Limited to 1 hour. Accessible during business hours,,free
+2025-01,Huelva,,22.0,AC,,,no_kwh
+2025-01,Huelva,,22.0,AC,,,no_kwh
+2025-01,Huelva,,7.4,AC,,,no_kwh
+2025-01,Huelva,,22.0,AC,,,no_kwh
+2025-01,Huelva,,22.0,AC,,,no_kwh
+2025-01,Huelva,,3.6,AC,Free with card,,free
+2025-01,Huelva,,7.4,AC,,,empty
+2025-01,Huelva,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-01,Huelva,,43.0,DC," 0,47€/kWh ",0.47,ok
+2025-01,Huelva,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-01,Huelva,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Huelva,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-01,Huelva,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-01,Huelva,,22.0,AC,"0,22€/kWh",0.22,ok
+2025-01,Huelva,,22.0,AC,"0,22€/kWh",0.22,ok
+2025-01,Huelva,,3.7,AC,"0,22€/kWh",0.22,ok
+2025-01,Huelva,,22.0,AC," 0,39€/kWh ",0.39,ok
+2025-01,Huelva,,60.0,DC," 0,39€/kWh ",0.39,ok
+2025-01,Huelva,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Huelva,,22.0,AC,"0,22€/kWh",0.22,ok
+2025-01,Huelva,,3.7,AC,"0,22€/kWh",0.22,ok
+2025-01,Huelva,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Huelva,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Huelva,,22.0,AC,,,empty
+2025-01,Huelva,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-01,Huelva,,43.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-01,Huelva,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-01,Huelva,,22.0,AC,"0,45€/kWh AC",0.45,ok
+2025-01,Huelva,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Huelva,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-01,Huelva,,22.0,AC,,,no_kwh
+2025-01,Huelva,,22.0,AC,"0,55€/kWh DC - 0,39€/kWh AC + parking fee",0.55,ok
+2025-01,Huelva,,120.0,DC,"0,55€/kWh DC - 0,39€/kWh AC + parking fee",0.55,ok
+2025-01,Huelva,,7.4,AC,0.40€/kWh,0.4,ok
+2025-01,Huelva,,22.0,AC,"0,18€/kWh + parking fee",0.18,ok
+2025-01,Huelva,,7.4,AC,free,,free
+2025-01,Huelva,,7.4,AC,,,no_kwh
+2025-01,Huelva,,3.7,AC,,,no_kwh
+2025-01,Huelva,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Huelva,,22.0,AC,"0,45€/kWh AC",0.45,ok
+2025-01,Huelva,,22.0,AC,"0,55€/lWh - 0,39€/kWh AC + parking fee",0.39,ok
+2025-01,Huelva,,50.0,DC,"0,55€/lWh - 0,39€/kWh AC + parking fee",0.39,ok
+2025-01,Huelva,,11.0,AC,"0,25€/kWh + parking fee",0.25,ok
+2025-01,Huelva,,11.0,AC," 0,39€/kWh ",0.39,ok
+2025-01,Huelva,,22.0,AC,,,empty
+2025-01,Huelva,,22.0,AC," 0,39€/kWh ",0.39,ok
+2025-01,Huelva,,22.0,AC,,,empty
+2025-01,Huelva,,22.0,AC,free,,free
+2025-01,Huelva,,22.0,AC,,,no_kwh
+2025-01,Huelva,,22.0,AC,,,no_kwh
+2025-01,Huelva,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Huelva,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Huelva,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Huelva,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Huelva,,22.0,AC,,,no_kwh
+2025-01,Huelva,,22.0,AC,,,no_kwh
+2025-01,Huelva,,11.0,AC,,,no_kwh
+2025-01,Huelva,,11.0,AC,"0,35€/kWh",0.35,ok
+2025-01,Huelva,,11.0,AC,"0,35€/kWh",0.35,ok
+2025-01,Huelva,,22.0,AC,,,no_kwh
+2025-01,Huelva,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-01,Huelva,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-01,Huelva,,22.0,AC,"0,41€/kWh",0.41,ok
+2025-01,Huelva,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Huelva,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Huelva,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Huelva,,22.0,AC,"0,40€/kWh",0.4,ok
+2025-01,Huelva,,22.0,AC,,,no_kwh
+2025-01,Huelva,,22.0,AC,,,no_kwh
+2025-01,Huelva,,3.7,AC,,,empty
+2025-01,Huelva,,50.0,DC,,,no_kwh
+2025-01,Huelva,,3.7,AC,,,no_kwh
+2025-01,Huelva,,11.0,AC,parking fee,,no_kwh
+2025-01,Huelva,,50.0,DC,"0.48€/kWh Dc - 0,41€/kWh AC",0.48,ok
+2025-01,Huelva,,50.0,DC,"0.48€/kWh Dc - 0,41€/kWh AC",0.48,ok
+2025-01,Huelva,,22.0,AC,"0.48€/kWh Dc - 0,41€/kWh AC",0.48,ok
+2025-01,Huelva,,7.4,AC,,,empty
+2025-01,Huelva,,11.0,AC,,,empty
+2025-01,Huelva,,22.0,AC,"0,37€/kWh",0.37,ok
+2025-01,Huelva,,22.0,AC,free,,free
+2025-01,Huelva,,22.0,AC,free,,free
+2025-01,Huelva,,22.0,AC,free,,free
+2025-01,Huelva,,22.0,AC,free,,free
+2025-01,Huelva,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Huelva,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Huelva,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Huelva,,22.0,AC," 0,39€/kWh AC ",0.39,ok
+2025-01,Huelva,,22.0,AC," 0,41€/kWh AC",0.41,ok
+2025-01,Huelva,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Huelva,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Huelva,,22.0,AC,free,,free
+2025-01,Huelva,,150.0,DC,"0,69€/kWh >200kW - 0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.69,ok
+2025-01,Huelva,,50.0,DC,"0,69€/kWh >200kW - 0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.69,ok
+2025-01,Huelva,,50.0,DC,"0,69€/kWh >200kW - 0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.69,ok
+2025-01,Huelva,,22.0,AC,"0,69€/kWh >200kW - 0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.69,ok
+2025-01,Huelva,,90.0,DC,"0,55€/kWh DC 0,39€/kWh AC",0.55,ok
+2025-01,Huelva,,60.0,DC,"0,39€/kWh ",0.39,ok
+2025-01,Huelva,,22.0,AC,free,,free
+2025-01,Huelva,,3.7,AC,free,,free
+2025-01,Huelva,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Huelva,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Huelva,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Huelva,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Huelva,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Huelva,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Huelva,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Huelva,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Huelva,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Huelva,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Huelva,,22.0,AC,,,empty
+2025-01,Huelva,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Huelva,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Huelva,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Huelva,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Huelva,,7.4,AC,,,empty
+2025-01,Huelva,,50.0,DC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,Huelva,,50.0,DC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,Huelva,,22.0,AC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,Huelva,,22.0,AC,free,,free
+2025-01,Huelva,,22.0,AC,"0,39€/kwh",0.39,ok
+2025-01,Huelva,,22.0,AC,€0.20/kWh,,no_kwh
+2025-01,Huelva,,400.0,DC,"0,54 €/kWh (0,69 €/kWh 400kW)",0.54,ok
+2025-01,Huelva,,200.0,DC,"0,54 €/kWh (0,69 €/kWh 400kW)",0.54,ok
+2025-01,Huelva,,80.0,DC,"0,54 €/kWh (0,69 €/kWh 400kW)",0.54,ok
+2025-01,Huelva,,250.0,DC,,,empty
+2025-01,Huelva,,22.0,AC,free,,free
+2025-01,Huelva,,100.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-01,Huelva,,100.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-01,Huelva,,22.0,AC,"0,40€/kWh",0.4,ok
+2025-01,Huelva,,100.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-01,Huelva,,50.0,DC,"0,48€/kWh DC - 0,41€/kWh AC",0.48,ok
+2025-01,Huelva,,50.0,DC,"0,48€/kWh DC - 0,41€/kWh AC",0.48,ok
+2025-01,Huelva,,22.0,AC,"0,48€/kWh DC - 0,41€/kWh AC",0.48,ok
+2025-01,Huelva,,22.0,AC,"0,48€/kWh DC - 0,41€/kWh AC",0.48,ok
+2025-01,Huelva,,100.0,DC,"0,40€/kWh",0.4,ok
+2025-01,Huelva,,22.0,AC,"0,41€/kWh",0.41,ok
+2025-01,Huelva,,50.0,DC,0.48€/kWh ,0.48,ok
+2025-01,Huelva,,50.0,DC,0.48€/kWh ,0.48,ok
+2025-01,Huelva,,22.0,AC,0.48€/kWh ,0.48,ok
+2025-01,Huelva,,50.0,DC,,,no_kwh
+2025-01,Huelva,,11.0,AC,"0,70€/kWh",0.7,ok
+2025-01,Huelva,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Huelva,,7.4,AC,free,,free
+2025-01,Huelva,,50.0,DC,"0,56€/kWh >80kW - 0,42€/kWh 50 kW - 0,38€/kWh AC",0.56,ok
+2025-01,Huelva,,50.0,DC,"0,56€/kWh >80kW - 0,42€/kWh 50 kW - 0,38€/kWh AC",0.56,ok
+2025-01,Huelva,,43.0,DC,"0,56€/kWh >80kW - 0,42€/kWh 50 kW - 0,38€/kWh AC",0.56,ok
+2025-01,Huelva,,7.0,AC,"0,70€/kWh",0.7,ok
+2025-01,Huelva,,7.4,AC,free,,free
+2025-01,Huelva,,11.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Huelva,,22.0,AC,free,,free
+2025-01,Huelva,,22.0,AC," 0,41€/kWh AC",0.41,ok
+2025-01,Huelva,,100.0,DC,"0,50€/kWh >60kW - 0,39€/kWh 50kW - 0,32€/kWh AC",0.5,ok
+2025-01,Huelva,,50.0,DC,"0,50€/kWh >60kW - 0,39€/kWh 50kW - 0,32€/kWh AC",0.5,ok
+2025-01,Huelva,,22.0,AC,"0,50€/kWh >60kW - 0,39€/kWh 50kW - 0,32€/kWh AC",0.5,ok
+2025-01,Huelva,,50.0,DC,CCS/ CHADEMO: 0.45€/kWh // TYPE 2: 0.35€/kWh,0.45,ok
+2025-01,Huelva,,50.0,DC,CCS/ CHADEMO: 0.45€/kWh // TYPE 2: 0.35€/kWh,0.45,ok
+2025-01,Huelva,,120.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-01,Huelva,,80.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-01,Huelva,,120.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-01,Huelva,,22.0,AC,"0,54€/kWh 80-200kW - 0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-01,Huelva,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Huelva,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Huelva,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Huelva,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Huelva,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Huelva,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Huelva,,150.0,DC," 0,54€/kWh 100kW - 0,45€/kWh 50kW / AC43kW  - 0,39€/kWh 22kW AC",0.54,ok
+2025-01,Huelva,,150.0,DC," 0,54€/kWh 100kW - 0,45€/kWh 50kW / AC43kW  - 0,39€/kWh 22kW AC",0.54,ok
+2025-01,Huelva,,22.0,AC," 0,54€/kWh 100kW - 0,45€/kWh 50kW / AC43kW  - 0,39€/kWh 22kW AC",0.54,ok
+2025-01,Huelva,,50.0,DC," 0,54€/kWh 100kW - 0,45€/kWh 50kW / AC43kW  - 0,39€/kWh 22kW AC",0.54,ok
+2025-01,Huelva,,50.0,DC," 0,54€/kWh 100kW - 0,45€/kWh 50kW / AC43kW  - 0,39€/kWh 22kW AC",0.54,ok
+2025-01,Huelva,,3.7,AC,,,empty
+2025-01,Huelva,,7.4,AC,,,no_kwh
+2025-01,Huelva,,50.0,DC,"0,30€/kWh DC - 0,25€/kWh AC",0.3,ok
+2025-01,Huelva,,50.0,DC,"0,30€/kWh DC - 0,25€/kWh AC",0.3,ok
+2025-01,Huelva,,22.0,AC,"0,30€/kWh DC - 0,25€/kWh AC",0.3,ok
+2025-01,Huelva,,300.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-01,Huelva,,300.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-01,Huelva,,300.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-01,Huelva,,300.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-01,Huelva,,300.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-01,Huelva,,300.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-01,Huelva,,22.0,AC,"0,15€/kWh",0.15,ok

@@ -1,0 +1,1205 @@
+month,ccaa,operator,power_kW,band,usagecost_original,parsed,reason
+2025-09,Canarias,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-09,Canarias,,7.4,AC,"0,38€/kWh",0.38,ok
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,"0,39€/kWh",0.39,ok
+2025-09,Canarias,,11.0,AC,"0,25€/kWh",0.25,ok
+2025-09,Canarias,,50.0,DC,,,empty
+2025-09,Canarias,,3.7,AC,free,,free
+2025-09,Canarias,,11.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,empty
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,2.3,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,"0,15€/kWh",0.15,ok
+2025-09,Canarias,,3.7,AC,"0,15€/kWh",0.15,ok
+2025-09,Canarias,,11.0,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,11.0,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,11.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-09,Canarias,,60.0,DC," 0,49€/kWh  DC - 0,39€/kWh AC ",0.49,ok
+2025-09,Canarias,,22.0,AC," 0,49€/kWh  DC - 0,39€/kWh AC ",0.49,ok
+2025-09,Canarias,,100.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-09,Canarias,,50.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-09,Canarias,,22.0,AC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-09,Canarias,,11.0,AC,"0,25€/kWh",0.25,ok
+2025-09,Canarias,,7.4,AC,"0,39€/kWh",0.39,ok
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,30.0,DC,"0,39€/kWh AC",0.39,ok
+2025-09,Canarias,,22.0,AC,parking fee,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC,0.42€/kWh ,0.42,ok
+2025-09,Canarias,,50.0,DC,0.42€/kWh ,0.42,ok
+2025-09,Canarias,,43.0,DC,0.42€/kWh ,0.42,ok
+2025-09,Canarias,,3.7,AC,,,empty
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,11.0,AC,,,no_kwh
+2025-09,Canarias,,2.3,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,3.7,AC,free,,free
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,"0,40€/kWh",0.4,ok
+2025-09,Canarias,,60.0,DC,"0,38",,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,"0,42€/kWh DC - 0,33€/kWh AC ",0.42,ok
+2025-09,Canarias,,60.0,DC,"0,42€/kWh DC - 0,33€/kWh AC ",0.42,ok
+2025-09,Canarias,,150.0,DC,"0,59€/kWh DC - 0,39€/kWh AC ",0.59,ok
+2025-09,Canarias,,22.0,AC,"0,59€/kWh DC - 0,39€/kWh AC ",0.59,ok
+2025-09,Canarias,,7.0,AC,,,no_kwh
+2025-09,Canarias,,60.0,DC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,150.0,DC,0.54€/kWh,0.54,ok
+2025-09,Canarias,,150.0,DC,0.54€/kWh,0.54,ok
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,11.0,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,empty
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-09,Canarias,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-09,Canarias,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,2.3,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,22.0,AC,"0,15€/kwh",0.15,ok
+2025-09,Canarias,,22.0,AC,"0,41€/kWh",0.41,ok
+2025-09,Canarias,,11.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-09,Canarias,,50.0,DC," 0,50€/kWh DC - 0,35€/kWh AC ",0.5,ok
+2025-09,Canarias,,22.0,AC," 0,50€/kWh DC - 0,35€/kWh AC ",0.5,ok
+2025-09,Canarias,,50.0,DC," 0,50€/kWh DC - 0,35€/kWh AC ",0.5,ok
+2025-09,Canarias,,7.4,AC,"0,39€/kWh",0.39,ok
+2025-09,Canarias,,22.0,AC,"0,33€/kWh ",0.33,ok
+2025-09,Canarias,,7.4,AC,"0,40€/kWh",0.4,ok
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,10€,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,free,,free
+2025-09,Canarias,,2.3,AC,free,,free
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,43.0,DC,,,no_kwh
+2025-09,Canarias,,43.0,DC,"0,45€/kWh DC - 0,35€/kWh AC",0.45,ok
+2025-09,Canarias,,50.0,DC,"0,45€/kWh DC - 0,35€/kWh AC",0.45,ok
+2025-09,Canarias,,50.0,DC,"0,45€/kWh DC - 0,35€/kWh AC",0.45,ok
+2025-09,Canarias,,50.0,DC,Free,,free
+2025-09,Canarias,,22.0,AC,Free,,free
+2025-09,Canarias,,50.0,DC,Free,,free
+2025-09,Canarias,,22.0,AC,Free,,free
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,free,,free
+2025-09,Canarias,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-09,Canarias,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-09,Canarias,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-09,Canarias,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-09,Canarias,,180.0,DC,"0,58€/kWh DC >60kW (0,40€/min parked without charging)",0.58,ok
+2025-09,Canarias,,7.4,AC,Free,,free
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,parking fee,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-09,Canarias,,50.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-09,Canarias,,43.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,empty
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC,"0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-09,Canarias,,50.0,DC,"0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-09,Canarias,,43.0,DC,"0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-09,Canarias,,3.7,AC,Free,,free
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-09,Canarias,,7.4,AC,,,empty
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-09,Canarias,,60.0,DC,"0,62€/kWh",0.62,ok
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC," 0,49€/kWh DC - 0,40€/kWh AC ",0.49,ok
+2025-09,Canarias,,43.0,DC," 0,49€/kWh DC - 0,40€/kWh AC ",0.49,ok
+2025-09,Canarias,,50.0,DC," 0,49€/kWh DC - 0,40€/kWh AC ",0.49,ok
+2025-09,Canarias,,22.0,AC,"0,38€/kWh AC ",0.38,ok
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,360.0,DC,,,no_kwh
+2025-09,Canarias,,50.0,DC,0.42€/kWh ,0.42,ok
+2025-09,Canarias,,50.0,DC,0.42€/kWh ,0.42,ok
+2025-09,Canarias,,43.0,DC,0.42€/kWh ,0.42,ok
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,150.0,DC,"0,60€/kWh DC - 0,39€/kWh AC ",0.6,ok
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-09,Canarias,,150.0,DC,"0,59€/kWh DC - 0,39€/kWh AC",0.59,ok
+2025-09,Canarias,,22.0,AC,"0,59€/kWh DC - 0,39€/kWh AC",0.59,ok
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,150.0,DC," 0,55€/kWh DC - 0,40€/kWh AC",0.55,ok
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,Free,,free
+2025-09,Canarias,,50.0,DC," 0,45€/kWh ",0.45,ok
+2025-09,Canarias,,22.0,AC," 0,45€/kWh ",0.45,ok
+2025-09,Canarias,,50.0,DC," 0,45€/kWh ",0.45,ok
+2025-09,Canarias,,50.0,DC,"0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-09,Canarias,,50.0,DC,"0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-09,Canarias,,22.0,AC,"0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-09,Canarias,,150.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-09,Canarias,,22.0,AC,"0,15€/kWh",0.15,ok
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,"0,30€/kwh",0.3,ok
+2025-09,Canarias,,3.7,AC,,,empty
+2025-09,Canarias,,7.4,AC,"parking fee + 0,30€/kWh",0.3,ok
+2025-09,Canarias,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,43.0,DC,,,no_kwh
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-09,Canarias,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-09,Canarias,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,parking fee,,no_kwh
+2025-09,Canarias,,7.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,"0,35€/kWh + parking fee",0.35,ok
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-09,Canarias,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-09,Canarias,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-09,Canarias,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-09,Canarias,,22.0,AC,"0,24€/kWh",0.24,ok
+2025-09,Canarias,,7.4,AC,parking fee,,no_kwh
+2025-09,Canarias,,150.0,DC,,,no_kwh
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,7.0,AC,"0,39€/kWh",0.39,ok
+2025-09,Canarias,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,60.0,DC," 0,49€/kWh  DC - 0,39€/kWh AC ",0.49,ok
+2025-09,Canarias,,22.0,AC," 0,49€/kWh  DC - 0,39€/kWh AC ",0.49,ok
+2025-09,Canarias,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,90.0,DC,"0,62€/kWh",0.62,ok
+2025-09,Canarias,,7.4,AC,"0,24€/kWh",0.24,ok
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,7.0,AC,free,,free
+2025-09,Canarias,,7.4,AC,"0,22€/kWh + parking fee",0.22,ok
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,7.0,AC,free,,free
+2025-09,Canarias,,7.0,AC,"0,20€/kWh",0.2,ok
+2025-09,Canarias,,60.0,DC,"0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-09,Canarias,,22.0,AC,"0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-09,Canarias,,150.0,DC,"0,59€/kWh DC - 0,39€/kWh AC ",0.59,ok
+2025-09,Canarias,,22.0,AC,"0,59€/kWh DC - 0,39€/kWh AC ",0.59,ok
+2025-09,Canarias,,300.0,DC,"0,60€/kWh",0.6,ok
+2025-09,Canarias,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,180.0,DC,"0,60€/kWh",0.6,ok
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,50.0,DC,0.42€/kWh ,0.42,ok
+2025-09,Canarias,,50.0,DC,0.42€/kWh ,0.42,ok
+2025-09,Canarias,,43.0,DC,0.42€/kWh ,0.42,ok
+2025-09,Canarias,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,150.0,DC,"0,60€/kWh DC - 0,39€/kWh AC ",0.6,ok
+2025-09,Canarias,,60.0,DC,"0,60€/kWh DC - 0,39€/kWh AC ",0.6,ok
+2025-09,Canarias,,3.7,AC,,,empty
+2025-09,Canarias,,180.0,DC,"0,58€/kWh DC >60kW (0,40€/min parked without charging)",0.58,ok
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,11.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,350.0,DC,,,empty
+2025-09,Canarias,,22.0,AC,,,empty
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,Free,,free
+2025-09,Canarias,,7.4,AC,Free,,free
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-09,Canarias,,22.0,AC,"0,38-0,43€/kWh",0.43,ok
+2025-09,Canarias,,50.0,DC,"0,38-0,43€/kWh",0.43,ok
+2025-09,Canarias,,7.0,AC,,,no_kwh
+2025-09,Canarias,,150.0,DC,"0,54€/kWh DC",0.54,ok
+2025-09,Canarias,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-09,Canarias,,150.0,DC,0.59€/kWh,0.59,ok
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,6.0,AC,free,,free
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,11.0,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Canarias,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Canarias,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Canarias,,4.5,AC,free,,free
+2025-09,Canarias,,2.3,AC,free,,free
+2025-09,Canarias,,3.7,AC,,,empty
+2025-09,Canarias,,3.6,AC,,,empty
+2025-09,Canarias,,50.0,DC,"0,62€/kWh",0.62,ok
+2025-09,Canarias,,43.0,DC,"0,62€/kWh",0.62,ok
+2025-09,Canarias,,50.0,DC,"0,62€/kWh",0.62,ok
+2025-09,Canarias,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,60.0,DC,"0,62€/kWh",0.62,ok
+2025-09,Canarias,,50.0,DC,"0,48€/kWh",0.48,ok
+2025-09,Canarias,,50.0,DC,"0,48€/kWh",0.48,ok
+2025-09,Canarias,,22.0,AC,"0,48€/kWh",0.48,ok
+2025-09,Canarias,,180.0,DC,"0,48€/kWh",0.48,ok
+2025-09,Canarias,,180.0,DC,"0,48€/kWh",0.48,ok
+2025-09,Canarias,,3.7,AC,,,empty
+2025-09,Canarias,,3.7,AC,,,empty
+2025-09,Canarias,,3.7,AC,,,empty
+2025-09,Canarias,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-09,Canarias,,180.0,DC,"0,58€/kWh DC >60kW (0,40€/min parked without charging)",0.58,ok
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,43.0,DC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,empty
+2025-09,Canarias,,50.0,DC,0.20€/kWh ,0.2,ok
+2025-09,Canarias,,50.0,DC,0.20€/kWh ,0.2,ok
+2025-09,Canarias,,43.0,DC,0.20€/kWh ,0.2,ok
+2025-09,Canarias,,22.0,AC,0.20€/kWh ,0.2,ok
+2025-09,Canarias,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC,0.42€/kWh ,0.42,ok
+2025-09,Canarias,,50.0,DC,0.42€/kWh ,0.42,ok
+2025-09,Canarias,,43.0,DC,0.42€/kWh ,0.42,ok
+2025-09,Canarias,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-09,Canarias,,50.0,DC,0.25€/kWh ,0.25,ok
+2025-09,Canarias,,50.0,DC,0.25€/kWh ,0.25,ok
+2025-09,Canarias,,7.4,AC,,,empty
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-09,Canarias,,150.0,DC,"0,38€/kWh",0.38,ok
+2025-09,Canarias,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-09,Canarias,,60.0,DC,"0,55€/kWh",0.55,ok
+2025-09,Canarias,,150.0,DC,"0,55€/kWh",0.55,ok
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC,,,empty
+2025-09,Canarias,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,43.0,DC,,,no_kwh
+2025-09,Canarias,,11.0,AC,free,,free
+2025-09,Canarias,,180.0,DC,"0,60€/kWh",0.6,ok
+2025-09,Canarias,,150.0,DC,"0,55€/kWh DC - 0,35€/kWh AC",0.55,ok
+2025-09,Canarias,,22.0,AC,"0,55€/kWh DC - 0,35€/kWh AC",0.55,ok
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50k - 0,39€/kWWh  AC",0.54,ok
+2025-09,Canarias,,150.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50k - 0,39€/kWWh  AC",0.54,ok
+2025-09,Canarias,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50k - 0,39€/kWWh  AC",0.54,ok
+2025-09,Canarias,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50k - 0,39€/kWWh  AC",0.54,ok
+2025-09,Canarias,,50.0,DC,0.42€/kWh ,0.42,ok
+2025-09,Canarias,,50.0,DC,0.42€/kWh ,0.42,ok
+2025-09,Canarias,,43.0,DC,0.42€/kWh ,0.42,ok
+2025-09,Canarias,,7.4,AC,"0,39€/kWh",0.39,ok
+2025-09,Canarias,,22.0,AC,"0,48€/kWh DC - 0,38€/kWh AC ",0.48,ok
+2025-09,Canarias,,60.0,DC,"0,48€/kWh DC - 0,38€/kWh AC ",0.48,ok
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC,"0,39€/kWh 50 kW - 0,32€/kWh AC",0.39,ok
+2025-09,Canarias,,50.0,DC,"0,39€/kWh 50 kW - 0,32€/kWh AC",0.39,ok
+2025-09,Canarias,,43.0,DC,"0,39€/kWh 50 kW - 0,32€/kWh AC",0.39,ok
+2025-09,Canarias,,22.0,AC,Free,,free
+2025-09,Canarias,,11.0,AC,Free,,free
+2025-09,Canarias,,150.0,DC,"0,60-0,50 €/kWh DC - 0,39€/kWh AC",0.5,ok
+2025-09,Canarias,,50.0,DC,"0,60-0,50 €/kWh DC - 0,39€/kWh AC",0.5,ok
+2025-09,Canarias,,50.0,DC,"0,60-0,50 €/kWh DC - 0,39€/kWh AC",0.5,ok
+2025-09,Canarias,,7.4,AC,"0,60-0,50 €/kWh DC - 0,39€/kWh AC",0.5,ok
+2025-09,Canarias,,22.0,AC,,,empty
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,11.0,AC,€0/kWh,,no_kwh
+2025-09,Canarias,,150.0,DC,"0,60 €/kWh DC - 0,39€/kWh AC",0.6,ok
+2025-09,Canarias,,50.0,DC,"0,60 €/kWh DC - 0,39€/kWh AC",0.6,ok
+2025-09,Canarias,,7.4,AC,"0,60 €/kWh DC - 0,39€/kWh AC",0.6,ok
+2025-09,Canarias,,50.0,DC,"0,60 €/kWh DC - 0,39€/kWh AC",0.6,ok
+2025-09,Canarias,,3.6,AC,parking fee,,no_kwh
+2025-09,Canarias,,7.4,AC,,,empty
+2025-09,Canarias,,150.0,DC,"0,60 €/kWh",0.6,ok
+2025-09,Canarias,,80.0,DC,"0,60 €/kWh",0.6,ok
+2025-09,Canarias,,150.0,DC,"0,59€/kWh ",0.59,ok
+2025-09,Canarias,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-09,Canarias,,90.0,DC,"0,62€/kWh",0.62,ok
+2025-09,Canarias,,7.4,AC,Free,,free
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,empty
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,empty
+2025-09,Canarias,,3.7,AC,,,empty
+2025-09,Canarias,,22.0,AC,,,empty
+2025-09,Canarias,,50.0,DC,0.25€/kWh  + parking fee,0.25,ok
+2025-09,Canarias,,50.0,DC,0.25€/kWh  + parking fee,0.25,ok
+2025-09,Canarias,,43.0,DC,0.25€/kWh  + parking fee,0.25,ok
+2025-09,Canarias,,22.0,AC,0.25€/kWh  + parking fee,0.25,ok
+2025-09,Canarias,,60.0,DC," 0,49€/kWh  DC - 0,39€/kWh AC ",0.49,ok
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,11.0,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,2.3,AC,,,no_kwh
+2025-09,Canarias,,3.6,AC,,,no_kwh
+2025-09,Canarias,,2.3,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,3.7,AC,free,,free
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,3.7,AC,free,,free
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,3.7,AC,free,,free
+2025-09,Canarias,,7.0,AC,"0,42€/kWh DC - 0,33€/kWh AC ",0.42,ok
+2025-09,Canarias,,25.0,DC,"0,42€/kWh DC - 0,33€/kWh AC ",0.42,ok
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,3.7,AC,free,,free
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,3.7,AC,free,,free
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,3.7,AC,free,,free
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,3.68,AC,free,,free
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,0.24€/kWh + parking fee,0.24,ok
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,3.7,AC,free,,free
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,3.7,AC,free,,free
+2025-09,Canarias,,22.0,AC,"0,35€/kWh. Parking: 0,80 €/hour",0.35,ok
+2025-09,Canarias,,22.0,AC," 0,55€/kWh DC - 0,35€/kWh AC ",0.55,ok
+2025-09,Canarias,,60.0,DC," 0,55€/kWh DC - 0,35€/kWh AC ",0.55,ok
+2025-09,Canarias,,150.0,DC," 0,55€/kWh DC - 0,35€/kWh AC ",0.55,ok
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,3.7,AC,free,,free
+2025-09,Canarias,,7.4,AC,"parking fee + 0,45€/kWh (0,01€/min parked without charging)",0.45,ok
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,3.7,AC,free,,free
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,3.7,AC,free,,free
+2025-09,Canarias,,90.0,DC,"0,62€/kWh",0.62,ok
+2025-09,Canarias,,50.0,DC,"0,62€/kWh",0.62,ok
+2025-09,Canarias,,43.0,DC,"0,62€/kWh",0.62,ok
+2025-09,Canarias,,50.0,DC,"0,62€/KWh",0.62,ok
+2025-09,Canarias,,50.0,DC,"0,62€/KWh",0.62,ok
+2025-09,Canarias,,22.0,AC,"0,62€/KWh",0.62,ok
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,3.7,AC,free,,free
+2025-09,Canarias,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,3.7,AC,free,,free
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC,"0,62€/KWh DC - 0,41€/kWh AC",0.62,ok
+2025-09,Canarias,,50.0,DC,"0,62€/KWh DC - 0,41€/kWh AC",0.62,ok
+2025-09,Canarias,,22.0,AC,"0,62€/KWh DC - 0,41€/kWh AC",0.62,ok
+2025-09,Canarias,,22.0,AC,"0,62€/KWh DC - 0,41€/kWh AC",0.62,ok
+2025-09,Canarias,,22.0,AC," 0,39€/kWh ",0.39,ok
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,3.7,AC,free,,free
+2025-09,Canarias,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-09,Canarias,,3.7,AC,Free charging + parking fee,,free
+2025-09,Canarias,,7.4,AC,Free charging + parking fee,,free
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,3.7,AC,free,,free
+2025-09,Canarias,,22.0,AC,"0,57€/kWh",0.57,ok
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,11.0,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,150.0,DC," 0,59€/kWh - 0,40€/kWh AC ",0.59,ok
+2025-09,Canarias,,22.0,AC," 0,59€/kWh - 0,40€/kWh AC ",0.59,ok
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC,"0,62€/kWh",0.62,ok
+2025-09,Canarias,,50.0,DC,"0,62€/kWh",0.62,ok
+2025-09,Canarias,,43.0,DC,"0,62€/kWh",0.62,ok
+2025-09,Canarias,,7.4,AC,,,empty
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,25.0,DC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-09,Canarias,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,7.0,AC,"0,39€/kWh",0.39,ok
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,3.7,AC,free,,free
+2025-09,Canarias,,160.0,DC,,,empty
+2025-09,Canarias,,50.0,DC,"0,45€/kWh DC50kW/AC43kW ",0.45,ok
+2025-09,Canarias,,50.0,DC,"0,45€/kWh DC50kW/AC43kW ",0.45,ok
+2025-09,Canarias,,43.0,DC,"0,45€/kWh DC50kW/AC43kW ",0.45,ok
+2025-09,Canarias,,320.0,DC,,,empty
+2025-09,Canarias,,22.0,AC,,,empty
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,3.7,AC,free,,free
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,empty
+2025-09,Canarias,,11.0,AC,free,,free
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,empty
+2025-09,Canarias,,3.7,AC,,,empty
+2025-09,Canarias,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-09,Canarias,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-09,Canarias,,22.0,AC,,,empty
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,90.0,DC,"0,62€/kWh",0.62,ok
+2025-09,Canarias,,22.0,AC,"0,58€/kWh DC - 0,38€/kWh AC",0.58,ok
+2025-09,Canarias,,150.0,DC,"0,58€/kWh DC - 0,38€/kWh AC",0.58,ok
+2025-09,Canarias,,50.0,DC,"0,45€/kWh DC50kW/AC43kW ",0.45,ok
+2025-09,Canarias,,50.0,DC,"0,45€/kWh DC50kW/AC43kW ",0.45,ok
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-09,Canarias,,11.0,AC,free,,free
+2025-09,Canarias,,7.0,AC,€0/kWh,,no_kwh
+2025-09,Canarias,,2.3,AC,€0/kWh,,no_kwh
+2025-09,Canarias,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-09,Canarias,,7.4,AC,"0,33€/kWh",0.33,ok
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,2.3,AC,,,no_kwh
+2025-09,Canarias,,150.0,DC," 0,59€/kWh  ",0.59,ok
+2025-09,Canarias,,50.0,DC,0.50€/kWh ,0.5,ok
+2025-09,Canarias,,50.0,DC,0.50€/kWh ,0.5,ok
+2025-09,Canarias,,43.0,DC,0.50€/kWh ,0.5,ok
+2025-09,Canarias,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,11.0,AC,,,empty
+2025-09,Canarias,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-09,Canarias,,7.0,AC,"0,33€/kWh",0.33,ok
+2025-09,Canarias,,7.4,AC," 0,42€/kWh DC - 0,33€/kWh AC ",0.42,ok
+2025-09,Canarias,,60.0,DC," 0,42€/kWh DC - 0,33€/kWh AC ",0.42,ok
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,90.0,DC,"0,62€/kWh",0.62,ok
+2025-09,Canarias,,11.0,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,2.3,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,"0,30€/kWh + parking fee",0.3,ok
+2025-09,Canarias,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,2.3,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,150.0,DC," 0,55€/kWh DC - 0,40€/kWh AC",0.55,ok
+2025-09,Canarias,,22.0,AC,,,empty
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,empty
+2025-09,Canarias,,7.0,AC," 0,39€/kWh ",0.39,ok
+2025-09,Canarias,,3.7,AC,,,empty
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,empty
+2025-09,Canarias,,50.0,DC,"0,45€/kWh DC50kW/AC43kW ",0.45,ok
+2025-09,Canarias,,50.0,DC,"0,45€/kWh DC50kW/AC43kW ",0.45,ok
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,150.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Canarias,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Canarias,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,60.0,DC,0.50€/kWh ,0.5,ok
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,2.3,AC,,,no_kwh
+2025-09,Canarias,,80.0,DC,"0,40€/kWh",0.4,ok
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,empty
+2025-09,Canarias,,50.0,DC,0.62€/kWh ,0.62,ok
+2025-09,Canarias,,50.0,DC,0.62€/kWh ,0.62,ok
+2025-09,Canarias,,43.0,DC,0.62€/kWh ,0.62,ok
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-09,Canarias,,50.0,DC,,,empty
+2025-09,Canarias,,50.0,DC,,,empty
+2025-09,Canarias,,22.0,AC,,,empty
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,2.3,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,60.0,DC,"0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,2.3,AC,free,,free
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,3.6,AC,free,,free
+2025-09,Canarias,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-09,Canarias,,3.7,AC,free,,free
+2025-09,Canarias,,11.0,AC,Free,,free
+2025-09,Canarias,,50.0,DC,free,,free
+2025-09,Canarias,,50.0,DC,free,,free
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,3.7,AC,,,empty
+2025-09,Canarias,,3.7,AC,Free,,free
+2025-09,Canarias,,7.4,AC,,,empty
+2025-09,Canarias,,7.0,AC," 0,39€/kWh ",0.39,ok
+2025-09,Canarias,,7.4,AC,,,empty
+2025-09,Canarias,,22.0,AC,Free,,free
+2025-09,Canarias,,11.0,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,empty
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,2.3,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,Free,,free
+2025-09,Canarias,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-09,Canarias,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-09,Canarias,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,43.0,DC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,2.3,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,Free,,free
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-09,Canarias,,60.0,DC," 0,45€/kWh DC - 0,40€/kWh AC ",0.45,ok
+2025-09,Canarias,,60.0,DC," 0,45€/kWh DC - 0,40€/kWh AC ",0.45,ok
+2025-09,Canarias,,22.0,AC,"0,46€/kWh",0.46,ok
+2025-09,Canarias,,50.0,DC,Free,,free
+2025-09,Canarias,,22.0,AC,0.20€/kWh,0.2,ok
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,2.3,AC,,,no_kwh
+2025-09,Canarias,,6.0,AC,Free,,free
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,150.0,DC,"0,60€/kWh DC - 0,39€/kWh AC ",0.6,ok
+2025-09,Canarias,,22.0,AC,"0,21€/kWh ",0.21,ok
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,100.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-09,Canarias,,50.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-09,Canarias,,7.4,AC,"0,52€/kWh. + 1,14€/charge",0.52,ok
+2025-09,Canarias,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-09,Canarias,,100.0,DC,"0,54 €/kWh DC",0.54,ok
+2025-09,Canarias,,80.0,DC,"0,54 €/kWh DC",0.54,ok
+2025-09,Canarias,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-09,Canarias,,11.0,AC,Free,,free
+2025-09,Canarias,,7.4,AC,0,,no_kwh
+2025-09,Canarias,,3.7,AC,0,,no_kwh
+2025-09,Canarias,,3.7,AC,"0,52€/kWh + parking fee",0.52,ok
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-09,Canarias,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-09,Canarias,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-09,Canarias,,50.0,DC,"0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-09,Canarias,,43.0,DC,"0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-09,Canarias,,50.0,DC,"0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,3.6,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-09,Canarias,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-09,Canarias,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-09,Canarias,,50.0,DC,"0,42€/kWh",0.42,ok
+2025-09,Canarias,,43.0,DC,"0,42€/kWh",0.42,ok
+2025-09,Canarias,,50.0,DC,"0,42€/kWh",0.42,ok
+2025-09,Canarias,,3.7,AC,Free,,free
+2025-09,Canarias,,22.0,AC," 0,39€/kWh ",0.39,ok
+2025-09,Canarias,,50.0,DC,0.42€/kWh ,0.42,ok
+2025-09,Canarias,,50.0,DC,0.42€/kWh ,0.42,ok
+2025-09,Canarias,,43.0,DC,0.42€/kWh ,0.42,ok
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,22.0,AC,Free,,free
+2025-09,Canarias,,3.7,AC,Free,,free
+2025-09,Canarias,,60.0,DC," 0,49€/kWh  DC - 0,39€/kWh AC ",0.49,ok
+2025-09,Canarias,,60.0,DC,"0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-09,Canarias,,22.0,AC,"0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-09,Canarias,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-09,Canarias,,11.0,AC,free (13.11.2024),,free
+2025-09,Canarias,,3.7,AC,,,empty
+2025-09,Canarias,,3.7,AC,,,empty
+2025-09,Canarias,,11.0,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC,,,empty
+2025-09,Canarias,,50.0,DC,,,empty
+2025-09,Canarias,,43.0,DC,,,empty
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,60.0,DC," 0,45€/kWh ",0.45,ok
+2025-09,Canarias,,22.0,AC," 0,45€/kWh ",0.45,ok
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,empty
+2025-09,Canarias,,50.0,DC,0.42€/kWh ,0.42,ok
+2025-09,Canarias,,50.0,DC,0.42€/kWh ,0.42,ok
+2025-09,Canarias,,43.0,DC,0.42€/kWh ,0.42,ok
+2025-09,Canarias,,7.7,AC,,,empty
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,7.4,AC,"0,42€/kWh",0.42,ok
+2025-09,Canarias,,3.7,AC,"0,42€/kWh",0.42,ok
+2025-09,Canarias,,50.0,DC,"0,42€/kWh",0.42,ok
+2025-09,Canarias,,50.0,DC,"0,42€/kWh",0.42,ok
+2025-09,Canarias,,43.0,DC,"0,42€/kWh",0.42,ok
+2025-09,Canarias,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,empty
+2025-09,Canarias,,3.7,AC,,,empty
+2025-09,Canarias,,50.0,DC,"0,42€/kWh",0.42,ok
+2025-09,Canarias,,50.0,DC,"0,42€/kWh",0.42,ok
+2025-09,Canarias,,43.0,DC,"0,42€/kWh",0.42,ok
+2025-09,Canarias,,60.0,DC,"0,62€/kWh",0.62,ok
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC,"0,42€/kWh",0.42,ok
+2025-09,Canarias,,50.0,DC,"0,42€/kWh",0.42,ok
+2025-09,Canarias,,43.0,DC,"0,42€/kWh",0.42,ok
+2025-09,Canarias,,60.0,DC,"0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-09,Canarias,,60.0,DC,"0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-09,Canarias,,7.0,AC,,,no_kwh
+2025-09,Canarias,,150.0,DC,,,no_kwh
+2025-09,Canarias,,22.0,AC,"0,32€/kWh",0.32,ok
+2025-09,Canarias,,22.0,AC,"0,32€/kWh",0.32,ok
+2025-09,Canarias,,7.4,AC,,,empty
+2025-09,Canarias,,3.7,AC,,,empty
+2025-09,Canarias,,60.0,DC,"0,62€/kWh",0.62,ok
+2025-09,Canarias,,11.0,AC,Free,,free
+2025-09,Canarias,,3.7,AC,,,empty
+2025-09,Canarias,,3.7,AC,,,empty
+2025-09,Canarias,,3.0,AC," 0,42€/kWh DC - 0,33€/kWh AC ",0.42,ok
+2025-09,Canarias,,60.0,DC," 0,42€/kWh DC - 0,33€/kWh AC ",0.42,ok
+2025-09,Canarias,,60.0,DC," 0,42€/kWh DC - 0,33€/kWh AC ",0.42,ok
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,43.0,DC,,,no_kwh
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,11.0,AC,Free,,free
+2025-09,Canarias,,3.6,AC,Free,,free
+2025-09,Canarias,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-09,Canarias,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-09,Canarias,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-09,Canarias,,11.0,AC,free,,free
+2025-09,Canarias,,7.7,AC,,,empty
+2025-09,Canarias,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,43.0,DC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,2.3,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC,"0,60€/kWh",0.6,ok
+2025-09,Canarias,,22.0,AC,"0,60€/kWh",0.6,ok
+2025-09,Canarias,,50.0,DC,"0,60€/kWh",0.6,ok
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,43.0,DC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-09,Canarias,,6.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,Free,,free
+2025-09,Canarias,,3.7,AC,,,empty
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,11.0,AC,"0,39€/kWh",0.39,ok
+2025-09,Canarias,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-09,Canarias,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-09,Canarias,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-09,Canarias,,6.0,AC,"0,39€/kWh",0.39,ok
+2025-09,Canarias,,50.0,DC,,,empty
+2025-09,Canarias,,50.0,DC,,,empty
+2025-09,Canarias,,43.0,DC,,,empty
+2025-09,Canarias,,11.0,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-09,Canarias,,50.0,DC,0.69€/kWh ,0.69,ok
+2025-09,Canarias,,50.0,DC,0.69€/kWh ,0.69,ok
+2025-09,Canarias,,43.0,DC,0.69€/kWh ,0.69,ok
+2025-09,Canarias,,7.4,AC,0.69€/kWh ,0.69,ok
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-09,Canarias,,22.0,AC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-09,Canarias,,50.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-09,Canarias,,50.0,DC,"0,39€/kWh DC - 0,35€/kWh AC",0.39,ok
+2025-09,Canarias,,50.0,DC,"0,39€/kWh DC - 0,35€/kWh AC",0.39,ok
+2025-09,Canarias,,22.0,AC,"0,39€/kWh DC - 0,35€/kWh AC",0.39,ok
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC,"0,39€/kWh DC - 0,35€/kWh AC",0.39,ok
+2025-09,Canarias,,50.0,DC,"0,39€/kWh DC - 0,35€/kWh AC",0.39,ok
+2025-09,Canarias,,22.0,AC,"0,39€/kWh DC - 0,35€/kWh AC",0.39,ok
+2025-09,Canarias,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-09,Canarias,,22.0,AC,Free,,free
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,7.4,AC,,,empty
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,2.3,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-09,Canarias,,50.0,DC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-09,Canarias,,43.0,DC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-09,Canarias,,22.0,AC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-09,Canarias,,11.0,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-09,Canarias,,50.0,DC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-09,Canarias,,43.0,DC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-09,Canarias,,22.0,AC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,"0,33€/kWh",0.33,ok
+2025-09,Canarias,,22.0,AC,"0,59€/kWh DC - 0,38€/kWh AC",0.59,ok
+2025-09,Canarias,,150.0,DC,"0,59€/kWh DC - 0,38€/kWh AC",0.59,ok
+2025-09,Canarias,,50.0,DC,"0,59€/kWh DC - 0,38€/kWh AC",0.59,ok
+2025-09,Canarias,,7.4,AC,Free,,free
+2025-09,Canarias,,2.3,AC,Free,,free
+2025-09,Canarias,,100.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-09,Canarias,,50.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-09,Canarias,,22.0,AC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-09,Canarias,,50.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-09,Canarias,,300.0,DC,,,empty
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,2.3,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,11.0,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,"0,40€/kWh",0.4,ok
+2025-09,Canarias,,50.0,DC,"0,40€/kWh",0.4,ok
+2025-09,Canarias,,50.0,DC,"0,40€/kWh",0.4,ok
+2025-09,Canarias,,7.4,AC,2€/hora,,no_kwh
+2025-09,Canarias,,3.7,AC,,,empty
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,11.0,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC,Free,,free
+2025-09,Canarias,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-09,Canarias,,50.0,DC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-09,Canarias,,50.0,DC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-09,Canarias,,43.0,DC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-09,Canarias,,7.4,AC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-09,Canarias,,50.0,DC,"0,39€/kWh DC - 0,35€/kWh AC",0.39,ok
+2025-09,Canarias,,50.0,DC,"0,39€/kWh DC - 0,35€/kWh AC",0.39,ok
+2025-09,Canarias,,22.0,AC,"0,39€/kWh DC - 0,35€/kWh AC",0.39,ok
+2025-09,Canarias,,3.7,AC,,,empty
+2025-09,Canarias,,50.0,DC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-09,Canarias,,50.0,DC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-09,Canarias,,43.0,DC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-09,Canarias,,22.0,AC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-09,Canarias,,50.0,DC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-09,Canarias,,50.0,DC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-09,Canarias,,43.0,DC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-09,Canarias,,22.0,AC,"0,39€/kWh DC - 0,35kWh AC",0.39,ok
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,100.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-09,Canarias,,50.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-09,Canarias,,22.0,AC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-09,Canarias,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-09,Canarias,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-09,Canarias,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-09,Canarias,,22.0,AC,"0,45€/kWh",0.45,ok
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-09,Canarias,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-09,Canarias,,160.0,DC,"0,40€/kWh",0.4,ok
+2025-09,Canarias,,22.0,AC,"0,39€/kWh AC ",0.39,ok
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC,0.57€/kWh ,0.57,ok
+2025-09,Canarias,,50.0,DC,0.57€/kWh ,0.57,ok
+2025-09,Canarias,,43.0,DC,0.57€/kWh ,0.57,ok
+2025-09,Canarias,,22.0,AC,0.57€/kWh ,0.57,ok
+2025-09,Canarias,,11.0,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,120.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-09,Canarias,,50.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-09,Canarias,,22.0,AC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,11.0,AC,free,,free
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,"0,32€/kWh",0.32,ok
+2025-09,Canarias,,7.4,AC,"0,32€/kWh",0.32,ok
+2025-09,Canarias,,11.0,AC,"0,39€/kWh",0.39,ok
+2025-09,Canarias,,50.0,DC,0.50€/kWh ,0.5,ok
+2025-09,Canarias,,50.0,DC,0.50€/kWh ,0.5,ok
+2025-09,Canarias,,43.0,DC,0.50€/kWh ,0.5,ok
+2025-09,Canarias,,7.4,AC,0.50€/kWh ,0.5,ok
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,"0,29€/kWh",0.29,ok
+2025-09,Canarias,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-09,Canarias,,2.3,AC,"0,39€/kWh",0.39,ok
+2025-09,Canarias,,7.0,AC,"0,39€/kWh",0.39,ok
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-09,Canarias,,11.0,AC,,,no_kwh
+2025-09,Canarias,,11.0,AC,,,no_kwh
+2025-09,Canarias,,100.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,2€/hour,,no_kwh
+2025-09,Canarias,,22.0,AC,"0,29€/kWh",0.29,ok
+2025-09,Canarias,,2.3,AC,"0,29€/kWh",0.29,ok
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,3.7,AC,free,,free
+2025-09,Canarias,,22.0,AC,"0,29€/kWh",0.29,ok
+2025-09,Canarias,,2.3,AC,"0,29€/kWh",0.29,ok
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-09,Canarias,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC,"0,45€/kWh DC50kW/AC43kW ",0.45,ok
+2025-09,Canarias,,50.0,DC,"0,45€/kWh DC50kW/AC43kW ",0.45,ok
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,7.0,AC,€0/kWh,,no_kwh
+2025-09,Canarias,,2.3,AC,€0/kWh,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,0.46€/kWh,0.46,ok
+2025-09,Canarias,,100.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-09,Canarias,,50.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-09,Canarias,,22.0,AC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-09,Canarias,,7.4,AC,0.46€/kWh,0.46,ok
+2025-09,Canarias,,7.4,AC,0.46€/kWh,0.46,ok
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,11.0,AC,,,no_kwh
+2025-09,Canarias,,60.0,DC,,,no_kwh
+2025-09,Canarias,,60.0,DC,,,no_kwh
+2025-09,Canarias,,40.0,DC,"0,38€/kWh",0.38,ok
+2025-09,Canarias,,40.0,DC,"0,38€/kWh",0.38,ok
+2025-09,Canarias,,22.0,AC,"0,40€/kWh",0.4,ok
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-09,Canarias,,7.4,AC,0.46€/kWh,0.46,ok
+2025-09,Canarias,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-09,Canarias,,43.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-09,Canarias,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-09,Canarias,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-09,Canarias,,22.0,AC,Free,,free
+2025-09,Canarias,,3.7,AC,,,empty
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC,0.50€/kWh ,0.5,ok
+2025-09,Canarias,,50.0,DC,0.50€/kWh ,0.5,ok
+2025-09,Canarias,,22.0,AC,0.50€/kWh ,0.5,ok
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,Free,,free
+2025-09,Canarias,,3.6,AC,Free,,free
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,"0,40€/kWh",0.4,ok
+2025-09,Canarias,,7.4,AC,"0,40€/kWh",0.4,ok
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,2.3,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,"0,57€/kWh",0.57,ok
+2025-09,Canarias,,3.7,AC,,,empty
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,22.0,AC,"0,58€/kWh",0.58,ok
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,180.0,DC,"0,62€/kWh",0.62,ok
+2025-09,Canarias,,22.0,AC,"0,21€/kWh",0.21,ok
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC,Free,,free
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC," 0,45€/kWh ",0.45,ok
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,0.25€/kWh,0.25,ok
+2025-09,Canarias,,60.0,DC," 0,45€/kWh DC - 0,40€/kWh AC ",0.45,ok
+2025-09,Canarias,,22.0,AC," 0,39€/kWh ",0.39,ok
+2025-09,Canarias,,150.0,DC," 0,60€/kWh DC ",0.6,ok
+2025-09,Canarias,,150.0,DC," 0,60€/kWh DC ",0.6,ok
+2025-09,Canarias,,150.0,DC," 0,60€/kWh DC ",0.6,ok
+2025-09,Canarias,,3.7,AC,,,empty
+2025-09,Canarias,,3.7,AC,,,empty
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,4.2,AC,2€/hora,,no_kwh
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC,free,,free
+2025-09,Canarias,,50.0,DC,free,,free
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,50.0,DC,free,,free
+2025-09,Canarias,,50.0,DC,free,,free
+2025-09,Canarias,,15.0,AC,free,,free
+2025-09,Canarias,,11.0,AC,Free,,free
+2025-09,Canarias,,3.7,AC,Free,,free
+2025-09,Canarias,,15.0,AC,free,,free
+2025-09,Canarias,,15.0,AC,free,,free
+2025-09,Canarias,,15.0,AC,free,,free
+2025-09,Canarias,,2.3,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,no_kwh
+2025-09,Canarias,,50.0,DC,free,,free
+2025-09,Canarias,,50.0,DC,free,,free
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,90.0,DC,"0,62€/kWh",0.62,ok
+2025-09,Canarias,,22.0,AC,Free,,free
+2025-09,Canarias,,22.0,AC,"0,28€/kWh",0.28,ok
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,2.3,AC,free,,free
+2025-09,Canarias,,15.0,AC,free,,free
+2025-09,Canarias,,15.0,AC,free,,free
+2025-09,Canarias,,15.0,AC,free,,free
+2025-09,Canarias,,,,,,empty
+2025-09,Canarias,,7.4,AC,Free,,free
+2025-09,Canarias,,50.0,DC,free,,free
+2025-09,Canarias,,15.0,AC,free,,free
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,50.0,DC,free,,free
+2025-09,Canarias,,50.0,DC,free,,free
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,50.0,DC,free,,free
+2025-09,Canarias,,50.0,DC,free,,free
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,50.0,DC,free,,free
+2025-09,Canarias,,50.0,DC,free,,free
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,22.0,AC,"1,29€/charge + 2,59€/h",,no_kwh
+2025-09,Canarias,,7.4,AC,,,empty
+2025-09,Canarias,,3.2,AC,,,empty
+2025-09,Canarias,,50.0,DC,free,,free
+2025-09,Canarias,,50.0,DC,free,,free
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,7.4,AC,Free,,free
+2025-09,Canarias,,3.7,AC,Free,,free
+2025-09,Canarias,,11.0,AC,Free,,free
+2025-09,Canarias,,11.0,AC,Free,,free
+2025-09,Canarias,,2.3,AC,Free,,free
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,11.0,AC,Free,,free
+2025-09,Canarias,,22.0,AC,Free,,free
+2025-09,Canarias,,3.7,AC,Free,,free
+2025-09,Canarias,,3.7,AC,,,empty
+2025-09,Canarias,,7.4,AC,,,empty
+2025-09,Canarias,,11.0,AC,Free,,free
+2025-09,Canarias,,60.0,DC,"0,62€/kWh",0.62,ok
+2025-09,Canarias,,7.4,AC,Free,,free
+2025-09,Canarias,,3.7,AC,Free,,free
+2025-09,Canarias,,60.0,DC," 0,45€/kWh DC - 0,40€/kWh AC ",0.45,ok
+2025-09,Canarias,,22.0,AC,Free,,free
+2025-09,Canarias,,7.4,AC,Free,,free
+2025-09,Canarias,,3.7,AC,Free,,free
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,3.7,AC,free,,free
+2025-09,Canarias,,50.0,DC,"0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-09,Canarias,,50.0,DC,"0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-09,Canarias,,43.0,DC,"0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,3.7,AC,free,,free
+2025-09,Canarias,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-09,Canarias,,22.0,AC,Free,,free
+2025-09,Canarias,,3.7,AC,Free,,free
+2025-09,Canarias,,7.4,AC,"0,20 €/kWh + parking",0.2,ok
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,3.7,AC,free,,free
+2025-09,Canarias,,11.0,AC,free,,free
+2025-09,Canarias,,7.4,AC,Free,,free
+2025-09,Canarias,,3.7,AC,Free,,free
+2025-09,Canarias,,22.0,AC,Free,,free
+2025-09,Canarias,,3.7,AC,Free,,free
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,3.7,AC,,,empty
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,3.7,AC,free,,free
+2025-09,Canarias,,7.4,AC,Free,,free
+2025-09,Canarias,,11.0,AC,free,,free
+2025-09,Canarias,,3.7,AC,free,,free
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,3.7,AC,free,,free
+2025-09,Canarias,,11.0,AC,free,,free
+2025-09,Canarias,,3.7,AC,free,,free
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,3.7,AC,free,,free
+2025-09,Canarias,,22.0,AC,Free,,free
+2025-09,Canarias,,7.4,AC,Free,,free
+2025-09,Canarias,,60.0,DC,"0,62€/kWh",0.62,ok
+2025-09,Canarias,,22.0,AC,Free,,free
+2025-09,Canarias,,3.7,AC,Free,,free
+2025-09,Canarias,,7.4,AC,Free,,free
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,3.7,AC,free,,free
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,3.7,AC,free,,free
+2025-09,Canarias,,11.0,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,parking fee,,no_kwh
+2025-09,Canarias,,43.0,DC,"0,45€/kWh DC - 0,35€/kWh AC",0.45,ok
+2025-09,Canarias,,50.0,DC,"0,45€/kWh DC - 0,35€/kWh AC",0.45,ok
+2025-09,Canarias,,50.0,DC,"0,45€/kWh DC - 0,35€/kWh AC",0.45,ok
+2025-09,Canarias,,22.0,AC,"0,45€/kWh DC - 0,35€/kWh AC",0.45,ok
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,3.7,AC,free,,free
+2025-09,Canarias,,7.4,AC,,,empty
+2025-09,Canarias,,2.3,AC,,,no_kwh
+2025-09,Canarias,,3.7,AC,,,no_kwh
+2025-09,Canarias,,22.0,AC,,,empty
+2025-09,Canarias,,7.4,AC,,,empty
+2025-09,Canarias,,22.0,AC,,,empty
+2025-09,Canarias,,22.0,AC,,,empty
+2025-09,Canarias,,5.4,AC,Free,,free
+2025-09,Canarias,,7.4,AC,,,no_kwh
+2025-09,Canarias,,7.4,AC,,,empty
+2025-09,Canarias,,7.4,AC,,,empty
+2025-09,Canarias,,22.0,AC,free,,free
+2025-09,Canarias,,3.7,AC,free,,free
+2025-09,Canarias,,7.4,AC,free,,free
+2025-09,Canarias,,22.0,AC,Free,,free

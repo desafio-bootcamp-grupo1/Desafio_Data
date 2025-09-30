@@ -1,0 +1,283 @@
+[
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-08-03T11:08:00Z",
+    "ID": 302385,
+    "UUID": "3B201C90-7700-4A58-9EA6-96FB1BC21BC8",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 5,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 302772,
+      "Title": "Parking Magna Melilla",
+      "AddressLine1": "Calle Querol",
+      "StateOrProvince": "Melilla",
+      "Postcode": "52001",
+      "CountryID": 210,
+      "Latitude": 35.290419594977635,
+      "Longitude": -2.9400873816581736,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 567034,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 11,
+        "CurrentTypeID": 20,
+        "Quantity": 16
+      }
+    ],
+    "NumberOfPoints": 16,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-08-03T11:08:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-08-03T11:08:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2024-08-03T11:06:00Z",
+    "ID": 302384,
+    "UUID": "49B4C402-730D-47C8-8BD5-FFFE872CD488",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 5,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 302771,
+      "Title": "Parking Cruz Roja Melilla",
+      "AddressLine1": "Calle Manuel Fernández Benítez",
+      "StateOrProvince": "Melilla",
+      "Postcode": "52004",
+      "CountryID": 210,
+      "Latitude": 35.289485923572514,
+      "Longitude": -2.944568042799773,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 567033,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-08-03T11:06:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2024-08-03T11:06:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-10-19T15:24:00Z",
+    "ID": 208643,
+    "UUID": "6D861B40-82BE-46E0-A9BA-3587A900700A",
+    "DataProviderID": 1,
+    "OperatorID": 3279,
+    "UsageTypeID": 4,
+    "AddressInfo": {
+      "ID": 209023,
+      "Title": "Mercado Central de Melilla",
+      "AddressLine1": "16 Calle Pedro Segura",
+      "Town": "Melilla",
+      "StateOrProvince": "Melilla",
+      "Postcode": "52001",
+      "CountryID": 210,
+      "Latitude": 35.29533953796799,
+      "Longitude": -2.9440981000083184,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 347174,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      },
+      {
+        "ID": 347175,
+        "ConnectionTypeID": 28,
+        "StatusTypeID": 50,
+        "LevelID": 1,
+        "Amps": 10,
+        "Voltage": 230,
+        "PowerKW": 2.3,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-10-19T15:24:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-10-19T14:05:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-10-19T13:59:00Z",
+    "ID": 208641,
+    "UUID": "91BBDA2C-D1A3-4B39-AC12-8967FE1D7CAF",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 6,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 209021,
+      "Title": "KIA PARRES - Melilla",
+      "AddressLine1": "Francisco Parres Puig",
+      "Town": "Melilla",
+      "StateOrProvince": "Melilla",
+      "Postcode": "52003",
+      "CountryID": 210,
+      "Latitude": 35.290223273328735,
+      "Longitude": -2.9482654825762893,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 347172,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 7.4,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-10-19T13:59:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-10-19T13:59:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-10-19T13:58:00Z",
+    "ID": 208640,
+    "UUID": "C9802B9D-383B-47F5-9A45-576979AEFBC0",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 1,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 209020,
+      "Title": "Carrefour Melilla",
+      "AddressLine1": "General Polavieja",
+      "Town": "Melilla",
+      "StateOrProvince": "Melilla",
+      "Postcode": "52006",
+      "CountryID": 210,
+      "Latitude": 35.284628660105085,
+      "Longitude": -2.942409683386586,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 347171,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-10-19T13:58:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-10-19T13:58:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-10-19T13:57:00Z",
+    "ID": 208639,
+    "UUID": "9F2AD628-60E9-4FB2-A1E4-99C7DE1EEA48",
+    "DataProviderID": 1,
+    "OperatorID": 3499,
+    "UsageTypeID": 1,
+    "AddressInfo": {
+      "ID": 209019,
+      "Title": "Mercadona Bº Industrial",
+      "AddressLine1": "Mercadona Bº Industrial",
+      "Town": "Melilla",
+      "StateOrProvince": "Melilla",
+      "Postcode": "52006",
+      "CountryID": 210,
+      "Latitude": 35.281993394025974,
+      "Longitude": -2.9398782382226045,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 347170,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 3.7,
+        "Quantity": 4
+      }
+    ],
+    "NumberOfPoints": 4,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-10-19T13:57:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-10-19T13:57:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "DateLastVerified": "2022-10-19T14:01:00Z",
+    "ID": 208642,
+    "UUID": "07EDB64B-6034-4808-8B79-47CBFBBA2565",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 5,
+    "UsageCost": "",
+    "AddressInfo": {
+      "ID": 209022,
+      "Title": "Parquing Plaza de las Culturas",
+      "AddressLine1": "Duque de Ahumada",
+      "Town": "Melilla",
+      "StateOrProvince": "Melilla",
+      "Postcode": "52001",
+      "CountryID": 210,
+      "Latitude": 35.29383461797174,
+      "Longitude": -2.936529025088248,
+      "DistanceUnit": 0
+    },
+    "Connections": [
+      {
+        "ID": 347173,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 8
+      }
+    ],
+    "NumberOfPoints": 8,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2022-10-19T14:01:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2022-10-19T14:01:00Z",
+    "SubmissionStatusTypeID": 200
+  }
+]

@@ -1,0 +1,3359 @@
+month,provincia,operator,power_kW,band,usagecost_original,parsed,reason
+2025-01,Barcelona,,36.0,DC," 0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-01,Barcelona,,22.0,AC," 0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-01,Barcelona,,36.0,DC," 0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-01,Barcelona,,150.0,DC,"0,55€/kWh DC - 0,35€/kWh AC",0.55,ok
+2025-01,Barcelona,,22.0,AC,"0,55€/kWh DC - 0,35€/kWh AC",0.55,ok
+2025-01,Barcelona,,150.0,DC," 0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,22.0,AC," 0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-01,Barcelona,,100.0,DC,"0,56€/kWh 150kW - 0,42€/kWh 50 kW - 0,38€/kWh AC",0.56,ok
+2025-01,Barcelona,,50.0,DC,"0,56€/kWh 150kW - 0,42€/kWh 50 kW - 0,38€/kWh AC",0.56,ok
+2025-01,Barcelona,,22.0,AC,"0,56€/kWh 150kW - 0,42€/kWh 50 kW - 0,38€/kWh AC",0.56,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,,,Free,,free
+2025-01,Barcelona,,,,Free,,free
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,2.3,AC,,,no_kwh
+2025-01,Barcelona,,60.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-01,Barcelona,,7.4,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,11.0,AC,free,,free
+2025-01,Barcelona,,11.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,100.0,DC,0.56€/kWh DC - 0.47€/kWh AC,0.56,ok
+2025-01,Barcelona,,22.0,AC,0,,no_kwh
+2025-01,Barcelona,,22.0,AC,0,,no_kwh
+2025-01,Barcelona,,22.2,DC,,,empty
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,60.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,11.0,AC,Free,,free
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,7.4,AC,"0,39€/kWh ",0.39,ok
+2025-01,Barcelona,,3.7,AC,"0,39€/kWh ",0.39,ok
+2025-01,Barcelona,,90.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,2.3,AC,Free,,free
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,11.0,AC,Free,,free
+2025-01,Barcelona,,2.3,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,"0,55€/kWh DC - 0,40€/kWh AC",0.55,ok
+2025-01,Barcelona,,90.0,DC,"0,55€/kWh DC - 0,40€/kWh AC",0.55,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,54€/kWh DC>100kW  0,47€/kWh DC - 0,35€/kWh AC ",0.54,ok
+2025-01,Barcelona,,50.0,DC,"0,54€/kWh DC>100kW  0,47€/kWh DC - 0,35€/kWh AC ",0.54,ok
+2025-01,Barcelona,,43.0,DC,"0,54€/kWh DC>100kW  0,47€/kWh DC - 0,35€/kWh AC ",0.54,ok
+2025-01,Barcelona,,360.0,DC,"0,54€/kWh DC>100kW  0,47€/kWh DC - 0,35€/kWh AC ",0.54,ok
+2025-01,Barcelona,,180.0,DC,"0,54€/kWh DC>100kW  0,47€/kWh DC - 0,35€/kWh AC ",0.54,ok
+2025-01,Barcelona,,80.0,DC,"0,54€/kWh DC>100kW  0,47€/kWh DC - 0,35€/kWh AC ",0.54,ok
+2025-01,Barcelona,,400.0,DC,"0,59€/kWh",0.59,ok
+2025-01,Barcelona,,80.0,DC,"0,59€/kWh",0.59,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,44.3,DC,,,empty
+2025-01,Barcelona,,7.4,AC,free,,free
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,free,,free
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,120.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh DC - 0,35€/kWh AC",0.47,ok
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh DC - 0,35€/kWh AC",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh DC - 0,35€/kWh AC",0.47,ok
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,"0,40€/kWh",0.4,ok
+2025-01,Barcelona,,7.0,AC,,,no_kwh
+2025-01,Barcelona,,100.0,DC,"0,55€/kWh DC - 0,40€/kWh AC",0.55,ok
+2025-01,Barcelona,,7.4,AC,"0,55€/kWh DC - 0,40€/kWh AC",0.55,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,22.2,DC,,,empty
+2025-01,Barcelona,,150.0,DC,"0,55€/kWh",0.55,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,3.7,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,"0,40€/kWh",0.4,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,20€/kWh",0.2,ok
+2025-01,Barcelona,,400.0,DC,"0,59€/kWh",0.59,ok
+2025-01,Barcelona,,80.0,DC,"0,59€/kWh",0.59,ok
+2025-01,Barcelona,,50.0,DC,"0,54€/kWh DC>100kW  0,47€/kWh DC - 0,35€/kWh AC ",0.54,ok
+2025-01,Barcelona,,50.0,DC,"0,54€/kWh DC>100kW  0,47€/kWh DC - 0,35€/kWh AC ",0.54,ok
+2025-01,Barcelona,,43.0,DC,"0,54€/kWh DC>100kW  0,47€/kWh DC - 0,35€/kWh AC ",0.54,ok
+2025-01,Barcelona,,360.0,DC,"0,54€/kWh DC>100kW  0,47€/kWh DC - 0,35€/kWh AC ",0.54,ok
+2025-01,Barcelona,,180.0,DC,"0,54€/kWh DC>100kW  0,47€/kWh DC - 0,35€/kWh AC ",0.54,ok
+2025-01,Barcelona,,80.0,DC,"0,54€/kWh DC>100kW  0,47€/kWh DC - 0,35€/kWh AC ",0.54,ok
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,,,,,empty
+2025-01,Barcelona,,60.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,2.76,AC,Free,,free
+2025-01,Barcelona,,3.0,AC,free,,free
+2025-01,Barcelona,,3.0,AC,free,,free
+2025-01,Barcelona,,,,free,,free
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,3.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,300.0,DC,,,empty
+2025-01,Barcelona,,400.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,2.3,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,0,,no_kwh
+2025-01,Barcelona,,50.0,DC,0,,no_kwh
+2025-01,Barcelona,,22.0,AC,0,,no_kwh
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,35 €/Kw DC / 0,25 €/Kw AC",,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,35 €/Kw DC / 0,25 €/Kw AC",,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,35 €/Kw DC / 0,25 €/Kw AC",,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,43.0,DC,,,no_kwh
+2025-01,Barcelona,,60.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,100.0,DC,"0,55€/kWh",0.55,ok
+2025-01,Barcelona,,350.0,DC,"0,69€/kWh >200kW - 0,54€/kWh 80-200kW ",0.69,ok
+2025-01,Barcelona,,180.0,DC,"0,69€/kWh >200kW - 0,54€/kWh 80-200kW ",0.69,ok
+2025-01,Barcelona,,80.0,DC,"0,69€/kWh >200kW - 0,54€/kWh 80-200kW ",0.69,ok
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,90.0,DC,"0,56€/kWh",0.56,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,150.0,DC,"0,55 €/kWh",0.55,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,17.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,60.0,DC,"0,43€/kWh DC - 0,35kWh AC",0.43,ok
+2025-01,Barcelona,,11.0,AC,"0,43€/kWh DC - 0,35kWh AC",0.43,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,120.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-01,Barcelona,,22.0,AC,free charging,,free
+2025-01,Barcelona,,3.7,AC,free charging,,free
+2025-01,Barcelona,,7.4,AC,free,,free
+2025-01,Barcelona,,3.7,AC,Free,,free
+2025-01,Barcelona,,7.4,AC,Free,,free
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,60€/kWh",0.6,ok
+2025-01,Barcelona,,7.4,AC,"0,24€/kWh",0.24,ok
+2025-01,Barcelona,,22.0,AC,"0,60€/kWh",0.6,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,43.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,"0,42€/kWh 50 kW - 0,38€/kWh AC",0.42,ok
+2025-01,Barcelona,,48.0,DC,"0,42€/kWh 50 kW - 0,38€/kWh AC",0.42,ok
+2025-01,Barcelona,,22.0,AC,"0,42€/kWh 50 kW - 0,38€/kWh AC",0.42,ok
+2025-01,Barcelona,,22.0,AC,"0,42€/kWh 50 kW - 0,38€/kWh AC",0.42,ok
+2025-01,Barcelona,,7.4,AC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,43.0,DC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,38€/kWh ",0.38,ok
+2025-01,Barcelona,,100.0,DC," 0,56€/kWh DC",0.56,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,50.0,DC,"0,41€/kWh",0.41,ok
+2025-01,Barcelona,,50.0,DC,"0,41€/kWh",0.41,ok
+2025-01,Barcelona,,43.0,DC,"0,41€/kWh",0.41,ok
+2025-01,Barcelona,,100.0,DC,"0,50€/kWh 100kW - 0,39€/kWh 50 kW - 0,32€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh 100kW - 0,39€/kWh 50 kW - 0,32€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh 100kW - 0,39€/kWh 50 kW - 0,32€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,50.0,DC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,50.0,DC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,60.0,DC,"0,55€/kWh DC - 0,40€/kWh AC",0.55,ok
+2025-01,Barcelona,,22.0,AC,"0,29€/kWh",0.29,ok
+2025-01,Barcelona,,22.0,AC,"0,29 €/kWh",0.29,ok
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,150.0,DC,"0,54€/kWh DC",0.54,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,7.4,AC,free,,free
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC," 0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-01,Barcelona,,50.0,DC," 0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-01,Barcelona,,43.0,DC," 0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-01,Barcelona,,7.0,AC," 0,39€/kWh ",0.39,ok
+2025-01,Barcelona,,7.0,AC," 0,39€/kWh ",0.39,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,60.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,100.0,DC,"0,54€/kWh DC - 0,36€/kWh AC",0.54,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,7.0,AC," 0,39€/kWh ",0.39,ok
+2025-01,Barcelona,,120.0,DC,"0,54€/kWh - 0,39€/kWh 22kW AC",0.54,ok
+2025-01,Barcelona,,22.0,AC,"0,54€/kWh - 0,39€/kWh 22kW AC",0.54,ok
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,180.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,10.0,AC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,150.0,DC,"0,55€/kWh",0.55,ok
+2025-01,Barcelona,,22.0,AC,parking,,no_kwh
+2025-01,Barcelona,,150.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,3.7,AC,free,,free
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,29 €/kWh",0.29,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,7.4,AC,,,empty
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,43.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,,,,,empty
+2025-01,Barcelona,,,,,,empty
+2025-01,Barcelona,,3.7,AC,free,,free
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,7.4,AC,free,,free
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,7.4,AC,free,,free
+2025-01,Barcelona,,50.0,DC,Free,,free
+2025-01,Barcelona,,50.0,DC,Free,,free
+2025-01,Barcelona,,43.0,DC,Free,,free
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,25.0,DC,Free / Gratis,,free
+2025-01,Barcelona,,25.0,DC,Free / Gratis,,free
+2025-01,Barcelona,,22.0,AC,Free / Gratis,,free
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,50.0,DC,0.40€,,no_kwh
+2025-01,Barcelona,,50.0,DC,0.40€,,no_kwh
+2025-01,Barcelona,,22.0,AC,0.40€,,no_kwh
+2025-01,Barcelona,,7.4,AC,,,empty
+2025-01,Barcelona,,50.0,DC,0.45€/kWh,0.45,ok
+2025-01,Barcelona,,50.0,DC,0.45€/kWh,0.45,ok
+2025-01,Barcelona,,43.0,DC,0.45€/kWh,0.45,ok
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,10.0,AC,,,empty
+2025-01,Barcelona,,2.3,AC,,,empty
+2025-01,Barcelona,,150.0,DC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,100.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-01,Barcelona,,50.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-01,Barcelona,,22.0,AC,Gratis previo registro de tarjeta RFID,,free
+2025-01,Barcelona,,3.6,AC,Gratis previo registro de tarjeta RFID,,free
+2025-01,Barcelona,,11.0,AC,Free,,free
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,Free,,free
+2025-01,Barcelona,,11.0,AC,Free,,free
+2025-01,Barcelona,,50.0,DC,"0,40€/kWh",0.4,ok
+2025-01,Barcelona,,43.0,DC,"0,40€/kWh",0.4,ok
+2025-01,Barcelona,,50.0,DC,"0,40€/kWh",0.4,ok
+2025-01,Barcelona,,150.0,DC,"0,55€/kWh DC - 0,35€/kWh AC",0.55,ok
+2025-01,Barcelona,,30.0,DC,"0,37€/kWh DC - 0,32€/kWh AC",0.37,ok
+2025-01,Barcelona,,7.4,AC,"0,37€/kWh DC - 0,32€/kWh AC",0.37,ok
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,7.4,AC,,,empty
+2025-01,Barcelona,,3.7,AC,parking,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC," 0,39€/kWh ",0.39,ok
+2025-01,Barcelona,,120.0,DC,"0,48€/kWh ",0.48,ok
+2025-01,Barcelona,,7.4,AC,Free,,free
+2025-01,Barcelona,,120.0,DC,"0,55€/kWh DC - 0,39€/kWh AC",0.55,ok
+2025-01,Barcelona,,22.0,AC,"0,55€/kWh DC - 0,39€/kWh AC",0.55,ok
+2025-01,Barcelona,,22.0,AC,"0,51€/kWh",0.51,ok
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC," 0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-01,Barcelona,,22.0,AC," 0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-01,Barcelona,,50.0,DC," 0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-01,Barcelona,,60.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-01,Barcelona,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,Barcelona,,43.0,DC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,2.3,AC,,,no_kwh
+2025-01,Barcelona,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,300.0,DC," 0,60€/kWh  ",0.6,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,2.3,AC,,,no_kwh
+2025-01,Barcelona,,180.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,10.0,AC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,100.0,DC,"0,60€/kWh ",0.6,ok
+2025-01,Barcelona,,50.0,DC,"0,60€/kWh ",0.6,ok
+2025-01,Barcelona,,100.0,DC,"0,60€/kWh ",0.6,ok
+2025-01,Barcelona,,50.0,DC,"0,60€/kWh ",0.6,ok
+2025-01,Barcelona,,22.0,AC,"0,60€/kWh ",0.6,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,120.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,7.4,AC,"0,39€/kWh ",0.39,ok
+2025-01,Barcelona,,3.7,AC,Free,,free
+2025-01,Barcelona,,3.7,AC,Free,,free
+2025-01,Barcelona,,11.0,AC,Free,,free
+2025-01,Barcelona,,2.3,AC,Free,,free
+2025-01,Barcelona,,11.0,AC,Free,,free
+2025-01,Barcelona,,2.3,AC,Free,,free
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,22.2,DC,,,empty
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,43.0,DC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,free,,free
+2025-01,Barcelona,,60.0,DC,"0,60€/kWh",0.6,ok
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,43.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,43.0,DC,free,,free
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,7.4,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,50.0,DC,"0,40€/kWh DC  - 0,25€/kWh AC",0.4,ok
+2025-01,Barcelona,,50.0,DC,"0,40€/kWh DC  - 0,25€/kWh AC",0.4,ok
+2025-01,Barcelona,,22.0,AC,"0,40€/kWh DC  - 0,25€/kWh AC",0.4,ok
+2025-01,Barcelona,,150.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,60.0,DC," 0,45€/kWh DC - 0,40€/kWh AC ",0.45,ok
+2025-01,Barcelona,,60.0,DC," 0,45€/kWh DC - 0,40€/kWh AC ",0.45,ok
+2025-01,Barcelona,,22.0,AC," 0,45€/kWh DC - 0,40€/kWh AC ",0.45,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,2.3,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,2.3,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,240.0,DC,"0,67 €/kWh ",0.67,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,40€/kWh",0.4,ok
+2025-01,Barcelona,,22.0,AC,0.25€/kWh,0.25,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,Barcelona,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,2.3,AC,Free,,free
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,2.3,AC,Free,,free
+2025-01,Barcelona,,150.0,DC,"0,54 €/kWh",0.54,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.2,DC,Free,,free
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,22.2,DC,Free,,free
+2025-01,Barcelona,,3.7,AC,free,,free
+2025-01,Barcelona,,3.7,AC,free,,free
+2025-01,Barcelona,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-01,Barcelona,,80.0,DC,"0,60€/kWh",0.6,ok
+2025-01,Barcelona,,22.0,AC,"0,60€/kWh",0.6,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,150.0,DC," 0,60€/kWh ",0.6,ok
+2025-01,Barcelona,,50.0,DC,Free,,free
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,7.4,AC,,,empty
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,60.0,DC,free,,free
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,300.0,DC,"0,49€/kWh",0.49,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,150.0,DC," 0,59€/kWh  DC - 0,39€/kWh AC ",0.59,ok
+2025-01,Barcelona,,22.0,AC," 0,59€/kWh  DC - 0,39€/kWh AC ",0.59,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,11.0,AC,Free,,free
+2025-01,Barcelona,,7.4,AC,Free,,free
+2025-01,Barcelona,,2.3,AC,Free,,free
+2025-01,Barcelona,,11.0,AC,Free,,free
+2025-01,Barcelona,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,150.0,DC,"0,55€/kWh ",0.55,ok
+2025-01,Barcelona,,11.0,AC,Free,,free
+2025-01,Barcelona,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,60.0,DC,"0,60€/kWh DC - 0,45€/kWh AC",0.6,ok
+2025-01,Barcelona,,22.0,AC,"0,60€/kWh DC - 0,45€/kWh AC",0.6,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,350.0,DC,"0,65€/kWh (or subscription rates) ",0.65,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,2.2,AC,Free,,free
+2025-01,Barcelona,,3.68,AC,Free,,free
+2025-01,Barcelona,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,120.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-01,Barcelona,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,50.0,DC,gratis,,free
+2025-01,Barcelona,,43.0,DC,gratis,,free
+2025-01,Barcelona,,35.0,DC,gratis,,free
+2025-01,Barcelona,,3.0,AC,gratis,,free
+2025-01,Barcelona,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-01,Barcelona,,43.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-01,Barcelona,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-01,Barcelona,,7.4,AC,"0,32€/kWh AC",0.32,ok
+2025-01,Barcelona,,100.0,DC,"0,46€/kWh DC - 0,35kWh AC",0.46,ok
+2025-01,Barcelona,,22.0,AC,"0,46€/kWh DC - 0,35kWh AC",0.46,ok
+2025-01,Barcelona,,100.0,DC,"0,40€/kWh",0.4,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,60.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,200.0,DC,"0,49€/kWh",0.49,ok
+2025-01,Barcelona,,7.4,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,150.0,DC,"0,43€/kWh",0.43,ok
+2025-01,Barcelona,,50.0,DC,"0,43€/kWh",0.43,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,22€/kWh",0.22,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,7.4,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,11.0,AC,free,,free
+2025-01,Barcelona,,3.6,AC,free,,free
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,3.7,AC,free,,free
+2025-01,Barcelona,,43.0,DC,free,,free
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,3.7,AC,Free,,free
+2025-01,Barcelona,,2.3,AC,Free,,free
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,150.0,DC," 0,55€/kWh DC ",0.55,ok
+2025-01,Barcelona,,22.0,AC," 0,55€/kWh DC ",0.55,ok
+2025-01,Barcelona,,90.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-01,Barcelona,,60.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,2.3,AC,,,empty
+2025-01,Barcelona,,2.3,AC,,,empty
+2025-01,Barcelona,,150.0,DC,"0,55€/kWh ",0.55,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,7.4,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh",0.5,ok
+2025-01,Barcelona,,22.0,AC,parking,,no_kwh
+2025-01,Barcelona,,3.7,AC,parking,,no_kwh
+2025-01,Barcelona,,26.0,DC,,,no_kwh
+2025-01,Barcelona,,26.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,7.4,AC,parking,,no_kwh
+2025-01,Barcelona,,22.0,AC,0.40€/kWh + parking fee,0.4,ok
+2025-01,Barcelona,,180.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,10.0,AC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,7.4,AC,free,,free
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,,,empty
+2025-01,Barcelona,,2.3,AC,,,no_kwh
+2025-01,Barcelona,,3.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,2.3,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,60.0,DC," 0,49€/kWh  DC - 0,39€/kWh AC ",0.49,ok
+2025-01,Barcelona,,22.0,AC," 0,49€/kWh  DC - 0,39€/kWh AC ",0.49,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,7.4,AC,"0,40€/kWh",0.4,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,300.0,DC," 0,55€/kWh  DC - 0,35€/kWh AC",0.55,ok
+2025-01,Barcelona,,22.0,AC," 0,55€/kWh  DC - 0,35€/kWh AC",0.55,ok
+2025-01,Barcelona,,60.0,DC," 0,55€/kWh  DC - 0,35€/kWh AC",0.55,ok
+2025-01,Barcelona,,22.0,AC,"0,45€/kWh AC",0.45,ok
+2025-01,Barcelona,,22.0,AC,"0,58€/kWh D C>60kW - 0,38€/kWh AC - (0,40€/min DC / 0,03€/min AC parked without charging)",0.58,ok
+2025-01,Barcelona,,150.0,DC,"0,58€/kWh D C>60kW - 0,38€/kWh AC - (0,40€/min DC / 0,03€/min AC parked without charging)",0.58,ok
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-01,Barcelona,,50.0,DC,"0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-01,Barcelona,,43.0,DC,"0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-01,Barcelona,,7.4,AC,"0,20€/kWh",0.2,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,3.68,AC,Free,,free
+2025-01,Barcelona,,7.36,AC,Free,,free
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,100.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-01,Barcelona,,50.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-01,Barcelona,,7.4,AC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-01,Barcelona,,120.0,DC,"0,39€/kWh DC - 0,32€/kWh AC",0.39,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh DC - 0,32€/kWh AC",0.39,ok
+2025-01,Barcelona,,7.4,AC,"0,39€/kWh DC - 0,32€/kWh AC",0.39,ok
+2025-01,Barcelona,,22.0,AC,0.43€/kWh + parking fee,0.43,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-01,Barcelona,,2.3,AC,gratis,,free
+2025-01,Barcelona,,11.0,AC,gratis,,free
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,11€/kWh",0.11,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,7.4,AC,,,empty
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,60.0,DC," 0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-01,Barcelona,,100.0,DC,"0,78€/kWh",0.78,ok
+2025-01,Barcelona,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-01,Barcelona,,43.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-01,Barcelona,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-01,Barcelona,,150.0,DC," 0,55€/kWh DC ",0.55,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,"0,45€/kWh AC",0.45,ok
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,18 cts el kWh,,no_kwh
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,150.0,DC,"0,40€/kWh DC ",0.4,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,3.7,AC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,7.0,AC,free,,free
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,7.4,AC,free,,free
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,11.0,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,"0,40€/kWh",0.4,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,45€/kWh AC",0.45,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,90.0,DC,"0,54€/kWh DC >80kW - 0,42€/kWh DC - 0,35kWh AC",0.54,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,22.0,AC,"parking fee + 0,20€/kWh (0,01€/min parked without charging)",0.2,ok
+2025-01,Barcelona,,22.0,AC,0.35 kwh,,no_kwh
+2025-01,Barcelona,,7.4,AC,free,,free
+2025-01,Barcelona,,3.0,AC,gratis,,free
+2025-01,Barcelona,,3.0,AC,gratis,,free
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh + parking fee",0.39,ok
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh ",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh ",0.39,ok
+2025-01,Barcelona,,43.0,DC,"0,39€/kWh ",0.39,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,Barcelona,,22.0,AC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,Barcelona,,150.0,DC,"0,54€/kWh DC ",0.54,ok
+2025-01,Barcelona,,150.0,DC,"0,54€/kWh DC ",0.54,ok
+2025-01,Barcelona,,150.0,DC,"0,54€/kWh DC ",0.54,ok
+2025-01,Barcelona,,400.0,DC,"0,54€/kWh DC ",0.54,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,120.0,DC,"0,54€/kWh DC - 0,36€/kWh AC",0.54,ok
+2025-01,Barcelona,,22.0,AC,"0,54€/kWh DC - 0,36€/kWh AC",0.54,ok
+2025-01,Barcelona,,3.75,AC,gratis,,free
+2025-01,Barcelona,,2.76,AC,gratis,,free
+2025-01,Barcelona,,22.2,DC,0.30€/kWh ,0.3,ok
+2025-01,Barcelona,,22.2,DC,Free,,free
+2025-01,Barcelona,,50.0,DC,pay,,no_kwh
+2025-01,Barcelona,,50.0,DC,pay,,no_kwh
+2025-01,Barcelona,,43.0,DC,pay,,no_kwh
+2025-01,Barcelona,,3.6,AC,pay,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-01,Barcelona,,7.4,AC,0.40€/kWh,0.4,ok
+2025-01,Barcelona,,40.0,DC,0.39€ kwh,0.39,ok
+2025-01,Barcelona,,50.0,DC,0.39€ kwh,0.39,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,300.0,DC,"0,49€/kWh",0.49,ok
+2025-01,Barcelona,,60.0,DC,,,empty
+2025-01,Barcelona,,30.0,DC,,,empty
+2025-01,Barcelona,,30.0,DC,,,empty
+2025-01,Barcelona,,30.0,DC,,,empty
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,30.0,DC,,,empty
+2025-01,Barcelona,,30.0,DC,,,empty
+2025-01,Barcelona,,30.0,DC,,,empty
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,120.0,DC,"0,55€/kWh DC - 0,40€/kWh AC",0.55,ok
+2025-01,Barcelona,,22.0,AC,"0,55€/kWh DC - 0,40€/kWh AC",0.55,ok
+2025-01,Barcelona,,30.0,DC,,,empty
+2025-01,Barcelona,,30.0,DC,,,empty
+2025-01,Barcelona,,30.0,DC,,,empty
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,30.0,DC,,,empty
+2025-01,Barcelona,,30.0,DC,,,empty
+2025-01,Barcelona,,30.0,DC,,,empty
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,3.7,AC,segun tarifa repsol,,no_kwh
+2025-01,Barcelona,,3.7,AC,segun tarifa repsol,,no_kwh
+2025-01,Barcelona,,150.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,55.0,DC,"0,18",,no_kwh
+2025-01,Barcelona,,55.0,DC,"0,18",,no_kwh
+2025-01,Barcelona,,43.0,DC,"0,18",,no_kwh
+2025-01,Barcelona,,50.0,DC,"0.30-0,40€/kWh",0.4,ok
+2025-01,Barcelona,,22.0,AC,"0.30-0,40€/kWh",0.4,ok
+2025-01,Barcelona,,50.0,DC,"0.30-0,40€/kWh",0.4,ok
+2025-01,Barcelona,,,,,,empty
+2025-01,Barcelona,,7.4,AC," 0,33€/kWh",0.33,ok
+2025-01,Barcelona,,7.4,AC,"0,33€/kWh",0.33,ok
+2025-01,Barcelona,,7.4,AC,"0,30€/kWh + parking fee",0.3,ok
+2025-01,Barcelona,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,50.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,40€/kWh",0.4,ok
+2025-01,Barcelona,,22.2,DC,0.30€/kWh,0.3,ok
+2025-01,Barcelona,,150.0,DC,"0,54€/kWh DC",0.54,ok
+2025-01,Barcelona,,150.0,DC,"0,54€/kWh DC",0.54,ok
+2025-01,Barcelona,,150.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-01,Barcelona,,250.0,DC,,,no_kwh
+2025-01,Barcelona,,150.0,DC," 0,59€/kWh - 0,40€/kWh AC ",0.59,ok
+2025-01,Barcelona,,60.0,DC," 0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-01,Barcelona,,22.0,AC," 0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,11.0,AC,free,,free
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,7.0,AC," 0,39€/kWh ",0.39,ok
+2025-01,Barcelona,,50.0,DC,Free,,free
+2025-01,Barcelona,,50.0,DC,Free,,free
+2025-01,Barcelona,,43.0,DC,Free,,free
+2025-01,Barcelona,,60.0,DC,"0,40€/kWh DC - 0,32€/kWh AC",0.4,ok
+2025-01,Barcelona,,22.0,AC,"0,40€/kWh DC - 0,32€/kWh AC",0.4,ok
+2025-01,Barcelona,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,300.0,DC,"0,49€/kWh",0.49,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh ",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh ",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh ",0.39,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh + parking fee",0.39,ok
+2025-01,Barcelona,,7.4,AC,"0,39€/kWh AC ",0.39,ok
+2025-01,Barcelona,,7.4,AC,"0,39€/kWh AC ",0.39,ok
+2025-01,Barcelona,,7.4,AC,"0,39€/kWh AC ",0.39,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh + parking  fee",0.39,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh + parking fee",0.39,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,16.0,AC,,,empty
+2025-01,Barcelona,,2.3,AC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,0.35€/kWh,0.35,ok
+2025-01,Barcelona,,7.4,AC,0.35€/kWh,0.35,ok
+2025-01,Barcelona,,7.2,AC,,,empty
+2025-01,Barcelona,,50.0,DC,"0,49€/kWh",0.49,ok
+2025-01,Barcelona,,43.0,DC,"0,49€/kWh",0.49,ok
+2025-01,Barcelona,,50.0,DC,"0,49€/kWh",0.49,ok
+2025-01,Barcelona,,7.4,AC,,,empty
+2025-01,Barcelona,,2.3,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,43.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,7.2,AC,Free,,free
+2025-01,Barcelona,,3.6,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,7.0,AC,"0,38€/kWh + parking fee",0.38,ok
+2025-01,Barcelona,,7.4,AC,Free,,free
+2025-01,Barcelona,,2.3,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,7.2,AC,Free,,free
+2025-01,Barcelona,,3.6,AC,Free,,free
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,"0,57€/kWh",0.57,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,17.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,17.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC," 0,39€/kWh ",0.39,ok
+2025-01,Barcelona,,6.0,AC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,3.7,AC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh + parking fee",0.39,ok
+2025-01,Barcelona,,7.4,AC,"0,41€/kWh + parking fee",0.41,ok
+2025-01,Barcelona,,7.4,AC,"0,40€/kWh",0.4,ok
+2025-01,Barcelona,,7.4,AC,Free,,free
+2025-01,Barcelona,,3.5,AC,Free,,free
+2025-01,Barcelona,,43.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,3.5,AC,,,empty
+2025-01,Barcelona,,7.2,AC,Free,,free
+2025-01,Barcelona,,3.6,AC,Free,,free
+2025-01,Barcelona,,3.5,AC,,,empty
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,7.4,AC,0.35€/kWh,0.35,ok
+2025-01,Barcelona,,7.4,AC,0.35€/kWh,0.35,ok
+2025-01,Barcelona,,7.4,AC,0.35€/kWh,0.35,ok
+2025-01,Barcelona,,7.4,AC,0.35€/kWh,0.35,ok
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,free,,free
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,0.35€/kWh,0.35,ok
+2025-01,Barcelona,,7.2,AC,Free,,free
+2025-01,Barcelona,,3.6,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,4.4,AC,,,empty
+2025-01,Barcelona,,4.4,AC,,,empty
+2025-01,Barcelona,,4.4,AC,,,empty
+2025-01,Barcelona,,4.4,AC,,,empty
+2025-01,Barcelona,,4.4,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh + parking fee",0.39,ok
+2025-01,Barcelona,,50.0,DC,Free,,free
+2025-01,Barcelona,,43.0,DC,Free,,free
+2025-01,Barcelona,,50.0,DC,Free,,free
+2025-01,Barcelona,,3.68,AC,Free,,free
+2025-01,Barcelona,,150.0,DC,,,empty
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,150.0,DC,"0,54€/kWh",0.54,ok
+2025-01,Barcelona,,7.4,AC,free,,free
+2025-01,Barcelona,,7.0,AC,"0,19€/kWh + parking fees",0.19,ok
+2025-01,Barcelona,,7.2,AC,Free,,free
+2025-01,Barcelona,,3.6,AC,Free,,free
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,43.0,DC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,7.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,3.5,AC,,,empty
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,3.5,AC,,,empty
+2025-01,Barcelona,,7.2,AC,Free,,free
+2025-01,Barcelona,,3.6,AC,Free,,free
+2025-01,Barcelona,,50.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,50.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-01,Barcelona,,7.4,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,Free,,free
+2025-01,Barcelona,,50.0,DC,Free,,free
+2025-01,Barcelona,,7.4,AC,"0,41€/kWh + parking fee",0.41,ok
+2025-01,Barcelona,,7.4,AC,0.27€/kWh,0.27,ok
+2025-01,Barcelona,,22.0,AC,"0,38€/kWh + parking fee",0.38,ok
+2025-01,Barcelona,,3.7,AC,"0,46€/kWh",0.46,ok
+2025-01,Barcelona,,7.4,AC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,7.4,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,3.7,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC,"0,43€/kWh",0.43,ok
+2025-01,Barcelona,,3.5,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC," 0,39€/kWh ",0.39,ok
+2025-01,Barcelona,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,43.0,DC,,,empty
+2025-01,Barcelona,,7.4,AC,"0,38€/kWh",0.38,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,7.4,AC,0.30€/kWh,0.3,ok
+2025-01,Barcelona,,3.5,AC,Free,,free
+2025-01,Barcelona,,3.5,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,"0,38€/kWh + parking fee",0.38,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,7.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,3.5,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,3.7,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,43.0,DC,?,,no_kwh
+2025-01,Barcelona,,50.0,DC,?,,no_kwh
+2025-01,Barcelona,,50.0,DC,?,,no_kwh
+2025-01,Barcelona,,7.4,AC,"0,43€/kWh  DC - 0,32€/kWh AC",0.43,ok
+2025-01,Barcelona,,3.5,AC,,,empty
+2025-01,Barcelona,,7.4,AC,"0,38€/kWh",0.38,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,41€/kWh + parking fee",0.41,ok
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,50.0,DC,"0.30-0,40€/kWh",0.4,ok
+2025-01,Barcelona,,22.0,AC,"0.30-0,40€/kWh",0.4,ok
+2025-01,Barcelona,,50.0,DC,"0.30-0,40€/kWh",0.4,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,7.4,AC,0.24€/kWh,0.24,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,40€/kWh AC ",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,40€/kWh AC ",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,40€/kWh AC ",0.5,ok
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,43.0,DC,,,empty
+2025-01,Barcelona,,22.0,AC," 0,39€/kWh ",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,100.0,DC,"0,55€/kWh DC - 0,40€/kWh AC",0.55,ok
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,50.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,60.0,DC,free,,free
+2025-01,Barcelona,,50.0,DC,Free,,free
+2025-01,Barcelona,,43.0,DC,Free,,free
+2025-01,Barcelona,,50.0,DC,Free,,free
+2025-01,Barcelona,,320.0,DC,,,empty
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,150.0,DC," 0,55€/kWh DC - 0,39€/kWh AC ",0.55,ok
+2025-01,Barcelona,,22.0,AC," 0,55€/kWh DC - 0,39€/kWh AC ",0.55,ok
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,7.4,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC,free charging + parking fee,,free
+2025-01,Barcelona,,7.4,AC,0.12€/kWh,0.12,ok
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,Free,,free
+2025-01,Barcelona,,90.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,7.4,AC,Free,,free
+2025-01,Barcelona,,3.5,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,"0,36€/kWh",0.36,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0.30-0,40€/kWh",0.4,ok
+2025-01,Barcelona,,22.0,AC,"0.30-0,40€/kWh",0.4,ok
+2025-01,Barcelona,,50.0,DC,"0.30-0,40€/kWh",0.4,ok
+2025-01,Barcelona,,60.0,DC,"0,38€/kWh",0.38,ok
+2025-01,Barcelona,,50.0,DC,"0,42€/kWh ",0.42,ok
+2025-01,Barcelona,,50.0,DC,"0,42€/kWh ",0.42,ok
+2025-01,Barcelona,,10.0,AC,"0,39 € kWh",0.39,ok
+2025-01,Barcelona,,7.4,AC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,Free,,free
+2025-01,Barcelona,,43.0,DC,Free,,free
+2025-01,Barcelona,,50.0,DC,Free,,free
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,3.5,AC,,,empty
+2025-01,Barcelona,,3.6,AC,Free,,free
+2025-01,Barcelona,,50.0,DC,"0,41€/kWh + parking fee",0.41,ok
+2025-01,Barcelona,,3.0,AC,,,empty
+2025-01,Barcelona,,50.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,50.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,100.0,DC,"0,40€/kWh",0.4,ok
+2025-01,Barcelona,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0.30-0,40€/kWh",0.4,ok
+2025-01,Barcelona,,22.0,AC,"0.30-0,40€/kWh",0.4,ok
+2025-01,Barcelona,,50.0,DC,"0.30-0,40€/kWh",0.4,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,,,Free,,free
+2025-01,Barcelona,,11.0,AC,Free,,free
+2025-01,Barcelona,,2.3,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh + parking ",0.39,ok
+2025-01,Barcelona,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-01,Barcelona,,50.0,DC," 0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,50.0,DC," 0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,90.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-01,Barcelona,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,100.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-01,Barcelona,,50.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,150.0,DC,"0,36€/kWh",0.36,ok
+2025-01,Barcelona,,22.0,AC,"0,36€/kWh",0.36,ok
+2025-01,Barcelona,,90.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-01,Barcelona,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-01,Barcelona,,7.4,AC,free,,free
+2025-01,Barcelona,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,150.0,DC,"0,54 €/kWh",0.54,ok
+2025-01,Barcelona,,150.0,DC,"0,54 €/kWh",0.54,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,100.0,DC,"0,55€/kWh",0.55,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,43.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,100.0,DC,"0,54€/kWh DC - 4.5€/h AC",0.54,ok
+2025-01,Barcelona,,50.0,DC,"0,54€/kWh DC - 4.5€/h AC",0.54,ok
+2025-01,Barcelona,,22.0,AC,"0,54€/kWh DC - 4.5€/h AC",0.54,ok
+2025-01,Barcelona,,22.0,AC,"0,59€/kWh DC - 0,39€/kWh AC",0.59,ok
+2025-01,Barcelona,,150.0,DC,"0,59€/kWh DC - 0,39€/kWh AC",0.59,ok
+2025-01,Barcelona,,22.0,AC,Gratis,,free
+2025-01,Barcelona,,2.7,AC,Gratis,,free
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,7.4,AC,Free,,free
+2025-01,Barcelona,,2.3,AC,Free,,free
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,7.4,AC,,,empty
+2025-01,Barcelona,,50.0,DC,"0.30-0,40€/kWh",0.4,ok
+2025-01,Barcelona,,22.0,AC,"0.30-0,40€/kWh",0.4,ok
+2025-01,Barcelona,,50.0,DC,"0.30-0,40€/kWh",0.4,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,90.0,DC,"0,62€/kWh",0.62,ok
+2025-01,Barcelona,,3.7,AC,Free,,free
+2025-01,Barcelona,,7.4,AC,free,,free
+2025-01,Barcelona,,7.4,AC,"0,46€/kWh",0.46,ok
+2025-01,Barcelona,,90.0,DC,"0,30",,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,30",,no_kwh
+2025-01,Barcelona,,3.7,AC,"0,30",,no_kwh
+2025-01,Barcelona,,120.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-01,Barcelona,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-01,Barcelona,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,25.0,DC,,,no_kwh
+2025-01,Barcelona,,25.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,41€/kWh",0.41,ok
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,43.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.68,AC,Free,,free
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,7.4,AC,Free,,free
+2025-01,Barcelona,,2.3,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,90.0,DC,,,empty
+2025-01,Barcelona,,7.4,AC,,,empty
+2025-01,Barcelona,,350.0,DC,"0,65€/kWh (or subscription rates) ",0.65,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,3.7,AC,Free,,free
+2025-01,Barcelona,,50.0,DC,Free,,free
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,50.0,DC,Free,,free
+2025-01,Barcelona,,50.0,DC,"0,55-0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-01,Barcelona,,50.0,DC,"0,55-0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-01,Barcelona,,43.0,DC,"0,55-0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-01,Barcelona,,150.0,DC,"0,55-0,49€/kWh DC - 0,39€/kWh AC",0.49,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,7.4,AC,Free,,free
+2025-01,Barcelona,,2.3,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,3.7,AC,Free,,free
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,180.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-01,Barcelona,,180.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,7.4,AC,Free,,free
+2025-01,Barcelona,,2.3,AC,Free,,free
+2025-01,Barcelona,,60.0,DC,Free,,free
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,7.4,AC,"0,40€/kWh",0.4,ok
+2025-01,Barcelona,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,Free,,free
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,320.0,DC,"0,69€/kWh ",0.69,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,40€/kWh",0.4,ok
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,3.7,AC,free,,free
+2025-01,Barcelona,,150.0,DC,"0,55€/kWh DC",0.55,ok
+2025-01,Barcelona,,150.0,DC," 0,55€/kWh DC - 0,39€/kWh AC ",0.55,ok
+2025-01,Barcelona,,100.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-01,Barcelona,,50.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,120.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-01,Barcelona,,3.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,Free,,free
+2025-01,Barcelona,,3.7,AC,Free,,free
+2025-01,Barcelona,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,3.7,AC,free,,free
+2025-01,Barcelona,,60.0,DC,"0,55€/kWh DC - 0,40€/kWh AC",0.55,ok
+2025-01,Barcelona,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,43.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,43€/kWh",0.43,ok
+2025-01,Barcelona,,25.0,DC,"0,43€/kWh",0.43,ok
+2025-01,Barcelona,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,50.0,DC,Free,,free
+2025-01,Barcelona,,50.0,DC,Free,,free
+2025-01,Barcelona,,43.0,DC,Free,,free
+2025-01,Barcelona,,50.0,DC,"€0,47/kWh",,no_kwh
+2025-01,Barcelona,,50.0,DC,"€0,47/kWh",,no_kwh
+2025-01,Barcelona,,43.65,DC,"€0,47/kWh",,no_kwh
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,11.0,AC,"0,58€/kWh",0.58,ok
+2025-01,Barcelona,,100.0,DC,,,empty
+2025-01,Barcelona,,100.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,3.7,AC,free,,free
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC,"0,33€/kWh",0.33,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,90.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,20.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-01,Barcelona,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-01,Barcelona,,60.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,90.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-01,Barcelona,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,50.0,DC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,50.0,DC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,50.0,DC,"0,25€/kW",,no_kwh
+2025-01,Barcelona,,43.0,DC,"0,25€/kW",,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,25€/kW",,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,25€/kW",,no_kwh
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,50.0,DC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,43.0,DC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,55.0,DC,Free,,free
+2025-01,Barcelona,,3.5,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,"0,40€/kWh",0.4,ok
+2025-01,Barcelona,,50.0,DC,"0,40€/kWh",0.4,ok
+2025-01,Barcelona,,50.0,DC,"0,40€/kWh",0.4,ok
+2025-01,Barcelona,,43.0,DC,"0,40€/kWh",0.4,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,150.0,DC,"0,62€/kWh",0.62,ok
+2025-01,Barcelona,,7.4,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,100.0,DC,"0,60 €/kWh DC - 0,39€/kWh AC",0.6,ok
+2025-01,Barcelona,,100.0,DC,"0,60 €/kWh DC - 0,39€/kWh AC",0.6,ok
+2025-01,Barcelona,,22.0,AC,"0,60 €/kWh DC - 0,39€/kWh AC",0.6,ok
+2025-01,Barcelona,,150.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-01,Barcelona,,7.4,AC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,60.0,DC,"0,55€/kWh DC - 0,40€/kWh AC",0.55,ok
+2025-01,Barcelona,,3.7,AC,"0,3€/kWh",0.3,ok
+2025-01,Barcelona,,3.6,AC,"0,3€/kWh",0.3,ok
+2025-01,Barcelona,,7.4,AC,"0,07€/kWh",0.07,ok
+2025-01,Barcelona,,150.0,DC,"0,55€/kWh ",0.55,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,29€/kWh",0.29,ok
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,11.0,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,50.0,DC,Free,,free
+2025-01,Barcelona,,43.0,DC,Free,,free
+2025-01,Barcelona,,50.0,DC,Free,,free
+2025-01,Barcelona,,7.4,AC,"0,40€/kWh",0.4,ok
+2025-01,Barcelona,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,Free,,free
+2025-01,Barcelona,,3.5,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,7.3,AC,,,empty
+2025-01,Barcelona,,43.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,3.5,AC,Free,,free
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,7.0,AC,"0,38€/kWh + parking fee",0.38,ok
+2025-01,Barcelona,,7.4,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,43.0,DC,,,empty
+2025-01,Barcelona,,3.5,AC,Free,,free
+2025-01,Barcelona,,7.0,AC,Free,,free
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,3.5,AC,,,empty
+2025-01,Barcelona,,7.2,AC,Free,,free
+2025-01,Barcelona,,3.6,AC,Free,,free
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC," 0,39€/kWh ",0.39,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,7.2,AC,Free,,free
+2025-01,Barcelona,,3.6,AC,Free,,free
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,3.5,AC,Free,,free
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,7.4,AC,"0,29€/kWh",0.29,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-01,Barcelona,,3.5,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh + parking ",0.39,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,7.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh + parking fee",0.39,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,3.5,AC,Free,,free
+2025-01,Barcelona,,7.4,AC,0,,no_kwh
+2025-01,Barcelona,,11.0,AC,Free,,free
+2025-01,Barcelona,,11.0,AC,Free,,free
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,15€/kWh",0.15,ok
+2025-01,Barcelona,,7.4,AC,0.40€/kWh,0.4,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,7.4,AC,0.35€/kWh,0.35,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,200.0,DC,"0,49€/kWh",0.49,ok
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,5.0,AC,0.35€/kWh,0.35,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,7.4,AC,"0,45€/kwh",0.45,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"3,06€/h",,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,"parking fee + 0,20€/kWh (0,01€/min parked without charging)",0.2,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,7.4,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,7.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,7.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,50.0,DC,0.49€/kWh ,0.49,ok
+2025-01,Barcelona,,50.0,DC,0.49€/kWh ,0.49,ok
+2025-01,Barcelona,,22.0,AC,0.49€/kWh ,0.49,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,7.4,AC,0.45€/kWh,0.45,ok
+2025-01,Barcelona,,7.4,AC,"0,36-0,42€/kWh",0.42,ok
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,3.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,3.5,AC,,,empty
+2025-01,Barcelona,,22.0,AC,0.36€/kWh,0.36,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh 50kW/AC43 - 0,35€/kWh AC",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh 50kW/AC43 - 0,35€/kWh AC",0.45,ok
+2025-01,Barcelona,,43.0,DC,"0,45€/kWh 50kW/AC43 - 0,35€/kWh AC",0.45,ok
+2025-01,Barcelona,,7.4,AC,"0,45€/kWh 50kW/AC43 - 0,35€/kWh AC",0.45,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,0,,no_kwh
+2025-01,Barcelona,,50.0,DC,0,,no_kwh
+2025-01,Barcelona,,43.0,DC,0,,no_kwh
+2025-01,Barcelona,,3.0,AC,,,empty
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,3.5,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,7.4,AC,0.40€/kWh,0.4,ok
+2025-01,Barcelona,,7.4,AC,"parking fee + 0,20€/kWh (0,01€/min parked without charging)",0.2,ok
+2025-01,Barcelona,,7.4,AC,free,,free
+2025-01,Barcelona,,7.4,AC,"0,36-0,42€/kWh",0.42,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,"0,29€/kWh AC",0.29,ok
+2025-01,Barcelona,,3.6,AC,,,empty
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,3.5,AC,,,empty
+2025-01,Barcelona,,3.5,AC,Free,,free
+2025-01,Barcelona,,7.2,AC,Free,,free
+2025-01,Barcelona,,3.6,AC,Free,,free
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,43.0,DC,,,empty
+2025-01,Barcelona,,3.5,AC,,,empty
+2025-01,Barcelona,,7.4,AC,Free,,free
+2025-01,Barcelona,,3.5,AC,Free,,free
+2025-01,Barcelona,,7.4,AC,,,empty
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,3.5,AC,,,empty
+2025-01,Barcelona,,7.4,AC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,50.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,50.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,3.5,AC,,,empty
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,0.35€/kWh,0.35,ok
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,7.0,AC,"0,41€/kWh",0.41,ok
+2025-01,Barcelona,,7.0,AC,"0,41€/kWh",0.41,ok
+2025-01,Barcelona,,7.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,6.0,AC,,,empty
+2025-01,Barcelona,,3.5,AC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,43.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,7.2,AC,Free,,free
+2025-01,Barcelona,,3.6,AC,Free,,free
+2025-01,Barcelona,,7.4,AC,Free,,free
+2025-01,Barcelona,,3.5,AC,Free,,free
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,3.5,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,7.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,7.0,AC,"0,41€/kWh",0.41,ok
+2025-01,Barcelona,,7.0,AC,"0,41€/kWh",0.41,ok
+2025-01,Barcelona,,7.4,AC,"0,35€/kWh daytime rate, 0,30€/kWh night rate. Minimum 1,5€",0.35,ok
+2025-01,Barcelona,,3.5,AC,"0,35€/kWh daytime rate, 0,30€/kWh night rate. Minimum 1,5€",0.35,ok
+2025-01,Barcelona,,43.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,7.0,AC,"0,41€/kWh",0.41,ok
+2025-01,Barcelona,,7.0,AC,"0,41€/kWh",0.41,ok
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,7.2,AC,Free,,free
+2025-01,Barcelona,,3.6,AC,Free,,free
+2025-01,Barcelona,,7.4,AC,"0,38€/kWh",0.38,ok
+2025-01,Barcelona,,50.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,50.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC,"0,37€/kWh DC - 0,32€/kWh AC",0.37,ok
+2025-01,Barcelona,,30.0,DC,"0,37€/kWh DC - 0,32€/kWh AC",0.37,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,30.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-01,Barcelona,,3.5,AC,Free,,free
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,7.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,7.4,AC,0.45€/kWh,0.45,ok
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,14.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,7.4,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,11.0,AC,Free,,free
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,43.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,7.6,AC,Free,,free
+2025-01,Barcelona,,3.6,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,3.5,AC,Free,,free
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,7.2,AC,Free,,free
+2025-01,Barcelona,,3.6,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh + parking fee",0.39,ok
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,3.5,AC,,,empty
+2025-01,Barcelona,,3.5,AC,,,empty
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,3.5,AC,,,empty
+2025-01,Barcelona,,7.2,AC,Free,,free
+2025-01,Barcelona,,3.6,AC,Free,,free
+2025-01,Barcelona,,7.2,AC,Free,,free
+2025-01,Barcelona,,3.6,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,7.4,AC,,,empty
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,3.5,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,7.4,AC,"0,38€/kWh",0.38,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,"0,38€/kWh",0.38,ok
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,7.4,AC," 0,38€/kWh",0.38,ok
+2025-01,Barcelona,,22.0,AC,"0,13€/kWh",0.13,ok
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,39 €/kWh. + Parking fee",0.39,ok
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,3.5,AC,,,empty
+2025-01,Barcelona,,7.4,AC,Free,,free
+2025-01,Barcelona,,3.5,AC,Free,,free
+2025-01,Barcelona,,7.4,AC,"0,36€/kWh",0.36,ok
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,3.5,AC,,,empty
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,3.5,AC,,,empty
+2025-01,Barcelona,,3.5,AC,Free,,free
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,43.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,Gratis,,free
+2025-01,Barcelona,,50.0,DC,Gratis,,free
+2025-01,Barcelona,,43.0,DC,Gratis,,free
+2025-01,Barcelona,,3.7,AC,Gratis,,free
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-01,Barcelona,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,50.0,DC,Gratis,,free
+2025-01,Barcelona,,50.0,DC,Gratis,,free
+2025-01,Barcelona,,43.0,DC,Gratis,,free
+2025-01,Barcelona,,3.7,AC,Gratis,,free
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,7.2,AC,Free,,free
+2025-01,Barcelona,,3.6,AC,Free,,free
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,7.4,AC,parking fee,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh DC - 0,35€/kWh AC",0.47,ok
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh DC - 0,35€/kWh AC",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh DC - 0,35€/kWh AC",0.47,ok
+2025-01,Barcelona,,7.4,AC,free,,free
+2025-01,Barcelona,,100.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC,"0,58€/kWh",0.58,ok
+2025-01,Barcelona,,50.0,DC,Free,,free
+2025-01,Barcelona,,50.0,DC,Free,,free
+2025-01,Barcelona,,43.0,DC,Free,,free
+2025-01,Barcelona,,7.4,AC," 0,38€/kWh",0.38,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,22.0,AC," 0,59€/kWh",0.59,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,3.7,AC,parking fee,,no_kwh
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,3.5,AC,,,empty
+2025-01,Barcelona,,7.4,AC,free,,free
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,Gratis,,free
+2025-01,Barcelona,,50.0,DC,Gratis,,free
+2025-01,Barcelona,,43.0,DC,Gratis,,free
+2025-01,Barcelona,,3.7,AC,Gratis,,free
+2025-01,Barcelona,,3.7,AC,Gratis,,free
+2025-01,Barcelona,,3.5,AC,Gratis,,free
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,3.5,AC,,,empty
+2025-01,Barcelona,,7.2,AC,Free,,free
+2025-01,Barcelona,,3.6,AC,Free,,free
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,,,Free,,free
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,3.5,AC,Free,,free
+2025-01,Barcelona,,11.0,AC,"parking fee + 0,20€/kWh (0,01€/min parked without charging)",0.2,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,60.0,DC,,,no_kwh
+2025-01,Barcelona,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,150.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,7.0,AC," 0,39€/kWh ",0.39,ok
+2025-01,Barcelona,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,35 €/kWh ",0.35,ok
+2025-01,Barcelona,,50.0,DC,"0,35 €/kWh ",0.35,ok
+2025-01,Barcelona,,43.0,DC,"0,35 €/kWh ",0.35,ok
+2025-01,Barcelona,,22.0,AC,"0,35 €/kWh ",0.35,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,35 €/kWh ",0.35,ok
+2025-01,Barcelona,,50.0,DC,"0,35 €/kWh ",0.35,ok
+2025-01,Barcelona,,43.0,DC,"0,35 €/kWh ",0.35,ok
+2025-01,Barcelona,,22.0,AC,"0,35 €/kWh ",0.35,ok
+2025-01,Barcelona,,150.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,150.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,43.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,2.3,AC,free,,free
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,60.0,DC,0.49€/kWh ,0.49,ok
+2025-01,Barcelona,,50.0,DC,Free,,free
+2025-01,Barcelona,,50.0,DC,Free,,free
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,11.0,AC,"0,58€/kWh",0.58,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,30.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-01,Barcelona,,7.4,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-01,Barcelona,,7.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,60.0,DC,"0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,0.21€/kWh,0.21,ok
+2025-01,Barcelona,,7.4,AC,0.21€/kWh,0.21,ok
+2025-01,Barcelona,,120.0,DC,"0,54€/kWh",0.54,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,150.0,DC," 0,59€/kWh  DC - 0,39€/kWh AC ",0.59,ok
+2025-01,Barcelona,,22.0,AC," 0,59€/kWh  DC - 0,39€/kWh AC ",0.59,ok
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,Barcelona,,22.0,AC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,"0,58€/kWh D C>60kW - 0,38€/kWh AC - (0,40€/min DC / 0,03€/min AC parked without charging)",0.58,ok
+2025-01,Barcelona,,150.0,DC,"0,58€/kWh D C>60kW - 0,38€/kWh AC - (0,40€/min DC / 0,03€/min AC parked without charging)",0.58,ok
+2025-01,Barcelona,,50.0,DC,Free,,free
+2025-01,Barcelona,,50.0,DC,Free,,free
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,180.0,DC,0.54€/kWh ,0.54,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,2.3,AC,free,,free
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,100.0,DC,"0,54€/kWh",0.54,ok
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,18.0,AC,,,empty
+2025-01,Barcelona,,60.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,7.4,AC,"0,35€/kwh",0.35,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,0.25€/kWh,0.25,ok
+2025-01,Barcelona,,60.0,DC,"0,35€/kWh ",0.35,ok
+2025-01,Barcelona,,150.0,DC," 0,55€/kWh DC - 0,39€/kWh AC ",0.55,ok
+2025-01,Barcelona,,22.0,AC," 0,55€/kWh DC - 0,39€/kWh AC ",0.55,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,150.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-01,Barcelona,,300.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,43.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,60.0,DC,"0,35€/kWh ",0.35,ok
+2025-01,Barcelona,,60.0,DC,"0,35€/kWh ",0.35,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,11.0,AC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,7.4,AC,free,,free
+2025-01,Barcelona,,3.7,AC,free,,free
+2025-01,Barcelona,,50.0,DC," 0,47€/kWh",0.47,ok
+2025-01,Barcelona,,50.0,DC," 0,47€/kWh",0.47,ok
+2025-01,Barcelona,,43.0,DC," 0,47€/kWh",0.47,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.7,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,60.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,43.0,DC,free,,free
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,,,,,empty
+2025-01,Barcelona,,3.6,AC,,,empty
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,43.0,DC,"0,45€/kWh DC - 0,35€/kWh AC",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh DC - 0,35€/kWh AC",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh DC - 0,35€/kWh AC",0.45,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC," 0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-01,Barcelona,,50.0,DC," 0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-01,Barcelona,,150.0,DC,"0,55€/kWh",0.55,ok
+2025-01,Barcelona,,50.0,DC,"0,35 €/kwh",0.35,ok
+2025-01,Barcelona,,50.0,DC,"0,35 €/kwh",0.35,ok
+2025-01,Barcelona,,43.0,DC,"0,35 €/kwh",0.35,ok
+2025-01,Barcelona,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,43.0,DC," 0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,150.0,DC," 0,55€/kWh DC",0.55,ok
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,0.25€/kWh,0.25,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,43.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,7.4,AC,0,,no_kwh
+2025-01,Barcelona,,3.6,AC,0,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,120.0,DC,"0,45€/kWh DC -  0,39€/kWh AC",0.45,ok
+2025-01,Barcelona,,22.0,AC,"0,45€/kWh DC -  0,39€/kWh AC",0.45,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,120.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.7,AC,"0,50€/kWh",0.5,ok
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,3.7,AC,Free,,free
+2025-01,Barcelona,,150.0,DC,0.59€/kWh,0.59,ok
+2025-01,Barcelona,,50.0,DC,"0.30-0,40€/kWh",0.4,ok
+2025-01,Barcelona,,22.0,AC,"0.30-0,40€/kWh",0.4,ok
+2025-01,Barcelona,,50.0,DC,"0.30-0,40€/kWh",0.4,ok
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh 22kW AC",0.25,ok
+2025-01,Barcelona,,60.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,150.0,DC,"0,46€/kWh",0.46,ok
+2025-01,Barcelona,,22.0,AC,"0,38€/kWh AC - (0,03€/min parked without charging)",0.38,ok
+2025-01,Barcelona,,7.4,AC,free,,free
+2025-01,Barcelona,,2.3,AC,free,,free
+2025-01,Barcelona,,120.0,DC,"0,54€/kWh DC - 0,36€/kWh AC",0.54,ok
+2025-01,Barcelona,,22.0,AC,"0,54€/kWh DC - 0,36€/kWh AC",0.54,ok
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,5.5,AC,,,empty
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,17€/kWh",0.17,ok
+2025-01,Barcelona,,3.7,AC,"0,17€/kWh",0.17,ok
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,7.4,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,50.0,DC,Free,,free
+2025-01,Barcelona,,43.0,DC,Free,,free
+2025-01,Barcelona,,50.0,DC,Free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,3.7,AC,free,,free
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,7.4,AC,free,,free
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0.30-0,40€/kWh",0.4,ok
+2025-01,Barcelona,,22.0,AC,"0.30-0,40€/kWh",0.4,ok
+2025-01,Barcelona,,50.0,DC,"0.30-0,40€/kWh",0.4,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,7.4,AC,"0,32€/kWh AC",0.32,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,60.0,DC," 0,40€/kWh DC - 0,35€/kWh AC ",0.4,ok
+2025-01,Barcelona,,60.0,DC," 0,40€/kWh DC - 0,35€/kWh AC ",0.4,ok
+2025-01,Barcelona,,50.0,DC,"0.30-0,40€/kWh",0.4,ok
+2025-01,Barcelona,,22.0,AC,"0.30-0,40€/kWh",0.4,ok
+2025-01,Barcelona,,50.0,DC,"0.30-0,40€/kWh",0.4,ok
+2025-01,Barcelona,,150.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,30.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,7.4,AC,,,empty
+2025-01,Barcelona,,2.3,AC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,free,,free
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,43.0,DC,,,empty
+2025-01,Barcelona,,30.0,DC,"0,37€/kWh DC - 0,32€/kWh AC",0.37,ok
+2025-01,Barcelona,,7.4,AC,"0,37€/kWh DC - 0,32€/kWh AC",0.37,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh ",0.25,ok
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,3.5,AC,,,empty
+2025-01,Barcelona,,7.36,AC,,,empty
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,3.5,AC,Free,,free
+2025-01,Barcelona,,22.0,AC," 0,38€/kWh",0.38,ok
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,7.4,AC,free,,free
+2025-01,Barcelona,,7.0,AC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,3.5,AC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,43.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,150.0,DC,0.59€/kWh,0.59,ok
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,3.5,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,3.5,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,0,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,3.5,AC,,,empty
+2025-01,Barcelona,,9.7,AC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,43.0,DC,,,empty
+2025-01,Barcelona,,7.2,AC,Free,,free
+2025-01,Barcelona,,3.6,AC,Free,,free
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,3.5,AC,,,empty
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,"0,15€/kWh",0.15,ok
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,3.5,AC,,,no_kwh
+2025-01,Barcelona,,7.0,AC," 0,39€/kWh ",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,50.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,300.0,DC,"0,49€/kWh",0.49,ok
+2025-01,Barcelona,,120.0,DC,"0,34€/kWh",0.34,ok
+2025-01,Barcelona,,22.0,AC,"0,34€/kWh",0.34,ok
+2025-01,Barcelona,,3.0,AC,"0,34€/kWh",0.34,ok
+2025-01,Barcelona,,60.0,DC,free,,free
+2025-01,Barcelona,,60.0,DC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,300.0,DC,"0,49€/kWh",0.49,ok
+2025-01,Barcelona,,50.0,DC,0.45€/kWh,0.45,ok
+2025-01,Barcelona,,50.0,DC,0.45€/kWh,0.45,ok
+2025-01,Barcelona,,22.0,AC,0.45€/kWh,0.45,ok
+2025-01,Barcelona,,22.0,AC,0.45€/kWh,0.45,ok
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,150.0,DC,"0,55€/kWh",0.55,ok
+2025-01,Barcelona,,7.4,AC,Free,,free
+2025-01,Barcelona,,120.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-01,Barcelona,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,7.4,AC,Free,,free
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,22.0,AC,€0/kWh,,no_kwh
+2025-01,Barcelona,,2.3,AC,€0/kWh,,no_kwh
+2025-01,Barcelona,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,22.0,AC,"0,39/kWh",,no_kwh
+2025-01,Barcelona,,22.0,AC,€0/kWh,,no_kwh
+2025-01,Barcelona,,2.3,AC,€0/kWh,,no_kwh
+2025-01,Barcelona,,360.0,DC,"0,55€/kWh DC - 0,40€/kWh AC",0.55,ok
+2025-01,Barcelona,,360.0,DC,"0,55€/kWh DC - 0,40€/kWh AC",0.55,ok
+2025-01,Barcelona,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-01,Barcelona,,22.0,AC,"0,60€/kWh",0.6,ok
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,Barcelona,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,43.0,DC,free,,free
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,43.0,DC,free,,free
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,43.0,DC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,50.0,DC," 0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,22.0,AC," 0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,50.0,DC," 0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-01,Barcelona,,11.0,AC,"0,36€/kWh",0.36,ok
+2025-01,Barcelona,,2.3,AC,"0,36€/kWh",0.36,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,36€/kWh",0.36,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"app Waylet(Repsol). 90' free parking, then at 0,07€/min",,per_minute
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,50.0,DC,Free,,free
+2025-01,Barcelona,,50.0,DC,Free,,free
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,3.7,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"app Waylet(Repsol). 90' free parking, then at 0,07€/min",,per_minute
+2025-01,Barcelona,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,38€/kWh AC - (0,03€/min parked without charging)",0.38,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC,"0,25 €/kWh",0.25,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,11.0,AC,"0,20€/kWh",0.2,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-01,Barcelona,,43.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,11.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,43.0,DC,free,,free
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,0.39€/kwh,0.39,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC,€0/kWh,,no_kwh
+2025-01,Barcelona,,2.3,AC,€0/kWh,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,11.0,AC,0.29 €/kWh,0.29,ok
+2025-01,Barcelona,,3.7,AC,0.29 €/kWh,0.29,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,2.3,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,2.3,AC,,,no_kwh
+2025-01,Barcelona,,30.0,DC,"0,50€/kWh",0.5,ok
+2025-01,Barcelona,,30.0,DC,"0,50€/kWh",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,2.3,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh ",0.39,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,3.7,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,7.0,AC,Free,,free
+2025-01,Barcelona,,3.7,AC,Free,,free
+2025-01,Barcelona,,3.7,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,100.0,DC,"0,46€/kWh",0.46,ok
+2025-01,Barcelona,,22.0,AC,"0,46€/kWh",0.46,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,5.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,160.0,DC,"0,65€/kWh",0.65,ok
+2025-01,Barcelona,,80.0,DC,"0,65€/kWh",0.65,ok
+2025-01,Barcelona,,400.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,7.4,AC,,,empty
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,60.0,DC," 0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-01,Barcelona,,22.0,AC," 0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,7.4,AC,Free,,free
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,43.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,0,,no_kwh
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,48€/kWh",0.48,ok
+2025-01,Barcelona,,50.0,DC,CCS/ CHADEMO: 0.48€/kWh,0.48,ok
+2025-01,Barcelona,,50.0,DC,CCS/ CHADEMO: 0.48€/kWh,0.48,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,90.0,DC,"0,62€/kWh",0.62,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,150.0,DC," 0,55€/kWh DC - 0,40€/kWh AC ",0.55,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,30.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-01,Barcelona,,7.4,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-01,Barcelona,,4.0,AC,free,,free
+2025-01,Barcelona,,7.4,AC,free,,free
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,60.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-01,Barcelona,,7.4,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-01,Barcelona,,7.4,AC,free,,free
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,3.7,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,0.35-0.40 €/kWh ,0.4,ok
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,250.0,DC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,11.0,AC,free,,free
+2025-01,Barcelona,,150.0,DC," 0,59€/kWh - 0,40€/kWh AC ",0.59,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,60.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-01,Barcelona,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,22.0,AC,"0,40€/kWh",0.4,ok
+2025-01,Barcelona,,38.0,DC,0.40€/kWh,0.4,ok
+2025-01,Barcelona,,25.0,DC,0.40€/kWh,0.4,ok
+2025-01,Barcelona,,22.0,AC,0.40€/kWh,0.4,ok
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,38€/kWh (0,03€/min parked without charging)",0.38,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,50.0,DC,0.40,,no_kwh
+2025-01,Barcelona,,50.0,DC,0.40,,no_kwh
+2025-01,Barcelona,,22.0,AC,0.40,,no_kwh
+2025-01,Barcelona,,60.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,3.7,AC,free,,free
+2025-01,Barcelona,,2.3,AC,free,,free
+2025-01,Barcelona,,7.4,AC,free,,free
+2025-01,Barcelona,,22.0,AC,"0,49€/kWh",0.49,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,150.0,DC,"0,55€/kWh DC - 0,40€/kWh AC",0.55,ok
+2025-01,Barcelona,,22.0,AC,"0,55€/kWh DC - 0,40€/kWh AC",0.55,ok
+2025-01,Barcelona,,150.0,DC,"0,55€/kWh DC  - 0,40€/kWh AC",0.55,ok
+2025-01,Barcelona,,22.0,AC,"0,55€/kWh DC  - 0,40€/kWh AC",0.55,ok
+2025-01,Barcelona,,100.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,7.4,AC,,,empty
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,,,empty
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,3.7,AC,Free,,free
+2025-01,Barcelona,,50.0,DC,0.35,,no_kwh
+2025-01,Barcelona,,43.0,DC,0.35,,no_kwh
+2025-01,Barcelona,,50.0,DC,0.35,,no_kwh
+2025-01,Barcelona,,22.0,AC,1€ / hora,,no_kwh
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,43.0,DC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,80.0,DC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,150.0,DC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,16.0,AC,,,empty
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,43.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,50.0,DC,0,,no_kwh
+2025-01,Barcelona,,50.0,DC,0,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,50.0,DC,"0,36€/kWh",0.36,ok
+2025-01,Barcelona,,50.0,DC,"0,36€/kWh",0.36,ok
+2025-01,Barcelona,,43.0,DC,"0,36€/kWh",0.36,ok
+2025-01,Barcelona,,50.0,DC,"0,36€/kWh",0.36,ok
+2025-01,Barcelona,,50.0,DC,"0,36€/kWh",0.36,ok
+2025-01,Barcelona,,43.0,DC,"0,36€/kWh",0.36,ok
+2025-01,Barcelona,,50.0,DC,"0,36€/kWh",0.36,ok
+2025-01,Barcelona,,50.0,DC,"0,36€/kWh",0.36,ok
+2025-01,Barcelona,,43.0,DC,"0,36€/kWh",0.36,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,36€/kWh",0.36,ok
+2025-01,Barcelona,,50.0,DC,"0,36€/kWh",0.36,ok
+2025-01,Barcelona,,43.0,DC,"0,36€/kWh",0.36,ok
+2025-01,Barcelona,,50.0,DC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,50.0,DC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,50.0,DC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,50.0,DC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,43.0,DC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,50.0,DC,"0,41€/kWh",0.41,ok
+2025-01,Barcelona,,50.0,DC,"0,41€/kWh",0.41,ok
+2025-01,Barcelona,,22.0,AC,"0,41€/kWh",0.41,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"Free, any RFID card",,free
+2025-01,Barcelona,,12.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,0.25€/kWh,0.25,ok
+2025-01,Barcelona,,7.4,AC,Free,,free
+2025-01,Barcelona,,9.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,pay in app,,no_kwh
+2025-01,Barcelona,,12.0,AC,Gratis,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,"0,60€/kWh",0.6,ok
+2025-01,Barcelona,,3.4,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,"0,84€/kWh",0.84,ok
+2025-01,Barcelona,,2.3,AC,"0,84€/kWh",0.84,ok
+2025-01,Barcelona,,7.4,AC,"0,84€/kWh",0.84,ok
+2025-01,Barcelona,,400.0,DC,"0,69€/kWh >200kW - 0,54€/kWh 80-200kW - 0,39€/kWh 22kW AC",0.69,ok
+2025-01,Barcelona,,200.0,DC,"0,69€/kWh >200kW - 0,54€/kWh 80-200kW - 0,39€/kWh 22kW AC",0.69,ok
+2025-01,Barcelona,,80.0,DC,"0,69€/kWh >200kW - 0,54€/kWh 80-200kW - 0,39€/kWh 22kW AC",0.69,ok
+2025-01,Barcelona,,22.0,AC,"0,69€/kWh >200kW - 0,54€/kWh 80-200kW - 0,39€/kWh 22kW AC",0.69,ok
+2025-01,Barcelona,,11.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,2.3,AC,Free,,free
+2025-01,Barcelona,,120.0,DC,"0,54€/kWh DC - 0,35€/kWh AC",0.54,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,17€/kWh",0.17,ok
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,100.0,DC,"0,54€/kWh",0.54,ok
+2025-01,Barcelona,,100.0,DC,"0,54€/kWh",0.54,ok
+2025-01,Barcelona,,120.0,DC,"0,54€/kWh DC ",0.54,ok
+2025-01,Barcelona,,22.0,AC,"0,40€/kWh",0.4,ok
+2025-01,Barcelona,,22.0,AC,"0,48€/kWh DC/AC43kW - 0,38€/kWh AC - (0,14€/min DC / 0,03€/min AC parked without charging)",0.48,ok
+2025-01,Barcelona,,60.0,DC,"0,48€/kWh DC/AC43kW - 0,38€/kWh AC - (0,14€/min DC / 0,03€/min AC parked without charging)",0.48,ok
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,150.0,DC,"0,54 €/kWh",0.54,ok
+2025-01,Barcelona,,7.4,AC,"0,47€/kWh",0.47,ok
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,11.0,AC,"0,40€/kWh+parking",0.4,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,22.0,AC,"0,15€/kWh",0.15,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,240.0,DC,"0,69€/kWh DC ",0.69,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,150.0,DC,"0,59€/kWh DC - 0,39€/kWh AC",0.59,ok
+2025-01,Barcelona,,22.0,AC,"0,59€/kWh DC - 0,39€/kWh AC",0.59,ok
+2025-01,Barcelona,,7.0,AC,,,no_kwh
+2025-01,Barcelona,,2.8,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,gratis,,free
+2025-01,Barcelona,,50.0,DC,gratis,,free
+2025-01,Barcelona,,43.0,DC,gratis,,free
+2025-01,Barcelona,,7.0,AC,€0/kWh,,no_kwh
+2025-01,Barcelona,,2.3,AC,€0/kWh,,no_kwh
+2025-01,Barcelona,,100.0,DC,"0,54€/kWh DC - 0,36€/kWh AC",0.54,ok
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,gratis,,free
+2025-01,Barcelona,,43.0,DC,gratis,,free
+2025-01,Barcelona,,50.0,DC,gratis,,free
+2025-01,Barcelona,,22.0,AC,0.45€/kWh,0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-01,Barcelona,,50.0,DC,"0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-01,Barcelona,,43.0,DC,"0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,350.0,DC,"0,65€/kWh (or subscription rates) ",0.65,ok
+2025-01,Barcelona,,250.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,41€/kWh",0.41,ok
+2025-01,Barcelona,,50.0,DC,"0,41€/kWh",0.41,ok
+2025-01,Barcelona,,22.0,AC,"0,41€/kWh",0.41,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,2.3,AC,,,empty
+2025-01,Barcelona,,60.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-01,Barcelona,,30.0,DC,"0,37€/kWh DC - 0,32€/kWh AC",0.37,ok
+2025-01,Barcelona,,22.0,AC,"0,37€/kWh DC - 0,32€/kWh AC",0.37,ok
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,2.3,AC,Free,,free
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,2.3,AC,free,,free
+2025-01,Barcelona,,22.2,DC,,,empty
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,120.0,DC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-01,Barcelona,,22.0,AC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,50.0,DC,"0,49€/kWh ",0.49,ok
+2025-01,Barcelona,,43.0,DC,"0,49€/kWh ",0.49,ok
+2025-01,Barcelona,,50.0,DC,"0,49€/kWh ",0.49,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,11.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,50.0,DC," 0,47€/kWh",0.47,ok
+2025-01,Barcelona,,43.0,DC," 0,47€/kWh",0.47,ok
+2025-01,Barcelona,,50.0,DC," 0,47€/kWh",0.47,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kwh",0.25,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,60.0,DC,"0,50€/kWh DC - 0,39€/kWh AC ",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,41€/kWh DC - 0,36€/kWh AC",0.41,ok
+2025-01,Barcelona,,50.0,DC,"0,41€/kWh DC - 0,36€/kWh AC",0.41,ok
+2025-01,Barcelona,,22.0,AC,"0,41€/kWh DC - 0,36€/kWh AC",0.41,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,43.0,DC,free,,free
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,100.0,DC,"0,46€/kWh DC - 0,35kWh AC",0.46,ok
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,"0,27€/kWh",0.27,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,320.0,DC,,,empty
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,43.0,DC,free,,free
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,150.0,DC,"0,49€/kWh",0.49,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,7.4,AC,,,empty
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,40€/kWh",0.4,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,40€/kWh",0.4,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,22.0,AC,"0,27€/kWh",0.27,ok
+2025-01,Barcelona,,7.4,AC,,,empty
+2025-01,Barcelona,,7.4,AC,"0,27€/kWh",0.27,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,"0,29€/kWh",0.29,ok
+2025-01,Barcelona,,7.4,AC,,,empty
+2025-01,Barcelona,,160.0,DC,"0,65€/kWh",0.65,ok
+2025-01,Barcelona,,80.0,DC,"0,65€/kWh",0.65,ok
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,43.0,DC,,,empty
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,7.4,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,,,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,38€/kWh (0,03€/min parked without charging)",0.38,ok
+2025-01,Barcelona,,50.0,DC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,50.0,DC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,43.0,DC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,7.4,AC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,7.4,AC,,,empty
+2025-01,Barcelona,,22.0,AC,payment in app,,no_kwh
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,7.4,AC,,,empty
+2025-01,Barcelona,,11.0,AC,"0,29€/kWh",0.29,ok
+2025-01,Barcelona,,7.4,AC,free,,free
+2025-01,Barcelona,,100.0,DC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,7.4,AC,"0,35€/kwh",0.35,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC," 0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-01,Barcelona,,50.0,DC," 0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-01,Barcelona,,43.0,DC," 0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,7.4,AC,"0,36€/kWh ",0.36,ok
+2025-01,Barcelona,,7.4,AC,"0,20€/kWh",0.2,ok
+2025-01,Barcelona,,43.0,DC,"0,41€/kWh",0.41,ok
+2025-01,Barcelona,,22.0,AC,"0,41€/kWh",0.41,ok
+2025-01,Barcelona,,22.0,AC,"0,41€/kWh",0.41,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,100.0,DC,"0,59€/kWh",0.59,ok
+2025-01,Barcelona,,22.2,DC,Free,,free
+2025-01,Barcelona,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,3.0,AC,,,no_kwh
+2025-01,Barcelona,,3.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,43.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,120.0,DC,"0,54€/kWh DC - 0,36€/kWh AC",0.54,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,50.0,DC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,50.0,DC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,22.0,AC,"0,40€/kWh",0.4,ok
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,,,4 € complete charge card,,no_kwh
+2025-01,Barcelona,,,,4 € complete charge card,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,30.0,DC,"0,43€/kWh ",0.43,ok
+2025-01,Barcelona,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,50.0,DC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,50.0,DC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,120.0,DC,"0,54€/kWh DC - 0,36€/kWh AC",0.54,ok
+2025-01,Barcelona,,22.0,AC,"0,54€/kWh DC - 0,36€/kWh AC",0.54,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,100.0,DC,"0,54€/kWh",0.54,ok
+2025-01,Barcelona,,22.0,AC,"0,54€/kWh",0.54,ok
+2025-01,Barcelona,,100.0,DC,"0,54€/kWh",0.54,ok
+2025-01,Barcelona,,22.0,AC,"0,54€/kWh",0.54,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,43.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,43.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,60.0,DC,"0,45 €/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-01,Barcelona,,22.0,AC,"0,45 €/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-01,Barcelona,,100.0,DC,"0,54€/kWh DC - 0,39€/kWh AC",0.54,ok
+2025-01,Barcelona,,80.0,DC,"0,54€/kWh DC - 0,39€/kWh AC",0.54,ok
+2025-01,Barcelona,,22.0,AC,"0,54€/kWh DC - 0,39€/kWh AC",0.54,ok
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,43.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,43.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,7.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,50.0,DC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,50.0,DC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,50.0,DC,"0,65€/kWh",0.65,ok
+2025-01,Barcelona,,50.0,DC,"0,65€/kWh",0.65,ok
+2025-01,Barcelona,,22.0,AC,"0,65€/kWh",0.65,ok
+2025-01,Barcelona,,50.0,DC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,50.0,DC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,43.0,DC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,50.0,DC,0.65€/kWh ,0.65,ok
+2025-01,Barcelona,,50.0,DC,0.65€/kWh ,0.65,ok
+2025-01,Barcelona,,22.0,AC,0.65€/kWh ,0.65,ok
+2025-01,Barcelona,,22.0,AC,0.65€/kWh ,0.65,ok
+2025-01,Barcelona,,150.0,DC," 0,55€/kWh DC - 0,45€/kWh AC",0.55,ok
+2025-01,Barcelona,,22.0,AC," 0,55€/kWh DC - 0,45€/kWh AC",0.55,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,22.0,AC,0.35-0.40 €/kWh ,0.4,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,100.0,DC,"0,49€/kWh DC ",0.49,ok
+2025-01,Barcelona,,22.0,AC,0.39 €/kWh ,0.39,ok
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,60.0,DC,"0,49€/kWh DC ",0.49,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh ",0.39,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,100.0,DC,"0,60 €/kWh DC - 0,39€/kWh AC",0.6,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,7.4,AC,,,empty
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,60.0,DC,"0,60€/kWh DC - 0,45€/kWh AC",0.6,ok
+2025-01,Barcelona,,22.0,AC,"0,60€/kWh DC - 0,45€/kWh AC",0.6,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,32€/kWh",0.32,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,Barcelona,,22.0,AC,"0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,43.0,DC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,50.0,DC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,50.0,DC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,43.0,DC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,50.0,DC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,50.0,DC," 0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,22.0,AC," 0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,50.0,DC," 0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,0,,no_kwh
+2025-01,Barcelona,,2.3,AC,free,,free
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,11.0,AC,free,,free
+2025-01,Barcelona,,3.7,AC,free,,free
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,150.0,DC," 0,59€/kWh - 0,40€/kWh AC ",0.59,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,7.4,AC,free,,free
+2025-01,Barcelona,,11.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,7.0,AC,"0,35€ kWh",0.35,ok
+2025-01,Barcelona,,3.7,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,150.0,DC," 0,59€/kWh  DC - 0,39€/kWh AC ",0.59,ok
+2025-01,Barcelona,,22.0,AC," 0,59€/kWh  DC - 0,39€/kWh AC ",0.59,ok
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,7.4,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,120.0,DC,"0,55€/kWh DC - 0,40€/kWh AC",0.55,ok
+2025-01,Barcelona,,22.0,AC,"0,55€/kWh DC - 0,40€/kWh AC",0.55,ok
+2025-01,Barcelona,,60.0,DC,"0,40€/kWh ",0.4,ok
+2025-01,Barcelona,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,22.0,AC,"0,58€/kWh",0.58,ok
+2025-01,Barcelona,,3.7,AC,free,,free
+2025-01,Barcelona,,7.4,AC,"0,27€/kWh ",0.27,ok
+2025-01,Barcelona,,3.0,AC,parking fee,,no_kwh
+2025-01,Barcelona,,22.0,AC,0.25€/kWh,0.25,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,11.0,AC,"0,40€/kWh",0.4,ok
+2025-01,Barcelona,,3.7,AC,"0,40€/kWh",0.4,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,Free,,free
+2025-01,Barcelona,,50.0,DC,Free,,free
+2025-01,Barcelona,,43.0,DC,Free,,free
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,50.0,DC,,,empty
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,60.0,DC," 0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-01,Barcelona,,7.4,AC,free,,free
+2025-01,Barcelona,,22.0,AC,"0,40€/kWh",0.4,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,43.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,36€/kWh",0.36,ok
+2025-01,Barcelona,,22.0,AC,"0,28€/kWh",0.28,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,100.0,DC,"0,56€/kWh >100kW - 0,42€/kWh 50 kW - 0,38€/kWh AC",0.56,ok
+2025-01,Barcelona,,50.0,DC,"0,56€/kWh >100kW - 0,42€/kWh 50 kW - 0,38€/kWh AC",0.56,ok
+2025-01,Barcelona,,22.0,AC,"0,56€/kWh >100kW - 0,42€/kWh 50 kW - 0,38€/kWh AC",0.56,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,22.0,AC," 0,42€/kWh 50 kW - 0,38€/kWh AC ",0.42,ok
+2025-01,Barcelona,,50.0,DC," 0,42€/kWh 50 kW - 0,38€/kWh AC ",0.42,ok
+2025-01,Barcelona,,50.0,DC," 0,42€/kWh 50 kW - 0,38€/kWh AC ",0.42,ok
+2025-01,Barcelona,,22.0,AC," 0,42€/kWh 50 kW - 0,38€/kWh AC ",0.42,ok
+2025-01,Barcelona,,11.1,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,50.0,DC,Free,,free
+2025-01,Barcelona,,50.0,DC,Free,,free
+2025-01,Barcelona,,43.0,DC,Free,,free
+2025-01,Barcelona,,7.4,AC,,,empty
+2025-01,Barcelona,,7.4,AC,"0,32€/kWh",0.32,ok
+2025-01,Barcelona,,150.0,DC,"0,50€/kWh",0.5,ok
+2025-01,Barcelona,,150.0,DC,"0,50€/kWh",0.5,ok
+2025-01,Barcelona,,150.0,DC,"0,50€/kWh",0.5,ok
+2025-01,Barcelona,,11.0,AC,"0,50€/kWh",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-01,Barcelona,,150.0,DC," 0,45€/kWh DC - 0,40€/kWh AC ",0.45,ok
+2025-01,Barcelona,,150.0,DC," 0,45€/kWh DC - 0,40€/kWh AC ",0.45,ok
+2025-01,Barcelona,,22.0,AC," 0,45€/kWh DC - 0,40€/kWh AC ",0.45,ok
+2025-01,Barcelona,,350.0,DC,"0,65€/kWh (or subscription rates) ",0.65,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,150.0,DC,"0,50€/kWh",0.5,ok
+2025-01,Barcelona,,150.0,DC,"0,50€/kWh",0.5,ok
+2025-01,Barcelona,,150.0,DC,"0,50€/kWh",0.5,ok
+2025-01,Barcelona,,11.0,AC,"0,50€/kWh",0.5,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,11.0,AC,"0,60€/kWh",0.6,ok
+2025-01,Barcelona,,3.7,AC,"0,60€/kWh",0.6,ok
+2025-01,Barcelona,,250.0,DC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,22.0,AC,0.35-0.40 €/kWh ,0.4,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-01,Barcelona,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,42€/kWh",0.42,ok
+2025-01,Barcelona,,22.0,AC,"0,43€/kWh ",0.43,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,22.0,AC,"0,58€/kWh ",0.58,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,3.6,AC,,,empty
+2025-01,Barcelona,,180.0,DC,"0,55€/kWh DC - 0,40€/kWh AC",0.55,ok
+2025-01,Barcelona,,180.0,DC,"0,55€/kWh DC - 0,40€/kWh AC",0.55,ok
+2025-01,Barcelona,,22.0,AC,"0,55€/kWh DC - 0,40€/kWh AC",0.55,ok
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,43.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,29.0,DC,0,,no_kwh
+2025-01,Barcelona,,3.6,AC,0,,no_kwh
+2025-01,Barcelona,,29.0,DC,0,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,43.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,50.0,DC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,0.25€/kWh,0.25,ok
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,50.0,DC," 0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-01,Barcelona,,43.0,DC," 0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-01,Barcelona,,50.0,DC," 0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,11.0,AC,"0,41€/kWh",0.41,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,3.7,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,60.0,DC,"0,50€/kWh DC - 0,39€/kWh AC ",0.5,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-01,Barcelona,,60.0,DC," 0,45€/kWh DC",0.45,ok
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,empty
+2025-01,Barcelona,,7.4,AC,free,,free
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.2,DC,free,,free
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,2.3,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,100.0,DC,"0,55€/kWh",0.55,ok
+2025-01,Barcelona,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,Barcelona,,22.0,AC,"0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,Barcelona,,22.0,AC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,7.4,AC,"0,35€/kWh",0.35,ok
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,7.4,AC,0.35€/kWh,0.35,ok
+2025-01,Barcelona,,7.4,AC,,,no_kwh
+2025-01,Barcelona,,3.7,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,43.0,DC," 0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,11.0,AC,,,empty
+2025-01,Barcelona,,,,,,empty
+2025-01,Barcelona,,22.0,AC,"0,40€/kWh",0.4,ok
+2025-01,Barcelona,,3.7,AC,Free,,free
+2025-01,Barcelona,,5.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,150.0,DC," 0,59€/kWh  DC - 0,39€/kWh AC ",0.59,ok
+2025-01,Barcelona,,22.0,AC," 0,59€/kWh  DC - 0,39€/kWh AC ",0.59,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,43.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,7.0,AC,,,empty
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,120.0,DC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-01,Barcelona,,22.0,AC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-01,Barcelona,,120.0,DC,"0,55€/kWh",0.55,ok
+2025-01,Barcelona,,60.0,DC,"0,50€/kWh DC - 0,39€/kWh AC",0.5,ok
+2025-01,Barcelona,,30.0,DC,"0,55€/kWh",0.55,ok
+2025-01,Barcelona,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,50.0,DC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-01,Barcelona,,22.0,AC,Parking fee,,no_kwh
+2025-01,Barcelona,,2.3,AC,Parking fee,,no_kwh
+2025-01,Barcelona,,22.0,AC,10€,,no_kwh
+2025-01,Barcelona,,2.3,AC,10€,,no_kwh
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,,,10,,no_kwh
+2025-01,Barcelona,,22.0,AC,10,,no_kwh
+2025-01,Barcelona,,22.0,AC,Free,,free
+2025-01,Barcelona,,22.0,AC,,,empty
+2025-01,Barcelona,,7.4,AC,"0,40€/kWh",0.4,ok
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,11.0,AC,,,no_kwh
+2025-01,Barcelona,,22.0,AC,0.25€/kWh,0.25,ok
+2025-01,Barcelona,,60.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-01,Barcelona,,22.0,AC,free,,free
+2025-01,Barcelona,,60.0,DC,"0,54 €/kWh",0.54,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,22.0,AC,"0,45€/kWh",0.45,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-01,Barcelona,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok

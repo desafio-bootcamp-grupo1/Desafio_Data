@@ -1,0 +1,483 @@
+month,provincia,operator,power_kW,band,usagecost_original,parsed,reason
+2025-09,Almería,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,50.0,DC,0.30€/kWh ,0.3,ok
+2025-09,Almería,,50.0,DC,0.30€/kWh ,0.3,ok
+2025-09,Almería,,43.0,DC,0.30€/kWh ,0.3,ok
+2025-09,Almería,,22.0,AC,"0,45€/kWh",0.45,ok
+2025-09,Almería,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-09,Almería,,350.0,DC,"0,65€/kWh (or subscription rates) ",0.65,ok
+2025-09,Almería,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-09,Almería,,43.0,DC," 0,47€/kWh ",0.47,ok
+2025-09,Almería,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-09,Almería,,7.4,AC,free,,free
+2025-09,Almería,,7.4,AC,free,,free
+2025-09,Almería,,3.7,AC,free,,free
+2025-09,Almería,,7.4,AC,free,,free
+2025-09,Almería,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-09,Almería,,22.0,AC,,,no_kwh
+2025-09,Almería,,2.3,AC,,,no_kwh
+2025-09,Almería,,3.7,AC,,,no_kwh
+2025-09,Almería,,7.4,AC,free,,free
+2025-09,Almería,,22.0,AC,"0,35€/kwh + parking fee",0.35,ok
+2025-09,Almería,,11.0,AC,,,empty
+2025-09,Almería,,11.0,AC,,,empty
+2025-09,Almería,,50.0,DC,,,empty
+2025-09,Almería,,50.0,DC," 0,45€/kWh ",0.45,ok
+2025-09,Almería,,22.0,AC," 0,45€/kWh ",0.45,ok
+2025-09,Almería,,50.0,DC," 0,45€/kWh ",0.45,ok
+2025-09,Almería,,60.0,DC,"0,40€/kWh",0.4,ok
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,22.0,AC,,,no_kwh
+2025-09,Almería,,60.0,DC,"0,55€/kWh",0.55,ok
+2025-09,Almería,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-09,Almería,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-09,Almería,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-09,Almería,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-09,Almería,,22.0,AC,0.40€/kWh,0.4,ok
+2025-09,Almería,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-09,Almería,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-09,Almería,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-09,Almería,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-09,Almería,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-09,Almería,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-09,Almería,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-09,Almería,,180.0,DC,"0,54€/kWh ",0.54,ok
+2025-09,Almería,,7.4,AC,free,,free
+2025-09,Almería,,7.4,AC,free,,free
+2025-09,Almería,,30.0,DC,"0,37-0,32€/kWh ",0.32,ok
+2025-09,Almería,,7.4,AC,"0,37-0,32€/kWh ",0.32,ok
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,50.0,DC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-09,Almería,,50.0,DC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-09,Almería,,11.0,AC,,,no_kwh
+2025-09,Almería,,7.4,AC,free,,free
+2025-09,Almería,,22.0,AC,free,,free
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,50.0,DC,,,no_kwh
+2025-09,Almería,,50.0,DC,,,no_kwh
+2025-09,Almería,,3.7,AC,Free.  Limited to 1 hour. Accessible during business hours,,free
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-09,Almería,,22.0,AC,,,no_kwh
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,3.0,AC,,,no_kwh
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,3.7,AC,,,no_kwh
+2025-09,Almería,,22.0,AC,,,no_kwh
+2025-09,Almería,,3.7,AC,,,no_kwh
+2025-09,Almería,,100.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-09,Almería,,50.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-09,Almería,,50.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-09,Almería,,43.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-09,Almería,,22.0,AC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-09,Almería,,5.0,AC,"0,14€/kWh",0.14,ok
+2025-09,Almería,,7.4,AC,"0,45€/kWh",0.45,ok
+2025-09,Almería,,11.0,AC,"0,23€/kWh",0.23,ok
+2025-09,Almería,,4.5,AC,"0,14€/kWh",0.14,ok
+2025-09,Almería,,22.0,AC,,,no_kwh
+2025-09,Almería,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,11.0,AC,"0,23€/kWh",0.23,ok
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,22.0,AC,free,,free
+2025-09,Almería,,11.0,AC,"0,32€/kWh",0.32,ok
+2025-09,Almería,,4.5,AC,"0,14€/kWh",0.14,ok
+2025-09,Almería,,22.0,AC,,,no_kwh
+2025-09,Almería,,22.0,AC,free,,free
+2025-09,Almería,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-09,Almería,,22.0,AC,free,,free
+2025-09,Almería,,22.0,AC,,,empty
+2025-09,Almería,,11.0,AC,,,empty
+2025-09,Almería,,7.4,AC,free,,free
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,11.0,AC,,,empty
+2025-09,Almería,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-09,Almería,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-09,Almería,,43.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-09,Almería,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-09,Almería,,22.0,AC,free,,free
+2025-09,Almería,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-09,Almería,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-09,Almería,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-09,Almería,,22.0,AC,free,,free
+2025-09,Almería,,22.0,AC,,,no_kwh
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,22.0,AC,,,no_kwh
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,11.0,AC,,,empty
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,22.0,AC,free,,free
+2025-09,Almería,,360.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-09,Almería,,360.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-09,Almería,,50.0,DC,"0,60€/kWh DC - 0,45€/kWh AC",0.6,ok
+2025-09,Almería,,50.0,DC,"0,60€/kWh DC - 0,45€/kWh AC",0.6,ok
+2025-09,Almería,,43.0,DC,"0,60€/kWh DC - 0,45€/kWh AC",0.6,ok
+2025-09,Almería,,50.0,DC,CCS/ CHADEMO: 0.48€/kWh // TYPE 2: 0.41€/kWh,0.48,ok
+2025-09,Almería,,50.0,DC,CCS/ CHADEMO: 0.48€/kWh // TYPE 2: 0.41€/kWh,0.48,ok
+2025-09,Almería,,22.0,AC,CCS/ CHADEMO: 0.48€/kWh // TYPE 2: 0.41€/kWh,0.48,ok
+2025-09,Almería,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,50.0,DC,0.45€/kWh,0.45,ok
+2025-09,Almería,,50.0,DC,0.45€/kWh,0.45,ok
+2025-09,Almería,,43.0,DC,0.45€/kWh,0.45,ok
+2025-09,Almería,,22.0,AC,free,,free
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-09,Almería,,5.0,AC,free,,free
+2025-09,Almería,,11.0,AC,,,no_kwh
+2025-09,Almería,,250.0,DC,,,no_kwh
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,150.0,DC,"0,65€/kWh >150kW - 0,55€/kWh >60kW - 0,45€/kWh DC - 0,39€/kWh AC ",0.65,ok
+2025-09,Almería,,150.0,DC,"0,65€/kWh >150kW - 0,55€/kWh >60kW - 0,45€/kWh DC - 0,39€/kWh AC ",0.65,ok
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,150.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-09,Almería,,80.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-09,Almería,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-09,Almería,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-09,Almería,,22.0,AC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-09,Almería,,7.4,AC,Free,,free
+2025-09,Almería,,22.0,AC,free,,free
+2025-09,Almería,,50.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-09,Almería,,43.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-09,Almería,,50.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-09,Almería,,60.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-09,Almería,,60.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-09,Almería,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-09,Almería,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-09,Almería,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-09,Almería,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-09,Almería,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-09,Almería,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-09,Almería,,150.0,DC,"0,58€/kWh DC - 0,41€/kWh AC",0.58,ok
+2025-09,Almería,,100.0,DC,"0,58€/kWh DC - 0,41€/kWh AC",0.58,ok
+2025-09,Almería,,50.0,DC,"0,58€/kWh DC - 0,41€/kWh AC",0.58,ok
+2025-09,Almería,,22.0,AC,"0,58€/kWh DC - 0,41€/kWh AC",0.58,ok
+2025-09,Almería,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-09,Almería,,11.0,AC,"0,35€/kWh",0.35,ok
+2025-09,Almería,,7.4,AC,,,no_kwh
+2025-09,Almería,,3.7,AC,,,no_kwh
+2025-09,Almería,,3.7,AC,,,no_kwh
+2025-09,Almería,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-09,Almería,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-09,Almería,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-09,Almería,,11.0,AC,,,no_kwh
+2025-09,Almería,,150.0,DC," 0,59€/kWh - 0,40€/kWh AC ",0.59,ok
+2025-09,Almería,,60.0,DC,"0,48€/kWh DC",0.48,ok
+2025-09,Almería,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-09,Almería,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-09,Almería,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-09,Almería,,250.0,DC,,,empty
+2025-09,Almería,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-09,Almería,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-09,Almería,,22.0,AC,"0,45€/kWh",0.45,ok
+2025-09,Almería,,22.0,AC,"0,39€/kWh 22kW AC",0.39,ok
+2025-09,Almería,,22.0,AC,,,no_kwh
+2025-09,Almería,,22.0,AC,,,no_kwh
+2025-09,Almería,,22.0,AC,,,no_kwh
+2025-09,Almería,,22.0,AC,"0,39€/kWh 22kW AC",0.39,ok
+2025-09,Almería,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-09,Almería,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-09,Almería,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-09,Almería,,100.0,DC,"0,54€/kWh",0.54,ok
+2025-09,Almería,,22.0,AC,,,no_kwh
+2025-09,Almería,,300.0,DC,"0,54€/kWh DC",0.54,ok
+2025-09,Almería,,80.0,DC,"0,54€/kWh DC",0.54,ok
+2025-09,Almería,,22.0,AC,free,,free
+2025-09,Almería,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-09,Almería,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-09,Almería,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-09,Almería,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-09,Almería,,150.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-09,Almería,,150.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-09,Almería,,150.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-09,Almería,,150.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-09,Almería,,60.0,DC,"0,40€/kWh DC - 0,32€/kWh AC",0.4,ok
+2025-09,Almería,,22.0,AC,"0,40€/kWh DC - 0,32€/kWh AC",0.4,ok
+2025-09,Almería,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,22.0,AC,"0,35€/kWh ",0.35,ok
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-09,Almería,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,11.0,AC,,,no_kwh
+2025-09,Almería,,11.0,AC,,,no_kwh
+2025-09,Almería,,3.0,AC,12€/day,,no_kwh
+2025-09,Almería,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-09,Almería,,7.4,AC,,,no_kwh
+2025-09,Almería,,150.0,DC,"0,60 €/kWh DC",0.6,ok
+2025-09,Almería,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-09,Almería,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-09,Almería,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-09,Almería,,22.0,AC,,,no_kwh
+2025-09,Almería,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-09,Almería,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,22.0,AC,free,,free
+2025-09,Almería,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-09,Almería,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-09,Almería,,11.0,AC,,,empty
+2025-09,Almería,,22.0,AC,,,no_kwh
+2025-09,Almería,,22.0,AC,,,no_kwh
+2025-09,Almería,,22.0,AC,,,no_kwh
+2025-09,Almería,,100.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-09,Almería,,50.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-09,Almería,,22.0,AC,,,no_kwh
+2025-09,Almería,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-09,Almería,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-09,Almería,,22.0,AC,,,no_kwh
+2025-09,Almería,,60.0,DC,"0,40€/kWh DC - 0,32€/kWh AC",0.4,ok
+2025-09,Almería,,22.0,AC,"0,40€/kWh DC - 0,32€/kWh AC",0.4,ok
+2025-09,Almería,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-09,Almería,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-09,Almería,,22.0,AC,,,no_kwh
+2025-09,Almería,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-09,Almería,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-09,Almería,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-09,Almería,,22.0,AC,free,,free
+2025-09,Almería,,50.0,DC," 0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-09,Almería,,50.0,DC," 0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-09,Almería,,22.0,AC," 0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-09,Almería,,22.0,AC,"0,40-0,50€/kWh",0.5,ok
+2025-09,Almería,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-09,Almería,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-09,Almería,,43.0,DC,"0,45€/kWh",0.45,ok
+2025-09,Almería,,150.0,DC,"0,54€/kWh (APP BP Pulse) - 0,59€/kWh (Credit Card)",0.54,ok
+2025-09,Almería,,3.7,AC,Free.  Limited to 1 hour. Accessible during business hours,,free
+2025-09,Almería,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,22.0,AC,Free,,free
+2025-09,Almería,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-09,Almería,,3.7,AC,parking fee,,no_kwh
+2025-09,Almería,,50.0,DC,0.47 €/kWh,0.47,ok
+2025-09,Almería,,50.0,DC,0.47 €/kWh,0.47,ok
+2025-09,Almería,,43.0,DC,0.47 €/kWh,0.47,ok
+2025-09,Almería,,7.4,AC,"0,075€/min + parking",,per_minute
+2025-09,Almería,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-09,Almería,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-09,Almería,,22.0,AC,"0,39€/kWh + parking fee",0.39,ok
+2025-09,Almería,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-09,Almería,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-09,Almería,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-09,Almería,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-09,Almería,,43.0,DC,"0,39€/kWh",0.39,ok
+2025-09,Almería,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-09,Almería,,22.0,AC,"0,39€/kWh + parking fee",0.39,ok
+2025-09,Almería,,22.0,AC,"0,39€/kWh + parking fee",0.39,ok
+2025-09,Almería,,22.0,AC,,,no_kwh
+2025-09,Almería,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-09,Almería,,22.0,AC,,,no_kwh
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,22.0,AC,,,no_kwh
+2025-09,Almería,,22.0,AC,,,no_kwh
+2025-09,Almería,,7.0,AC,,,no_kwh
+2025-09,Almería,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-09,Almería,,100.0,DC,"0,54€/kWh DC",0.54,ok
+2025-09,Almería,,360.0,DC,"0,55€/kWh",0.55,ok
+2025-09,Almería,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,22.0,AC,,,no_kwh
+2025-09,Almería,,11.0,AC,,,no_kwh
+2025-09,Almería,,22.0,AC,"0,29€/kWh",0.29,ok
+2025-09,Almería,,50.0,DC,0.50€/kWh,0.5,ok
+2025-09,Almería,,50.0,DC,0.50€/kWh,0.5,ok
+2025-09,Almería,,22.0,AC,0.50€/kWh,0.5,ok
+2025-09,Almería,,22.0,AC,,,no_kwh
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,11.0,AC,,,empty
+2025-09,Almería,,7.4,AC,,,no_kwh
+2025-09,Almería,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-09,Almería,,14.0,AC,parking fee,,no_kwh
+2025-09,Almería,,11.0,AC,parking fee,,no_kwh
+2025-09,Almería,,22.0,AC,"0,39€/kWh 22kW AC",0.39,ok
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,11.0,AC,,,no_kwh
+2025-09,Almería,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-09,Almería,,11.0,AC,,,empty
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,150.0,DC,"0,54€/kWh 80-150kW - 0,45€/kWh 50kW  - 0,39€/kWh 22kW AC",0.54,ok
+2025-09,Almería,,80.0,DC,"0,54€/kWh 80-150kW - 0,45€/kWh 50kW  - 0,39€/kWh 22kW AC",0.54,ok
+2025-09,Almería,,50.0,DC,"0,54€/kWh 80-150kW - 0,45€/kWh 50kW  - 0,39€/kWh 22kW AC",0.54,ok
+2025-09,Almería,,50.0,DC,"0,54€/kWh 80-150kW - 0,45€/kWh 50kW  - 0,39€/kWh 22kW AC",0.54,ok
+2025-09,Almería,,22.0,AC,"0,54€/kWh 80-150kW - 0,45€/kWh 50kW  - 0,39€/kWh 22kW AC",0.54,ok
+2025-09,Almería,,150.0,DC,"0,46€/kWh",0.46,ok
+2025-09,Almería,,50.0,DC,"0,46€/kWh",0.46,ok
+2025-09,Almería,,50.0,DC,"0,46€/kWh",0.46,ok
+2025-09,Almería,,150.0,DC,"0,58€/kWh DC >60kW (0,40€/min parked without charging)",0.58,ok
+2025-09,Almería,,11.0,AC,,,no_kwh
+2025-09,Almería,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-09,Almería,,43.0,DC," 0,47€/kWh ",0.47,ok
+2025-09,Almería,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-09,Almería,,100.0,DC,"0,54€/kWh ",0.54,ok
+2025-09,Almería,,80.0,DC,"0,54€/kWh ",0.54,ok
+2025-09,Almería,,7.4,AC,,,no_kwh
+2025-09,Almería,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-09,Almería,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-09,Almería,,7.4,AC,"parking fee + 0,20€/kWh (0,01€/min parked without charging)",0.2,ok
+2025-09,Almería,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-09,Almería,,22.0,AC,,,no_kwh
+2025-09,Almería,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,11.0,AC,parking fee,,no_kwh
+2025-09,Almería,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-09,Almería,,60.0,DC,"0,30 €/kWh",0.3,ok
+2025-09,Almería,,25.0,DC,,,empty
+2025-09,Almería,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-09,Almería,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-09,Almería,,22.0,AC,,,no_kwh
+2025-09,Almería,,150.0,DC," 0,54€/kWh ",0.54,ok
+2025-09,Almería,,50.0,DC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-09,Almería,,50.0,DC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-09,Almería,,22.0,AC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-09,Almería,,22.0,AC,,,no_kwh
+2025-09,Almería,,22.0,AC,0.70€/kWh,0.7,ok
+2025-09,Almería,,22.0,AC,free,,free
+2025-09,Almería,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-09,Almería,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-09,Almería,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-09,Almería,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-09,Almería,,22.0,AC,,,no_kwh
+2025-09,Almería,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-09,Almería,,150.0,DC,"0,54€/kWh (APP BP Pulse) - 0,59€/kWh (Credit Card)",0.54,ok
+2025-09,Almería,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,11.0,AC,,,empty
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,2.3,AC,,,empty
+2025-09,Almería,,50.0,DC,"0,45 €/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-09,Almería,,50.0,DC,"0,45 €/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-09,Almería,,22.0,AC,"0,45 €/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-09,Almería,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-09,Almería,,150.0,DC,"0,58€/kWh DC >60kW (0,40€/min parked without charging)",0.58,ok
+2025-09,Almería,,22.0,AC,,,no_kwh
+2025-09,Almería,,60.0,DC,"0,45€/kWh ",0.45,ok
+2025-09,Almería,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-09,Almería,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-09,Almería,,43.0,DC,"0,45€/kWh",0.45,ok
+2025-09,Almería,,22.0,AC,,,no_kwh
+2025-09,Almería,,60.0,DC,,,no_kwh
+2025-09,Almería,,100.0,DC,"0,60 €/kWh DC - 0,39€/kWh AC",0.6,ok
+2025-09,Almería,,80.0,DC,"0,60 €/kWh DC - 0,39€/kWh AC",0.6,ok
+2025-09,Almería,,50.0,DC," 0,47€/kWh DC ",0.47,ok
+2025-09,Almería,,43.0,DC," 0,47€/kWh DC ",0.47,ok
+2025-09,Almería,,50.0,DC," 0,47€/kWh DC ",0.47,ok
+2025-09,Almería,,11.0,AC,"0,23€/kWh",0.23,ok
+2025-09,Almería,,22.0,AC,,,no_kwh
+2025-09,Almería,,22.0,AC,free,,free
+2025-09,Almería,,60.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-09,Almería,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,120.0,DC,"0,39€/kWh DC - 0,32€/kWh AC",0.39,ok
+2025-09,Almería,,22.0,AC,"0,39€/kWh DC - 0,32€/kWh AC",0.39,ok
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-09,Almería,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-09,Almería,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-09,Almería,,300.0,DC,"0,59€/kWh ",0.59,ok
+2025-09,Almería,,250.0,DC,,,empty
+2025-09,Almería,,22.0,AC,free,,free
+2025-09,Almería,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-09,Almería,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-09,Almería,,43.0,DC,"0,45€/kWh",0.45,ok
+2025-09,Almería,,3.0,AC,,,no_kwh
+2025-09,Almería,,150.0,DC,"0,54€/kWh",0.54,ok
+2025-09,Almería,,3.7,AC,Free.  Limited to 1 hour. Accessible during business hours,,free
+2025-09,Almería,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-09,Almería,,22.0,AC,,,no_kwh
+2025-09,Almería,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-09,Almería,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-09,Almería,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-09,Almería,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-09,Almería,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-09,Almería,,7.4,AC,,,no_kwh
+2025-09,Almería,,7.0,AC,parking fee,,no_kwh
+2025-09,Almería,,11.0,AC,"0,42€/kWh ",0.42,ok
+2025-09,Almería,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-09,Almería,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-09,Almería,,50.0,DC,,,empty
+2025-09,Almería,,50.0,DC,,,empty
+2025-09,Almería,,22.0,AC,,,empty
+2025-09,Almería,,50.0,DC,,,empty
+2025-09,Almería,,50.0,DC,,,empty
+2025-09,Almería,,22.0,AC,,,empty
+2025-09,Almería,,50.0,DC,,,empty
+2025-09,Almería,,50.0,DC,,,empty
+2025-09,Almería,,22.0,AC,,,empty
+2025-09,Almería,,7.4,AC,,,no_kwh
+2025-09,Almería,,7.4,AC,,,no_kwh
+2025-09,Almería,,22.0,AC,,,empty
+2025-09,Almería,,22.0,AC,,,empty
+2025-09,Almería,,3.7,AC,,,no_kwh
+2025-09,Almería,,7.0,AC,,,no_kwh
+2025-09,Almería,,22.0,AC,,,no_kwh
+2025-09,Almería,,3.0,AC,,,no_kwh
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,11.0,AC,,,empty
+2025-09,Almería,,30.0,DC,"0,43€/kWh DC - 0,35€/kWh AC",0.43,ok
+2025-09,Almería,,7.4,AC,"0,43€/kWh DC - 0,35€/kWh AC",0.43,ok
+2025-09,Almería,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-09,Almería,,11.0,AC,,,no_kwh
+2025-09,Almería,,3.0,AC,,,empty
+2025-09,Almería,,11.0,AC,,,no_kwh
+2025-09,Almería,,22.0,AC,,,no_kwh
+2025-09,Almería,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-09,Almería,,7.4,AC,,,no_kwh
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,3.7,AC,,,empty
+2025-09,Almería,,7.4,AC,,,no_kwh
+2025-09,Almería,,25.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-09,Almería,,50.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-09,Almería,,50.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-09,Almería,,43.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok

@@ -1,0 +1,4482 @@
+[
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "Conexión AP-6 (El Espinar) – Ortigosa",
+      "entrada": "Conexión AP-6 (El Espinar)",
+      "salida": "Ortigosa"
+    },
+    "fechaHora": "2025-04-13 01:32:15",
+    "categoriaVehiculo": "A",
+    "importe": "1,40 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-B279B985",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad00f917f846f1de559d4",
+    "provincia": "Madrid"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "724 Entronque A-7 – 754 Carretera San Miguel Benijofar",
+      "entrada": "724 Entronque A-7",
+      "salida": "754 Carretera San Miguel Benijofar"
+    },
+    "fechaHora": "2025-07-18 16:14:03",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-A260F523",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad00f917f846f1de559d4",
+    "provincia": "TARRAGONA"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-66",
+    "localizacion": {
+      "tramo": "La Magdalena – León",
+      "entrada": "La Magdalena",
+      "salida": "León"
+    },
+    "fechaHora": "2025-01-12 14:42:40",
+    "categoriaVehiculo": "A",
+    "importe": "6,10 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-04257AC0",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad00f917f846f1de559d4",
+    "provincia": "Principado de Asturias"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "Ortigosa del Monte – Hontoria",
+      "entrada": "Ortigosa del Monte",
+      "salida": "Hontoria"
+    },
+    "fechaHora": "2025-06-30 05:11:20",
+    "categoriaVehiculo": "A",
+    "importe": "1,55 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-A73C506D",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad00f917f846f1de559d4",
+    "provincia": "Madrid"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "Otero de Herreros – Hontoria",
+      "entrada": "Otero de Herreros",
+      "salida": "Hontoria"
+    },
+    "fechaHora": "2025-06-02 04:48:50",
+    "categoriaVehiculo": "A",
+    "importe": "2,15 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-F64C0321",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad00f917f846f1de559d4",
+    "provincia": "MADRID"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-68",
+    "localizacion": {
+      "tramo": "Subijana – Autop. Navarra",
+      "entrada": "Subijana",
+      "salida": "Autop. Navarra"
+    },
+    "fechaHora": "2025-01-07 16:39:35",
+    "categoriaVehiculo": "A",
+    "importe": "18,20 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-E37CF2D3",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad00f917f846f1de559d4",
+    "provincia": "Aragón"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "Conexión AP-6 (El Espinar) – Hontoria",
+      "entrada": "Conexión AP-6 (El Espinar)",
+      "salida": "Hontoria"
+    },
+    "fechaHora": "2025-02-20 04:15:40",
+    "categoriaVehiculo": "A",
+    "importe": "2,85 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-EEF4908F",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad00f917f846f1de559d4",
+    "provincia": "Madrid, Comunidad de"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-66",
+    "localizacion": {
+      "tramo": "La Magdalena – León",
+      "entrada": "La Magdalena",
+      "salida": "León"
+    },
+    "fechaHora": "2025-06-12 05:53:21",
+    "categoriaVehiculo": "A",
+    "importe": "6,10 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-B027C904",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad00f917f846f1de559d4",
+    "provincia": "Asturias"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "763 La Zenia Urbanizaciones – 784 San Javier (Sur)-Acceso aeropuerto",
+      "entrada": "763 La Zenia Urbanizaciones",
+      "salida": "784 San Javier (Sur)-Acceso aeropuerto"
+    },
+    "fechaHora": "2025-05-24 02:14:22",
+    "categoriaVehiculo": "A",
+    "importe": "5,50 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Efectivo",
+    "referencia": "PASO-85C8EFD3",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad00f917f846f1de559d4",
+    "provincia": "Alicante/Alacant"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-68",
+    "localizacion": {
+      "tramo": "Tudela – Zaragoza",
+      "entrada": "Tudela",
+      "salida": "Zaragoza"
+    },
+    "fechaHora": "2025-02-24 20:36:51",
+    "categoriaVehiculo": "A",
+    "importe": "8,20 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-7DB52953",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad00f917f846f1de559d4",
+    "provincia": "LA RIOJA"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-6",
+    "localizacion": {
+      "tramo": "Villacastín – Adanero",
+      "entrada": "Villacastín",
+      "salida": "Adanero"
+    },
+    "fechaHora": "2025-05-18 17:36:18",
+    "categoriaVehiculo": "A",
+    "importe": "4,50 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Efectivo",
+    "referencia": "PASO-BDFDFA04",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad00f917f846f1de559d4",
+    "provincia": "Madrid, Comunidad de"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "763 La Zenia Urbanizaciones – 774 San Pedro del Pinatar (Norte)",
+      "entrada": "763 La Zenia Urbanizaciones",
+      "salida": "774 San Pedro del Pinatar (Norte)"
+    },
+    "fechaHora": "2025-02-14 09:25:13",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-641207F0",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad00f917f846f1de559d4",
+    "provincia": "Málaga"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 784 San Javier (Sur)-Acceso aeropuerto",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "784 San Javier (Sur)-Acceso aeropuerto"
+    },
+    "fechaHora": "2025-01-17 10:05:30",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-C09EFD8F",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad00f917f846f1de559d4",
+    "provincia": "VALENCIA"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "730 Catral – 758 San Miguel de Salinas-Torrevieja",
+      "entrada": "730 Catral",
+      "salida": "758 San Miguel de Salinas-Torrevieja"
+    },
+    "fechaHora": "2025-04-09 02:17:01",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-2A83DC67",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad00f917f846f1de559d4",
+    "provincia": "Cataluña"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "724 Entronque A-7 – 754 Carretera San Miguel Benijofar",
+      "entrada": "724 Entronque A-7",
+      "salida": "754 Carretera San Miguel Benijofar"
+    },
+    "fechaHora": "2025-05-21 21:23:57",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-C75CC5B5",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad00f917f846f1de559d4",
+    "provincia": "Tarragona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 780 San Javier (Norte)-Sucina",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "780 San Javier (Norte)-Sucina"
+    },
+    "fechaHora": "2025-07-21 19:43:15",
+    "categoriaVehiculo": "A",
+    "importe": "5,50 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-7DC82C2B",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad00f917f846f1de559d4",
+    "provincia": "ALICANTE"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-68",
+    "localizacion": {
+      "tramo": "Subijana – Calahorra",
+      "entrada": "Subijana",
+      "salida": "Calahorra"
+    },
+    "fechaHora": "2025-07-17 13:18:58",
+    "categoriaVehiculo": "A",
+    "importe": "14,55 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-8FC82E4F",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad00f917f846f1de559d4",
+    "provincia": "Bizkaia"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 786 Los Alcazares (Norte)",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "786 Los Alcazares (Norte)"
+    },
+    "fechaHora": "2025-01-31 23:55:00",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-5B0CA2FB",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad00f917f846f1de559d4",
+    "provincia": "VALENCIA"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "Ortigosa del Monte – Segovia",
+      "entrada": "Ortigosa del Monte",
+      "salida": "Segovia"
+    },
+    "fechaHora": "2025-07-16 03:04:44",
+    "categoriaVehiculo": "A",
+    "importe": "1,55 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-76AEF57C",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad00f917f846f1de559d4",
+    "provincia": "MADRID"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-6",
+    "localizacion": {
+      "tramo": "Villalba – Villacastín",
+      "entrada": "Villalba",
+      "salida": "Villacastín"
+    },
+    "fechaHora": "2025-02-02 07:45:18",
+    "categoriaVehiculo": "A",
+    "importe": "9,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Efectivo",
+    "referencia": "PASO-5618D63B",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad00f917f846f1de559d4",
+    "provincia": "MADRID"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "784 San Javier (Sur)-Acceso aeropuerto – 797 Torre del Negro",
+      "entrada": "784 San Javier (Sur)-Acceso aeropuerto",
+      "salida": "797 Torre del Negro"
+    },
+    "fechaHora": "2025-04-20 23:51:22",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-4D2127E2",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad00f917f846f1de559d4",
+    "provincia": "Alicante/Alacant"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-68",
+    "localizacion": {
+      "tramo": "Subijana – Fuenmayor",
+      "entrada": "Subijana",
+      "salida": "Fuenmayor"
+    },
+    "fechaHora": "2025-06-28 10:08:19",
+    "categoriaVehiculo": "A",
+    "importe": "8,45 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Efectivo",
+    "referencia": "PASO-C6FED713",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad00f917f846f1de559d4",
+    "provincia": "País Vasco"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "Troncal de Calahonda – ",
+      "entrada": "Troncal de Calahonda",
+      "salida": ""
+    },
+    "fechaHora": "2025-03-10 16:51:04",
+    "categoriaVehiculo": "A",
+    "importe": "5,50 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-80EC43C8",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad00f917f846f1de559d4",
+    "provincia": "Cataluña"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "763 La Zenia Urbanizaciones – 794 Los Alcazares (Sur)",
+      "entrada": "763 La Zenia Urbanizaciones",
+      "salida": "794 Los Alcazares (Sur)"
+    },
+    "fechaHora": "2025-03-12 19:12:07",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-79D4F141",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad00f917f846f1de559d4",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "Estepona – Guadiaro",
+      "entrada": "Estepona",
+      "salida": "Guadiaro"
+    },
+    "fechaHora": "2025-02-16 20:45:03",
+    "categoriaVehiculo": "A",
+    "importe": "2,40 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-390D6961",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad00f917f846f1de559d4",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-68",
+    "localizacion": {
+      "tramo": "Recajo – Alagón pk 272",
+      "entrada": "Recajo",
+      "salida": "Alagón pk 272"
+    },
+    "fechaHora": "2025-07-11 13:55:13",
+    "categoriaVehiculo": "A",
+    "importe": "16,10 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-4245ABB9",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad015917f846f1de559d9",
+    "provincia": "BIZKAIA"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "San Rafael – El Hontoria",
+      "entrada": "San Rafael",
+      "salida": "El Hontoria"
+    },
+    "fechaHora": "2025-01-31 23:55:00",
+    "categoriaVehiculo": "A",
+    "importe": "2,95 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-E9BCFA75",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad015917f846f1de559d9",
+    "provincia": "Comunidad de Madrid"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-68",
+    "localizacion": {
+      "tramo": "Subijana – Alfaro",
+      "entrada": "Subijana",
+      "salida": "Alfaro"
+    },
+    "fechaHora": "2025-02-04 23:55:00",
+    "categoriaVehiculo": "A",
+    "importe": "17,50 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-B2604BFD",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad015917f846f1de559d9",
+    "provincia": "La Rioja"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 794 Los Alcazares (Sur)",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "794 Los Alcazares (Sur)"
+    },
+    "fechaHora": "2025-02-27 03:57:31",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-4F429C18",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad015917f846f1de559d9",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "Ortigosa del Monte – Hontoria",
+      "entrada": "Ortigosa del Monte",
+      "salida": "Hontoria"
+    },
+    "fechaHora": "2025-03-18 04:58:29",
+    "categoriaVehiculo": "A",
+    "importe": "1,55 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-F8B8797B",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad015917f846f1de559d9",
+    "provincia": "Madrid"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "Marbella – Estepona",
+      "entrada": "Marbella",
+      "salida": "Estepona"
+    },
+    "fechaHora": "2025-06-21 01:05:05",
+    "categoriaVehiculo": "A",
+    "importe": "3,70 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-EC16A15E",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad015917f846f1de559d9",
+    "provincia": "Cataluña"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-66",
+    "localizacion": {
+      "tramo": "Campomanes – Oblanca",
+      "entrada": "Campomanes",
+      "salida": "Oblanca"
+    },
+    "fechaHora": "2025-07-21 10:59:25",
+    "categoriaVehiculo": "A",
+    "importe": "5,65 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-4690B215",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad015917f846f1de559d9",
+    "provincia": "León"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "San Rafael – Otero de Herreros",
+      "entrada": "San Rafael",
+      "salida": "Otero de Herreros"
+    },
+    "fechaHora": "2025-05-10 20:22:20",
+    "categoriaVehiculo": "A",
+    "importe": "0,90 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-C0F9CEF4",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad015917f846f1de559d9",
+    "provincia": "Madrid"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "Estepona – Guadiaro",
+      "entrada": "Estepona",
+      "salida": "Guadiaro"
+    },
+    "fechaHora": "2025-03-28 04:50:31",
+    "categoriaVehiculo": "A",
+    "importe": "2,40 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-677B051A",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad015917f846f1de559d9",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 784 San Javier (Sur)-Acceso aeropuerto",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "784 San Javier (Sur)-Acceso aeropuerto"
+    },
+    "fechaHora": "2025-04-02 00:21:05",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-7B57338D",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad015917f846f1de559d9",
+    "provincia": "VALENCIA"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "Acceso de La Zenia – ",
+      "entrada": "Acceso de La Zenia",
+      "salida": ""
+    },
+    "fechaHora": "2025-03-13 14:38:56",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-5556DFD1",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad015917f846f1de559d9",
+    "provincia": "Tarragona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-68",
+    "localizacion": {
+      "tramo": "Autop. Burgos – Alfaro",
+      "entrada": "Autop. Burgos",
+      "salida": "Alfaro"
+    },
+    "fechaHora": "2025-02-08 05:15:02",
+    "categoriaVehiculo": "A",
+    "importe": "14,80 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-7E4936C3",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad015917f846f1de559d9",
+    "provincia": "País Vasco"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "Conexión AP-6 (El Espinar) – Segovia",
+      "entrada": "Conexión AP-6 (El Espinar)",
+      "salida": "Segovia"
+    },
+    "fechaHora": "2025-02-10 11:41:12",
+    "categoriaVehiculo": "A",
+    "importe": "2,85 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-AB882504",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad015917f846f1de559d9",
+    "provincia": "Comunidad de Madrid"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 782 Balsicas",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "782 Balsicas"
+    },
+    "fechaHora": "2025-06-02 18:21:25",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Efectivo",
+    "referencia": "PASO-729713E1",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad015917f846f1de559d9",
+    "provincia": "BARCELONA"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-9",
+    "localizacion": {
+      "tramo": "Santiago – Caldas de Reis",
+      "entrada": "Santiago",
+      "salida": "Caldas de Reis"
+    },
+    "fechaHora": "2025-07-20 06:23:12",
+    "categoriaVehiculo": "A",
+    "importe": "4,70 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Efectivo",
+    "referencia": "PASO-E2F9F03E",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad015917f846f1de559d9",
+    "provincia": "A Coruña"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "Acceso de La Zenia – ",
+      "entrada": "Acceso de La Zenia",
+      "salida": ""
+    },
+    "fechaHora": "2025-04-03 18:42:12",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-4BAC1FAD",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad015917f846f1de559d9",
+    "provincia": "Tarragona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-66",
+    "localizacion": {
+      "tramo": "Campomanes – Oblanca",
+      "entrada": "Campomanes",
+      "salida": "Oblanca"
+    },
+    "fechaHora": "2025-07-19 07:31:39",
+    "categoriaVehiculo": "A",
+    "importe": "5,65 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Efectivo",
+    "referencia": "PASO-D546E268",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad015917f846f1de559d9",
+    "provincia": "Asturias"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-68",
+    "localizacion": {
+      "tramo": "Ziorraga – Alfaro",
+      "entrada": "Ziorraga",
+      "salida": "Alfaro"
+    },
+    "fechaHora": "2025-05-05 07:00:05",
+    "categoriaVehiculo": "A",
+    "importe": "21,95 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-9A149507",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad015917f846f1de559d9",
+    "provincia": "BIZKAIA"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "San Rafael – Otero de Herreros",
+      "entrada": "San Rafael",
+      "salida": "Otero de Herreros"
+    },
+    "fechaHora": "2025-07-19 02:12:13",
+    "categoriaVehiculo": "A",
+    "importe": "0,90 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Efectivo",
+    "referencia": "PASO-4C9D47C0",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad015917f846f1de559d9",
+    "provincia": "Madrid, Comunidad de"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "Conexión AP-6 (El Espinar) – Otero de H.",
+      "entrada": "Conexión AP-6 (El Espinar)",
+      "salida": "Otero de H."
+    },
+    "fechaHora": "2025-01-25 18:38:23",
+    "categoriaVehiculo": "A",
+    "importe": "0,80 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-2E974311",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad015917f846f1de559d9",
+    "provincia": "MADRID"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 758 San Miguel de Salinas-Torrevieja",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "758 San Miguel de Salinas-Torrevieja"
+    },
+    "fechaHora": "2025-03-26 04:26:03",
+    "categoriaVehiculo": "A",
+    "importe": "0,00 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-65E607FB",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad015917f846f1de559d9",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-68",
+    "localizacion": {
+      "tramo": "Zambrana – Gallur",
+      "entrada": "Zambrana",
+      "salida": "Gallur"
+    },
+    "fechaHora": "2025-01-28 05:22:30",
+    "categoriaVehiculo": "A",
+    "importe": "20,15 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-20B0430E",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad015917f846f1de559d9",
+    "provincia": "ARABA"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "763 La Zenia Urbanizaciones – 777 El Mirador-Colonia Ruiz de Alda",
+      "entrada": "763 La Zenia Urbanizaciones",
+      "salida": "777 El Mirador-Colonia Ruiz de Alda"
+    },
+    "fechaHora": "2025-06-21 08:58:45",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-52970126",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad015917f846f1de559d9",
+    "provincia": "Girona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 800 Los Beatos-El Algar",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "800 Los Beatos-El Algar"
+    },
+    "fechaHora": "2025-06-21 05:46:39",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-6E95F0C9",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad015917f846f1de559d9",
+    "provincia": "Tarragona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "Marbella – Estepona",
+      "entrada": "Marbella",
+      "salida": "Estepona"
+    },
+    "fechaHora": "2025-01-28 20:02:35",
+    "categoriaVehiculo": "A",
+    "importe": "3,70 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-A2EC69B2",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad015917f846f1de559d9",
+    "provincia": "Girona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "733 Catral-Albatera – 763 La Zenia Urbanizaciones",
+      "entrada": "733 Catral-Albatera",
+      "salida": "763 La Zenia Urbanizaciones"
+    },
+    "fechaHora": "2025-02-03 05:03:14",
+    "categoriaVehiculo": "A",
+    "importe": "5,50 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-1AEC5CC6",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad015917f846f1de559d9",
+    "provincia": "Tarragona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "Otero de Herreros – Hontoria",
+      "entrada": "Otero de Herreros",
+      "salida": "Hontoria"
+    },
+    "fechaHora": "2025-05-08 20:26:30",
+    "categoriaVehiculo": "A",
+    "importe": "2,15 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-412371D1",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad01a917f846f1de559de",
+    "provincia": "Comunidad de Madrid"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "784 San Javier (Sur)-Acceso aeropuerto – 786 Los Alcazares (Norte)",
+      "entrada": "784 San Javier (Sur)-Acceso aeropuerto",
+      "salida": "786 Los Alcazares (Norte)"
+    },
+    "fechaHora": "2025-03-09 06:46:25",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-83559947",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad01a917f846f1de559de",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-68",
+    "localizacion": {
+      "tramo": "Altube – Zambrana",
+      "entrada": "Altube",
+      "salida": "Zambrana"
+    },
+    "fechaHora": "2025-02-27 04:34:21",
+    "categoriaVehiculo": "A",
+    "importe": "6,85 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Efectivo",
+    "referencia": "PASO-C433D3ED",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad01a917f846f1de559de",
+    "provincia": "La Rioja"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-66",
+    "localizacion": {
+      "tramo": "Oblanca – La Magdalena",
+      "entrada": "Oblanca",
+      "salida": "La Magdalena"
+    },
+    "fechaHora": "2025-04-15 08:12:21",
+    "categoriaVehiculo": "A",
+    "importe": "4,15 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-22282592",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad01a917f846f1de559de",
+    "provincia": "ASTURIAS"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-66",
+    "localizacion": {
+      "tramo": "Campomanes – Oblanca",
+      "entrada": "Campomanes",
+      "salida": "Oblanca"
+    },
+    "fechaHora": "2025-06-13 17:23:05",
+    "categoriaVehiculo": "A",
+    "importe": "5,65 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-B1E85A9D",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad01a917f846f1de559de",
+    "provincia": "ASTURIAS"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "784 San Javier (Sur)-Acceso aeropuerto – 794 Los Alcazares (Sur)",
+      "entrada": "784 San Javier (Sur)-Acceso aeropuerto",
+      "salida": "794 Los Alcazares (Sur)"
+    },
+    "fechaHora": "2025-05-09 09:09:03",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Efectivo",
+    "referencia": "PASO-71F29FF6",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad01a917f846f1de559de",
+    "provincia": "VALENCIA"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "Ortigosa del Monte – Segovia",
+      "entrada": "Ortigosa del Monte",
+      "salida": "Segovia"
+    },
+    "fechaHora": "2025-02-21 13:30:24",
+    "categoriaVehiculo": "A",
+    "importe": "1,55 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-D8A76F47",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad01a917f846f1de559de",
+    "provincia": "Madrid"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "Conexión AP-6 (El Espinar) – Segovia",
+      "entrada": "Conexión AP-6 (El Espinar)",
+      "salida": "Segovia"
+    },
+    "fechaHora": "2025-06-25 15:11:06",
+    "categoriaVehiculo": "A",
+    "importe": "2,85 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-E2A028CA",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad01a917f846f1de559de",
+    "provincia": "Madrid"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "San Rafael – El Hontoria",
+      "entrada": "San Rafael",
+      "salida": "El Hontoria"
+    },
+    "fechaHora": "2025-01-10 14:31:35",
+    "categoriaVehiculo": "A",
+    "importe": "2,95 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-35714BB7",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad01a917f846f1de559de",
+    "provincia": "Madrid"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "Manilva – Guadiaro",
+      "entrada": "Manilva",
+      "salida": "Guadiaro"
+    },
+    "fechaHora": "2025-04-26 00:05:00",
+    "categoriaVehiculo": "A",
+    "importe": "1,15 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-5BA5E050",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad01a917f846f1de559de",
+    "provincia": "ALICANTE"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-6",
+    "localizacion": {
+      "tramo": "San Rafael – Adanero",
+      "entrada": "San Rafael",
+      "salida": "Adanero"
+    },
+    "fechaHora": "2025-05-19 10:26:49",
+    "categoriaVehiculo": "A",
+    "importe": "8,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-611387C8",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad01a917f846f1de559de",
+    "provincia": "MADRID"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-6",
+    "localizacion": {
+      "tramo": "Villalba – Adanero",
+      "entrada": "Villalba",
+      "salida": "Adanero"
+    },
+    "fechaHora": "2025-06-27 23:55:00",
+    "categoriaVehiculo": "A",
+    "importe": "15,15 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-6212FA66",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad01a917f846f1de559de",
+    "provincia": "Madrid"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "Otero de Herreros – Ortigosa",
+      "entrada": "Otero de Herreros",
+      "salida": "Ortigosa"
+    },
+    "fechaHora": "2025-06-26 20:48:21",
+    "categoriaVehiculo": "A",
+    "importe": "0,70 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-5B1669BC",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad01a917f846f1de559de",
+    "provincia": "MADRID"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-68",
+    "localizacion": {
+      "tramo": "Autop. Burgos – Gallur",
+      "entrada": "Autop. Burgos",
+      "salida": "Gallur"
+    },
+    "fechaHora": "2025-07-13 13:40:37",
+    "categoriaVehiculo": "A",
+    "importe": "20,65 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-7FB9DD88",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad01a917f846f1de559de",
+    "provincia": "Zaragoza"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "751 Los Montesinos – 777 El Mirador-Colonia Ruiz de Alda",
+      "entrada": "751 Los Montesinos",
+      "salida": "777 El Mirador-Colonia Ruiz de Alda"
+    },
+    "fechaHora": "2025-05-07 18:50:22",
+    "categoriaVehiculo": "A",
+    "importe": "5,50 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-09E9812F",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad01a917f846f1de559de",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 786 Los Alcazares (Norte)",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "786 Los Alcazares (Norte)"
+    },
+    "fechaHora": "2025-06-04 00:05:00",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-74FFB5FD",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad01a917f846f1de559de",
+    "provincia": "Girona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "758 San Miguel de Salinas-Torrevieja – 782 Balsicas",
+      "entrada": "758 San Miguel de Salinas-Torrevieja",
+      "salida": "782 Balsicas"
+    },
+    "fechaHora": "2025-02-16 07:35:28",
+    "categoriaVehiculo": "A",
+    "importe": "5,50 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-06D76ABA",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad01a917f846f1de559de",
+    "provincia": "ALICANTE"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 770 El Pilar de la Horadada (Norte)",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "770 El Pilar de la Horadada (Norte)"
+    },
+    "fechaHora": "2025-03-11 15:50:07",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-5E65EB1E",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad01a917f846f1de559de",
+    "provincia": "Cataluña"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "758 San Miguel de Salinas-Torrevieja – 768 Campoamor-Urbanizaciones",
+      "entrada": "758 San Miguel de Salinas-Torrevieja",
+      "salida": "768 Campoamor-Urbanizaciones"
+    },
+    "fechaHora": "2025-04-21 14:21:48",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-2DF30A51",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad01a917f846f1de559de",
+    "provincia": "Cádiz"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 797 Torre del Negro",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "797 Torre del Negro"
+    },
+    "fechaHora": "2025-03-26 22:02:14",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-29175930",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad01a917f846f1de559de",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "Conexión AP-6 (El Espinar) – Segovia",
+      "entrada": "Conexión AP-6 (El Espinar)",
+      "salida": "Segovia"
+    },
+    "fechaHora": "2025-06-29 06:09:53",
+    "categoriaVehiculo": "A",
+    "importe": "2,85 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-90DC716D",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad01a917f846f1de559de",
+    "provincia": "Madrid"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-53",
+    "localizacion": {
+      "tramo": "Silleda – Lalín Este",
+      "entrada": "Silleda",
+      "salida": "Lalín Este"
+    },
+    "fechaHora": "2025-05-09 04:12:33",
+    "categoriaVehiculo": "A",
+    "importe": "2,90 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-DAFE0AC1",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad01a917f846f1de559de",
+    "provincia": "LA CORUÑA"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "Conexión AP-6 (El Espinar) – Segovia",
+      "entrada": "Conexión AP-6 (El Espinar)",
+      "salida": "Segovia"
+    },
+    "fechaHora": "2025-06-05 05:46:42",
+    "categoriaVehiculo": "A",
+    "importe": "2,85 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-E94B52C1",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad01a917f846f1de559de",
+    "provincia": "Madrid, Comunidad de"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "Conexión AP-6 (El Espinar) – Hontoria",
+      "entrada": "Conexión AP-6 (El Espinar)",
+      "salida": "Hontoria"
+    },
+    "fechaHora": "2025-03-15 20:21:02",
+    "categoriaVehiculo": "A",
+    "importe": "2,85 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-76E1B982",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad01a917f846f1de559de",
+    "provincia": "Madrid"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 780 San Javier (Norte)-Sucina",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "780 San Javier (Norte)-Sucina"
+    },
+    "fechaHora": "2025-04-04 19:23:51",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-2B2D751E",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad01a917f846f1de559de",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "763 La Zenia Urbanizaciones – 800 Los Beatos-El Algar",
+      "entrada": "763 La Zenia Urbanizaciones",
+      "salida": "800 Los Beatos-El Algar"
+    },
+    "fechaHora": "2025-06-05 05:25:44",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-A85DC9C4",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad01a917f846f1de559de",
+    "provincia": "Girona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "758 San Miguel de Salinas-Torrevieja – 763 La Zenia Urbanizaciones",
+      "entrada": "758 San Miguel de Salinas-Torrevieja",
+      "salida": "763 La Zenia Urbanizaciones"
+    },
+    "fechaHora": "2025-06-22 04:42:20",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Efectivo",
+    "referencia": "PASO-8692817E",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad01a917f846f1de559de",
+    "provincia": "Girona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "Estepona – Guadiaro",
+      "entrada": "Estepona",
+      "salida": "Guadiaro"
+    },
+    "fechaHora": "2025-04-11 10:14:56",
+    "categoriaVehiculo": "A",
+    "importe": "2,40 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Efectivo",
+    "referencia": "PASO-5537061C",
+    "idEmpresa": "68dac3e96c5866743b128d6b",
+    "empresaNombre": "Transporte_01 S.L.",
+    "idUsuario": "68dad01a917f846f1de559de",
+    "provincia": "Valencia"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-6",
+    "localizacion": {
+      "tramo": "San Rafael – Adanero",
+      "entrada": "San Rafael",
+      "salida": "Adanero"
+    },
+    "fechaHora": "2025-03-30 19:41:49",
+    "categoriaVehiculo": "A",
+    "importe": "8,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-15792E6C",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad047917f846f1de559f2",
+    "provincia": "Madrid, Comunidad de"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-68",
+    "localizacion": {
+      "tramo": "Lodosa – Zaragoza",
+      "entrada": "Lodosa",
+      "salida": "Zaragoza"
+    },
+    "fechaHora": "2025-02-20 10:37:46",
+    "categoriaVehiculo": "A",
+    "importe": "15,85 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-2BBC6397",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad047917f846f1de559f2",
+    "provincia": "Aragón"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-66",
+    "localizacion": {
+      "tramo": "La Magdalena – León",
+      "entrada": "La Magdalena",
+      "salida": "León"
+    },
+    "fechaHora": "2025-05-12 07:43:14",
+    "categoriaVehiculo": "A",
+    "importe": "6,10 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-4E2440CC",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad047917f846f1de559f2",
+    "provincia": "Principado de Asturias"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 768 Campoamor-Urbanizaciones",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "768 Campoamor-Urbanizaciones"
+    },
+    "fechaHora": "2025-06-21 05:37:51",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-E38FAC0E",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad047917f846f1de559f2",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "Otero de Herreros – Hontoria",
+      "entrada": "Otero de Herreros",
+      "salida": "Hontoria"
+    },
+    "fechaHora": "2025-07-15 05:41:07",
+    "categoriaVehiculo": "A",
+    "importe": "2,15 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-501B05B9",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad047917f846f1de559f2",
+    "provincia": "Comunidad de Madrid"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 763 La Zenia Urbanizaciones",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "763 La Zenia Urbanizaciones"
+    },
+    "fechaHora": "2025-07-08 01:30:22",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-252F44D6",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad047917f846f1de559f2",
+    "provincia": "Valencia"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 800 Los Beatos-El Algar",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "800 Los Beatos-El Algar"
+    },
+    "fechaHora": "2025-04-04 09:37:17",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-61E74E13",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad047917f846f1de559f2",
+    "provincia": "Cataluña"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 770 El Pilar de la Horadada (Norte)",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "770 El Pilar de la Horadada (Norte)"
+    },
+    "fechaHora": "2025-07-26 04:27:08",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-E3C6C942",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad047917f846f1de559f2",
+    "provincia": "BARCELONA"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-68",
+    "localizacion": {
+      "tramo": "Autop. Burgos – Lodosa",
+      "entrada": "Autop. Burgos",
+      "salida": "Lodosa"
+    },
+    "fechaHora": "2025-02-19 15:44:52",
+    "categoriaVehiculo": "A",
+    "importe": "10,60 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-BB611F24",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad047917f846f1de559f2",
+    "provincia": "País Vasco"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "763 La Zenia Urbanizaciones – 786 Los Alcazares (Norte)",
+      "entrada": "763 La Zenia Urbanizaciones",
+      "salida": "786 Los Alcazares (Norte)"
+    },
+    "fechaHora": "2025-02-13 21:12:48",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-F1B735EB",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad047917f846f1de559f2",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "Estepona – Manilva",
+      "entrada": "Estepona",
+      "salida": "Manilva"
+    },
+    "fechaHora": "2025-03-28 12:52:11",
+    "categoriaVehiculo": "A",
+    "importe": "1,15 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-11DB2D34",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad047917f846f1de559f2",
+    "provincia": "VALENCIA"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "784 San Javier (Sur)-Acceso aeropuerto – 797 Torre del Negro",
+      "entrada": "784 San Javier (Sur)-Acceso aeropuerto",
+      "salida": "797 Torre del Negro"
+    },
+    "fechaHora": "2025-01-14 19:23:33",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-75A48C6A",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad047917f846f1de559f2",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "Otero de Herreros – Ortigosa",
+      "entrada": "Otero de Herreros",
+      "salida": "Ortigosa"
+    },
+    "fechaHora": "2025-05-16 22:32:33",
+    "categoriaVehiculo": "A",
+    "importe": "0,70 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-F7D7198B",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad047917f846f1de559f2",
+    "provincia": "Comunidad de Madrid"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "Acceso de Manilva – ",
+      "entrada": "Acceso de Manilva",
+      "salida": ""
+    },
+    "fechaHora": "2025-01-03 03:20:19",
+    "categoriaVehiculo": "A",
+    "importe": "1,15 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-1952572F",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad047917f846f1de559f2",
+    "provincia": "CASTELLON"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "758 San Miguel de Salinas-Torrevieja – 782 Balsicas",
+      "entrada": "758 San Miguel de Salinas-Torrevieja",
+      "salida": "782 Balsicas"
+    },
+    "fechaHora": "2025-02-10 11:28:36",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Efectivo",
+    "referencia": "PASO-D027C11C",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad047917f846f1de559f2",
+    "provincia": "VALENCIA"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-68",
+    "localizacion": {
+      "tramo": "Ziorraga – Zambrana",
+      "entrada": "Ziorraga",
+      "salida": "Zambrana"
+    },
+    "fechaHora": "2025-03-06 14:24:55",
+    "categoriaVehiculo": "A",
+    "importe": "8,05 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-C0BC428A",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad047917f846f1de559f2",
+    "provincia": "Zaragoza"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "Otero de Herreros – Ortigosa",
+      "entrada": "Otero de Herreros",
+      "salida": "Ortigosa"
+    },
+    "fechaHora": "2025-05-22 10:13:41",
+    "categoriaVehiculo": "A",
+    "importe": "0,70 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Efectivo",
+    "referencia": "PASO-EB428068",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad047917f846f1de559f2",
+    "provincia": "MADRID"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "730 Catral – 758 San Miguel de Salinas-Torrevieja",
+      "entrada": "730 Catral",
+      "salida": "758 San Miguel de Salinas-Torrevieja"
+    },
+    "fechaHora": "2025-04-07 10:04:43",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-C4944853",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad047917f846f1de559f2",
+    "provincia": "Málaga"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "Marbella – Estepona",
+      "entrada": "Marbella",
+      "salida": "Estepona"
+    },
+    "fechaHora": "2025-02-13 14:25:29",
+    "categoriaVehiculo": "A",
+    "importe": "3,70 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-22F55818",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad047917f846f1de559f2",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-68",
+    "localizacion": {
+      "tramo": "Zambrana – Logroño",
+      "entrada": "Zambrana",
+      "salida": "Logroño"
+    },
+    "fechaHora": "2025-02-02 12:10:45",
+    "categoriaVehiculo": "A",
+    "importe": "6,25 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-24E609A1",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad047917f846f1de559f2",
+    "provincia": "ARABA"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-68",
+    "localizacion": {
+      "tramo": "Agoncillo – Alfaro",
+      "entrada": "Agoncillo",
+      "salida": "Alfaro"
+    },
+    "fechaHora": "2025-03-21 13:32:49",
+    "categoriaVehiculo": "A",
+    "importe": "6,60 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-FFFC95A7",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad047917f846f1de559f2",
+    "provincia": "Zaragoza"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-68",
+    "localizacion": {
+      "tramo": "Autop. Burgos – Agoncillo",
+      "entrada": "Autop. Burgos",
+      "salida": "Agoncillo"
+    },
+    "fechaHora": "2025-01-27 10:19:56",
+    "categoriaVehiculo": "A",
+    "importe": "8,35 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Efectivo",
+    "referencia": "PASO-2877B608",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad047917f846f1de559f2",
+    "provincia": "ZARAGOZA"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-6",
+    "localizacion": {
+      "tramo": "San Rafael – Adanero",
+      "entrada": "San Rafael",
+      "salida": "Adanero"
+    },
+    "fechaHora": "2025-02-06 17:50:46",
+    "categoriaVehiculo": "A",
+    "importe": "8,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Efectivo",
+    "referencia": "PASO-7AECEBA7",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad047917f846f1de559f2",
+    "provincia": "MADRID"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "San Rafael – Segovia",
+      "entrada": "San Rafael",
+      "salida": "Segovia"
+    },
+    "fechaHora": "2025-05-27 04:28:32",
+    "categoriaVehiculo": "A",
+    "importe": "2,95 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-13E37920",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad047917f846f1de559f2",
+    "provincia": "MADRID"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "784 San Javier (Sur)-Acceso aeropuerto – 800 Los Beatos-El Algar",
+      "entrada": "784 San Javier (Sur)-Acceso aeropuerto",
+      "salida": "800 Los Beatos-El Algar"
+    },
+    "fechaHora": "2025-06-05 19:56:13",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-29F66BD7",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad047917f846f1de559f2",
+    "provincia": "Tarragona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "Conexión AP-6 (El Espinar) – Otero de Herreros",
+      "entrada": "Conexión AP-6 (El Espinar)",
+      "salida": "Otero de Herreros"
+    },
+    "fechaHora": "2025-05-10 15:03:01",
+    "categoriaVehiculo": "A",
+    "importe": "0,80 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-1BDC5D3F",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad047917f846f1de559f2",
+    "provincia": "MADRID"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 782 Balsicas",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "782 Balsicas"
+    },
+    "fechaHora": "2025-06-18 22:06:02",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-E935C3F2",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad047917f846f1de559f2",
+    "provincia": "Tarragona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "763 La Zenia Urbanizaciones – 794 Los Alcazares (Sur)",
+      "entrada": "763 La Zenia Urbanizaciones",
+      "salida": "794 Los Alcazares (Sur)"
+    },
+    "fechaHora": "2025-05-19 21:30:23",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-7987FB69",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad047917f846f1de559f2",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-68",
+    "localizacion": {
+      "tramo": "Autop. Navarra – Gallur",
+      "entrada": "Autop. Navarra",
+      "salida": "Gallur"
+    },
+    "fechaHora": "2025-05-11 22:05:43",
+    "categoriaVehiculo": "A",
+    "importe": "5,50 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-63C0CD4B",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad047917f846f1de559f2",
+    "provincia": "Bizkaia"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 775 Los Tárragas",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "775 Los Tárragas"
+    },
+    "fechaHora": "2025-03-17 23:55:00",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-66A919CB",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad04d917f846f1de559f7",
+    "provincia": "ALICANTE"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "763 La Zenia Urbanizaciones – 790 Los Alcazares (Centro)-Torre Pacheco",
+      "entrada": "763 La Zenia Urbanizaciones",
+      "salida": "790 Los Alcazares (Centro)-Torre Pacheco"
+    },
+    "fechaHora": "2025-02-22 09:23:13",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-BFCB522C",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad04d917f846f1de559f7",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 797 Torre del Negro",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "797 Torre del Negro"
+    },
+    "fechaHora": "2025-07-13 13:24:49",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-99AC0435",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad04d917f846f1de559f7",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "Conexión AP-6 (El Espinar) – Segovia",
+      "entrada": "Conexión AP-6 (El Espinar)",
+      "salida": "Segovia"
+    },
+    "fechaHora": "2025-03-14 05:00:32",
+    "categoriaVehiculo": "A",
+    "importe": "2,85 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-DE4579B8",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad04d917f846f1de559f7",
+    "provincia": "MADRID"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "Otero de Herreros – Segovia",
+      "entrada": "Otero de Herreros",
+      "salida": "Segovia"
+    },
+    "fechaHora": "2025-05-02 05:38:29",
+    "categoriaVehiculo": "A",
+    "importe": "2,15 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-7F9FC11E",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad04d917f846f1de559f7",
+    "provincia": "Madrid"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "775 Los Tárragas – 797 Torre del Negro",
+      "entrada": "775 Los Tárragas",
+      "salida": "797 Torre del Negro"
+    },
+    "fechaHora": "2025-06-29 12:40:27",
+    "categoriaVehiculo": "A",
+    "importe": "5,50 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-9C426E5F",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad04d917f846f1de559f7",
+    "provincia": "Tarragona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 794 Los Alcazares (Sur)",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "794 Los Alcazares (Sur)"
+    },
+    "fechaHora": "2025-04-29 03:27:18",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-C949FFA6",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad04d917f846f1de559f7",
+    "provincia": "Girona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "Otero de Herreros – Segovia",
+      "entrada": "Otero de Herreros",
+      "salida": "Segovia"
+    },
+    "fechaHora": "2025-02-06 11:22:31",
+    "categoriaVehiculo": "A",
+    "importe": "2,15 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-557B739F",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad04d917f846f1de559f7",
+    "provincia": "Madrid"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "Málaga – Calahonda",
+      "entrada": "Málaga",
+      "salida": "Calahonda"
+    },
+    "fechaHora": "2025-05-03 03:04:44",
+    "categoriaVehiculo": "A",
+    "importe": "3,40 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-60ECB421",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad04d917f846f1de559f7",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "San Rafael – Segovia",
+      "entrada": "San Rafael",
+      "salida": "Segovia"
+    },
+    "fechaHora": "2025-04-06 15:10:22",
+    "categoriaVehiculo": "A",
+    "importe": "2,95 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-CE7320ED",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad04d917f846f1de559f7",
+    "provincia": "Madrid, Comunidad de"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "763 La Zenia Urbanizaciones – 770 El Pilar de la Horadada",
+      "entrada": "763 La Zenia Urbanizaciones",
+      "salida": "770 El Pilar de la Horadada"
+    },
+    "fechaHora": "2025-03-29 02:00:55",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-2FC33BAF",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad04d917f846f1de559f7",
+    "provincia": "ALICANTE"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 777 El Mirador-Colonia Ruiz de Alda",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "777 El Mirador-Colonia Ruiz de Alda"
+    },
+    "fechaHora": "2025-02-10 12:03:41",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-24F8CDE6",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad04d917f846f1de559f7",
+    "provincia": "Alicante"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 763 La Zenia Urbanizaciones",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "763 La Zenia Urbanizaciones"
+    },
+    "fechaHora": "2025-01-15 02:57:42",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-828EF58D",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad04d917f846f1de559f7",
+    "provincia": "ALICANTE"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 784 San Javier (Sur)-Acceso aeropuerto",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "784 San Javier (Sur)-Acceso aeropuerto"
+    },
+    "fechaHora": "2025-03-20 14:14:28",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-4F18536C",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad04d917f846f1de559f7",
+    "provincia": "ALICANTE"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-66",
+    "localizacion": {
+      "tramo": "Campomanes – La Magdalena",
+      "entrada": "Campomanes",
+      "salida": "La Magdalena"
+    },
+    "fechaHora": "2025-05-25 08:11:21",
+    "categoriaVehiculo": "A",
+    "importe": "9,80 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Efectivo",
+    "referencia": "PASO-3A05C2D3",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad04d917f846f1de559f7",
+    "provincia": "Principado de Asturias"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "758 San Miguel de Salinas-Torrevieja – 777 El Mirador-Colonia Ruiz de Alda",
+      "entrada": "758 San Miguel de Salinas-Torrevieja",
+      "salida": "777 El Mirador-Colonia Ruiz de Alda"
+    },
+    "fechaHora": "2025-05-22 09:04:11",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-7DC0A7AF",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad04d917f846f1de559f7",
+    "provincia": "Cataluña"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-68",
+    "localizacion": {
+      "tramo": "Autop. Navarra – Tudela",
+      "entrada": "Autop. Navarra",
+      "salida": "Tudela"
+    },
+    "fechaHora": "2025-05-03 23:55:00",
+    "categoriaVehiculo": "A",
+    "importe": "1,65 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-6DE7B97B",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad04d917f846f1de559f7",
+    "provincia": "País Vasco"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 780 San Javier (Norte)-Sucina",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "780 San Javier (Norte)-Sucina"
+    },
+    "fechaHora": "2025-01-21 00:23:04",
+    "categoriaVehiculo": "A",
+    "importe": "5,50 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-5589ACD8",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad04d917f846f1de559f7",
+    "provincia": "VALENCIA"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-68",
+    "localizacion": {
+      "tramo": "Ziorraga – Subijana",
+      "entrada": "Ziorraga",
+      "salida": "Subijana"
+    },
+    "fechaHora": "2025-05-03 22:06:32",
+    "categoriaVehiculo": "A",
+    "importe": "4,60 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-DEDD3EDD",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad04d917f846f1de559f7",
+    "provincia": "País Vasco"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "768 Campoamor-Urbanizaciones – 786 Los Alcazares (Norte)",
+      "entrada": "768 Campoamor-Urbanizaciones",
+      "salida": "786 Los Alcazares (Norte)"
+    },
+    "fechaHora": "2025-04-04 14:12:35",
+    "categoriaVehiculo": "A",
+    "importe": "5,50 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-978F7AF9",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad04d917f846f1de559f7",
+    "provincia": "Girona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 758 San Miguel de Salinas-Torrevieja",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "758 San Miguel de Salinas-Torrevieja"
+    },
+    "fechaHora": "2025-04-18 17:39:20",
+    "categoriaVehiculo": "A",
+    "importe": "0,00 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-44B449D6",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad04d917f846f1de559f7",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "763 La Zenia Urbanizaciones – 784 San Javier (Sur)-Acceso aeropuerto",
+      "entrada": "763 La Zenia Urbanizaciones",
+      "salida": "784 San Javier (Sur)-Acceso aeropuerto"
+    },
+    "fechaHora": "2025-02-04 19:51:13",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-D6BF4B4A",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad04d917f846f1de559f7",
+    "provincia": "Girona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-66",
+    "localizacion": {
+      "tramo": "Campomanes – La Magdalena",
+      "entrada": "Campomanes",
+      "salida": "La Magdalena"
+    },
+    "fechaHora": "2025-04-21 00:05:00",
+    "categoriaVehiculo": "A",
+    "importe": "9,80 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Efectivo",
+    "referencia": "PASO-7213FBCE",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad04d917f846f1de559f7",
+    "provincia": "ASTURIAS"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "Calahonda – Estepona",
+      "entrada": "Calahonda",
+      "salida": "Estepona"
+    },
+    "fechaHora": "2025-04-14 12:10:02",
+    "categoriaVehiculo": "A",
+    "importe": "7,10 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-E0FEA9D3",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad04d917f846f1de559f7",
+    "provincia": "BARCELONA"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "San Rafael – Segovia",
+      "entrada": "San Rafael",
+      "salida": "Segovia"
+    },
+    "fechaHora": "2025-05-03 08:40:58",
+    "categoriaVehiculo": "A",
+    "importe": "2,95 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-1078701F",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad04d917f846f1de559f7",
+    "provincia": "MADRID"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-66",
+    "localizacion": {
+      "tramo": "Oblanca – León",
+      "entrada": "Oblanca",
+      "salida": "León"
+    },
+    "fechaHora": "2025-04-14 21:49:27",
+    "categoriaVehiculo": "A",
+    "importe": "9,95 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Efectivo",
+    "referencia": "PASO-218C15E5",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad055917f846f1de559fc",
+    "provincia": "Principado de Asturias"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "743 Algorfa-Benijofar – 774 San Pedro del Pinatar (Norte)",
+      "entrada": "743 Algorfa-Benijofar",
+      "salida": "774 San Pedro del Pinatar (Norte)"
+    },
+    "fechaHora": "2025-06-18 00:28:02",
+    "categoriaVehiculo": "A",
+    "importe": "5,50 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-D6286B6C",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad055917f846f1de559fc",
+    "provincia": "VALENCIA"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 774 San Pedro del Pinatar (Norte)",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "774 San Pedro del Pinatar (Norte)"
+    },
+    "fechaHora": "2025-06-29 05:56:27",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-DABFDE1B",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad055917f846f1de559fc",
+    "provincia": "Cataluña"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 770 El Pilar de la Horadada (Norte)",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "770 El Pilar de la Horadada (Norte)"
+    },
+    "fechaHora": "2025-04-05 06:17:28",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-BDEB0685",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad055917f846f1de559fc",
+    "provincia": "Cataluña"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "763 La Zenia Urbanizaciones – 775 Los Tárragas",
+      "entrada": "763 La Zenia Urbanizaciones",
+      "salida": "775 Los Tárragas"
+    },
+    "fechaHora": "2025-01-28 03:19:58",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Efectivo",
+    "referencia": "PASO-F5F0A525",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad055917f846f1de559fc",
+    "provincia": "Cádiz"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 800 Los Beatos-El Algar",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "800 Los Beatos-El Algar"
+    },
+    "fechaHora": "2025-04-10 07:14:35",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Efectivo",
+    "referencia": "PASO-DB40C241",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad055917f846f1de559fc",
+    "provincia": "Málaga"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "758 San Miguel de Salinas-Torrevieja – 782 Balsicas",
+      "entrada": "758 San Miguel de Salinas-Torrevieja",
+      "salida": "782 Balsicas"
+    },
+    "fechaHora": "2025-03-13 08:50:34",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-CB1880E5",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad055917f846f1de559fc",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-68",
+    "localizacion": {
+      "tramo": "Autop. Burgos – Cenicero",
+      "entrada": "Autop. Burgos",
+      "salida": "Cenicero"
+    },
+    "fechaHora": "2025-01-01 04:58:01",
+    "categoriaVehiculo": "A",
+    "importe": "4,85 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-ACA21202",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad055917f846f1de559fc",
+    "provincia": "País Vasco"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "784 San Javier (Sur)-Acceso aeropuerto – 794 Los Alcazares (Sur)",
+      "entrada": "784 San Javier (Sur)-Acceso aeropuerto",
+      "salida": "794 Los Alcazares (Sur)"
+    },
+    "fechaHora": "2025-07-01 16:52:53",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Efectivo",
+    "referencia": "PASO-60825B97",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad055917f846f1de559fc",
+    "provincia": "BARCELONA"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "Acceso de La Zenia – ",
+      "entrada": "Acceso de La Zenia",
+      "salida": ""
+    },
+    "fechaHora": "2025-05-22 03:33:32",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-9BD0B702",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad055917f846f1de559fc",
+    "provincia": "Tarragona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "Conexión AP-6 (El Espinar) – Ortigosa",
+      "entrada": "Conexión AP-6 (El Espinar)",
+      "salida": "Ortigosa"
+    },
+    "fechaHora": "2025-05-11 13:48:42",
+    "categoriaVehiculo": "A",
+    "importe": "1,40 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-BF80BD69",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad055917f846f1de559fc",
+    "provincia": "Madrid"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-68",
+    "localizacion": {
+      "tramo": "Gallur – Alagón pk 272",
+      "entrada": "Gallur",
+      "salida": "Alagón pk 272"
+    },
+    "fechaHora": "2025-06-26 00:05:00",
+    "categoriaVehiculo": "A",
+    "importe": "3,35 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-4678C32E",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad055917f846f1de559fc",
+    "provincia": "ARABA"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "784 San Javier (Sur)-Acceso aeropuerto – 786 Los Alcazares (Norte)",
+      "entrada": "784 San Javier (Sur)-Acceso aeropuerto",
+      "salida": "786 Los Alcazares (Norte)"
+    },
+    "fechaHora": "2025-04-13 08:22:11",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-A20B5B53",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad055917f846f1de559fc",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-68",
+    "localizacion": {
+      "tramo": "Autop. Burgos – Agoncillo",
+      "entrada": "Autop. Burgos",
+      "salida": "Agoncillo"
+    },
+    "fechaHora": "2025-06-11 09:05:39",
+    "categoriaVehiculo": "A",
+    "importe": "8,35 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-40962FC6",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad055917f846f1de559fc",
+    "provincia": "Zaragoza"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "Málaga – Estepona",
+      "entrada": "Málaga",
+      "salida": "Estepona"
+    },
+    "fechaHora": "2025-04-06 01:20:31",
+    "categoriaVehiculo": "A",
+    "importe": "9,20 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-D83A6700",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad055917f846f1de559fc",
+    "provincia": "VALENCIA"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "763 La Zenia Urbanizaciones – 790 Los Alcazares (Centro)-Torre Pacheco",
+      "entrada": "763 La Zenia Urbanizaciones",
+      "salida": "790 Los Alcazares (Centro)-Torre Pacheco"
+    },
+    "fechaHora": "2025-05-11 09:13:53",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Efectivo",
+    "referencia": "PASO-69354E4B",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad055917f846f1de559fc",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "Conexión AP-6 (El Espinar) – Ortigosa",
+      "entrada": "Conexión AP-6 (El Espinar)",
+      "salida": "Ortigosa"
+    },
+    "fechaHora": "2025-04-05 13:20:40",
+    "categoriaVehiculo": "A",
+    "importe": "1,40 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-2C532A2D",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad055917f846f1de559fc",
+    "provincia": "MADRID"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "768 Campoamor-Urbanizaciones – 786 Los Alcazares (Norte)",
+      "entrada": "768 Campoamor-Urbanizaciones",
+      "salida": "786 Los Alcazares (Norte)"
+    },
+    "fechaHora": "2025-07-17 22:29:49",
+    "categoriaVehiculo": "A",
+    "importe": "5,50 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-3BEAD593",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad055917f846f1de559fc",
+    "provincia": "VALENCIA"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-68",
+    "localizacion": {
+      "tramo": "Autop. Burgos – Alagón pk 272",
+      "entrada": "Autop. Burgos",
+      "salida": "Alagón pk 272"
+    },
+    "fechaHora": "2025-06-03 13:56:59",
+    "categoriaVehiculo": "A",
+    "importe": "23,80 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-9EC1406B",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad055917f846f1de559fc",
+    "provincia": "BIZKAIA"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 786 Los Alcazares (Norte)",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "786 Los Alcazares (Norte)"
+    },
+    "fechaHora": "2025-05-15 10:03:04",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-BB3EB05D",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad055917f846f1de559fc",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 763 La Zenia Urbanizaciones",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "763 La Zenia Urbanizaciones"
+    },
+    "fechaHora": "2025-04-05 22:35:42",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-AB8520F9",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad055917f846f1de559fc",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 797 Torre del Negro",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "797 Torre del Negro"
+    },
+    "fechaHora": "2025-01-11 14:42:29",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-8CC75304",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad055917f846f1de559fc",
+    "provincia": "Málaga"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-53",
+    "localizacion": {
+      "tramo": "Santiago – Ribadulla",
+      "entrada": "Santiago",
+      "salida": "Ribadulla"
+    },
+    "fechaHora": "2025-07-11 08:15:06",
+    "categoriaVehiculo": "A",
+    "importe": "1,95 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-4AD2FABC",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad055917f846f1de559fc",
+    "provincia": "PONTEVEDRA"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "Otero de Herreros – Segovia",
+      "entrada": "Otero de Herreros",
+      "salida": "Segovia"
+    },
+    "fechaHora": "2025-05-07 18:20:51",
+    "categoriaVehiculo": "A",
+    "importe": "2,15 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Efectivo",
+    "referencia": "PASO-4D364E91",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad055917f846f1de559fc",
+    "provincia": "Madrid"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "758 San Miguel de Salinas-Torrevieja – 775 Los Tárragas",
+      "entrada": "758 San Miguel de Salinas-Torrevieja",
+      "salida": "775 Los Tárragas"
+    },
+    "fechaHora": "2025-03-09 18:46:09",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-7E348BCF",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad055917f846f1de559fc",
+    "provincia": "ALICANTE"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-66",
+    "localizacion": {
+      "tramo": "Campomanes – La Magdalena",
+      "entrada": "Campomanes",
+      "salida": "La Magdalena"
+    },
+    "fechaHora": "2025-01-06 07:10:06",
+    "categoriaVehiculo": "A",
+    "importe": "9,80 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-CE1B7CB9",
+    "idEmpresa": "68dacb42b123b24a8c01b2ef",
+    "empresaNombre": "Transporte_02 S.L.",
+    "idUsuario": "68dad055917f846f1de559fc",
+    "provincia": "Principado de Asturias"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "758 San Miguel de Salinas-Torrevieja – 775 Los Tárragas",
+      "entrada": "758 San Miguel de Salinas-Torrevieja",
+      "salida": "775 Los Tárragas"
+    },
+    "fechaHora": "2025-03-29 02:47:10",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-044D0461",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad080917f846f1de55a10",
+    "provincia": "Girona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-68",
+    "localizacion": {
+      "tramo": "Ziorraga – Alagón pk 272",
+      "entrada": "Ziorraga",
+      "salida": "Alagón pk 272"
+    },
+    "fechaHora": "2025-07-13 12:35:25",
+    "categoriaVehiculo": "A",
+    "importe": "30,95 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-42A36F21",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad080917f846f1de55a10",
+    "provincia": "País Vasco"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-68",
+    "localizacion": {
+      "tramo": "Calahorra – Alagón pk 272",
+      "entrada": "Calahorra",
+      "salida": "Alagón pk 272"
+    },
+    "fechaHora": "2025-04-26 07:31:42",
+    "categoriaVehiculo": "A",
+    "importe": "12,15 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Efectivo",
+    "referencia": "PASO-EC026961",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad080917f846f1de55a10",
+    "provincia": "País Vasco"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "Hontoria – Segovia",
+      "entrada": "Hontoria",
+      "salida": "Segovia"
+    },
+    "fechaHora": "2025-04-18 19:17:17",
+    "categoriaVehiculo": "A",
+    "importe": "0,00 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-F4C4B3D3",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad080917f846f1de55a10",
+    "provincia": "Madrid"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-68",
+    "localizacion": {
+      "tramo": "Alfaro – Tudela",
+      "entrada": "Alfaro",
+      "salida": "Tudela"
+    },
+    "fechaHora": "2025-06-09 12:21:00",
+    "categoriaVehiculo": "A",
+    "importe": "2,30 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-BD934809",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad080917f846f1de55a10",
+    "provincia": "ZARAGOZA"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "758 San Miguel de Salinas-Torrevieja – 775 Los Tárragas",
+      "entrada": "758 San Miguel de Salinas-Torrevieja",
+      "salida": "775 Los Tárragas"
+    },
+    "fechaHora": "2025-04-01 21:31:48",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-F3222AB3",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad080917f846f1de55a10",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "763 La Zenia Urbanizaciones – 777 El Mirador-Colonia Ruiz de Alda",
+      "entrada": "763 La Zenia Urbanizaciones",
+      "salida": "777 El Mirador-Colonia Ruiz de Alda"
+    },
+    "fechaHora": "2025-03-23 05:28:11",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-D10CD09E",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad080917f846f1de55a10",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 777 El Mirador-Colonia Ruiz de Alda",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "777 El Mirador-Colonia Ruiz de Alda"
+    },
+    "fechaHora": "2025-07-18 03:35:44",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-4DF96C90",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad080917f846f1de55a10",
+    "provincia": "VALENCIA"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-68",
+    "localizacion": {
+      "tramo": "Altube – Calahorra",
+      "entrada": "Altube",
+      "salida": "Calahorra"
+    },
+    "fechaHora": "2025-02-22 14:47:22",
+    "categoriaVehiculo": "A",
+    "importe": "17,80 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-18CEA643",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad080917f846f1de55a10",
+    "provincia": "País Vasco"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 768 Campoamor-Urbanizaciones",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "768 Campoamor-Urbanizaciones"
+    },
+    "fechaHora": "2025-04-26 09:15:02",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-4FDC0DD1",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad080917f846f1de55a10",
+    "provincia": "Tarragona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "Málaga – San Pedro de Alcantara",
+      "entrada": "Málaga",
+      "salida": "San Pedro de Alcantara"
+    },
+    "fechaHora": "2025-03-16 09:42:30",
+    "categoriaVehiculo": "A",
+    "importe": "7,65 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-B96AAD76",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad080917f846f1de55a10",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 763 La Zenia Urbanizaciones",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "763 La Zenia Urbanizaciones"
+    },
+    "fechaHora": "2025-05-09 18:34:23",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-68A868B7",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad080917f846f1de55a10",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "784 San Javier (Sur)-Acceso aeropuerto – 790 Los Alcazares (Centro)-Torre Pacheco",
+      "entrada": "784 San Javier (Sur)-Acceso aeropuerto",
+      "salida": "790 Los Alcazares (Centro)-Torre Pacheco"
+    },
+    "fechaHora": "2025-02-23 18:34:03",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-0A9FB8F0",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad080917f846f1de55a10",
+    "provincia": "Girona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "Calahonda – Marbella",
+      "entrada": "Calahonda",
+      "salida": "Marbella"
+    },
+    "fechaHora": "2025-06-09 04:32:29",
+    "categoriaVehiculo": "A",
+    "importe": "3,40 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-0FF25922",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad080917f846f1de55a10",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-9",
+    "localizacion": {
+      "tramo": "Puxeiros – Porriño",
+      "entrada": "Puxeiros",
+      "salida": "Porriño"
+    },
+    "fechaHora": "2025-06-09 20:35:04",
+    "categoriaVehiculo": "A",
+    "importe": "2,00 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-92BC91E1",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad080917f846f1de55a10",
+    "provincia": "Pontevedra"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-68",
+    "localizacion": {
+      "tramo": "Llodio – Logroño",
+      "entrada": "Llodio",
+      "salida": "Logroño"
+    },
+    "fechaHora": "2025-03-10 10:09:46",
+    "categoriaVehiculo": "A",
+    "importe": "16,80 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Efectivo",
+    "referencia": "PASO-0707E003",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad080917f846f1de55a10",
+    "provincia": "Bizkaia"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-68",
+    "localizacion": {
+      "tramo": "Lodosa – Gallur",
+      "entrada": "Lodosa",
+      "salida": "Gallur"
+    },
+    "fechaHora": "2025-06-28 10:02:53",
+    "categoriaVehiculo": "A",
+    "importe": "10,15 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-0EEF33C9",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad080917f846f1de55a10",
+    "provincia": "ZARAGOZA"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "758 San Miguel de Salinas-Torrevieja – 782 Balsicas",
+      "entrada": "758 San Miguel de Salinas-Torrevieja",
+      "salida": "782 Balsicas"
+    },
+    "fechaHora": "2025-06-05 11:48:29",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-5E905AEF",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad080917f846f1de55a10",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "Ortigosa del Monte – Hontoria",
+      "entrada": "Ortigosa del Monte",
+      "salida": "Hontoria"
+    },
+    "fechaHora": "2025-04-14 03:35:33",
+    "categoriaVehiculo": "A",
+    "importe": "1,55 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-87229529",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad080917f846f1de55a10",
+    "provincia": "MADRID"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "Troncal de La Zenia – ",
+      "entrada": "Troncal de La Zenia",
+      "salida": ""
+    },
+    "fechaHora": "2025-07-19 18:47:14",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-B23F088B",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad080917f846f1de55a10",
+    "provincia": "Cádiz"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "Conexión AP-6 (El Espinar) – Ortigosa",
+      "entrada": "Conexión AP-6 (El Espinar)",
+      "salida": "Ortigosa"
+    },
+    "fechaHora": "2025-07-01 17:40:01",
+    "categoriaVehiculo": "A",
+    "importe": "1,40 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-B7A6E401",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad080917f846f1de55a10",
+    "provincia": "Madrid"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 763 La Zenia Urbanizaciones",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "763 La Zenia Urbanizaciones"
+    },
+    "fechaHora": "2025-07-30 08:36:01",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-D1F12A81",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad080917f846f1de55a10",
+    "provincia": "Cataluña"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "Marbella – Estepona",
+      "entrada": "Marbella",
+      "salida": "Estepona"
+    },
+    "fechaHora": "2025-05-07 18:58:47",
+    "categoriaVehiculo": "A",
+    "importe": "3,70 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-71FBC391",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad080917f846f1de55a10",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "Hontoria – Segovia",
+      "entrada": "Hontoria",
+      "salida": "Segovia"
+    },
+    "fechaHora": "2025-05-30 12:57:45",
+    "categoriaVehiculo": "A",
+    "importe": "0,00 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-2AE97419",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad086917f846f1de55a15",
+    "provincia": "Madrid, Comunidad de"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 790 Los Alcazares (Centro)-Torre Pacheco",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "790 Los Alcazares (Centro)-Torre Pacheco"
+    },
+    "fechaHora": "2025-05-16 19:22:52",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-BC1483ED",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad086917f846f1de55a15",
+    "provincia": "Cataluña"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "740 Almoradí-Formentera – 770 El Pilar de la Horadada (Norte)",
+      "entrada": "740 Almoradí-Formentera",
+      "salida": "770 El Pilar de la Horadada (Norte)"
+    },
+    "fechaHora": "2025-05-20 20:10:17",
+    "categoriaVehiculo": "A",
+    "importe": "5,50 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-9B953292",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad086917f846f1de55a15",
+    "provincia": "Girona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "Otero de Herreros – Hontoria",
+      "entrada": "Otero de Herreros",
+      "salida": "Hontoria"
+    },
+    "fechaHora": "2025-01-07 11:33:37",
+    "categoriaVehiculo": "A",
+    "importe": "2,15 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-C32D4263",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad086917f846f1de55a15",
+    "provincia": "MADRID"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-66",
+    "localizacion": {
+      "tramo": "Oblanca – León",
+      "entrada": "Oblanca",
+      "salida": "León"
+    },
+    "fechaHora": "2025-04-24 20:58:01",
+    "categoriaVehiculo": "A",
+    "importe": "9,95 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Efectivo",
+    "referencia": "PASO-1D2D6DD5",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad086917f846f1de55a15",
+    "provincia": "Principado de Asturias"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "751 Los Montesinos – 777 El Mirador-Colonia Ruiz de Alda",
+      "entrada": "751 Los Montesinos",
+      "salida": "777 El Mirador-Colonia Ruiz de Alda"
+    },
+    "fechaHora": "2025-04-16 11:58:57",
+    "categoriaVehiculo": "A",
+    "importe": "5,50 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-7D95CEA5",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad086917f846f1de55a15",
+    "provincia": "MALAGA"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "751 Los Montesinos – 777 El Mirador-Colonia Ruiz de Alda",
+      "entrada": "751 Los Montesinos",
+      "salida": "777 El Mirador-Colonia Ruiz de Alda"
+    },
+    "fechaHora": "2025-06-02 19:24:51",
+    "categoriaVehiculo": "A",
+    "importe": "5,50 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Efectivo",
+    "referencia": "PASO-10FFC259",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad086917f846f1de55a15",
+    "provincia": "ALICANTE"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "Ortigosa del Monte – Hontoria",
+      "entrada": "Ortigosa del Monte",
+      "salida": "Hontoria"
+    },
+    "fechaHora": "2025-03-11 03:21:10",
+    "categoriaVehiculo": "A",
+    "importe": "1,55 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-EFC9BF4D",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad086917f846f1de55a15",
+    "provincia": "Madrid"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "San Pedro de Alcantara – Estepona",
+      "entrada": "San Pedro de Alcantara",
+      "salida": "Estepona"
+    },
+    "fechaHora": "2025-05-25 11:20:36",
+    "categoriaVehiculo": "A",
+    "importe": "2,15 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-418028C6",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad086917f846f1de55a15",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-66",
+    "localizacion": {
+      "tramo": "Campomanes – La Magdalena",
+      "entrada": "Campomanes",
+      "salida": "La Magdalena"
+    },
+    "fechaHora": "2025-05-27 03:34:29",
+    "categoriaVehiculo": "A",
+    "importe": "9,80 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-F6D5EBF4",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad086917f846f1de55a15",
+    "provincia": "León"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "Málaga – San Pedro de Alcantara",
+      "entrada": "Málaga",
+      "salida": "San Pedro de Alcantara"
+    },
+    "fechaHora": "2025-05-15 13:39:05",
+    "categoriaVehiculo": "A",
+    "importe": "7,65 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-B5257871",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad086917f846f1de55a15",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "Conexión AP-6 (El Espinar) – Hontoria",
+      "entrada": "Conexión AP-6 (El Espinar)",
+      "salida": "Hontoria"
+    },
+    "fechaHora": "2025-01-01 15:11:02",
+    "categoriaVehiculo": "A",
+    "importe": "2,85 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-8EA5A627",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad086917f846f1de55a15",
+    "provincia": "Madrid"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "774 San Pedro del Pinatar (Norte) – 794 Los Alcazares (Sur)",
+      "entrada": "774 San Pedro del Pinatar (Norte)",
+      "salida": "794 Los Alcazares (Sur)"
+    },
+    "fechaHora": "2025-03-26 07:59:23",
+    "categoriaVehiculo": "A",
+    "importe": "5,50 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-D6F6B031",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad086917f846f1de55a15",
+    "provincia": "Girona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "763 La Zenia Urbanizaciones – 797 Torre del Negro",
+      "entrada": "763 La Zenia Urbanizaciones",
+      "salida": "797 Torre del Negro"
+    },
+    "fechaHora": "2025-04-27 14:29:23",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Efectivo",
+    "referencia": "PASO-29534754",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad086917f846f1de55a15",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "758 San Miguel de Salinas-Torrevieja – 763 La Zenia Urbanizaciones",
+      "entrada": "758 San Miguel de Salinas-Torrevieja",
+      "salida": "763 La Zenia Urbanizaciones"
+    },
+    "fechaHora": "2025-02-05 03:08:30",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Efectivo",
+    "referencia": "PASO-AF9A5077",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad086917f846f1de55a15",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-66",
+    "localizacion": {
+      "tramo": "Oblanca – León",
+      "entrada": "Oblanca",
+      "salida": "León"
+    },
+    "fechaHora": "2025-03-23 12:04:14",
+    "categoriaVehiculo": "A",
+    "importe": "9,95 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-4CED4541",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad086917f846f1de55a15",
+    "provincia": "ASTURIAS"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "San Rafael – Otero de Herreros",
+      "entrada": "San Rafael",
+      "salida": "Otero de Herreros"
+    },
+    "fechaHora": "2025-04-16 11:45:47",
+    "categoriaVehiculo": "A",
+    "importe": "0,90 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Efectivo",
+    "referencia": "PASO-F6D3B67D",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad086917f846f1de55a15",
+    "provincia": "Madrid, Comunidad de"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 800 Los Beatos-El Algar",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "800 Los Beatos-El Algar"
+    },
+    "fechaHora": "2025-06-25 23:07:24",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-6CF837AA",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad086917f846f1de55a15",
+    "provincia": "Girona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "758 San Miguel de Salinas-Torrevieja – 782 Balsicas",
+      "entrada": "758 San Miguel de Salinas-Torrevieja",
+      "salida": "782 Balsicas"
+    },
+    "fechaHora": "2025-06-15 11:43:11",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-6E916F64",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad086917f846f1de55a15",
+    "provincia": "ALICANTE"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "San Rafael – Segovia",
+      "entrada": "San Rafael",
+      "salida": "Segovia"
+    },
+    "fechaHora": "2025-07-17 00:05:00",
+    "categoriaVehiculo": "A",
+    "importe": "2,95 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-F351448A",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad086917f846f1de55a15",
+    "provincia": "Madrid"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 782 Balsicas",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "782 Balsicas"
+    },
+    "fechaHora": "2025-07-10 01:07:13",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-02A77F59",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad086917f846f1de55a15",
+    "provincia": "Cataluña"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "784 San Javier (Sur)-Acceso aeropuerto – 790 Los Alcazares (Centro)-Torre Pacheco",
+      "entrada": "784 San Javier (Sur)-Acceso aeropuerto",
+      "salida": "790 Los Alcazares (Centro)-Torre Pacheco"
+    },
+    "fechaHora": "2025-05-14 06:10:12",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-59963BB2",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad086917f846f1de55a15",
+    "provincia": "CADIZ"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-9",
+    "localizacion": {
+      "tramo": "Santiago – Padrón",
+      "entrada": "Santiago",
+      "salida": "Padrón"
+    },
+    "fechaHora": "2025-05-08 10:50:33",
+    "categoriaVehiculo": "A",
+    "importe": "3,00 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-723E7A85",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad086917f846f1de55a15",
+    "provincia": "PONTEVEDRA"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "San Rafael – El Hontoria",
+      "entrada": "San Rafael",
+      "salida": "El Hontoria"
+    },
+    "fechaHora": "2025-04-21 22:27:24",
+    "categoriaVehiculo": "A",
+    "importe": "2,95 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Efectivo",
+    "referencia": "PASO-FDF9E045",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad08b917f846f1de55a1a",
+    "provincia": "Madrid"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "Troncal de Calahonda – ",
+      "entrada": "Troncal de Calahonda",
+      "salida": ""
+    },
+    "fechaHora": "2025-04-14 12:09:06",
+    "categoriaVehiculo": "A",
+    "importe": "5,50 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Efectivo",
+    "referencia": "PASO-681CEE5C",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad08b917f846f1de55a1a",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "758 San Miguel de Salinas-Torrevieja – 777 El Mirador-Colonia Ruiz de Alda",
+      "entrada": "758 San Miguel de Salinas-Torrevieja",
+      "salida": "777 El Mirador-Colonia Ruiz de Alda"
+    },
+    "fechaHora": "2025-06-24 23:55:00",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Efectivo",
+    "referencia": "PASO-3862CD79",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad08b917f846f1de55a1a",
+    "provincia": "Cataluña"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 777 El Mirador-Colonia Ruiz de Alda",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "777 El Mirador-Colonia Ruiz de Alda"
+    },
+    "fechaHora": "2025-07-24 13:10:01",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-6579F984",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad08b917f846f1de55a1a",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-68",
+    "localizacion": {
+      "tramo": "Tudela – Gallur",
+      "entrada": "Tudela",
+      "salida": "Gallur"
+    },
+    "fechaHora": "2025-02-07 02:02:53",
+    "categoriaVehiculo": "A",
+    "importe": "4,05 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-C2A961DC",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad08b917f846f1de55a1a",
+    "provincia": "Aragón"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "Conexión AP-6 (El Espinar) – Segovia",
+      "entrada": "Conexión AP-6 (El Espinar)",
+      "salida": "Segovia"
+    },
+    "fechaHora": "2025-02-10 04:27:25",
+    "categoriaVehiculo": "A",
+    "importe": "2,85 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-871E498C",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad08b917f846f1de55a1a",
+    "provincia": "Madrid"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "Otero de Herreros – Ortigosa",
+      "entrada": "Otero de Herreros",
+      "salida": "Ortigosa"
+    },
+    "fechaHora": "2025-07-04 10:04:48",
+    "categoriaVehiculo": "A",
+    "importe": "0,70 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-BC51D07F",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad08b917f846f1de55a1a",
+    "provincia": "Segovia"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-68",
+    "localizacion": {
+      "tramo": "Tudela – Zaragoza",
+      "entrada": "Tudela",
+      "salida": "Zaragoza"
+    },
+    "fechaHora": "2025-03-30 13:48:41",
+    "categoriaVehiculo": "A",
+    "importe": "9,20 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-0E65AAF0",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad08b917f846f1de55a1a",
+    "provincia": "LA RIOJA"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-68",
+    "localizacion": {
+      "tramo": "Calahorra – Alfaro",
+      "entrada": "Calahorra",
+      "salida": "Alfaro"
+    },
+    "fechaHora": "2025-03-17 13:24:34",
+    "categoriaVehiculo": "A",
+    "importe": "3,15 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-2EB230FD",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad08b917f846f1de55a1a",
+    "provincia": "La Rioja"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "770 El Pilar de la Horadada (Norte) – 790 Los Alcazares (Centro)-Torre Pacheco",
+      "entrada": "770 El Pilar de la Horadada (Norte)",
+      "salida": "790 Los Alcazares (Centro)-Torre Pacheco"
+    },
+    "fechaHora": "2025-03-18 11:48:55",
+    "categoriaVehiculo": "A",
+    "importe": "5,50 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-68D0BD58",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad08b917f846f1de55a1a",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 794 Los Alcazares (Sur)",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "794 Los Alcazares (Sur)"
+    },
+    "fechaHora": "2025-04-23 23:03:36",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-C7B6ABEE",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad08b917f846f1de55a1a",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-61",
+    "localizacion": {
+      "tramo": "Otero de Herreros – Ortigosa",
+      "entrada": "Otero de Herreros",
+      "salida": "Ortigosa"
+    },
+    "fechaHora": "2025-06-13 20:43:06",
+    "categoriaVehiculo": "A",
+    "importe": "0,70 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-124291D8",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad08b917f846f1de55a1a",
+    "provincia": "Madrid"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-68",
+    "localizacion": {
+      "tramo": "Ziorraga – Cenicero",
+      "entrada": "Ziorraga",
+      "salida": "Cenicero"
+    },
+    "fechaHora": "2025-01-25 00:05:00",
+    "categoriaVehiculo": "A",
+    "importe": "11,95 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-0493D0DF",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad08b917f846f1de55a1a",
+    "provincia": "Araba"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "Acceso de La Zenia – ",
+      "entrada": "Acceso de La Zenia",
+      "salida": ""
+    },
+    "fechaHora": "2025-05-20 02:30:03",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Efectivo",
+    "referencia": "PASO-1A0CC620",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad08b917f846f1de55a1a",
+    "provincia": "Valencia"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "Troncal de La Zenia – ",
+      "entrada": "Troncal de La Zenia",
+      "salida": ""
+    },
+    "fechaHora": "2025-03-17 21:09:23",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-15600AE2",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad08b917f846f1de55a1a",
+    "provincia": "Barcelona"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "763 La Zenia Urbanizaciones – 774 San Pedro del Pinatar (Norte)",
+      "entrada": "763 La Zenia Urbanizaciones",
+      "salida": "774 San Pedro del Pinatar (Norte)"
+    },
+    "fechaHora": "2025-03-18 06:27:24",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-731A9FB0",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad08b917f846f1de55a1a",
+    "provincia": "Cataluña"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-68",
+    "localizacion": {
+      "tramo": "Agoncillo – Lodosa",
+      "entrada": "Agoncillo",
+      "salida": "Lodosa"
+    },
+    "fechaHora": "2025-01-04 22:47:10",
+    "categoriaVehiculo": "A",
+    "importe": "2,35 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-5006A794",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad08b917f846f1de55a1a",
+    "provincia": "País Vasco"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "754 Carretera San Miguel Benijofar – 786 Los Alcazares (Norte)",
+      "entrada": "754 Carretera San Miguel Benijofar",
+      "salida": "786 Los Alcazares (Norte)"
+    },
+    "fechaHora": "2025-05-21 17:00:52",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-735C0C6A",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad08b917f846f1de55a1a",
+    "provincia": "Cataluña"
+  },
+  {
+    "tipoDocumento": "Peaje",
+    "concesionaria": "Estatal",
+    "autopista": "AP-7",
+    "localizacion": {
+      "tramo": "763 La Zenia Urbanizaciones – 774 San Pedro del Pinatar (Norte)",
+      "entrada": "763 La Zenia Urbanizaciones",
+      "salida": "774 San Pedro del Pinatar (Norte)"
+    },
+    "fechaHora": "2025-01-22 09:37:02",
+    "categoriaVehiculo": "A",
+    "importe": "2,75 €",
+    "ivaIncluido": "IVA incluido",
+    "formaPago": "Tarjeta crédito",
+    "referencia": "PASO-391C2FF9",
+    "idEmpresa": "68dacb5eb123b24a8c01b2f5",
+    "empresaNombre": "Transporte_03 S.L.",
+    "idUsuario": "68dad08b917f846f1de55a1a",
+    "provincia": "VALENCIA"
+  }
+]

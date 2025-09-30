@@ -1,0 +1,209 @@
+month,provincia,operator,power_kW,band,usagecost_original,parsed,reason
+2025-03,Ourense,,7.4,AC,,,no_kwh
+2025-03,Ourense,,17.0,AC,,,empty
+2025-03,Ourense,,3.7,AC,,,empty
+2025-03,Ourense,,14.0,AC,,,empty
+2025-03,Ourense,,11.0,AC,,,empty
+2025-03,Ourense,,24.0,DC,"0,40€/kWh",0.4,ok
+2025-03,Ourense,,24.0,DC,"0,40€/kWh",0.4,ok
+2025-03,Ourense,,22.0,AC,"0,40€/kWh",0.4,ok
+2025-03,Ourense,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-03,Ourense,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-03,Ourense,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-03,Ourense,,7.3,AC,Free,,free
+2025-03,Ourense,,3.6,AC,Free,,free
+2025-03,Ourense,,3.7,AC,,,empty
+2025-03,Ourense,,22.0,AC,"0,40€/kWh",0.4,ok
+2025-03,Ourense,,3.7,AC,,,empty
+2025-03,Ourense,,11.0,AC,,,no_kwh
+2025-03,Ourense,,22.0,AC,,,empty
+2025-03,Ourense,,50.0,DC,,,empty
+2025-03,Ourense,,22.0,AC,,,empty
+2025-03,Ourense,,100.0,DC,"0,54€/kWh ",0.54,ok
+2025-03,Ourense,,22.0,AC,,,empty
+2025-03,Ourense,,22.0,AC,"0,36€/kWh",0.36,ok
+2025-03,Ourense,,22.0,AC," 0,36€/kWh AC",0.36,ok
+2025-03,Ourense,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-03,Ourense,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-03,Ourense,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-03,Ourense,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-03,Ourense,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-03,Ourense,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-03,Ourense,,22.0,AC,,,empty
+2025-03,Ourense,,7.4,AC,,,empty
+2025-03,Ourense,,22.0,AC,,,empty
+2025-03,Ourense,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-03,Ourense,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-03,Ourense,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-03,Ourense,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-03,Ourense,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-03,Ourense,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-03,Ourense,,50.0,DC,"0,40€/kWh DC - 0,32€/kWh AC",0.4,ok
+2025-03,Ourense,,7.4,AC,"0,40€/kWh DC - 0,32€/kWh AC",0.4,ok
+2025-03,Ourense,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-03,Ourense,,22.0,AC,"0,50€/kWh",0.5,ok
+2025-03,Ourense,,22.0,AC,"0,50€/kWh",0.5,ok
+2025-03,Ourense,,22.0,AC,"0,50€/kWh",0.5,ok
+2025-03,Ourense,,7.4,AC,,,empty
+2025-03,Ourense,,22.0,AC,,,no_kwh
+2025-03,Ourense,,22.0,AC,,,empty
+2025-03,Ourense,,22.0,AC,,,empty
+2025-03,Ourense,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-03,Ourense,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-03,Ourense,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-03,Ourense,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-03,Ourense,,50.0,DC,"0,46€/kWh",0.46,ok
+2025-03,Ourense,,22.0,AC,"0,46€/kWh",0.46,ok
+2025-03,Ourense,,50.0,DC,"0,46€/kWh",0.46,ok
+2025-03,Ourense,,12.8,AC,Free,,free
+2025-03,Ourense,,7.36,AC,Free,,free
+2025-03,Ourense,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-03,Ourense,,100.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-03,Ourense,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-03,Ourense,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-03,Ourense,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-03,Ourense,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-03,Ourense,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-03,Ourense,,22.0,AC,,,no_kwh
+2025-03,Ourense,,3.7,AC,,,no_kwh
+2025-03,Ourense,,60.0,DC,,,no_kwh
+2025-03,Ourense,,7.4,AC,,,no_kwh
+2025-03,Ourense,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-03,Ourense,,60.0,DC,"0,45€/kWh",0.45,ok
+2025-03,Ourense,,22.0,AC,"0,45€/kWh",0.45,ok
+2025-03,Ourense,,22.0,AC,,,empty
+2025-03,Ourense,,22.0,AC,"0,25€/kWh ",0.25,ok
+2025-03,Ourense,,11.0,AC,,,no_kwh
+2025-03,Ourense,,7.4,AC,,,empty
+2025-03,Ourense,,11.0,AC,"0,39€/kWh AC",0.39,ok
+2025-03,Ourense,,22.0,AC,,,empty
+2025-03,Ourense,,3.6,AC,,,empty
+2025-03,Ourense,,11.0,AC,,,empty
+2025-03,Ourense,,22.0,AC,"0,39€/kWh + parking fee",0.39,ok
+2025-03,Ourense,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-03,Ourense,,3.7,AC,free,,free
+2025-03,Ourense,,50.0,DC,"0,45€/kWh 50kW  - 0,39€/kWh 22kW AC",0.45,ok
+2025-03,Ourense,,50.0,DC,"0,45€/kWh 50kW  - 0,39€/kWh 22kW AC",0.45,ok
+2025-03,Ourense,,22.0,AC,"0,45€/kWh 50kW  - 0,39€/kWh 22kW AC",0.45,ok
+2025-03,Ourense,,11.0,AC,"0,30€",,no_kwh
+2025-03,Ourense,,100.0,DC," 0,45€/kWh DC",0.45,ok
+2025-03,Ourense,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-03,Ourense,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-03,Ourense,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-03,Ourense,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-03,Ourense,,43.0,DC," 0,47€/kWh ",0.47,ok
+2025-03,Ourense,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-03,Ourense,,3.7,AC,,,empty
+2025-03,Ourense,,22.0,AC,,,no_kwh
+2025-03,Ourense,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-03,Ourense,,50.0,DC,Free,,free
+2025-03,Ourense,,22.0,AC,,,empty
+2025-03,Ourense,,22.0,AC,,,empty
+2025-03,Ourense,,150.0,DC,"0,54€/kWh",0.54,ok
+2025-03,Ourense,,22.0,AC,"0,40€/kWh",0.4,ok
+2025-03,Ourense,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-03,Ourense,,60.0,DC,"0,40€/kWh",0.4,ok
+2025-03,Ourense,,50.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-03,Ourense,,50.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-03,Ourense,,43.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-03,Ourense,,3.7,AC,,,empty
+2025-03,Ourense,,7.4,AC,,,empty
+2025-03,Ourense,,3.7,AC,,,no_kwh
+2025-03,Ourense,,7.4,AC,,,no_kwh
+2025-03,Ourense,,7.4,AC,,,no_kwh
+2025-03,Ourense,,22.0,AC,"0,60€/kWh DC - 0,44€/kWh AC",0.6,ok
+2025-03,Ourense,,180.0,DC,"0,60€/kWh DC - 0,44€/kWh AC",0.6,ok
+2025-03,Ourense,,22.0,AC,"0,32€/kWh AC",0.32,ok
+2025-03,Ourense,,7.4,AC,,,empty
+2025-03,Ourense,,22.0,AC,,,empty
+2025-03,Ourense,,3.7,AC,,,empty
+2025-03,Ourense,,90.0,DC,"0,39€/kWh DC - 0,32€/kWh AC",0.39,ok
+2025-03,Ourense,,7.4,AC,"0,39€/kWh DC - 0,32€/kWh AC",0.39,ok
+2025-03,Ourense,,22.0,AC,"0,40€/kWh",0.4,ok
+2025-03,Ourense,,3.7,AC,,,empty
+2025-03,Ourense,,11.0,AC,,,empty
+2025-03,Ourense,,7.4,AC,"0,30€/kWh",0.3,ok
+2025-03,Ourense,,100.0,DC,"0,54€/kWh ",0.54,ok
+2025-03,Ourense,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-03,Ourense,,43.0,DC," 0,47€/kWh ",0.47,ok
+2025-03,Ourense,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-03,Ourense,,150.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-03,Ourense,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-03,Ourense,,43.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-03,Ourense,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-03,Ourense,,3.7,AC,Free.  Limited to 1 hour. Accessible during business hours,,free
+2025-03,Ourense,,11.0,AC,,,empty
+2025-03,Ourense,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-03,Ourense,,22.0,AC,"0,45€/kWh AC",0.45,ok
+2025-03,Ourense,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-03,Ourense,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-03,Ourense,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-03,Ourense,,100.0,DC," 0,56€/kWh DC",0.56,ok
+2025-03,Ourense,,50.0,DC," 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-03,Ourense,,50.0,DC," 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-03,Ourense,,22.0,AC," 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-03,Ourense,,3.7,AC,,,no_kwh
+2025-03,Ourense,,22.0,AC,,,empty
+2025-03,Ourense,,11.0,AC,,,empty
+2025-03,Ourense,,60.0,DC,"0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-03,Ourense,,22.0,AC,"0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-03,Ourense,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-03,Ourense,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-03,Ourense,,43.0,DC,"0,45€/kWh",0.45,ok
+2025-03,Ourense,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-03,Ourense,,3.7,AC,"0,25€/kWh",0.25,ok
+2025-03,Ourense,,50.0,DC," 0,47€/kWh DC - 0,35€/kWh AC ",0.47,ok
+2025-03,Ourense,,50.0,DC," 0,47€/kWh DC - 0,35€/kWh AC ",0.47,ok
+2025-03,Ourense,,43.0,DC," 0,47€/kWh DC - 0,35€/kWh AC ",0.47,ok
+2025-03,Ourense,,7.4,AC,"0,39€/kWh",0.39,ok
+2025-03,Ourense,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-03,Ourense,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-03,Ourense,,100.0,DC," 0,50€/kWh DC, AC: 0,32€/kWh",0.5,ok
+2025-03,Ourense,,50.0,DC," 0,50€/kWh DC, AC: 0,32€/kWh",0.5,ok
+2025-03,Ourense,,22.0,AC," 0,50€/kWh DC, AC: 0,32€/kWh",0.5,ok
+2025-03,Ourense,,22.0,AC,,,empty
+2025-03,Ourense,,11.0,AC,,,empty
+2025-03,Ourense,,3.7,AC,,,empty
+2025-03,Ourense,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-03,Ourense,,11.0,AC,,,no_kwh
+2025-03,Ourense,,3.7,AC,,,empty
+2025-03,Ourense,,7.4,AC,,,empty
+2025-03,Ourense,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-03,Ourense,,100.0,DC,"0,54€/kWh DC - 0,35€/kWh AC",0.54,ok
+2025-03,Ourense,,22.0,AC,"0,54€/kWh DC - 0,35€/kWh AC",0.54,ok
+2025-03,Ourense,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-03,Ourense,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-03,Ourense,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-03,Ourense,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-03,Ourense,,43.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-03,Ourense,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-03,Ourense,,400.0,DC,"0,69 €/kWh DC - 0,45€/kWh DC 50kW",0.69,ok
+2025-03,Ourense,,50.0,DC,"0,69 €/kWh DC - 0,45€/kWh DC 50kW",0.69,ok
+2025-03,Ourense,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-03,Ourense,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-03,Ourense,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-03,Ourense,,100.0,DC,"0,54€/kWh ",0.54,ok
+2025-03,Ourense,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-03,Ourense,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-03,Ourense,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-03,Ourense,,3.7,AC,free,,free
+2025-03,Ourense,,300.0,DC,"0,55€/kWh",0.55,ok
+2025-03,Ourense,,250.0,DC,,,empty
+2025-03,Ourense,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-03,Ourense,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-03,Ourense,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-03,Ourense,,50.0,DC,"0,43€/kWh DC ",0.43,ok
+2025-03,Ourense,,50.0,DC,"0,43€/kWh DC ",0.43,ok
+2025-03,Ourense,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-03,Ourense,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-03,Ourense,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-03,Ourense,,100.0,DC,"0,60€/kWh Dc - 0,40€/kWh AC",0.6,ok
+2025-03,Ourense,,22.0,AC,"0,60€/kWh Dc - 0,40€/kWh AC",0.6,ok
+2025-03,Ourense,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-03,Ourense,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-03,Ourense,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-03,Ourense,,3.7,AC,Free.  Limited to 1 hour. Accessible during business hours,,free
+2025-03,Ourense,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-03,Ourense,,43.0,DC," 0,47€/kWh ",0.47,ok
+2025-03,Ourense,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-03,Ourense,,22.0,AC,,,empty

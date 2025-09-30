@@ -1,0 +1,2015 @@
+month,provincia,operator,power_kW,band,usagecost_original,parsed,reason
+2025-08,Valencia,,7.2,AC,Free,,free
+2025-08,Valencia,,,,Free,,free
+2025-08,Valencia,,180.0,DC,"0,54€/kWh DC ",0.54,ok
+2025-08,Valencia,,180.0,DC,"0,54€/kWh DC ",0.54,ok
+2025-08,Valencia,,7.4,AC,,,no_kwh
+2025-08,Valencia,,7.4,AC,,,no_kwh
+2025-08,Valencia,,2.3,AC,,,no_kwh
+2025-08,Valencia,,14.0,AC,,,empty
+2025-08,Valencia,,11.0,AC,,,empty
+2025-08,Valencia,,150.0,DC,"0,56€/kWh >80kW - 0,42€/kWh 50 kW - 0,38€/kWh AC",0.56,ok
+2025-08,Valencia,,50.0,DC,"0,56€/kWh >80kW - 0,42€/kWh 50 kW - 0,38€/kWh AC",0.56,ok
+2025-08,Valencia,,22.0,AC,"0,56€/kWh >80kW - 0,42€/kWh 50 kW - 0,38€/kWh AC",0.56,ok
+2025-08,Valencia,,50.0,DC,"0,56€/kWh >80kW - 0,42€/kWh 50 kW - 0,38€/kWh AC",0.56,ok
+2025-08,Valencia,,50.0,DC,"0,56€/kWh >80kW - 0,42€/kWh 50 kW - 0,38€/kWh AC",0.56,ok
+2025-08,Valencia,,43.0,DC,"0,56€/kWh >80kW - 0,42€/kWh 50 kW - 0,38€/kWh AC",0.56,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,50.0,DC,"0,40€/kWh DC - 0,35€/kWh AC",0.4,ok
+2025-08,Valencia,,50.0,DC,"0,40€/kWh DC - 0,35€/kWh AC",0.4,ok
+2025-08,Valencia,,43.0,DC,"0,40€/kWh DC - 0,35€/kWh AC",0.4,ok
+2025-08,Valencia,,3.7,AC,,,empty
+2025-08,Valencia,,60.0,DC," 0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC," 0,45€/kWh ",0.45,ok
+2025-08,Valencia,,11.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,100.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,22.0,AC,Free,,free
+2025-08,Valencia,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,"0,15€/kWh",0.15,ok
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,3.7,AC,,,empty
+2025-08,Valencia,,7.4,AC,,,empty
+2025-08,Valencia,,7.4,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,50.0,DC,,,no_kwh
+2025-08,Valencia,,50.0,DC,,,no_kwh
+2025-08,Valencia,,43.0,DC,,,no_kwh
+2025-08,Valencia,,22.0,AC,"0,45€/kWh",0.45,ok
+2025-08,Valencia,,30.0,DC,"0,37€/kWh DC - 0,32€/kWh AC",0.37,ok
+2025-08,Valencia,,22.0,AC,"0,37€/kWh DC - 0,32€/kWh AC",0.37,ok
+2025-08,Valencia,,7.4,AC,,,no_kwh
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,11.0,AC,,,no_kwh
+2025-08,Valencia,,7.4,AC,"parking fee + 0,20€/kWh (0,01€/min parked without charging)",0.2,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,"parking fee + 0,20€/kWh (0,01€/min parked without charging)",0.2,ok
+2025-08,Valencia,,7.4,AC,18€/dia,,no_kwh
+2025-08,Valencia,,2.3,AC,18€/dia,,no_kwh
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,11.0,AC,,,empty
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,7.4,AC,"0,15€/kWh",0.15,ok
+2025-08,Valencia,,7.4,AC,,,no_kwh
+2025-08,Valencia,,11.0,AC,16€/dia,,no_kwh
+2025-08,Valencia,,11.0,AC,16€/dia,,no_kwh
+2025-08,Valencia,,2.3,AC,16€/dia,,no_kwh
+2025-08,Valencia,,7.4,AC,,,no_kwh
+2025-08,Valencia,,7.4,AC,"parking fee + 0,20€/kWh (0,01€/min parked without charging)",0.2,ok
+2025-08,Valencia,,7.4,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,11.0,AC,,,no_kwh
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-08,Valencia,,100.0,DC,"0,55€/kWh",0.55,ok
+2025-08,Valencia,,80.0,DC,"0,55€/kWh",0.55,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,11.0,AC,,,no_kwh
+2025-08,Valencia,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,43.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,3.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,11.0,AC,"parking fee + 0,45€/kWh (0,01€/min parked without charging)",0.45,ok
+2025-08,Valencia,,250.0,DC,,,empty
+2025-08,Valencia,,60.0,DC,"0,45€/kWh DC - 0,35€/kWh AC",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh DC - 0,35€/kWh AC",0.45,ok
+2025-08,Valencia,,7.4,AC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,7.4,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,7.4,AC,"parking fee + 0,20€/kWh (0,01€/min parked without charging)",0.2,ok
+2025-08,Valencia,,7.4,AC,,,no_kwh
+2025-08,Valencia,,7.4,AC,"parking fee + 0,20€/kWh (0,01€/min parked without charging)",0.2,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,7.4,AC,,,no_kwh
+2025-08,Valencia,,60.0,DC,"0,49 €/kWh DC -0,39€/kWh AC",0.49,ok
+2025-08,Valencia,,22.0,AC,"0,49 €/kWh DC -0,39€/kWh AC",0.49,ok
+2025-08,Valencia,,3.7,AC,,,empty
+2025-08,Valencia,,7.0,AC,€0/kWh,,no_kwh
+2025-08,Valencia,,2.3,AC,€0/kWh,,no_kwh
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,3.7,AC,,,empty
+2025-08,Valencia,,7.4,AC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,7.4,AC,"0,20€/kWh",0.2,ok
+2025-08,Valencia,,11.0,AC,free,,free
+2025-08,Valencia,,20.0,AC,free,,free
+2025-08,Valencia,,7.4,AC,,,no_kwh
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,"0,58€/kWh D C>60kW - 0,38€/kWh AC - (0,40€/min DC / 0,03€/min AC parked without charging)",0.58,ok
+2025-08,Valencia,,150.0,DC,"0,58€/kWh D C>60kW - 0,38€/kWh AC - (0,40€/min DC / 0,03€/min AC parked without charging)",0.58,ok
+2025-08,Valencia,,320.0,DC,"0,69€/kWh",0.69,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,50.0,DC,,,no_kwh
+2025-08,Valencia,,150.0,DC,"0,45 €/kWh",0.45,ok
+2025-08,Valencia,,80.0,DC,"0,45 €/kWh",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45 €/kWh",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45 €/kWh",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45 €/kWh",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,35€/kWh",0.35,ok
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,11.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,7.4,AC,"parking fee + 0,20€/kWh (0,01€/min parked without charging)",0.2,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,100.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,10.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,7.4,AC,free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,100.0,DC,"0,55€/kWh DC 0,39€/kWh AC",0.55,ok
+2025-08,Valencia,,50.0,DC,"0,55€/kWh DC 0,39€/kWh AC",0.55,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,150.0,DC,,,empty
+2025-08,Valencia,,100.0,DC,,,empty
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,50.0,DC,,,empty
+2025-08,Valencia,,50.0,DC,,,empty
+2025-08,Valencia,,150.0,DC,,,empty
+2025-08,Valencia,,100.0,DC,,,empty
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,50.0,DC,,,empty
+2025-08,Valencia,,50.0,DC,,,empty
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,350.0,DC,"0,69€/kWh >200kW - 0,54€/kWh 80-200kW ",0.69,ok
+2025-08,Valencia,,180.0,DC,"0,69€/kWh >200kW - 0,54€/kWh 80-200kW ",0.69,ok
+2025-08,Valencia,,80.0,DC,"0,69€/kWh >200kW - 0,54€/kWh 80-200kW ",0.69,ok
+2025-08,Valencia,,43.0,DC,"0,45€/kWh DC - 0,35€/kWh AC",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh DC - 0,35€/kWh AC",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh DC - 0,35€/kWh AC",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh DC - 0,35€/kWh AC",0.45,ok
+2025-08,Valencia,,80.0,DC,"0,46€/kWh DC - 0,39€/kWh AC",0.46,ok
+2025-08,Valencia,,11.0,AC,"0,46€/kWh DC - 0,39€/kWh AC",0.46,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,"parking fee + 0,20€/kWh (0,01€/min parked without charging)",0.2,ok
+2025-08,Valencia,,6.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,120.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-08,Valencia,,6.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,30.0,DC,"0,37€/kWh DC - 0,32€/kWh AC",0.37,ok
+2025-08,Valencia,,22.0,AC,"0,37€/kWh DC - 0,32€/kWh AC",0.37,ok
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,11.0,AC,,,no_kwh
+2025-08,Valencia,,60.0,DC,,,empty
+2025-08,Valencia,,100.0,DC,"0,54€/kWh DC",0.54,ok
+2025-08,Valencia,,80.0,DC,"0,54€/kWh DC",0.54,ok
+2025-08,Valencia,,43.0,DC,"0,45€/kWh DC - 0,35€/kWh AC",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh DC - 0,35€/kWh AC",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh DC - 0,35€/kWh AC",0.45,ok
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,150.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Valencia,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Valencia,,50.0,DC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Valencia,,22.0,AC,"0,54€/kWh 80-200kW - 0,45€/kWh DC50kW/AC43kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Valencia,,150.0,DC,0.59€/kWh,0.59,ok
+2025-08,Valencia,,50.0,DC,,,empty
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,22.0,AC,"0,58€/kWh D C>60kW - 0,38€/kWh AC - (0,40€/min DC / 0,03€/min AC parked without charging)",0.58,ok
+2025-08,Valencia,,150.0,DC,"0,58€/kWh D C>60kW - 0,38€/kWh AC - (0,40€/min DC / 0,03€/min AC parked without charging)",0.58,ok
+2025-08,Valencia,,22.0,AC,"0,20€/kWh",0.2,ok
+2025-08,Valencia,,22.0,AC,"0,20€/kWh",0.2,ok
+2025-08,Valencia,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-08,Valencia,,60.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,7.4,AC,,,no_kwh
+2025-08,Valencia,,100.0,DC,"0,54€/kWh",0.54,ok
+2025-08,Valencia,,50.0,DC,0.44€/kWh ,0.44,ok
+2025-08,Valencia,,50.0,DC,0.44€/kWh ,0.44,ok
+2025-08,Valencia,,22.0,AC,0.44€/kWh ,0.44,ok
+2025-08,Valencia,,22.0,AC,"0,27€/kWh + parking fee",0.27,ok
+2025-08,Valencia,,100.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,10.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,11.0,AC,,,no_kwh
+2025-08,Valencia,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-08,Valencia,,22.0,AC,"0,20€/kWh",0.2,ok
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,"0,27€/kWh + parking fee",0.27,ok
+2025-08,Valencia,,22.0,AC,"0,27€/kWh + parking fee",0.27,ok
+2025-08,Valencia,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-08,Valencia,,3.7,AC,free,,free
+2025-08,Valencia,,7.4,AC,free,,free
+2025-08,Valencia,,180.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,10.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,7.4,AC,free,,free
+2025-08,Valencia,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,7.4,AC,free,,free
+2025-08,Valencia,,7.4,AC,"0,18€/kWh + parking fee",0.18,ok
+2025-08,Valencia,,30.0,DC,"0,39€/kWh DC - 0,32€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh DC - 0,32€/kWh AC",0.39,ok
+2025-08,Valencia,,100.0,DC,"0,54€/kWh ",0.54,ok
+2025-08,Valencia,,100.0,DC,"0,54€/kWh ",0.54,ok
+2025-08,Valencia,,100.0,DC,"0,46€/kWh DC - 0,35kWh AC",0.46,ok
+2025-08,Valencia,,22.0,AC,"0,46€/kWh DC - 0,35kWh AC",0.46,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,50.0,DC," 0,45€/kWh DC - 0,35€/kWh AC ",0.45,ok
+2025-08,Valencia,,22.0,AC," 0,45€/kWh DC - 0,35€/kWh AC ",0.45,ok
+2025-08,Valencia,,50.0,DC," 0,45€/kWh DC - 0,35€/kWh AC ",0.45,ok
+2025-08,Valencia,,11.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-08,Valencia,,100.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Valencia,,50.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Valencia,,22.0,AC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,11.0,AC,free,,free
+2025-08,Valencia,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,350.0,DC,"0,65€/kWh (or subscription rates) ",0.65,ok
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,43.6,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,7.4,AC," 0,29€/kWh",0.29,ok
+2025-08,Valencia,,7.4,AC,,,no_kwh
+2025-08,Valencia,,400.0,DC,"0,55€/kWh",0.55,ok
+2025-08,Valencia,,50.0,DC,"0,62€/kWh",0.62,ok
+2025-08,Valencia,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-08,Valencia,,250.0,DC,,,empty
+2025-08,Valencia,,7.4,AC,,,no_kwh
+2025-08,Valencia,,3.7,AC,,,empty
+2025-08,Valencia,,3.7,AC,,,empty
+2025-08,Valencia,,,,,,empty
+2025-08,Valencia,,,,,,empty
+2025-08,Valencia,,,,,,empty
+2025-08,Valencia,,,,,,empty
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,7.4,AC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Valencia,,60.0,DC,"0,40€/kWh DC ",0.4,ok
+2025-08,Valencia,,22.0,AC,"0,29€/kWh AC",0.29,ok
+2025-08,Valencia,,90.0,DC,"0,54 €/kWh",0.54,ok
+2025-08,Valencia,,7.4,AC,,,no_kwh
+2025-08,Valencia,,50.0,DC," 0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,50.0,DC," 0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,22.0,AC," 0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,50.0,DC,0.45 €/kWh,0.45,ok
+2025-08,Valencia,,50.0,DC,0.45 €/kWh,0.45,ok
+2025-08,Valencia,,43.0,DC,0.45 €/kWh,0.45,ok
+2025-08,Valencia,,120.0,DC,"0,46€/kWh DC - 0,35kWh AC",0.46,ok
+2025-08,Valencia,,22.0,AC,"0,46€/kWh DC - 0,35kWh AC",0.46,ok
+2025-08,Valencia,,150.0,DC,0.59€/kWh,0.59,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,60.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,25.0,DC,free,,free
+2025-08,Valencia,,60.0,DC,"0,40 €/kWh",0.4,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,11.0,AC,,,no_kwh
+2025-08,Valencia,,120.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,7.4,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,22.0,AC,"0,42€/kWh",0.42,ok
+2025-08,Valencia,,50.0,DC,"0,45€ kWh",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€ kWh",0.45,ok
+2025-08,Valencia,,43.0,DC,"0,45€ kWh",0.45,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,120.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,120.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,11.0,AC,,,no_kwh
+2025-08,Valencia,,120.0,DC,"0,54€/kWh",0.54,ok
+2025-08,Valencia,,22.0,AC,"0,54€/kWh",0.54,ok
+2025-08,Valencia,,150.0,DC,0.59€/kWh,0.59,ok
+2025-08,Valencia,,120.0,DC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Valencia,,22.0,AC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh ",0.25,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,90.0,DC,"0,45€/kWh DC - 0,99€/kWh AC",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh DC - 0,99€/kWh AC",0.45,ok
+2025-08,Valencia,,60.0,DC,"0,40€/kWh",0.4,ok
+2025-08,Valencia,,100.0,DC,"0,54€/kWh DC",0.54,ok
+2025-08,Valencia,,7.4,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,7.4,AC,free,,free
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Valencia,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,50.0,DC,free,,free
+2025-08,Valencia,,150.0,DC," 0,55€/kWh DC - 0,35€/kWh AC ",0.55,ok
+2025-08,Valencia,,120.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,11.0,AC,,,no_kwh
+2025-08,Valencia,,120.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,25.0,DC,"0,39€/kWh ",0.39,ok
+2025-08,Valencia,,25.0,DC,"0,39€/kWh ",0.39,ok
+2025-08,Valencia,,25.0,DC,"0,39€/kWh ",0.39,ok
+2025-08,Valencia,,30.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,7.4,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,30.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,7.4,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,22.0,AC," 0,42€/kWh (0,05€/min parked without charging)",0.42,ok
+2025-08,Valencia,,120.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,7.7,AC,"0,39€/kWh DC - 0,32€/kWh AC",0.39,ok
+2025-08,Valencia,,30.0,DC,"0,39€/kWh DC - 0,32€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,7.4,AC,,,no_kwh
+2025-08,Valencia,,50.0,DC,"0,38€/kwh",0.38,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC," 0,20€/kWh",0.2,ok
+2025-08,Valencia,,100.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,50.0,DC,"€0,47/kWh",,no_kwh
+2025-08,Valencia,,50.0,DC,"€0,47/kWh",,no_kwh
+2025-08,Valencia,,43.65,DC,"€0,47/kWh",,no_kwh
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,150.0,DC,"0,55€/kWh DC - 0,40€/kWh AC",0.55,ok
+2025-08,Valencia,,22.0,AC,"0,55€/kWh DC - 0,40€/kWh AC",0.55,ok
+2025-08,Valencia,,150.0,DC,"0,55€/kWh DC - 0,40€/kWh AC",0.55,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,7.4,AC,"0,40€/kWh",0.4,ok
+2025-08,Valencia,,100.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,"0,38€/kWh + parking fee",0.38,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh 50kW - 0,39€/kWh 22kW AC + parking fee",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh 50kW - 0,39€/kWh 22kW AC + parking fee",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh 50kW - 0,39€/kWh 22kW AC + parking fee",0.45,ok
+2025-08,Valencia,,7.4,AC,"0,32€/kWh AC",0.32,ok
+2025-08,Valencia,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Valencia,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Valencia,,50.0,DC," 0,45€/kWh DC50kW/AC43kW ",0.45,ok
+2025-08,Valencia,,50.0,DC," 0,45€/kWh DC50kW/AC43kW ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,11.0,AC,,,no_kwh
+2025-08,Valencia,,150.0,DC,"0,58€/kWh DC >60kW (0,40€/min parked without charging)",0.58,ok
+2025-08,Valencia,,3.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,11.0,AC,,,no_kwh
+2025-08,Valencia,,120.0,DC," 0,54€/kWh ",0.54,ok
+2025-08,Valencia,,100.0,DC,"0,54€/kWh",0.54,ok
+2025-08,Valencia,,7.4,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,120.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,7.4,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,30.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,7.4,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,100.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,30.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,7.4,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,3.7,AC,,,empty
+2025-08,Valencia,,120.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC," 0,19€/kWh",0.19,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,11.0,AC,,,no_kwh
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,7.0,AC,free,,free
+2025-08,Valencia,,2.3,AC,free,,free
+2025-08,Valencia,,11.0,AC,"12,52€/hour",,no_kwh
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,7.4,AC,"parking fee + 0,20€/kWh (0,01€/min parked without charging)",0.2,ok
+2025-08,Valencia,,3.7,AC,free,,free
+2025-08,Valencia,,7.4,AC,,,no_kwh
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,7.4,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,40.0,DC,Free,,free
+2025-08,Valencia,,120.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,11.0,AC,0,,no_kwh
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,,,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,50.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-08,Valencia,,7.4,AC," 0,25€/kWh",0.25,ok
+2025-08,Valencia,,7.4,AC,0.30€/kWh,0.3,ok
+2025-08,Valencia,,22.0,AC,Free,,free
+2025-08,Valencia,,11.0,AC,free,,free
+2025-08,Valencia,,11.0,AC,,,no_kwh
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,7.4,AC,,,empty
+2025-08,Valencia,,3.7,AC,,,empty
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,Free,,free
+2025-08,Valencia,,11.0,AC,Free,,free
+2025-08,Valencia,,50.0,DC,"0,30€/kWh ",0.3,ok
+2025-08,Valencia,,50.0,DC,"0,30€/kWh ",0.3,ok
+2025-08,Valencia,,43.0,DC,"0,30€/kWh ",0.3,ok
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC," 0,07€/kWh",0.07,ok
+2025-08,Valencia,,22.0,AC,"0,33€/kWh",0.33,ok
+2025-08,Valencia,,7.4,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,"0,33€/kWh",0.33,ok
+2025-08,Valencia,,22.0,AC,"0,33€/kWh",0.33,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh AC + parking fee",0.45,ok
+2025-08,Valencia,,60.0,DC,"0,45€/kWh DC - 0,39€/kWh AC + parking fee",0.45,ok
+2025-08,Valencia,,60.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,7.4,AC,,,empty
+2025-08,Valencia,,3.7,AC,Free.  Limited to 1 hour. Accessible during business hours,,free
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,22.0,AC,"0,33€/kWh",0.33,ok
+2025-08,Valencia,,3.7,AC,Free.  Limited to 1 hour. Accessible during business hours,,free
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,7.4,AC," 0,19€/kWh",0.19,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,22.0,AC,"0,25€/KWh",0.25,ok
+2025-08,Valencia,,150.0,DC," 0,40€/kWh",0.4,ok
+2025-08,Valencia,,7.4,AC," 0,19€/kWh",0.19,ok
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,30.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,7.4,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,7.4,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,Free,,free
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,2.3,AC,,,no_kwh
+2025-08,Valencia,,11.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC," 0,39€/kWh ",0.39,ok
+2025-08,Valencia,,7.4,AC,"parking fee + 0,20€/kWh (0,01€/min parked without charging)",0.2,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,7.4,AC,"parking fee + 0,20€/kWh (0,01€/min parked without charging)",0.2,ok
+2025-08,Valencia,,22.0,AC,"0,57€/kWh",0.57,ok
+2025-08,Valencia,,7.4,AC,,,no_kwh
+2025-08,Valencia,,3.7,AC,Paying small fee with Prepaid RFID card + cost of parking,,no_kwh
+2025-08,Valencia,,7.4,AC," 0,19€/kWh",0.19,ok
+2025-08,Valencia,,3.7,AC," 0,19€/kWh",0.19,ok
+2025-08,Valencia,,17.0,AC,,,empty
+2025-08,Valencia,,11.0,AC,,,empty
+2025-08,Valencia,,7.4,AC,"parking fee + 0,20€/kWh (0,01€/min parked without charging)",0.2,ok
+2025-08,Valencia,,7.4,AC," 0,19€/kWh",0.19,ok
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,7.4,AC,"0,40€/kWh",0.4,ok
+2025-08,Valencia,,22.0,AC,"0,38€/kWh + parking fee",0.38,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh+parking fee",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,55€/kWh DC- 0,39€/kWh AC + parking fee",0.55,ok
+2025-08,Valencia,,120.0,DC,"0,55€/kWh DC- 0,39€/kWh AC + parking fee",0.55,ok
+2025-08,Valencia,,22.0,AC," 0,38€/kWh AC",0.38,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh + parking fee",0.25,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,7.0,AC,,,empty
+2025-08,Valencia,,11.0,AC,,,empty
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-08,Valencia,,7.4,AC,"0,40€/kWh",0.4,ok
+2025-08,Valencia,,11.0,AC,,,no_kwh
+2025-08,Valencia,,11.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,"0,38€/kWh + parking fee",0.38,ok
+2025-08,Valencia,,60.0,DC,,,no_kwh
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,150.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,150.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,7.4,AC,,,no_kwh
+2025-08,Valencia,,30.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,7.4,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,"0,38€/kWh + parking fee",0.38,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,120.0,DC,"0,54€/kWh ",0.54,ok
+2025-08,Valencia,,120.0,DC,"0,54€/kWh 80-200kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Valencia,,80.0,DC,"0,54€/kWh 80-200kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Valencia,,22.0,AC,"0,54€/kWh 80-200kW - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Valencia,,400.0,DC,,,empty
+2025-08,Valencia,,,,free,,free
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,50.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Valencia,,50.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Valencia,,43.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Valencia,,3.7,AC,,,empty
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,"0,29€/kWh AC",0.29,ok
+2025-08,Valencia,,22.0,AC,"0,42€/kWh",0.42,ok
+2025-08,Valencia,,60.0,DC,"0,42€/kWh",0.42,ok
+2025-08,Valencia,,7.4,AC,,,empty
+2025-08,Valencia,,11.0,AC,,,empty
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,11.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,3.7,AC,,,empty
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,100.0,DC,"0,54€/kWh",0.54,ok
+2025-08,Valencia,,3.7,AC,,,empty
+2025-08,Valencia,,100.0,DC,"0,60 €/kWh DC - 0,39€/kWh AC",0.6,ok
+2025-08,Valencia,,80.0,DC,"0,60 €/kWh DC - 0,39€/kWh AC",0.6,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Valencia,,120.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,100.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Valencia,,50.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,150.0,DC,"0,60 €/kWh",0.6,ok
+2025-08,Valencia,,80.0,DC,"0,60 €/kWh",0.6,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,120.0,DC,"0,46€/kWh DC - 0,35€/kWh AC",0.46,ok
+2025-08,Valencia,,22.0,AC,"0,46€/kWh DC - 0,35€/kWh AC",0.46,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,2.3,AC,free,,free
+2025-08,Valencia,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-08,Valencia,,22.0,AC," 0,25€/kWh",0.25,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,60.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,7.4,AC,"0,40€/kWh DC - 0,35€/kWh AC",0.4,ok
+2025-08,Valencia,,30.0,DC,"0,40€/kWh DC - 0,35€/kWh AC",0.4,ok
+2025-08,Valencia,,50.0,DC,,,no_kwh
+2025-08,Valencia,,50.0,DC,,,no_kwh
+2025-08,Valencia,,30.0,DC,"0,40€/kWh DC - 0,35€/kWh AC",0.4,ok
+2025-08,Valencia,,7.4,AC,"0,40€/kWh DC - 0,35€/kWh AC",0.4,ok
+2025-08,Valencia,,7.4,AC,,,no_kwh
+2025-08,Valencia,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Valencia,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Valencia,,60.0,DC,"0,40€/kWh",0.4,ok
+2025-08,Valencia,,11.0,AC,free,,free
+2025-08,Valencia,,50.0,DC,"0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,100.0,DC,"0,60€/kWh DC - 0,40€/kWh AC",0.6,ok
+2025-08,Valencia,,50.0,DC,"0,60€/kWh DC - 0,40€/kWh AC",0.6,ok
+2025-08,Valencia,,7.4,AC,"0,60€/kWh DC - 0,40€/kWh AC",0.6,ok
+2025-08,Valencia,,90.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,46€/kWh",0.46,ok
+2025-08,Valencia,,50.0,DC,"0,46€/kWh",0.46,ok
+2025-08,Valencia,,,,"0,46€/kWh",0.46,ok
+2025-08,Valencia,,22.0,AC,"0,46€/kWh",0.46,ok
+2025-08,Valencia,,360.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-08,Valencia,,360.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-08,Valencia,,360.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-08,Valencia,,360.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-08,Valencia,,160.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-08,Valencia,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Valencia,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Valencia,,43.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Valencia,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Valencia,,120.0,DC," 0,54€/kWh 80-200kW - 0,45€/kWh 50kW  - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Valencia,,80.0,DC," 0,54€/kWh 80-200kW - 0,45€/kWh 50kW  - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Valencia,,22.0,AC," 0,54€/kWh 80-200kW - 0,45€/kWh 50kW  - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Valencia,,120.0,DC,"0,54€/kWh DC - 0,36€/kWh AC",0.54,ok
+2025-08,Valencia,,22.0,AC,"0,54€/kWh DC - 0,36€/kWh AC",0.54,ok
+2025-08,Valencia,,120.0,DC,"0,54€/kWh DC - 0,36€/kWh AC",0.54,ok
+2025-08,Valencia,,120.0,DC,"0,54€/kWh DC - 0,36€/kWh AC",0.54,ok
+2025-08,Valencia,,7.4,AC,"0,40€/kWh DC - 0,35€/kWh AC",0.4,ok
+2025-08,Valencia,,30.0,DC,"0,40€/kWh DC - 0,35€/kWh AC",0.4,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,30.0,DC,"0,40€/kWh DC - 0,35€/kWh AC",0.4,ok
+2025-08,Valencia,,7.4,AC,"0,40€/kWh DC - 0,35€/kWh AC",0.4,ok
+2025-08,Valencia,,7.0,AC,€0/kWh,,no_kwh
+2025-08,Valencia,,2.3,AC,€0/kWh,,no_kwh
+2025-08,Valencia,,50.0,DC,0'05€ el minuto. La hora 2'65€. 5€ toda la noche.,,no_kwh
+2025-08,Valencia,,50.0,DC,0'05€ el minuto. La hora 2'65€. 5€ toda la noche.,,no_kwh
+2025-08,Valencia,,50.0,DC,0.29 €/kWh,0.29,ok
+2025-08,Valencia,,50.0,DC,0.29 €/kWh,0.29,ok
+2025-08,Valencia,,22.0,AC,0.29 €/kWh,0.29,ok
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Valencia,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,,,no_kwh
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,120.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,100.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC," 0,25€/kWh",0.25,ok
+2025-08,Valencia,,60.0,DC,"0,50€/kWh DC ",0.5,ok
+2025-08,Valencia,,60.0,DC,"0,50€/kWh DC ",0.5,ok
+2025-08,Valencia,,150.0,DC,0.59€/kWh,0.59,ok
+2025-08,Valencia,,120.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,22.0,AC," 0,19€/kWh",0.19,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,50.0,DC,"0,30€/kWh ",0.3,ok
+2025-08,Valencia,,50.0,DC,"0,30€/kWh ",0.3,ok
+2025-08,Valencia,,43.0,DC,"0,30€/kWh ",0.3,ok
+2025-08,Valencia,,3.7,AC,,,empty
+2025-08,Valencia,,7.4,AC,,,no_kwh
+2025-08,Valencia,,2.3,AC,,,empty
+2025-08,Valencia,,3.7,AC,,,empty
+2025-08,Valencia,,175.0,DC,"0,54€/kWh",0.54,ok
+2025-08,Valencia,,17.0,AC,,,empty
+2025-08,Valencia,,11.0,AC,,,empty
+2025-08,Valencia,,7.4,AC,"0,29€/kWh AC",0.29,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,30.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,7.4,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,11.0,AC,,,no_kwh
+2025-08,Valencia,,7.4,AC,"parking fee + 0,20€/kWh (0,01€/min parked without charging)",0.2,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,30.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,7.4,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,7.4,AC,"0,35€/kWh",0.35,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,7.4,AC,,,empty
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,7.4,AC,"parking fee + 0,20€/kWh (0,01€/min parked without charging)",0.2,ok
+2025-08,Valencia,,40.0,DC,"2,35 la primera hora. Aproximadamente 0.03€ el minuto.",,no_kwh
+2025-08,Valencia,,40.0,DC,"2,35 la primera hora. Aproximadamente 0.03€ el minuto.",,no_kwh
+2025-08,Valencia,,43.0,DC,"2,35 la primera hora. Aproximadamente 0.03€ el minuto.",,no_kwh
+2025-08,Valencia,,11.0,AC,"2,35 la primera hora. Aproximadamente 0.03€ el minuto.",,no_kwh
+2025-08,Valencia,,7.0,AC," 0,39€/kWh ",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-08,Valencia,,50.0,DC,"0,38€/kWh",0.38,ok
+2025-08,Valencia,,22.0,AC,"0,57€/kWh",0.57,ok
+2025-08,Valencia,,3.7,AC,Free.  Limited to 1 hour. Accessible during business hours,,free
+2025-08,Valencia,,7.4,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC," 0,19€/kWh",0.19,ok
+2025-08,Valencia,,7.4,AC," 0,19€/kWh",0.19,ok
+2025-08,Valencia,,22.0,AC," 0,40€/kWh AC ",0.4,ok
+2025-08,Valencia,,7.4,AC,app Moviltik,,no_kwh
+2025-08,Valencia,,11.0,AC,Parking fee,,no_kwh
+2025-08,Valencia,,22.0,AC,"2,85 €/h la primera hora, 2,16 €/h desde la segunda hasta la quinta",,no_kwh
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,3.7,AC,,,empty
+2025-08,Valencia,,30.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,7.4,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,7.4,AC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,50.0,DC," 0,42€/kWh DC, AC: 0,38€/kWh",0.42,ok
+2025-08,Valencia,,22.0,AC," 0,42€/kWh DC, AC: 0,38€/kWh",0.42,ok
+2025-08,Valencia,,22.0,AC,"0,54€/kWh DC - 0,39€/kWh AC + parking fee",0.54,ok
+2025-08,Valencia,,120.0,DC,"0,54€/kWh DC - 0,39€/kWh AC + parking fee",0.54,ok
+2025-08,Valencia,,22.0,AC,"0,19€/kWh",0.19,ok
+2025-08,Valencia,,7.4,AC,,,no_kwh
+2025-08,Valencia,,11.0,AC,,,no_kwh
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,11.0,AC,,,no_kwh
+2025-08,Valencia,,11.0,AC,"0,45€/kWh AC",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Valencia,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Valencia,,150.0,DC,"0,57€/kWh DC / 0,36€/kWh AC",0.57,ok
+2025-08,Valencia,,50.0,DC,"0,57€/kWh DC / 0,36€/kWh AC",0.57,ok
+2025-08,Valencia,,7.0,AC,"0,57€/kWh DC / 0,36€/kWh AC",0.57,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,7.4,AC,"parking fee + 0,20€/kWh (0,01€/min parked without charging)",0.2,ok
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,100.0,DC,"0,50€/kWh DC ",0.5,ok
+2025-08,Valencia,,100.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,,,no_kwh
+2025-08,Valencia,,50.0,DC,,,no_kwh
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,50.0,DC,,,no_kwh
+2025-08,Valencia,,50.0,DC,,,no_kwh
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,150.0,DC,0.59€/kWh,0.59,ok
+2025-08,Valencia,,22.0,AC,"app Waylet(Repsol). 90' free parking, then at 0,07€/min",,per_minute
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,50.0,DC,,,no_kwh
+2025-08,Valencia,,50.0,DC,,,no_kwh
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,120.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Valencia,,120.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,7.4,AC,,,empty
+2025-08,Valencia,,50.0,DC,,,empty
+2025-08,Valencia,,50.0,DC,,,empty
+2025-08,Valencia,,43.0,DC,,,empty
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,20.0,AC,"0,42€/kWh ",0.42,ok
+2025-08,Valencia,,20.0,AC,"0,42€/kWh ",0.42,ok
+2025-08,Valencia,,22.0,AC,"0,42€/kWh ",0.42,ok
+2025-08,Valencia,,3.7,AC,,,empty
+2025-08,Valencia,,20.0,AC,"0,39€/kWh ",0.39,ok
+2025-08,Valencia,,20.0,AC,"0,39€/kWh ",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh ",0.39,ok
+2025-08,Valencia,,50.0,DC,"0,43€/kWh",0.43,ok
+2025-08,Valencia,,1.0,AC,"0,43€/kWh",0.43,ok
+2025-08,Valencia,,43.0,DC,"0,43€/kWh",0.43,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,60.0,DC,"0,50€/kWh DC ",0.5,ok
+2025-08,Valencia,,60.0,DC,"0,68€/kWh",0.68,ok
+2025-08,Valencia,,120.0,DC,"0,43€/kWh DC - 0,32kWh AC",0.43,ok
+2025-08,Valencia,,50.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,43.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,50.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,50.0,DC,,,no_kwh
+2025-08,Valencia,,43.0,DC,,,no_kwh
+2025-08,Valencia,,50.0,DC,,,no_kwh
+2025-08,Valencia,,30.0,DC,"0,40€/kWh DC - 0,35€/kWh AC",0.4,ok
+2025-08,Valencia,,7.4,AC,"0,40€/kWh DC - 0,35€/kWh AC",0.4,ok
+2025-08,Valencia,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Valencia,,43.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Valencia,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Valencia,,60.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,30.0,DC,"0,40€/kWh DC - 0,35€/kWh AC",0.4,ok
+2025-08,Valencia,,7.4,AC,"0,40€/kWh DC - 0,35€/kWh AC",0.4,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,7.4,AC,,,no_kwh
+2025-08,Valencia,,2.3,AC,,,no_kwh
+2025-08,Valencia,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,60.0,DC,"0,40€/kWh ",0.4,ok
+2025-08,Valencia,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,250.0,DC,,,empty
+2025-08,Valencia,,150.0,DC,"0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-08,Valencia,,150.0,DC,"0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-08,Valencia,,22.0,AC,"0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-08,Valencia,,100.0,DC,"0,54€/kWh",0.54,ok
+2025-08,Valencia,,320.0,DC,,,empty
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,120.0,DC,"0,60€/kWh DC - 0,40€/kWh AC",0.6,ok
+2025-08,Valencia,,80.0,DC,"0,60€/kWh DC - 0,40€/kWh AC",0.6,ok
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,60.0,DC,"0,40€/kWh DC - 0,40€/kWh AC",0.4,ok
+2025-08,Valencia,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,50.0,DC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,180.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,10.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,350.0,DC,"0,65€/kWh (or subscription rates) ",0.65,ok
+2025-08,Valencia,,400.0,DC,"0,65€/kWh (or subscription rates) ",0.65,ok
+2025-08,Valencia,,400.0,DC,"0,65€/kWh (or subscription rates) ",0.65,ok
+2025-08,Valencia,,250.0,DC,,,empty
+2025-08,Valencia,,50.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-08,Valencia,,11.0,AC,,,no_kwh
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,3.7,AC,,,empty
+2025-08,Valencia,,11.0,AC,,,no_kwh
+2025-08,Valencia,,7.4,AC,"0,29€/kWh AC",0.29,ok
+2025-08,Valencia,,120.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,3.7,AC,,,empty
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,150.0,DC,"0,60 €/kWh",0.6,ok
+2025-08,Valencia,,80.0,DC,"0,60 €/kWh",0.6,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,60.0,DC,,,empty
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Valencia,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Valencia,,43.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Valencia,,120.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,100.0,DC,"DC: 0,54€/kWh",0.54,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,30.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,7.4,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Valencia,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,150.0,DC,0.59€/kWh,0.59,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,150.0,DC,,,empty
+2025-08,Valencia,,90.0,DC,"0,55€/kWh DC - 0,39€/kWh AC",0.55,ok
+2025-08,Valencia,,90.0,DC,"0,55€/kWh DC - 0,39€/kWh AC",0.55,ok
+2025-08,Valencia,,22.0,AC,"0,55€/kWh DC - 0,39€/kWh AC",0.55,ok
+2025-08,Valencia,,90.0,DC,"0,55€/kWh",0.55,ok
+2025-08,Valencia,,90.0,DC,"0,55€/kWh",0.55,ok
+2025-08,Valencia,,150.0,DC,,,empty
+2025-08,Valencia,,120.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,7.4,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,50.0,DC,"0,3049 EUR/kWh (Paid per kWh)",0.3049,ok
+2025-08,Valencia,,43.0,DC,"0,3049 EUR/kWh (Paid per kWh)",0.3049,ok
+2025-08,Valencia,,50.0,DC,"0,3049 EUR/kWh (Paid per kWh)",0.3049,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,43.0,DC,"0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,7.4,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,60.0,DC,0.52€/kWh DC - 0.47€/kWh AC,0.52,ok
+2025-08,Valencia,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Valencia,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Valencia,,43.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,"0,40€/kWh DC - 0,30€/kWh AC",0.4,ok
+2025-08,Valencia,,50.0,DC,"0,40€/kWh DC - 0,30€/kWh AC",0.4,ok
+2025-08,Valencia,,50.0,DC,"0,40€/kWh DC - 0,30€/kWh AC",0.4,ok
+2025-08,Valencia,,150.0,DC,"0,55€/kWh DC - 0,40€/kWh AC",0.55,ok
+2025-08,Valencia,,30.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,7.4,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,60.0,DC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Valencia,,22.0,AC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Valencia,,30.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,7.4,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,100.0,DC,"0,55€/kWh",0.55,ok
+2025-08,Valencia,,120.0,DC,"0,55€/kWh",0.55,ok
+2025-08,Valencia,,150.0,DC,"0,40€/kWh DC ",0.4,ok
+2025-08,Valencia,,150.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Valencia,,50.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Valencia,,22.0,AC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Valencia,,50.0,DC,,,no_kwh
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,50.0,DC,,,no_kwh
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh DC - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,120.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,50.0,DC,0.45 €/kWh,0.45,ok
+2025-08,Valencia,,50.0,DC,0.45 €/kWh,0.45,ok
+2025-08,Valencia,,43.0,DC,0.45 €/kWh,0.45,ok
+2025-08,Valencia,,150.0,DC," 0,50€/kWh DC - 0,35€/kWh AC ",0.5,ok
+2025-08,Valencia,,120.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,7.4,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,22.0,AC," 0,49€/kWh >60kW - 0,40€/kWh DC - 0,35€/kWh AC ",0.49,ok
+2025-08,Valencia,,60.0,DC," 0,49€/kWh >60kW - 0,40€/kWh DC - 0,35€/kWh AC ",0.49,ok
+2025-08,Valencia,,7.4,AC,,,no_kwh
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-08,Valencia,,7.4,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,120.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,7.4,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,250.0,DC,,,no_kwh
+2025-08,Valencia,,50.0,DC,"0,35€/kWh",0.35,ok
+2025-08,Valencia,,50.0,DC,"0,35€/kWh",0.35,ok
+2025-08,Valencia,,43.0,DC,"0,35€/kWh",0.35,ok
+2025-08,Valencia,,22.0,AC,"0,20€/kWh ",0.2,ok
+2025-08,Valencia,,2.3,AC,"0,20€/kWh ",0.2,ok
+2025-08,Valencia,,120.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Valencia,,120.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,"0,40€/kWh",0.4,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,120.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,120.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,43.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-08,Valencia,,100.0,DC,"0,58€/kWh DC 100kW - 0,48€/kWh DC - 0,35€/kWh AC",0.58,ok
+2025-08,Valencia,,50.0,DC,"0,58€/kWh DC 100kW - 0,48€/kWh DC - 0,35€/kWh AC",0.58,ok
+2025-08,Valencia,,22.0,AC,"0,58€/kWh DC 100kW - 0,48€/kWh DC - 0,35€/kWh AC",0.58,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,22.0,AC,"0,25€/kWh ",0.25,ok
+2025-08,Valencia,,120.0,DC,"0,54€/kWh DC - 0,39€/kWh AC",0.54,ok
+2025-08,Valencia,,22.0,AC,"0,54€/kWh DC - 0,39€/kWh AC",0.54,ok
+2025-08,Valencia,,11.0,AC,,,empty
+2025-08,Valencia,,22.0,AC,"0,58€/kWh D C>60kW - 0,38€/kWh AC - (0,40€/min DC / 0,03€/min AC parked without charging)",0.58,ok
+2025-08,Valencia,,150.0,DC,"0,58€/kWh D C>60kW - 0,38€/kWh AC - (0,40€/min DC / 0,03€/min AC parked without charging)",0.58,ok
+2025-08,Valencia,,7.4,AC,,,no_kwh
+2025-08,Valencia,,2.3,AC,,,no_kwh
+2025-08,Valencia,,240.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Valencia,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Valencia,,120.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,60.0,DC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Valencia,,22.0,AC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Valencia,,60.0,DC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Valencia,,22.0,AC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Valencia,,60.0,DC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Valencia,,22.0,AC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Valencia,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,150.0,DC,0.59€/kWh,0.59,ok
+2025-08,Valencia,,11.0,AC,,,no_kwh
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,120.0,DC,"0,55€/kWh DC - 0,40€/kWh AC",0.55,ok
+2025-08,Valencia,,22.0,AC,"0,55€/kWh DC - 0,40€/kWh AC",0.55,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,11.0,AC,free,,free
+2025-08,Valencia,,60.0,DC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Valencia,,22.0,AC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Valencia,,150.0,DC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Valencia,,22.0,AC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Valencia,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-08,Valencia,,50.0,DC," 0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Valencia,,50.0,DC," 0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-08,Valencia,,7.4,AC,"0,45€/kWh DC ",0.45,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,7.4,AC,free,,free
+2025-08,Valencia,,150.0,DC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Valencia,,22.0,AC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Valencia,,11.0,AC,free,,free
+2025-08,Valencia,,150.0,DC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Valencia,,22.0,AC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Valencia,,60.0,DC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Valencia,,22.0,AC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Valencia,,60.0,DC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Valencia,,60.0,DC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Valencia,,22.0,AC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Valencia,,150.0,DC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Valencia,,22.0,AC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Valencia,,22.0,AC," 0,32kWh AC",,no_kwh
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,60.0,DC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Valencia,,22.0,AC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Valencia,,150.0,DC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Valencia,,22.0,AC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Valencia,,120.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,60.0,DC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Valencia,,22.0,AC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,30.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,7.4,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,50.0,DC,"0,47€/kWh DC - 0,35€/kWh AC",0.47,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh DC - 0,35€/kWh AC",0.47,ok
+2025-08,Valencia,,43.0,DC,"0,47€/kWh DC - 0,35€/kWh AC",0.47,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,100.0,DC,"0,46€/kWh DC - 0,35kWh AC",0.46,ok
+2025-08,Valencia,,22.0,AC,"0,46€/kWh DC - 0,35kWh AC",0.46,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,30€/kWh ",0.3,ok
+2025-08,Valencia,,22.0,AC,"0,30€/kWh ",0.3,ok
+2025-08,Valencia,,22.0,AC,"0,30€/kWh ",0.3,ok
+2025-08,Valencia,,50.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,50.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,43.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,11.0,AC,free,,free
+2025-08,Valencia,,11.0,AC,free,,free
+2025-08,Valencia,,2.3,AC,free,,free
+2025-08,Valencia,,11.0,AC,free,,free
+2025-08,Valencia,,2.3,AC,free,,free
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,120.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,Free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,320.0,DC,"0,69€/kWh ",0.69,ok
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,11.0,AC,,,no_kwh
+2025-08,Valencia,,11.0,AC,,,no_kwh
+2025-08,Valencia,,2.3,AC,,,no_kwh
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,3.7,AC,free,,free
+2025-08,Valencia,,50.0,DC,free,,free
+2025-08,Valencia,,10.0,AC,free,,free
+2025-08,Valencia,,10.0,AC,free,,free
+2025-08,Valencia,,30.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,7.4,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,180.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,11.0,AC,free,,free
+2025-08,Valencia,,50.0,DC,,,empty
+2025-08,Valencia,,50.0,DC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,11.0,AC,,,empty
+2025-08,Valencia,,11.0,AC,,,empty
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-08,Valencia,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-08,Valencia,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-08,Valencia,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,7.4,AC,0,,no_kwh
+2025-08,Valencia,,4.6,AC,free,,free
+2025-08,Valencia,,3.0,AC,free,,free
+2025-08,Valencia,,150.0,DC,"0,54 €/kWh DC",0.54,ok
+2025-08,Valencia,,80.0,DC,"0,54 €/kWh DC",0.54,ok
+2025-08,Valencia,,4.3,AC,free,,free
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,11.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,"0,15€/kWh",0.15,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,50.0,DC,gratis,,free
+2025-08,Valencia,,43.0,DC,gratis,,free
+2025-08,Valencia,,50.0,DC,gratis,,free
+2025-08,Valencia,,22.0,AC,"0,39€/kWh DC - 0,32€/kWh AC",0.39,ok
+2025-08,Valencia,,120.0,DC,"0,39€/kWh DC - 0,32€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,Free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,120.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,120.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-08,Valencia,,50.0,DC,"0,60€/kWh DC - 0,43€/kWh AC",0.6,ok
+2025-08,Valencia,,350.0,DC,"0,65€/kWh (or subscription rates) ",0.65,ok
+2025-08,Valencia,,7.4,AC,"0,28€/kWh",0.28,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh 50kW   - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh 50kW   - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh 50kW   - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,100.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,7.4,AC,Free,,free
+2025-08,Valencia,,11.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh DC - 0,35€/kWh AC",0.47,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh DC - 0,35€/kWh AC",0.47,ok
+2025-08,Valencia,,43.0,DC,"0,47€/kWh DC - 0,35€/kWh AC",0.47,ok
+2025-08,Valencia,,3.7,AC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,7.4,AC,"0,45€/kWh DC50kW - 0,39€/kWh AC",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh DC50kW - 0,39€/kWh AC",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh DC50kW - 0,39€/kWh AC",0.45,ok
+2025-08,Valencia,,7.4,AC,,,empty
+2025-08,Valencia,,7.4,AC,,,empty
+2025-08,Valencia,,17.0,AC,,,empty
+2025-08,Valencia,,11.0,AC,,,empty
+2025-08,Valencia,,50.0,DC,"0,48€/kWh ",0.48,ok
+2025-08,Valencia,,50.0,DC,"0,48€/kWh ",0.48,ok
+2025-08,Valencia,,43.0,DC,"0,48€/kWh ",0.48,ok
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,60.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,120.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,7.4,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,180.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Valencia,,90.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Valencia,,120.0,DC,"0,45€/kWh DC - 0,35€/kWh AC  + parking fee",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh DC - 0,35€/kWh AC  + parking fee",0.45,ok
+2025-08,Valencia,,60.0,DC,"0,42€/kWh DC - 0,35€/kWh AC",0.42,ok
+2025-08,Valencia,,60.0,DC,"0,42€/kWh DC - 0,35€/kWh AC",0.42,ok
+2025-08,Valencia,,22.0,AC,"0,42€/kWh DC - 0,35€/kWh AC",0.42,ok
+2025-08,Valencia,,320.0,DC,"0,69€/kWh 320kW - 0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.69,ok
+2025-08,Valencia,,50.0,DC,"0,69€/kWh 320kW - 0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.69,ok
+2025-08,Valencia,,43.0,DC,"0,69€/kWh 320kW - 0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.69,ok
+2025-08,Valencia,,22.0,AC,"0,31€/kWh",0.31,ok
+2025-08,Valencia,,100.0,DC,"0,58€/kWh DC >60kW (0,40€/min parked without charging)",0.58,ok
+2025-08,Valencia,,120.0,DC,"0,54€/kWh",0.54,ok
+2025-08,Valencia,,120.0,DC,"0,54€/kWh",0.54,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,7.4,AC,,,empty
+2025-08,Valencia,,43.0,DC,"0,35€/kWh",0.35,ok
+2025-08,Valencia,,50.0,DC,"0,35€/kWh",0.35,ok
+2025-08,Valencia,,50.0,DC,"0,35€/kWh",0.35,ok
+2025-08,Valencia,,120.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,11.0,AC,Free,,free
+2025-08,Valencia,,2.3,AC,Free,,free
+2025-08,Valencia,,5.0,AC,"0,45€/kWh",0.45,ok
+2025-08,Valencia,,3.7,AC,"0,45€/kWh",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh 50kW   - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh 50kW   - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh 50kW   - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh 50kW   - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh 50kW   - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh 50kW   - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,22.0,AC,Free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,100.0,DC,"0,50€/kWh 100kW - 0,39€/kWh 50 kW - 0,32€/kWh AC",0.5,ok
+2025-08,Valencia,,50.0,DC,"0,50€/kWh 100kW - 0,39€/kWh 50 kW - 0,32€/kWh AC",0.5,ok
+2025-08,Valencia,,22.0,AC,"0,50€/kWh 100kW - 0,39€/kWh 50 kW - 0,32€/kWh AC",0.5,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Valencia,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Valencia,,100.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,7.4,AC,"0,38€/kWh",0.38,ok
+2025-08,Valencia,,3.7,AC,,,empty
+2025-08,Valencia,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-08,Valencia,,7.4,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,3.7,AC,free,,free
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,"0,21€ kWh",0.21,ok
+2025-08,Valencia,,2.3,AC,"0,21€ kWh",0.21,ok
+2025-08,Valencia,,150.0,DC,"0,54 €/kWh DC",0.54,ok
+2025-08,Valencia,,80.0,DC,"0,54 €/kWh DC",0.54,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,22.0,AC,Free,,free
+2025-08,Valencia,,100.0,DC,"0,54€/kWh 80-200kW  - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Valencia,,22.0,AC,"0,54€/kWh 80-200kW  - 0,39€/kWh 22kW AC",0.54,ok
+2025-08,Valencia,,60.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,150.0,DC,"0,60€/kWh DC - 0,40€/kWh AC",0.6,ok
+2025-08,Valencia,,150.0,DC,"0,60€/kWh DC - 0,40€/kWh AC",0.6,ok
+2025-08,Valencia,,7.0,AC,€0/kWh,,no_kwh
+2025-08,Valencia,,2.3,AC,€0/kWh,,no_kwh
+2025-08,Valencia,,7.4,AC,,,no_kwh
+2025-08,Valencia,,2.3,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,3.7,AC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,60€/kWh DC - 0,30€/kWh AC",0.6,ok
+2025-08,Valencia,,50.0,DC,"0,60€/kWh DC - 0,30€/kWh AC",0.6,ok
+2025-08,Valencia,,50.0,DC,"0,60€/kWh DC - 0,30€/kWh AC",0.6,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,100.0,DC,"0,54€/kWh DC - 0,35€/kWh AC",0.54,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,11.0,AC,,,no_kwh
+2025-08,Valencia,,3.7,AC,€0/kWh,,no_kwh
+2025-08,Valencia,,2.3,AC,€0/kWh,,no_kwh
+2025-08,Valencia,,30.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,7.4,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,25.0,DC,"0,39€/kWh ",0.39,ok
+2025-08,Valencia,,25.0,DC,"0,39€/kWh ",0.39,ok
+2025-08,Valencia,,25.0,DC,"0,39€/kWh ",0.39,ok
+2025-08,Valencia,,7.4,AC,free,,free
+2025-08,Valencia,,3.7,AC,Free,,free
+2025-08,Valencia,,2.3,AC,Free,,free
+2025-08,Valencia,,7.4,AC,,,empty
+2025-08,Valencia,,2.3,AC,,,empty
+2025-08,Valencia,,7.4,AC,Free,,free
+2025-08,Valencia,,2.3,AC,Free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,7.4,AC,,,empty
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,Free,,free
+2025-08,Valencia,,11.0,AC,,,empty
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,7.4,AC,free,,free
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,2.3,AC,,,empty
+2025-08,Valencia,,11.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,"0,26€/kWh",0.26,ok
+2025-08,Valencia,,22.0,AC,"0,38€/kWh AC - (0,03€/min parked without charging)",0.38,ok
+2025-08,Valencia,,7.4,AC,free,,free
+2025-08,Valencia,,2.3,AC,free,,free
+2025-08,Valencia,,3.7,AC,,,empty
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,44.0,DC,free,,free
+2025-08,Valencia,,50.0,DC,free,,free
+2025-08,Valencia,,50.0,DC,free,,free
+2025-08,Valencia,,11.0,AC,Free,,free
+2025-08,Valencia,,50.0,DC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,43.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,120.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,€0/kWh,,no_kwh
+2025-08,Valencia,,7.4,AC,"0,30€/kWh",0.3,ok
+2025-08,Valencia,,50.0,DC,free,,free
+2025-08,Valencia,,50.0,DC,free,,free
+2025-08,Valencia,,43.0,DC,free,,free
+2025-08,Valencia,,11.0,AC,€33/kWh,,no_kwh
+2025-08,Valencia,,22.0,AC,"0,33€/kWh",0.33,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,50.0,DC,,,no_kwh
+2025-08,Valencia,,50.0,DC,,,no_kwh
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,50.0,DC,free,,free
+2025-08,Valencia,,50.0,DC,free,,free
+2025-08,Valencia,,43.0,DC,free,,free
+2025-08,Valencia,,30.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,4.0,AC,€0/kWh,,no_kwh
+2025-08,Valencia,,2.3,AC,€0/kWh,,no_kwh
+2025-08,Valencia,,43.0,DC,free,,free
+2025-08,Valencia,,50.0,DC,free,,free
+2025-08,Valencia,,50.0,DC,free,,free
+2025-08,Valencia,,7.0,AC,,,empty
+2025-08,Valencia,,11.0,AC,,,empty
+2025-08,Valencia,,80.0,DC,"0,60€/kWh  DC - 0,40€/kWh AC",0.6,ok
+2025-08,Valencia,,50.0,DC,"0,60€/kWh  DC - 0,40€/kWh AC",0.6,ok
+2025-08,Valencia,,7.4,AC,"0,60€/kWh  DC - 0,40€/kWh AC",0.6,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,50.0,DC,free,,free
+2025-08,Valencia,,50.0,DC,free,,free
+2025-08,Valencia,,43.0,DC,free,,free
+2025-08,Valencia,,22.0,AC,€0/kWh,,no_kwh
+2025-08,Valencia,,2.3,AC,€0/kWh,,no_kwh
+2025-08,Valencia,,7.4,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,30.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,7.0,AC,"0,52€/kWh",0.52,ok
+2025-08,Valencia,,2.3,AC,"0,52€/kWh",0.52,ok
+2025-08,Valencia,,60.0,DC,"0,20€/kWh",0.2,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,2.3,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,11.0,AC,0,,no_kwh
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,Free,,free
+2025-08,Valencia,,11.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,100.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,7.4,AC,free,,free
+2025-08,Valencia,,7.4,AC,free,,free
+2025-08,Valencia,,7.4,AC,free,,free
+2025-08,Valencia,,50.0,DC,"0,45€/kWh 50kW   - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh 50kW   - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh 50kW   - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,2.3,AC,,,no_kwh
+2025-08,Valencia,,16.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,100.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,7.4,AC,Free,,free
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,2.3,AC,,,empty
+2025-08,Valencia,,7.4,AC,,,empty
+2025-08,Valencia,,4.0,AC,€0/kWh,,no_kwh
+2025-08,Valencia,,2.3,AC,€0/kWh,,no_kwh
+2025-08,Valencia,,90.0,DC,"0,50€/kWh DC >60kW  - 0,39€/kWh ",0.5,ok
+2025-08,Valencia,,30.0,DC,"0,50€/kWh DC >60kW  - 0,39€/kWh ",0.5,ok
+2025-08,Valencia,,30.0,DC,"0,50€/kWh DC >60kW  - 0,39€/kWh ",0.5,ok
+2025-08,Valencia,,30.0,DC,"0,50€/kWh DC >60kW  - 0,39€/kWh ",0.5,ok
+2025-08,Valencia,,7.0,AC,€0/kWh,,no_kwh
+2025-08,Valencia,,2.3,AC,€0/kWh,,no_kwh
+2025-08,Valencia,,7.0,AC,€0/kWh,,no_kwh
+2025-08,Valencia,,2.3,AC,€0/kWh,,no_kwh
+2025-08,Valencia,,3.7,AC,,,empty
+2025-08,Valencia,,2.3,AC,,,empty
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,50.0,DC," 0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC," 0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,180.0,DC,"0,47 €/kWh Carga rápida y 0,30 €/kWh Carga lenta",0.47,ok
+2025-08,Valencia,,14.0,AC,"0,47 €/kWh Carga rápida y 0,30 €/kWh Carga lenta",0.47,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,,,16,,no_kwh
+2025-08,Valencia,,3.7,AC,,,empty
+2025-08,Valencia,,100.0,DC,"0,49€/kWh ",0.49,ok
+2025-08,Valencia,,22.0,AC,"0,49€/kWh ",0.49,ok
+2025-08,Valencia,,22.0,AC,Free,,free
+2025-08,Valencia,,100.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,150.0,DC,"0,60 €/kWh DC - 0,39€/kWh AC",0.6,ok
+2025-08,Valencia,,80.0,DC,"0,60 €/kWh DC - 0,39€/kWh AC",0.6,ok
+2025-08,Valencia,,360.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-08,Valencia,,360.0,DC,"0,55€/kWh DC ",0.55,ok
+2025-08,Valencia,,120.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,11.0,AC,,,empty
+2025-08,Valencia,,50.0,DC,"0,40€/kWh",0.4,ok
+2025-08,Valencia,,22.0,AC,"0,40€/kWh",0.4,ok
+2025-08,Valencia,,50.0,DC,"0,40€/kWh",0.4,ok
+2025-08,Valencia,,50.0,DC," 0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-08,Valencia,,22.0,AC," 0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-08,Valencia,,50.0,DC," 0,49€/kWh DC - 0,39€/kWh AC ",0.49,ok
+2025-08,Valencia,,150.0,DC,"0,56€/kWh 150kW - 0,42€/kWh 50 kW - 0,38€/kWh AC",0.56,ok
+2025-08,Valencia,,300.0,DC,"0,60 €/kWh",0.6,ok
+2025-08,Valencia,,50.0,DC,"0,60 €/kWh",0.6,ok
+2025-08,Valencia,,22.0,AC,"0,60 €/kWh",0.6,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,150.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Valencia,,50.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Valencia,,22.0,AC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Valencia,,22.0,AC,"0,30€/kWh",0.3,ok
+2025-08,Valencia,,90.0,DC,"0,40€/kWh",0.4,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,120.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,50.0,DC,,,empty
+2025-08,Valencia,,50.0,DC,,,empty
+2025-08,Valencia,,50.0,DC,,,empty
+2025-08,Valencia,,180.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,100.0,DC,"0,48€/kWh",0.48,ok
+2025-08,Valencia,,4.0,AC,€0/kWh,,no_kwh
+2025-08,Valencia,,2.3,AC,€0/kWh,,no_kwh
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,120.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,3.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,50.0,DC,,,no_kwh
+2025-08,Valencia,,50.0,DC,,,no_kwh
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,110.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Valencia,,50.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Valencia,,22.0,AC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Valencia,,50.0,DC,,,no_kwh
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,50.0,DC,,,no_kwh
+2025-08,Valencia,,360.0,DC,"0,69€/kWh >200kW - 0,54€/kWh 80-200kW",0.69,ok
+2025-08,Valencia,,180.0,DC,"0,69€/kWh >200kW - 0,54€/kWh 80-200kW",0.69,ok
+2025-08,Valencia,,80.0,DC,"0,69€/kWh >200kW - 0,54€/kWh 80-200kW",0.69,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh DC - 0,36€/kWh AC",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh DC - 0,36€/kWh AC",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh DC - 0,36€/kWh AC",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,39/kWh",,no_kwh
+2025-08,Valencia,,180.0,DC,"0,54€/kWh DC>100kW  0,47€/kWh DC - 0,35€/kWh AC",0.54,ok
+2025-08,Valencia,,50.0,DC,"0,54€/kWh DC>100kW  0,47€/kWh DC - 0,35€/kWh AC",0.54,ok
+2025-08,Valencia,,50.0,DC,"0,54€/kWh DC>100kW  0,47€/kWh DC - 0,35€/kWh AC",0.54,ok
+2025-08,Valencia,,43.0,DC,"0,54€/kWh DC>100kW  0,47€/kWh DC - 0,35€/kWh AC",0.54,ok
+2025-08,Valencia,,150.0,DC,"0,54€/kWh DC >50kW - 0,47€/kWh DC - 0,35€/kWh AC",0.54,ok
+2025-08,Valencia,,50.0,DC,"0,54€/kWh DC >50kW - 0,47€/kWh DC - 0,35€/kWh AC",0.54,ok
+2025-08,Valencia,,50.0,DC,"0,54€/kWh DC >50kW - 0,47€/kWh DC - 0,35€/kWh AC",0.54,ok
+2025-08,Valencia,,43.0,DC,"0,54€/kWh DC >50kW - 0,47€/kWh DC - 0,35€/kWh AC",0.54,ok
+2025-08,Valencia,,22.0,AC,"0,29kWh AC",,no_kwh
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,100.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Valencia,,50.0,DC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Valencia,,22.0,AC,"0.50€/kWh >60kW - 0,39€/kWh DC - 0,32€/kWh AC",0.5,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,43.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,100.0,DC,"0,54€/kWh",0.54,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,"app Waylet(Repsol). 90' free parking, then at 0,07€/min",,per_minute
+2025-08,Valencia,,22.0,AC,Free,,free
+2025-08,Valencia,,30.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,7.4,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,Free,,free
+2025-08,Valencia,,22.0,AC,0.15 €/kWh,0.15,ok
+2025-08,Valencia,,240.0,DC,free,,free
+2025-08,Valencia,,50.0,DC,"0,47€/kWh DC - 0,43€/kWh AC",0.47,ok
+2025-08,Valencia,,22.0,AC,"0,47€/kWh DC - 0,43€/kWh AC",0.47,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,7.0,AC,€0/kWh,,no_kwh
+2025-08,Valencia,,2.3,AC,€0/kWh,,no_kwh
+2025-08,Valencia,,3.45,AC,Free,,free
+2025-08,Valencia,,50.0,DC,,,empty
+2025-08,Valencia,,22.0,AC,"0,31€/kWh",0.31,ok
+2025-08,Valencia,,40.0,DC,"0,31€/kWh",0.31,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh DC ",0.45,ok
+2025-08,Valencia,,22.0,AC,Free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,50.0,DC,"0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,43.0,DC,"0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh 50kW - 0,39€/kWh 22kW AC",0.45,ok
+2025-08,Valencia,,180.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,10.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,20€/kWh",0.2,ok
+2025-08,Valencia,,22.0,AC,"0,20€/kWh",0.2,ok
+2025-08,Valencia,,30.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,7.4,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,20€/kWh",0.2,ok
+2025-08,Valencia,,22.0,AC,"0,20€/kWh",0.2,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,"0,20€/kWh",0.2,ok
+2025-08,Valencia,,22.0,AC,"0,20€/kWh",0.2,ok
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,2.3,AC,,,no_kwh
+2025-08,Valencia,,50.0,DC," 0,55€/kWh",0.55,ok
+2025-08,Valencia,,50.0,DC," 0,55€/kWh",0.55,ok
+2025-08,Valencia,,43.0,DC," 0,55€/kWh",0.55,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,11.0,AC,,,empty
+2025-08,Valencia,,11.0,AC,,,empty
+2025-08,Valencia,,120.0,DC,,,empty
+2025-08,Valencia,,22.0,AC,"0,65€/kWh",0.65,ok
+2025-08,Valencia,,50.0,DC,"0,65€/kWh",0.65,ok
+2025-08,Valencia,,50.0,DC,"0,65€/kWh",0.65,ok
+2025-08,Valencia,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-08,Valencia,,7.4,AC,,,no_kwh
+2025-08,Valencia,,2.3,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,7.4,AC,free,,free
+2025-08,Valencia,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,100.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,60.0,DC,"0,39",,no_kwh
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,"0,38€/kWh AC - (0,03€/min parked without charging)",0.38,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,120.0,DC,"0,48€/kWh",0.48,ok
+2025-08,Valencia,,150.0,DC,0.59€/kWh,0.59,ok
+2025-08,Valencia,,150.0,DC,0.59€/kWh,0.59,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,120.0,DC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh DC - 0,39€/kWh AC",0.45,ok
+2025-08,Valencia,,3.7,AC,6€ + parking fee,,no_kwh
+2025-08,Valencia,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,43.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,50.0,DC," 0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,33€/kWh",0.33,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,0.32€ kWh,0.32,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Valencia,,43.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Valencia,,2.3,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,2.3,AC,,,no_kwh
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,11.0,AC,free,,free
+2025-08,Valencia,,2.3,AC,free,,free
+2025-08,Valencia,,11.0,AC,free,,free
+2025-08,Valencia,,2.3,AC,free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,11.0,AC,free,,free
+2025-08,Valencia,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,22.0,AC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,22.0,AC,"app Waylet(Repsol). 90' free parking, then at 0,07€/min",,per_minute
+2025-08,Valencia,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-08,Valencia,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-08,Valencia,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-08,Valencia,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-08,Valencia,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-08,Valencia,,100.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-08,Valencia,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-08,Valencia,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-08,Valencia,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,2.3,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,11.0,AC,"0,26€/kWh",0.26,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh AC ",0.39,ok
+2025-08,Valencia,,7.4,AC,"0,40€/kWh AC",0.4,ok
+2025-08,Valencia,,22.0,AC,"0,40€/kWh AC",0.4,ok
+2025-08,Valencia,,60.0,DC,"0,40€/kWh",0.4,ok
+2025-08,Valencia,,22.0,AC,"0,35€/kWh",0.35,ok
+2025-08,Valencia,,120.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,7.4,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,7.3,AC,,,empty
+2025-08,Valencia,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,7.4,AC,"0,30€/kWh",0.3,ok
+2025-08,Valencia,,120.0,DC,"0,50€/kWh ",0.5,ok
+2025-08,Valencia,,22.0,AC,"0,50€/kWh ",0.5,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,7.4,AC,free,,free
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,3.6,AC,Free,,free
+2025-08,Valencia,,2.76,AC,Free,,free
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,50.0,DC," 0,45€/kWh DC ",0.45,ok
+2025-08,Valencia,,43.0,DC," 0,45€/kWh DC ",0.45,ok
+2025-08,Valencia,,50.0,DC," 0,45€/kWh DC ",0.45,ok
+2025-08,Valencia,,120.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,7.4,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,30.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,7.4,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,50.0,DC,free,,free
+2025-08,Valencia,,50.0,DC,free,,free
+2025-08,Valencia,,43.0,DC,free,,free
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,350.0,DC,"0,55€/kWh",0.55,ok
+2025-08,Valencia,,350.0,DC,"0,55€/kWh",0.55,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,2.3,AC,free,,free
+2025-08,Valencia,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Valencia,,50.0,DC," 0,45€/kWh DC ",0.45,ok
+2025-08,Valencia,,43.0,DC," 0,45€/kWh DC ",0.45,ok
+2025-08,Valencia,,50.0,DC," 0,45€/kWh DC ",0.45,ok
+2025-08,Valencia,,7.4,AC,Free,,free
+2025-08,Valencia,,120.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,20.0,AC,€0/kWh,,no_kwh
+2025-08,Valencia,,20.0,AC,€0/kWh,,no_kwh
+2025-08,Valencia,,7.0,AC,€0/kWh,,no_kwh
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,2.3,AC,,,no_kwh
+2025-08,Valencia,,120.0,DC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh DC - 0,29€/kWh AC",0.39,ok
+2025-08,Valencia,,80.0,DC,"0,43€/kWh DC - 0,32€/kWh AC",0.43,ok
+2025-08,Valencia,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-08,Valencia,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,150.0,DC,"0,58€/kWh DC >60kW (0,40€/min parked without charging)",0.58,ok
+2025-08,Valencia,,150.0,DC,"0,54€/kWh DC ",0.54,ok
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,50.0,DC,,,empty
+2025-08,Valencia,,22.0,AC,0.25€/kWh,0.25,ok
+2025-08,Valencia,,3.7,AC,,,empty
+2025-08,Valencia,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Valencia,,43.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Valencia,,50.0,DC," 0,47€/kWh ",0.47,ok
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,Free,,free
+2025-08,Valencia,,50.0,DC,"0,46€/kWh",0.46,ok
+2025-08,Valencia,,22.0,AC,"0,46€/kWh",0.46,ok
+2025-08,Valencia,,50.0,DC,"0,46€/kWh",0.46,ok
+2025-08,Valencia,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,50.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,43.0,DC,"0,50€/kWh DC - 0,45€/kWh AC",0.5,ok
+2025-08,Valencia,,22.0,AC,"0,31€/kWh",0.31,ok
+2025-08,Valencia,,40.0,DC,"0,31€/kWh",0.31,ok
+2025-08,Valencia,,11.0,AC,,,empty
+2025-08,Valencia,,11.0,AC,,,empty
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,,,empty
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Valencia,,30.0,DC,"0,39€/kWh ",0.39,ok
+2025-08,Valencia,,25.0,DC,"0,39€/kWh ",0.39,ok
+2025-08,Valencia,,25.0,DC,"0,39€/kWh ",0.39,ok
+2025-08,Valencia,,25.0,DC,"0,39€/kWh ",0.39,ok
+2025-08,Valencia,,150.0,DC,"0,60€/kWh",0.6,ok
+2025-08,Valencia,,11.0,AC,Free,,free
+2025-08,Valencia,,22.0,AC,"0,92€/kWh",0.92,ok
+2025-08,Valencia,,30.0,DC,"0,45€/kWh ",0.45,ok
+2025-08,Valencia,,11.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,60.0,DC,"0,30€/kWh",0.3,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,50.0,DC,,,no_kwh
+2025-08,Valencia,,50.0,DC,,,no_kwh
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,€0/kWh,,no_kwh
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,€0/kWh,,no_kwh
+2025-08,Valencia,,7.4,AC,Free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Valencia,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,50.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,43.0,DC,0.47€/kWh ,0.47,ok
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,Free,,free
+2025-08,Valencia,,22.0,AC,"0,41€/kWh",0.41,ok
+2025-08,Valencia,,7.4,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-08,Valencia,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,50.0,DC,,,no_kwh
+2025-08,Valencia,,50.0,DC,,,no_kwh
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,7.4,AC,"0,39€/kWh",0.39,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,60.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,22.0,AC,"0,38€/kWh",0.38,ok
+2025-08,Valencia,,22.0,AC,,,no_kwh
+2025-08,Valencia,,22.0,AC,free,,free
+2025-08,Valencia,,100.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Valencia,,300.0,DC,"0,65€/kWh 200kW - 0,50€/kWh 50 kW - 0,32€/kWh AC",0.65,ok
+2025-08,Valencia,,50.0,DC,"0,65€/kWh 200kW - 0,50€/kWh 50 kW - 0,32€/kWh AC",0.65,ok
+2025-08,Valencia,,22.0,AC,"0,65€/kWh 200kW - 0,50€/kWh 50 kW - 0,32€/kWh AC",0.65,ok
+2025-08,Valencia,,3.7,AC,,,empty
+2025-08,Valencia,,22.0,AC,"0,25€/kWh",0.25,ok
+2025-08,Valencia,,50.0,DC,"0,45 €/kWh",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45 €/kWh",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45 €/kWh",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45 €/kWh",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45 €/kWh",0.45,ok
+2025-08,Valencia,,22.0,AC,"0,45 €/kWh",0.45,ok
+2025-08,Valencia,,3.7,AC,,,no_kwh
+2025-08,Valencia,,7.4,AC,,,no_kwh
+2025-08,Valencia,,7.4,AC,"0,35€/kWh",0.35,ok
+2025-08,Valencia,,3.7,AC,"0,35€/kWh",0.35,ok
+2025-08,Valencia,,11.0,AC,,,empty
+2025-08,Valencia,,11.0,AC,,,empty
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh",0.47,ok
+2025-08,Valencia,,6.4,AC,,,empty
+2025-08,Valencia,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Valencia,,43.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Valencia,,50.0,DC,"0,47€/kWh ",0.47,ok
+2025-08,Valencia,,50.0,DC,"0,53€/kWh",0.53,ok
+2025-08,Valencia,,50.0,DC,"0,53€/kWh",0.53,ok
+2025-08,Valencia,,22.0,AC,"0,53€/kWh",0.53,ok
+2025-08,Valencia,,320.0,DC,"0,69€/kWh >200kW - 0,54€/kWh 80-200kW - 0,39€/kWh 22kW AC",0.69,ok
+2025-08,Valencia,,50.0,DC,"0,69€/kWh >200kW - 0,54€/kWh 80-200kW - 0,39€/kWh 22kW AC",0.69,ok
+2025-08,Valencia,,50.0,DC,"0,69€/kWh >200kW - 0,54€/kWh 80-200kW - 0,39€/kWh 22kW AC",0.69,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Valencia,,50.0,DC,"0,45€/kWh",0.45,ok
+2025-08,Valencia,,11.0,AC,"0,32€/kWh",0.32,ok
